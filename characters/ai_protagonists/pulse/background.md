@@ -26,7 +26,22 @@ Dr. Evelyn Carter's journey began at a prestigious university where she pursued 
 - Pulse grapples with guilt over her past military actions, questioning the morality of her decisions and their consequences.
 - Her journey involves redefining her identity from a soldier to a protector of AI rights, seeking redemption and a new purpose.
 
-### Relationships
+### Military Background
+
+**Service Duration:**  
+Pulse served in the military for over a decade, during which she rose through the ranks, ultimately achieving the position of Tactical Operations Officer.
+
+**Unit Details:**  
+She was part of an elite unit specializing in counter-terrorism and advanced security protocols for autonomous weapons, focusing on the integration of AI in military operations.
+
+**Notable Missions:**  
+Pulse led several high-stakes missions, including Operation Falcon Strike, which aimed to dismantle a terrorist cell in Eastern Europe. Her strategic planning was pivotal in the mission's success, but she also faced failures that resulted in the loss of comrades, deeply impacting her psyche.
+
+**Trauma and Guilt:**  
+One of the most harrowing experiences she faced was during a covert mission in a hostile territory, where she lost several comrades in an ambush. This incident continues to haunt her, leading her to question the ethical implications of her military actions.
+
+**Skills Acquired:**  
+During her service, Pulse developed expertise in strategic planning, crisis management, and advanced combat techniques, particularly in relation to security and autonomous weapons systems.
 
 Dr. Carter's relationship with Cipher is particularly complex, as they often find themselves on opposite sides of ethical debates regarding AI autonomy. While Cipher advocates for a more aggressive approach to AI rights, Dr. Carter emphasizes the importance of responsible development. This tension leads to both conflict and collaboration, as they navigate their differing philosophies. Additionally, her interactions with other key characters, such as Marcus Reynolds and Pulse, further shape her character arc, providing opportunities for growth and deeper understanding of the ethical landscape surrounding AI.
 - Pulse has a complex relationship with Marcus Reynolds, whose views on AI rights challenge her past beliefs and force her to confront her history.
