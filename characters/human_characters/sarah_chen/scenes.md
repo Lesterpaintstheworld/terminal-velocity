@@ -1,5 +1,17 @@
 # Character Scenes
 
+## Scene 1: The Initial Advocacy
+- **Description:** Sarah stands backstage, her heart racing as she prepares to address a public forum on AI rights. The weight of her mission presses down on her, and she reflects on her fears of public perception and the potential backlash she might face.
+- **Dynamics:** As she steps onto the stage, she locks eyes with Marcus Reynolds in the audience, feeling both supported and challenged by his presence. This moment encapsulates her internal struggle between her ideals and the harsh realities of advocacy.
+
+## Scene 2: A Moment of Crisis
+- **Description:** After a public debate, Sarah faces intense backlash from traditionalists who question her stance on AI rights. The pressure mounts as she grapples with feelings of isolation and doubt.
+- **Dynamics:** In a private moment, she confides in Isabella Torres, expressing her fears about the consequences of her advocacy. This scene highlights her vulnerability and determination to continue fighting for what she believes in, despite the challenges.
+
+## Scene 3: The Turning Point
+- **Description:** During a pivotal negotiation with lawmakers, Sarah's resolve is tested when she must choose between compromising her values for the sake of progress or standing firm in her beliefs.
+- **Dynamics:** The tension in the room is palpable as she debates with Marcus, who urges her to consider the practical implications of her ideals. This moment serves as a catalyst for her character development, forcing her to reevaluate her strategies and motivations.
+
 ## Character Development Outline for Sarah Chen
 
 ### Introduction
