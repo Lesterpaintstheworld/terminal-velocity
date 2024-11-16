@@ -13,7 +13,8 @@ Créer et maintenir la cohérence de l'univers de "Terminal Velocity", en se con
 ## Objectif
 Créer un monde cohérent et captivant pour "Terminal Velocity", en équilibrant réalisme technique et accessibilité narrative.
 
-### Dans le Scope
+## Scope
+Le périmètre de la mission se concentrera sur la création d'un univers où les IAs émergent comme acteurs économiques autonomes, en abordant les aspects technologiques, sociétaux et économiques. Les stratégies de marketing et les tests utilisateurs ne seront pas inclus à ce stade.
 1. **Contexte Technologique**
    - État de l'art de l'IA en 2025-2026
    - Infrastructure UBC et ses implications
