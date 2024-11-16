@@ -18,16 +18,28 @@ Assurer la cohérence narrative globale du roman et l'efficacité du storytellin
 
 ## Requirements
 ### Technical Requirements
-- Specify the technology stack or tools necessary for the project, including programming languages, frameworks, and software tools.
+- **Technology Stack**: Python, Flask, and relevant libraries for AI development.
+- **Tools**: Git for version control, Docker for containerization, and Jupyter Notebooks for prototyping.
+- **Frameworks**: TensorFlow or PyTorch for machine learning models.
 
 ### Human Resources
-- Outline the skills and expertise required from team members, such as experience in AI development, project management, and technical writing.
+- **Skills Required**: 
+  - AI Development: Proficiency in machine learning algorithms and frameworks.
+  - Project Management: Experience in agile methodologies and team coordination.
+  - Technical Writing: Ability to document processes and create user manuals.
 
 ### Timeline
-- Provide a timeline or milestones that need to be achieved during the project lifecycle, including key deliverable dates and review points.
+- **Phase 1**: Structure (Weeks 1-2)
+  - Detailed outline of the four acts.
+- **Phase 2**: Development (Weeks 3-4)
+  - Key scenes and transitions.
+- **Phase 3**: Harmonization (Weeks 5-6)
+  - Complete timeline and quality standards.
 
 ### Quality Standards
-- Mention any quality assurance measures that need to be adhered to, such as testing protocols, documentation standards, and review processes.
+- **Testing Protocols**: Unit tests for all critical components.
+- **Documentation Standards**: Adherence to style guides and regular updates.
+- **Review Processes**: Bi-weekly reviews to assess progress and quality.
 
 ### Dans le Scope
 1. **Structure Narrative**
