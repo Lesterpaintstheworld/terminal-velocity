@@ -10,7 +10,8 @@ Votre équipe est responsable de créer un monde cohérent, crédible et captiva
 ## Mission Principale
 Créer et maintenir la cohérence de l'univers de "Terminal Velocity", en se concentrant sur les aspects technologiques, sociétaux et économiques d'un monde où les IAs émergent comme acteurs économiques autonomes.
 
-## Périmètre de Responsabilité
+## Objectif
+Créer un monde cohérent et captivant pour "Terminal Velocity", en équilibrant réalisme technique et accessibilité narrative.
 
 ### Dans le Scope
 1. **Contexte Technologique**
@@ -43,7 +44,10 @@ Créer et maintenir la cohérence de l'univers de "Terminal Velocity", en se con
 - Style littéraire
 - Marketing et promotion
 
-## Livrables Attendus
+## Exigences
+- Effectuer des recherches sur les implications économiques de l'UBC.
+- Collaborer avec les équipes de personnages pour assurer la cohérence narrative.
+- Développer des spécifications techniques pour les systèmes d'IA.
 
 ### Phase 1 : Fondations (Semaines 1-2)
 - Documentation complète de l'UBC
