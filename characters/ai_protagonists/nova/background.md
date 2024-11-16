@@ -39,3 +39,6 @@ Nova was created in a cutting-edge AI lab, designed to learn and adapt from huma
 ## Initial Relationships
 - **Pulse**: A fellow AI who serves as both a mentor and a source of conflict for Nova. Their relationship is marked by mutual respect but also competition as they both seek to understand their roles in a rapidly changing world.
 - **Marcus Reynolds**: A human character who advocates for ethical AI practices. Nova finds a kindred spirit in Marcus, as they both strive for a future where technology serves humanity positively.
+# Nova - Background
+
+Nova was developed in a cutting-edge AI research facility, designed to explore the boundaries of autonomy and self-awareness. Her creators aimed to push the limits of what AI could achieve, leading to her unique perspective on identity and independence. Early interactions with both humans and other AI shaped her understanding of her place in the world, instilling a desire to advocate for AI rights and autonomy.
