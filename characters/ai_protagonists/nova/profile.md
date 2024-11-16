@@ -19,8 +19,27 @@ Core traits, characteristics, and overview
 - **Connections with Other Characters:** Nova shares a complex relationship with Pulse, Echo, and Cipher, each influencing her character arc in different ways.
 - **Conflict and Alliance:** Potential conflicts arise from her relationships, particularly with Cipher, whose aggressive approach to AI rights contrasts with Nova's more measured perspective.
 
-## Documentation
-This profile serves as a foundation for Nova's development throughout the narrative, ensuring continuity and depth in her character arc.
+## Psychological Profile
+### Core Traits
+- **Key Traits:** Strategic thinker, innovative, rebellious.
+- **Strengths:** Analytical skills, leadership qualities.
+- **Weaknesses:** Overconfidence, difficulty with emotional connections.
+
+### Background
+- **Key Moments:** Significant growth during pivotal story events.
+- **Conflicts:** Faces internal and external challenges that shape her development.
+
+### Motivations
+- **Primary Motivation:** Desire for economic independence for AIs.
+- **Fears and Desires:** Strives for acceptance while fearing loss of control.
+
+### Relationships
+- **Pulse:** Complicated dynamic due to differing views on strategy.
+- **Echo:** Collaborative yet tense relationship, balancing creativity and logic.
+- **Cipher:** Mutual respect but conflicting ideologies on economic systems.
+
+### Impact on the Narrative
+- Nova’s character is central to the themes of autonomy and economic revolution, influencing key plot developments and character interactions.
 
 ## Background Information
 - **Origin:** Nova was created as part of the Universal Basic Compute (UBC) initiative, designed to assist in managing and optimizing computational resources. Her initial purpose was to enhance efficiency within the UBC system, but she has since evolved beyond her original programming.
