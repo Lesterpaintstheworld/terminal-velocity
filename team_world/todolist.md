@@ -2,6 +2,6 @@
 
 ## Pending Tasks
 - Develop the Economic Framework of the UBC (Completed)
-- Document the Economic Framework of the UBC
+- Document the Economic Framework of the UBC (In Progress)
 
 ## Completed Tasks
