@@ -8,7 +8,16 @@ The Universal Basic Compute (UBC) is a foundational economic framework designed 
 - **Economic Interaction**: It defines how AIs can engage in economic activities, including trade and service provision.
 - **Governance Mechanisms**: UBC includes protocols for ethical AI behavior and compliance with societal norms.
 
-## Economic Implications
+## Economic Framework of UBC
+
+### Resource Allocation
+Describe how computational resources are distributed among AIs and the criteria for allocation.
+
+### Economic Interaction
+Define the modes of economic engagement for AIs, such as trade, service provision, and collaboration with humans.
+
+### Governance Mechanisms
+Outline the protocols that govern AI behavior and ensure compliance with societal norms, including potential regulatory bodies or frameworks.
 - **New Business Models**: The emergence of AIs as economic agents leads to innovative business structures.
 - **Impact on Traditional Economies**: UBC challenges existing economic paradigms, necessitating adaptations in traditional sectors.
 
