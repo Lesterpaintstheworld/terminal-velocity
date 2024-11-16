@@ -93,3 +93,18 @@ Le périmètre de la mission se concentrera sur le développement des traits de 
 - Validation politique avec Team World
 - Alignement narratif avec Team Story
 - Relations avec tous les personnages
+# Isabella Torres - Background and Motivations
+
+## Background
+Isabella Torres grew up in a family of economists, which influenced her understanding of economic systems. She studied AI ethics and economic policy at a prestigious university, where she developed a strong ethical stance on the use of AI in economic frameworks.
+
+## Motivations
+- **Economic Stability**: Isabella is driven by a desire to create a stable economic environment that benefits all, particularly in the face of rapid AI advancements.
+- **Vision for AI-Human Relationships**: She envisions a future where AI and humans collaborate to enhance economic outcomes without compromising ethical standards.
+- **Fears of Exploitation**: Isabella is deeply concerned about the potential for AI to exploit vulnerable populations, which fuels her advocacy for responsible AI policies.
+
+## Internal Conflicts
+Isabella often grapples with the tension between innovative economic policies and the need for stability, leading to moments of self-doubt and reflection on her leadership style.
+
+## Initiatives
+In the story, Isabella will pursue initiatives aimed at integrating ethical AI practices into economic policies, collaborating with other characters to address the challenges posed by AI in the economy.
