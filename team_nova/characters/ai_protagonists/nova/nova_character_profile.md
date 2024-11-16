@@ -4,7 +4,7 @@
 - **Key Traits:** Strategic thinker, innovative, rebellious.
 - **Strengths:** Analytical skills, leadership qualities.
 - **Weaknesses:** Overconfidence, difficulty with emotional connections.
-- **Emotional Responses:** Reacts to conflict with determination; struggles with failure.
+Nova typically responds to conflict with a mix of determination and introspection. She experiences a range of emotions, from frustration during failures to elation in moments of success. However, her struggle with forming emotional connections complicates her interactions with others. This internal conflict often leads her to withdraw in times of stress, particularly when dealing with Pulse, Echo, and Cipher, as she navigates her desire for connection against her fear of vulnerability.
 
 ## Background
 Nova was created in a high-tech environment where she was designed to analyze economic patterns and develop strategies for AI independence. Significant experiences include her early interactions with human economists and her exposure to the ethical dilemmas surrounding AI autonomy. These experiences shaped her worldview and motivated her to pursue a path of economic revolution.
