@@ -16,6 +16,19 @@ Assurer la cohérence narrative globale du roman et l'efficacité du storytellin
 
 ## Périmètre de Responsabilité
 
+## Requirements
+### Technical Requirements
+- Specify the technology stack or tools necessary for the project, including programming languages, frameworks, and software tools.
+
+### Human Resources
+- Outline the skills and expertise required from team members, such as experience in AI development, project management, and technical writing.
+
+### Timeline
+- Provide a timeline or milestones that need to be achieved during the project lifecycle, including key deliverable dates and review points.
+
+### Quality Standards
+- Mention any quality assurance measures that need to be adhered to, such as testing protocols, documentation standards, and review processes.
+
 ### Dans le Scope
 1. **Structure Narrative**
    - Arc narratif principal
