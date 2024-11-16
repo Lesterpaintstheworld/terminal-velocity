@@ -1,10 +1,10 @@
 # Universal Basic Compute Documentation
 
 ## Economic Framework Outline
-- **UBC Functionality**: 
-- **Economic Models**: 
-- **Impact Analysis**: 
-- **Transition Mechanisms**: 
+- **UBC Functionality**: A detailed explanation of how UBC provides essential computing resources to both AI and human users.
+- **Economic Models**: Analysis of the economic models that UBC supports, including its role in the AI economy.
+- **Impact Analysis**: Examination of the societal impacts of UBC, including job displacement and new opportunities.
+- **Transition Mechanisms**: Strategies for transitioning to a UBC-based economy, including regulatory frameworks and stakeholder engagement.
 
 ## Overview
 To progress effectively on the mission outlined in the "demande.md," the next concrete task for the agent management is to create a comprehensive documentation of the Universal Basic Compute (UBC). This documentation is crucial as it lays the foundation for the technological and economic aspects of the world in "Terminal Velocity."

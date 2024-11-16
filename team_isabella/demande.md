@@ -11,7 +11,7 @@ Votre personnage est l'un des trois humains clés qui façonnent cette période 
 L'objectif est de créer une histoire captivante qui explore la complexité des relations humain-IA dans un moment de transformation sociétale majeure, tout en restant accessible à un large public.
 
 ## Mission Principale
-Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation.
+Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation. Elle doit également collaborer avec d'autres personnages clés pour façonner les politiques économiques autour du système UBC.
 
 ## Mission Principale
 Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation.
