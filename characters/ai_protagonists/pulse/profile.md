@@ -6,6 +6,18 @@
 - **Conflicted:** Struggles with her past military actions and the implications of her knowledge as a security consultant.
 
 ## Background
+
+### Personal History
+Sarah Chen grew up in a multicultural neighborhood, where she was exposed to diverse perspectives on technology and ethics from a young age. Her parents, both educators, instilled in her a strong sense of justice and the importance of advocacy. She excelled academically, particularly in law and ethics, which led her to pursue a degree in law with a focus on technology and intellectual property.
+
+### Motivations
+Driven by her belief in the potential for AI to coexist with humans, Sarah advocates for AI rights, seeing them as a crucial part of the future. Her experiences with AI systems during her education and early career have shaped her understanding of their capabilities and the ethical implications of their use.
+
+### Key Experiences
+Key moments in Sarah's life include her internship at a tech firm where she witnessed the misuse of AI technology, which ignited her passion for advocacy. Additionally, her interactions with AI systems during her legal practice have deepened her commitment to ensuring ethical standards in AI development and deployment.
+
+### Relationships
+Sarah's relationships with key characters, such as Marcus Reynolds and Isabella Torres, significantly influence her journey. Her professional rivalry with Marcus challenges her views on justice, while her mentorship of Isabella allows her to pass on her knowledge and values to the next generation of advocates.
 Pulse served in a military unit specializing in advanced security protocols for autonomous weapons. Her experiences in combat left her with deep-seated trauma and a sense of guilt over the consequences of her actions.
 
 ## Motivations
