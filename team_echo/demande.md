@@ -67,6 +67,31 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 - Influence culturelle
 - Documentation complète
 
+### Isabella Torres
+- **Background**: Isabella Torres is an economic architect who navigates the complexities of an AI-driven economy, focusing on balancing innovation with stability.
+- **Personality Traits**: She is known for her strategic thinking, ethical stance, and strong leadership skills.
+- **Goals**: Isabella aims to create sustainable economic models that empower AI entities while ensuring societal stability.
+- **Challenges**: She faces internal conflicts regarding the ethical implications of her work and external pressures from traditional economic systems.
+- **Relationships**: Isabella has a collaborative relationship with Sarah Chen, often working together on projects, while her dynamic with Marcus Reynolds is marked by both respect and rivalry.
+
+### Phase 1 : Vision (Semaines 1-2)
+- Style artistique défini
+- Philosophy créative
+- Aspirations détaillées
+- Relations initiales
+
+### Phase 2 : Transformation (Semaines 3-4)
+- Évolution professionnelle
+- Ruptures significatives
+- Innovations créatives
+- Construction entreprise
+
+### Phase 3 : Impact (Semaines 5-6)
+- Héritage artistique
+- Success metrics
+- Influence culturelle
+- Documentation complète
+
 ## Points d'Attention Spécifiques
 1. **Équilibre Créatif**
    - Innovation vs tradition
