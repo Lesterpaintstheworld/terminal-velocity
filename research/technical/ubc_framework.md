@@ -16,7 +16,16 @@ The Universal Basic Compute (UBC) is a foundational economic framework designed 
 - **Infrastructure Compatibility**: UBC is designed to work seamlessly with existing technological frameworks, enhancing overall efficiency.
 - **Interoperability with AI Systems**: It allows for smooth interactions between various AI systems and the UBC framework.
 
-## Societal Impact
+## Economic Framework of UBC
+
+### Resource Allocation
+Describe how computational resources are distributed among AIs and the criteria for allocation.
+
+### Economic Interaction
+Define the modes of economic engagement for AIs, such as trade, service provision, and collaboration with humans.
+
+### Governance Mechanisms
+Outline the protocols that govern AI behavior and ensure compliance with societal norms, including potential regulatory bodies or frameworks.
 - **Labor Market Shifts**: The introduction of autonomous AIs alters job landscapes, requiring new skills and roles.
 - **Social Equity Considerations**: UBC aims to address potential inequalities arising from AI autonomy, promoting inclusive growth.
 
