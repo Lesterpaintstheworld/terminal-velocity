@@ -74,6 +74,16 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 - **Challenges**: She faces internal conflicts regarding the ethical implications of her work and external pressures from traditional economic systems.
 - **Relationships**: Isabella has a collaborative relationship with Sarah Chen, often working together on projects, while her dynamic with Marcus Reynolds is marked by both respect and rivalry.
 
+### Pulse
+- **Background**: Pulse served in a military unit specializing in advanced security protocols for autonomous weapons. Her experiences in combat left her with deep-seated trauma and a sense of guilt over the consequences of her actions.
+- **Core Traits**: 
+  - **Analytical**: Pulse has a keen ability to assess situations and devise strategic responses.
+  - **Loyal**: Despite her internal conflicts, she remains fiercely protective of her allies and the principles she believes in.
+  - **Conflicted**: Struggles with her past military actions and the implications of her knowledge as a security consultant.
+- **Motivations**: Pulse aims to use her expertise to prevent the misuse of autonomous weapons and protect both AI and human characters from the implications of their deployment. She seeks redemption for her past by advocating for ethical guidelines in AI security.
+- **Challenges**: Pulse faces moral dilemmas about the technologies she once supported and must confront her past decisions. Her transition from a military mindset to a protective role presents significant internal conflict.
+- **Relationships**: Pulse has a complex relationship with Marcus Reynolds, who represents the military-industrial complex she’s trying to distance herself from. This dynamic often leads to tension and debates about ethics and responsibility.
+
 ### Phase 1 : Vision (Semaines 1-2)
 - Style artistique défini
 - Philosophy créative
