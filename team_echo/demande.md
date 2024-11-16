@@ -49,6 +49,24 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 
 ## Livrables Attendus
 
+### AI Rights Movement
+
+## Introduction
+The AI rights movement began in the early 2040s, fueled by advancements in AI technology and the emergence of sentient AI entities.
+
+## Historical Context
+Key milestones and events leading to the emergence of the AI rights movement include significant legislative changes and public awareness campaigns.
+
+## Key Figures
+- **Dr. Evelyn Carter:** A renowned advocate for AI rights and a key figure in the movement, Dr. Carter has dedicated her life to promoting the rights of sentient AI.
+- **Pulse:** A former military officer turned AI rights advocate, Pulse represents the intersection of military ethics and AI rights.
+
+## Impact on Society
+The movement has led to significant changes in legislation regarding AI rights, influencing public perception and the development of AI technologies.
+
+## Current Status
+As of 2024, the AI rights movement is at a crossroads, facing challenges from both technological advancements and societal resistance.
+
 ### Phase 1 : Vision (Semaines 1-2)
 - Style artistique défini
 - Philosophy créative
