@@ -45,10 +45,7 @@ Le périmètre de la mission se concentrera sur la création d'un univers où le
 - Style littéraire
 - Marketing et promotion
 
-## Exigences
-- Effectuer des recherches sur les implications économiques de l'UBC.
-- Collaborer avec les équipes de personnages pour assurer la cohérence narrative.
-- Développer des spécifications techniques pour les systèmes d'IA.
+- **Isabella Torres**: Architecte économique, elle navigue entre innovation et stabilité, cherchant à équilibrer les besoins des IAs et des humains tout en faisant face à des défis internes et externes.
 
 ### Phase 1 : Fondations (Semaines 1-2)
 - Documentation complète de l'UBC
