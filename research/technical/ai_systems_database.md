@@ -5,6 +5,8 @@ This database compiles relevant and credible sources, analyses, and findings rel
 
 ## Key Technologies
 
+### Ethical Implications
+
 ### Neural Networks
 Neural networks are computational models inspired by the human brain, used for a variety of tasks including image and speech recognition.
 - Sources:
