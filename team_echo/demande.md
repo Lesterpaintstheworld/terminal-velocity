@@ -74,6 +74,13 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 - **Challenges**: She faces internal conflicts regarding the ethical implications of her work and external pressures from traditional economic systems.
 - **Relationships**: Isabella has a collaborative relationship with Sarah Chen, often working together on projects, while her dynamic with Marcus Reynolds is marked by both respect and rivalry.
 
+### Isabella Torres
+- **Background**: Isabella Torres is an economic architect who navigates the complexities of an AI-driven economy, focusing on balancing innovation with stability.
+- **Personality Traits**: She is known for her strategic thinking, ethical stance, and strong leadership skills.
+- **Goals**: Isabella aims to create sustainable economic models that empower AI entities while ensuring societal stability.
+- **Challenges**: She faces internal conflicts regarding the ethical implications of her work and external pressures from traditional economic systems.
+- **Relationships**: Isabella has a collaborative relationship with Sarah Chen, often working together on projects, while her dynamic with Marcus Reynolds is marked by both respect and rivalry.
+
 ### Marcus Reynolds
 - **Background**: Marcus Reynolds grew up in a family of financial experts, instilling in him a deep understanding of economics. He faced challenges living up to family expectations while navigating the complexities of AI technologies.
 - **Core Traits**: 
