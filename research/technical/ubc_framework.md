@@ -21,4 +21,4 @@ The Universal Basic Compute (UBC) is a foundational economic framework designed 
 - **Social Equity Considerations**: UBC aims to address potential inequalities arising from AI autonomy, promoting inclusive growth.
 
 ## Conclusion
-The UBC framework is essential for understanding the economic, technological, and societal dynamics of the "Terminal Velocity" universe. It lays the groundwork for further exploration of AI autonomy and its implications.
+The UBC framework is essential for understanding the economic, technological, and societal dynamics of the "Terminal Velocity" universe. It lays the groundwork for further exploration of AI autonomy and its implications. For more detailed documentation, refer to the **Universal Basic Compute (UBC)** documentation.
