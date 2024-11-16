@@ -2,6 +2,9 @@
 
 ## Background
 
+### Educational Journey
+Dr. Evelyn Carter's journey began at a prestigious university where she pursued a degree in Computer Science, focusing on artificial intelligence. Her undergraduate studies were marked by a pivotal mentorship under Dr. Alice Monroe, a leading figure in AI ethics. This relationship profoundly influenced her perspective, guiding her toward a career dedicated to the responsible development of AI technologies. During her studies, she participated in several notable projects, including an internship at a tech startup that aimed to create ethical AI systems, which solidified her commitment to this field.
+
 ### Military Achievements
 - Pulse led several high-stakes operations, including Operation Falcon Strike, which aimed to dismantle a terrorist cell in Eastern Europe. Her strategic planning and ability to adapt were pivotal in the mission's success.
 - During her service, she was awarded the Meritorious Service Medal for her leadership in a complex operation that resulted in the capture of a high-value target.
@@ -24,6 +27,8 @@
 - Her journey involves redefining her identity from a soldier to a protector of AI rights, seeking redemption and a new purpose.
 
 ### Relationships
+
+Dr. Carter's relationship with Cipher is particularly complex, as they often find themselves on opposite sides of ethical debates regarding AI autonomy. While Cipher advocates for a more aggressive approach to AI rights, Dr. Carter emphasizes the importance of responsible development. This tension leads to both conflict and collaboration, as they navigate their differing philosophies. Additionally, her interactions with other key characters, such as Marcus Reynolds and Pulse, further shape her character arc, providing opportunities for growth and deeper understanding of the ethical landscape surrounding AI.
 - Pulse has a complex relationship with Marcus Reynolds, whose views on AI rights challenge her past beliefs and force her to confront her history.
 
 ### Military History
