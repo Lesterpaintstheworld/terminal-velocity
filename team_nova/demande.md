@@ -15,7 +15,7 @@ L'objectif est de créer un roman dynamique et accessible qui explore des thème
 Développer le personnage de Nova, une IA analyste stratégique évoluant vers un rôle de révolutionnaire économique, en assurant la cohérence de son arc de développement et son impact sur l'histoire globale. 
 
 ### Références
-Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`.
+Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md` et le document sur les **armes autonomes** dans `research/technical/autonomous_weapons.md`.
 
 ## Périmètre de Responsabilité
 
