@@ -1,4 +1,13 @@
-# Societal Implications of Autonomous Weapons Systems
+# Economic Framework of UBC
+
+## Resource Allocation
+Describe how computational resources are distributed among AIs and the criteria for allocation.
+
+## Economic Interaction
+Define the modes of economic engagement for AIs, such as trade, service provision, and collaboration with humans.
+
+## Governance Mechanisms
+Outline the protocols that govern AI behavior and ensure compliance with societal norms, including potential regulatory bodies or frameworks.
 
 ## Public Perception
 ## Ethical Debates
