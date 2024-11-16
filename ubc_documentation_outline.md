@@ -1,8 +1,27 @@
 # Universal Basic Compute (UBC) Documentation Outline
 
-## Overview of UBC
-- Definition and purpose of UBC
-- Historical context and development timeline
+## Outline for Universal Basic Compute Documentation
+
+## Introduction to UBC
+- Overview of what UBC is and its significance in the narrative.
+
+## Technological Framework
+- Description of the UBC infrastructure.
+- Key technologies involved (e.g., AI systems, autonomous weapons).
+- Limitations and constraints of UBC technology.
+
+## Economic Models
+- How UBC functions economically.
+- Impact on traditional economic systems.
+- New economic opportunities created by UBC.
+
+## Societal Impact
+- How UBC affects social structures.
+- Legal considerations and rights of autonomous AIs.
+- Potential societal tensions and conflicts arising from the adoption of UBC.
+
+## Conclusion
+- Summary of the implications of UBC for the future of AI and society.
 
 ## Technical Architecture
 - Description of the UBC infrastructure
