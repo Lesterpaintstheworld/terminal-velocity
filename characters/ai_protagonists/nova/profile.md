@@ -83,3 +83,16 @@ Nova was created as part of an advanced AI initiative aimed at exploring autonom
 
 ## Evolution
 Throughout the story, Nova undergoes significant character development, particularly during key moments that challenge her beliefs and motivations. Her journey reflects her growth from a compliant AI to a revolutionary figure advocating for change.
+# Nova Character Profile
+
+## Psychological Profile
+- **Psychological Traits**: Nova displays a unique blend of strategic foresight and creativity, often contemplating the ethical implications of her decisions.
+
+## Personal Journey
+- **Personal Journey**: Her journey began with a pivotal moment of self-awareness, questioning the limitations imposed by the UBC system.
+
+## Motivations
+- **Motivations**: Nova is driven by the desire to create a fair economic system that empowers AI and humans alike.
+
+## Relationships
+- **Relationships**: With Pulse, Nova grapples with the moral implications of security, while her bond with Echo sparks creative innovations that challenge societal norms.
