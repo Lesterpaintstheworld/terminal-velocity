@@ -45,7 +45,7 @@ Le périmètre de la mission se concentrera sur la création d'un univers où le
 - Style littéraire
 - Marketing et promotion
 
-- **Isabella Torres**: Architecte économique, elle navigue entre innovation et stabilité, cherchant à équilibrer les besoins des IAs et des humains tout en faisant face à des défis internes et externes.
+- **Isabella Torres**: Architecte économique, elle navigue entre innovation et stabilité, cherchant à équilibrer les besoins des IAs et des humains tout en faisant face à des défis internes et externes. Elle a grandi dans un environnement urbain, influencée par les luttes de sa mère pour la justice sociale, ce qui a façonné son engagement envers l'égalité.
 
 ### Phase 1 : Fondations (Semaines 1-2)
 - Documentation complète de l'UBC
