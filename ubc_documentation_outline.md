@@ -93,6 +93,7 @@ The goal of this task is to create a structured outline that will serve as a fou
 ## Overview of UBC
 - Definition and purpose of UBC.
 - Historical milestones (years, key developments).
+- Relevance to the project and its goals
 
 ## Technical Architecture
 - Description of the UBC infrastructure components (servers, databases).
