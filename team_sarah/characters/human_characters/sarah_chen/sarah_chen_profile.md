@@ -16,7 +16,7 @@
 - Sarah faces significant challenges, including societal resistance to AI rights, internal conflicts about her role as an advocate, and the emotional toll of her activism. Externally, she contends with political opposition and the complexities of navigating a legal system that is not yet equipped to handle AI rights.
 
 ## Background
-- [Detailed history and context]
+- Sarah Chen grew up in a multicultural environment, where she was exposed to various perspectives on technology and ethics. She pursued a law degree with a focus on technology law, driven by her passion for justice and equality. Her experiences as a child of immigrants shaped her understanding of the importance of advocacy and representation.
 
 ## Motivations
 - [Goals and aspirations]
