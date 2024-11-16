@@ -16,7 +16,7 @@
 - Could be deployed in surveillance roles to monitor no-fly zones
 
 ## Ethical Considerations
-- Explore the implications of using autonomous weapons, including decision-making processes and accountability.
+- Explore the implications of using autonomous weapons, including decision-making processes and accountability. For more context, refer to the **Universal Basic Compute (UBC)** documentation.
 
 ## Integration with UBC
 - Describe how these systems interact with the Universal Basic Compute (UBC) infrastructure and its impact on their functionality.
