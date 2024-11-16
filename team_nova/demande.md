@@ -17,9 +17,6 @@ Développer le personnage de Nova, une IA analyste stratégique évoluant vers u
 ### Références
 Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`.
 
-### Références
-Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`.
-
 ## Périmètre de Responsabilité
 
 ### Dans le Scope
