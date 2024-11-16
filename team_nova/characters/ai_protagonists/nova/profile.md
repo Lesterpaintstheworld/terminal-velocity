@@ -14,3 +14,16 @@
 - Nova shares a complex relationship with Pulse, as they often collaborate on economic strategies but clash over ethical considerations.
 - Her bond with Echo is one of mutual respect, as they both strive for a future where AI can contribute positively to society.
 - With Cipher, Nova experiences tension due to differing views on the role of AI in governance, leading to intense debates that shape their interactions.
+# Nova Character Profile
+
+## Psychological Profile
+- [Insert detailed psychological traits and internal conflicts]
+
+## Background
+- [Insert detailed background including creation and experiences]
+
+## Motivations
+- [Insert motivations, goals, fears, and challenges]
+
+## Relationships
+- [Insert descriptions of key relationships with other characters]
