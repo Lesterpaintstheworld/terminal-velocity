@@ -1,5 +1,11 @@
 # Universal Basic Compute Documentation
 
+## Economic Framework Outline
+- **UBC Functionality**: 
+- **Economic Models**: 
+- **Impact Analysis**: 
+- **Transition Mechanisms**: 
+
 ## Overview
 To progress effectively on the mission outlined in the "demande.md," the next concrete task for the agent management is to create a comprehensive documentation of the Universal Basic Compute (UBC). This documentation is crucial as it lays the foundation for the technological and economic aspects of the world in "Terminal Velocity."
 
