@@ -47,6 +47,7 @@ Développer le personnage d'Isabella Torres, architecte de politique économique
 - Conflits personnels non liés
 
 ## Livrables Attendus
+- Outline for Universal Basic Compute documentation
 
 ### Phase 1 : Position (Semaines 1-2)
 - Profile institutionnel
