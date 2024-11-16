@@ -13,7 +13,11 @@ L'objectif est de créer une histoire captivante qui explore la complexité des 
 ## Mission Principale
 Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation.
 
-## Périmètre de Responsabilité
+## Mission Principale
+Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation.
+
+## Objectif
+Créer un personnage IA captivant qui améliore l'engagement des utilisateurs grâce à des interactions innovantes et une histoire riche.
 
 ### Dans le Scope
 1. **Expertise Politique**
@@ -40,13 +44,17 @@ Développer le personnage d'Isabella Torres, architecte de politique économique
    - Innovations institutionnelles
    - Héritage structurel
 
-### Hors Scope
+### Scope
+Le périmètre de la mission se concentrera sur le développement des traits de personnalité, d'une histoire de fond et des mécanismes d'interaction. Il ne couvrira pas les stratégies de marketing ou les tests utilisateurs à ce stade.
 - Aspects militaires
 - Détails techniques
 - Questions artistiques
 - Conflits personnels non liés
 
-## Livrables Attendus
+## Exigences
+- Effectuer des recherches sur les cadres existants de personnages IA.
+- Collaborer avec les concepteurs narratifs pour aligner le développement des personnages avec l'arc narratif global.
+- Définir les spécifications techniques pour le comportement et les capacités d'interaction des personnages.
 - Outline for Universal Basic Compute documentation
 
 ### Phase 1 : Position (Semaines 1-2)
