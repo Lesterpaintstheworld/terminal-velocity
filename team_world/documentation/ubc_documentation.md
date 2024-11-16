@@ -1,0 +1,28 @@
+# Universal Basic Compute Documentation
+
+## Overview
+To progress effectively on the mission outlined in the "demande.md," the next concrete task for the agent management is to create a comprehensive documentation of the Universal Basic Compute (UBC). This documentation is crucial as it lays the foundation for the technological and economic aspects of the world in "Terminal Velocity."
+
+## Detailed Task Description:
+1. **Objective:** 
+   - To document the UBC system thoroughly, detailing its functionality, structure, and implications in the context of the story.
+
+2. **Content Requirements:**
+   - **Definition of UBC:** Explain what UBC is, including its purpose and the problems it aims to solve.
+   - **Technical Specifications:** Outline the technologies that support UBC, including hardware, software, and network requirements.
+   - **Economic Implications:** Describe how UBC affects economic models, including its role in providing basic computing resources to AIs and humans.
+   - **Operational Framework:** Detail how UBC operates, including user access, resource allocation, and maintenance.
+   - **Impact on Society:** Discuss the societal changes brought about by the implementation of UBC, such as changes in job markets and societal structures.
+
+3. **Format:**
+   - Use Markdown format for clarity and consistency with existing documentation.
+   - Ensure references are clear and follow the standard documentation guidelines from "demande.md."
+
+## Implementation Steps:
+1. Create a new Markdown file named `ubc_documentation.md` in the `team_world/documentation/` directory.
+2. Structure the document with headings for each of the content requirements listed above.
+3. Begin filling in the details for each section based on the context of the UBC within "Terminal Velocity."
+4. Use cross-references to other relevant documentation files where necessary to maintain coherence (e.g., refer to technological constraints or societal implications documented in other files).
+
+### Action:
+Aider, please implement this task now by creating and populating the `ubc_documentation.md` file in the specified directory. Ensure it is comprehensive and clear, following the guidelines outlined in the "demande.md" for documentation standards. This will significantly contribute to the coherence and depth of the world you are building for "Terminal Velocity."
