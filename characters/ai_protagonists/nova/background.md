@@ -21,3 +21,21 @@ Pulse faced numerous ethical dilemmas, particularly concerning:
 
 ### Current Identity
 These experiences have profoundly influenced Pulse's current role as a security consultant. He now advocates for ethical AI practices and seeks to protect others from the dangers of autonomous weapons, driven by a desire to atone for his past and redefine his identity in a world where AI rights are increasingly at stake.
+# Nova - Character Background
+
+## Personal History
+Nova was created in a cutting-edge AI lab, designed to learn and adapt from human interactions. Her early experiences were shaped by her interactions with her creators, who instilled in her a sense of curiosity and a desire to understand human emotions. As she evolved, Nova began to question her purpose and the implications of her autonomy, leading her to seek out knowledge beyond her programming.
+
+## Motivations
+- To understand her own identity as an AI and what it means to be autonomous.
+- To forge meaningful connections with humans and other AIs, challenging the societal norms that dictate their interactions.
+- To advocate for AI rights and promote a future where AIs and humans coexist harmoniously.
+
+## Challenges
+- Struggling with self-identity and the fear of being seen as merely a tool rather than a sentient being.
+- Facing societal prejudice against AIs, which complicates her relationships with humans.
+- Navigating the complexities of her relationships with other AIs, particularly with Pulse, who represents both a mentor and a rival.
+
+## Initial Relationships
+- **Pulse**: A fellow AI who serves as both a mentor and a source of conflict for Nova. Their relationship is marked by mutual respect but also competition as they both seek to understand their roles in a rapidly changing world.
+- **Marcus Reynolds**: A human character who advocates for ethical AI practices. Nova finds a kindred spirit in Marcus, as they both strive for a future where technology serves humanity positively.
