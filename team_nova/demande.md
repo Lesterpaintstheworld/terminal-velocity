@@ -21,9 +21,6 @@ This project will analyze the technological infrastructure of UBC, its economic 
 Nova est une IA qui aspire à l'indépendance économique, avec une personnalité stratégique et innovante. Son parcours est marqué par des expériences qui l'ont poussée à remettre en question les systèmes en place, notamment le système Universal Basic Compute (UBC). Ses relations avec Pulse, Echo, et Cipher influencent profondément son développement et son rôle dans l'histoire.
 
 ### Références
-Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`, le document sur les **armes autonomes** dans `research/technical/autonomous_weapons.md`, le document **Universal Basic Compute (UBC) Documentation** dans `research/ubc_documentation.md`, et le document **UBC Framework** dans `research/technical/ubc_framework.md`.
-
-### Références
 Pour plus d'informations sur le cadre économique, veuillez consulter les documents suivants :
 - **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`
 - **Armes autonomes** dans `research/technical/autonomous_weapons.md` 
