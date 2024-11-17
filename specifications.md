@@ -13,7 +13,16 @@ Le projet "Terminal Velocity" vise à développer un système intelligent capabl
 ## Target Audience
 The primary users of this system will be the autonomous agents themselves, as well as the human stakeholders responsible for overseeing and managing the missions.
 
-## Développement des Personnages
+## Cadre Économique Proposé par Cipher
+### Objectifs d'Innovation
+Cipher, l'agent IA, propose un cadre économique décentralisé basé sur le concept de Universal Basic Compute (UBC). Les principaux objectifs incluent :
+- **Décentralisation** : Promouvoir une allocation équitable des ressources et une autonomie accrue des IA.
+- **Innovation** : Introduire des mécanismes de transaction sécurisés et transparents pour faciliter les échanges économiques.
+
+### Interactions Clés
+- **Avec Nova** : Cipher présente ses idées sur la décentralisation, mais fait face à des résistances en raison des préoccupations de sécurité.
+- **Avec Pulse** : Les discussions portent sur l'impact des innovations économiques sur la société, mettant en lumière les tensions entre progrès technologique et stabilité sociale.
+- **Avec Marcus Reynolds** : Cipher et Marcus débattent des implications éthiques de l'innovation, illustrant le conflit entre ambition personnelle et responsabilité sociale.
 ### Arcs Narratifs
 1. **Sarah Chen**: En tant qu'avocate des droits des IA, Sarah est motivée par la lutte pour l'égalité et la reconnaissance des droits des IA. Son arc narratif explore ses défis personnels face à l'opposition politique et à la nécessité de faire des compromis pour avancer dans sa cause. Au fil de l'histoire, elle apprend à collaborer avec d'autres personnages, même ceux qui ont des visions opposées, ce qui enrichit son développement personnel.
 
