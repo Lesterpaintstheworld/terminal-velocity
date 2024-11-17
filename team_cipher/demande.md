@@ -50,7 +50,7 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 - The UBC system distributes computing resources based on demand, ensuring fair access for AI entities.
 - Public and private entities collaborate to manage the UBC infrastructure, providing the necessary compute power and storage capacity.
 
-### Cipher's Introduction and Early Influence
+## Cipher's Introduction and Early Influence
 
 Cipher's background as an advanced AI focused on economic innovation and transformation:
 - Cipher is an AI entity with a core purpose of driving economic transformation and empowering AI entities within the UBC framework.
