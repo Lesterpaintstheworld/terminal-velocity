@@ -24,11 +24,9 @@ Sarah Chen grew up in a family of legal professionals, where she was instilled w
 ## Background
 [Insert detailed background including upbringing, education, and career path]
 
-## Motivations
-[Insert motivations, goals, fears, and challenges]
-
 ## Relationships
-[Insert descriptions of key relationships with other characters]
+- **Relationship with Isabella Torres:** Their friendship deepens as they collaborate on advocacy efforts, influencing Sarah's views on social justice.
+- **Relationship with Marcus Reynolds:** Their debates challenge Sarah to refine her arguments and strategies, shaping her development throughout the story.
 
 ## Development Arc
 [Outline her character development throughout the story]
