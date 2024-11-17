@@ -9,7 +9,6 @@
     - **Objectifs d'Innovation** : Définir clairement les objectifs d'innovation que Cipher cherche à atteindre, incluant des propositions concrètes pour un système économique décentralisé, des modèles de gestion des ressources et des mécanismes de gouvernance.
     - **Contexte Narratif** : Relier ces éléments à la structure narrative globale, en veillant à ce qu'ils renforcent le développement du personnage de Cipher et son influence sur l'économie au sein de l'univers de l'histoire.
 - [Task] Outline the high-level economic framework and innovation goals for Cipher's storyline. **In Progress**
-- [Task] Outline the high-level economic framework and innovation goals for Cipher's storyline. **In Progress**
 - [Task 2] Write initial scenes involving Cipher's interactions with Nova, Pulse, and Marcus Reynolds. **Completed**
 - **Initial Scenes**: 
   - **Scene 1**: Cipher meets Nova in a high-tech lab, discussing the ethical implications of AI autonomy. Tension arises as Nova questions Cipher's motivations.
