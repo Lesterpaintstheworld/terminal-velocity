@@ -78,6 +78,7 @@ Develop the character of Echo, an AI artist seeking to establish the first creat
 
 ## Expected Deliverables
 - A detailed character profile for Echo, including background, personality traits, motivations, relationships, and aspirations.
+- Create a comprehensive character profile that informs Echo's role in the narrative and interactions with other characters.
 
 ### AI Rights Movement
 
