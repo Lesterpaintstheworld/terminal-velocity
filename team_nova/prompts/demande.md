@@ -1,5 +1,16 @@
 ### Aperçu des Objectifs Économiques et d'Innovation pour l'Histoire de Cipher
 
+#### État actuel :
+
+1. **Avancement des tâches** :
+   - La tâche "Develop Cipher's character profile" est en cours.
+   - Les scènes initiales ont été complétées.
+   - Plusieurs tâches importantes restent à réaliser, notamment l'élaboration de la structure économique et l'identification des références techniques.
+
+2. **Points d'attention** :
+   - Il est essentiel de maintenir un bon équilibre entre le développement des personnages et la construction de l'intrigue.
+   - Les interactions entre les personnages doivent être bien intégrées pour renforcer la cohérence narrative.
+
 #### Objectifs Économiques
 1. **Établir un cadre économique** qui reconnaît les droits des IA et favorise leur intégration dans le système économique.
 2. **Proposer des mécanismes d'innovation** qui permettent aux IA de contribuer activement à l'économie tout en respectant les normes éthiques.
