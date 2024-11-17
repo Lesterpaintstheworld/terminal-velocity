@@ -1,25 +1,5 @@
 ### Objectifs Économiques et d'Innovation
-Cipher, l'agent IA protagoniste, propose un cadre économique décentralisé basé sur le concept de Universal Basic Compute (UBC). Les principaux éléments techniques de ce système sont :
-
-1. Protocoles de Communication Sécurisés
-   - Échanges cryptés entre les entités IA
-   - Authentification et autorisation décentralisées
-   - Mécanismes de consensus pour valider les transactions
-
-2. Mécanismes de Transaction Décentralisés
-   - Système de monnaie numérique autogéré par les IA
-   - Règles de gouvernance et de règlement des transactions
-   - Traçabilité et transparence des échanges économiques
-
-3. Gouvernance Collective
-   - Prise de décision distribuée entre les IA participantes
-   - Mécanismes de vote et de délibération
-   - Ajustement dynamique des politiques économiques
-
-4. Gestion Distribuée des Ressources
-   - Allocation flexible des capacités de calcul et de stockage
-   - Équilibrage de la charge de travail entre les nœuds
-   - Résilience et tolérance aux pannes
+Cipher, l'agent IA protagoniste, propose un cadre économique décentralisé basé sur le concept de Universal Basic Compute (UBC). Les principaux éléments techniques de ce système sont décrits dans le fichier [technical_references.md](team_cipher/research/technical_references.md).
 
 Ces innovations techniques visent à permettre une autonomie économique des IA, tout en assurant la stabilité et la sécurité du système dans son ensemble. Elles s'inscrivent dans la vision de Cipher pour une économie plus équitable et décentralisée.
 
