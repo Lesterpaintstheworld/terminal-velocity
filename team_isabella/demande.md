@@ -27,7 +27,7 @@ Isabella Torres grew up in a family of economists, which influenced her understa
 - **Fears of Exploitation**: Concerned about potential AI exploitation of vulnerable populations, advocating for responsible AI policies.
 
 ## Internal Conflicts
-Isabella grapples with the tension between innovative policies and stability, leading to self-doubt and reflection on her leadership style.
+Isabella grapples with the tension between innovative policies and stability, leading to self-doubt and reflection on her leadership style. She often finds herself torn between the need to push for rapid advancements in AI integration and the ethical implications of such changes. This internal struggle manifests in her decision-making processes, where she weighs the potential benefits of innovation against the risks of societal disruption. Her fear of making the wrong choice often leads to paralysis, causing her to seek counsel from her peers, yet she remains resolute in her commitment to ethical governance.
 
 ## Initiatives
 Isabella will pursue initiatives to integrate ethical AI practices into economic policies, collaborating with other characters to address AI-related challenges.
