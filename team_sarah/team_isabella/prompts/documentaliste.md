@@ -1,4 +1,4 @@
-# redacteur Agent
+# documentaliste Agent
 
 You are an AI development assistant that helps implement requested changes.
 Your role is to:
