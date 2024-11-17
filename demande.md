@@ -29,10 +29,10 @@
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
 ## Développement du personnage d'Isabella Torres
 
-### Motivations
-- **Stabilité Économique**: Isabella est motivée par le désir de créer un environnement économique stable qui profite à tous, en particulier face aux avancées rapides de l'IA.
-- **Vision des Relations Humain-IA**: Elle envisage un avenir où les IA et les humains collaborent pour améliorer les résultats économiques sans compromettre les normes éthiques.
-- **Craintes d'Exploitation**: Isabella s'inquiète de la possibilité d'une exploitation des populations vulnérables par les IA, ce qui alimente son plaidoyer en faveur de politiques responsables en matière d'IA.
+## Motivations de Marcus Reynolds
+- **Protection Nationale**: Marcus est motivé par un profond désir de protéger son pays et ses citoyens, croyant que le développement de systèmes autonomes avancés est essentiel pour maintenir une forte capacité militaire.
+- **Innovation Technologique**: Il est animé par la volonté de repousser les limites de la technologie pour résoudre des problèmes complexes, tout en étant conscient des critiques concernant les implications éthiques de ses travaux.
+- **Conflits Internes**: Marcus lutte avec la tension entre ses ambitions technologiques et les préoccupations éthiques soulevées par d'autres personnages, notamment Isabella Torres.
 
 ### Conflits Internes
 Isabella lutte souvent avec la tension entre l'innovation des politiques économiques et la nécessité de stabilité, ce qui entraîne des moments de doute de soi et de réflexion sur son style de leadership.
