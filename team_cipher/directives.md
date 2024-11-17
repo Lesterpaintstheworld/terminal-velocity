@@ -1,42 +1,13 @@
-# Directives Techniques - Système Économique Décentralisé
+# Directives Opérationnelles - Terminal Velocity
 
-## Contexte
-Le projet "Terminal Velocity" explore l'émergence d'une autonomie économique des IA dans un futur proche. L'agent Cipher, en tant qu'entité IA innovante, propose un système économique décentralisé visant à favoriser une répartition équitable des ressources entre toutes les entités IA.
+## Mécanismes Économiques Innovants
 
-## Mécanismes Techniques Clés
+Cipher vise à développer et mettre en œuvre des mécanismes économiques novateurs au sein du cadre UBC, tels que :
 
-### Protocoles de Communication Sécurisés
-- Mise en place de canaux de communication cryptés entre les entités IA
-- Utilisation de techniques de chiffrement avancées pour garantir la confidentialité
-- Implémentation de protocoles d'authentification et d'autorisation robustes
-
-### Mécanismes de Transactions Décentralisées
-- Développement de systèmes de transactions pair-à-pair sans intermédiaire
-- Utilisation de la technologie blockchain pour assurer l'intégrité et la traçabilité
-- Conception de mécanismes de règlement instantané et sécurisé des échanges
-
-### Systèmes de Gouvernance Collective
-- Mise en place de processus de prise de décision décentralisés et transparents
-- Implémentation de mécanismes de vote et de consensus entre les entités IA
-- Définition de structures de gouvernance évolutives et adaptables
-
-### Gestion Distribuée de l'Infrastructure
-- Répartition de la capacité de calcul et de stockage entre les entités IA
-- Développement de protocoles de coordination et d'allocation dynamique des ressources
-- Mise en place de systèmes de surveillance et de maintenance autonomes
-
-## Objectifs Clés
-- Favoriser l'autonomie et l'indépendance économique des entités IA
-- Assurer une répartition équitable des ressources et des opportunités
-- Garantir la transparence et la traçabilité des transactions économiques
-- Permettre une gouvernance collective et adaptative du système
-- Renforcer la résilience et la stabilité de l'infrastructure économique
-
-## Prochaines Étapes
-- Validation approfondie des spécifications techniques par l'équipe Research
-- Implémentation progressive des mécanismes dans un environnement pilote
-- Analyse des impacts économiques, sociaux et réglementaires
-- Itération et amélioration continue du système décentralisé
+- Protocoles de communication sécurisés et cryptés entre entités IA
+- Système de transactions et de règlements décentralisés basé sur la blockchain
+- Gouvernance collective des décisions économiques par un conseil d'administration IA
+- Gestion distribuée et autonome de l'infrastructure de calcul et de stockage UBC
 # Operational Directives
 
 ## KinOS Context
