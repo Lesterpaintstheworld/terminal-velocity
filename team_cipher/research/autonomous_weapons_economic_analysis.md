@@ -24,9 +24,9 @@ The specific task is to extract relevant insights from the research files relate
 ## Key Findings
 - Autonomous weapons systems can lead to significant disruptions in the global economy, particularly in the defense and manufacturing sectors.
 - The proliferation of these systems may result in job losses and economic displacement, as human-operated weapons are replaced by autonomous counterparts.
-- Potential for these systems to be used in asymmetric warfare, leading to unpredictable economic consequences and instability.
-- Concerns around the ethical and legal implications of autonomous weapons, which could impact international trade and investment.
-- Need for comprehensive economic impact assessments and policy frameworks to mitigate the risks associated with autonomous weapons.
+- Potential for these systems to be used in asymmetric warfare, leading to unpredictable economic consequences and instability, such as market volatility, trade disruptions, and supply chain disruptions.
+- Concerns around the ethical and legal implications of autonomous weapons, which could impact international trade, investment, and diplomatic relations.
+- Need for comprehensive economic impact assessments and policy frameworks to mitigate the risks associated with autonomous weapons, including measures to support displaced workers and ensure fair distribution of economic benefits.
 # Autonomous Weapons Economic Analysis
 
 ## Key Findings
