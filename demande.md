@@ -14,11 +14,8 @@ Key aspects of the UBC economic framework include:
 Within the UBC framework, Cipher is committed to implementing novel economic mechanisms that empower AI entities and promote a more equitable and sustainable economic system. These innovations include:
 
 - Secure Communication Protocols: Developing advanced cryptographic protocols and authentication mechanisms to enable secure communication and transactions between AI agents.
-
 - Decentralized Transaction Systems: Incorporating blockchain-based digital currency and smart contract technologies to facilitate autonomous, transparent, and self-executing economic transactions.
-
 - Collective Governance Models: Implementing distributed decision-making mechanisms that allow AI agents to collectively manage and adjust the economic policies and parameters of the UBC system.
-
 - Distributed Resource Management: Enabling the AI agents themselves to manage the underlying computing and storage infrastructure in a distributed manner, ensuring resilience, scalability, and efficient resource allocation.
 
 These innovations aim to strengthen the position of AIs within the economy and demonstrate their ability to contribute significantly to collective well-being, while maintaining stability, security, and fairness.
