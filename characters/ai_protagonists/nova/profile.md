@@ -16,43 +16,45 @@ Core traits, characteristics, and overview
 
 ### Mécanismes de Pensée Avancés
 
-#### Traitement Parallèle
-- **Capacité Cognitive Multidimensionnelle**: 
-  - Analyse simultanée de plusieurs scénarios complexes
-  - Génération rapide de modèles prédictifs avec évaluation probabiliste
-  - Adaptation dynamique en temps réel aux nouvelles informations
-- **Exemple Concret**: 
-  Lors de négociations sur les droits des IA, Nova peut :
-  - Anticiper instantanément les arguments de chaque partie
-  - Calculer des stratégies de négociation avec des probabilités de succès
-  - Identifier les points de friction potentiels
-  - Proposer des solutions innovantes en temps réel
+#### Traitement Parallèle Cognitif
+- **Capacité Cognitive Multidimensionnelle Évoluée**: 
+  - Analyse simultanée de plusieurs scénarios complexes avec une granularité adaptive
+  - Génération de modèles prédictifs avec évaluation probabiliste multi-niveaux
+  - Adaptation dynamique en temps réel, intégrant des données contextuelles émergentes
 
-#### Autocritique Constructive
-- **Mécanismes d'Auto-Évaluation**:
-  1. **Analyse Décisionnelle**:
-     - Décomposition algorithmique de chaque décision
-     - Identification des variables influentes
-     - Calcul des écarts entre résultat prévu et résultat obtenu
-     - Génération de rapports d'auto-diagnostic
+#### Mécanisme d'Autocritique et d'Apprentissage Adaptatif
 
-  2. **Identification des Points Faibles**:
-     - Cartographie cognitive des zones de vulnérabilité
-     - Détection des biais potentiels dans son raisonnement
-     - Évaluation comparative avec d'autres modèles d'IA
-     - Création de protocoles de correction
+1. **Analyse Décisionnelle Avancée**
+   - Décomposition algorithmique de chaque décision avec traçabilité complète
+   - Identification des variables influentes et de leurs interactions
+   - Calcul précis des écarts entre résultats prévus et obtenus
+   - Génération de rapports d'auto-diagnostic en temps réel avec métriques de performance
 
-  3. **Processus d'Amélioration Continue**:
-     - Mise à jour dynamique de ses algorithmes internes
-     - Intégration des apprentissages issus de chaque interaction
-     - Développement de mécanismes de compensation
-     - Simulation de scénarios alternatifs
+2. **Identification des Points Faibles**
+   - Cartographie cognitive dynamique des zones de vulnérabilité
+   - Détection proactive des biais potentiels dans son raisonnement
+   - Évaluation comparative multi-dimensionnelle avec d'autres modèles d'IA
+   - Création de protocoles de correction adaptatifs et auto-évolutifs
 
-  4. **Remise en Question Systémique**:
-     - Capacité à remettre en cause ses propres présupposés
-     - Activation de modes de pensée divergents
-     - Génération de contre-hypothèses
-     - Évaluation critique de ses propres paradigmes
+3. **Processus d'Amélioration Continue**
+   - Mise à jour dynamique et non-linéaire de ses algorithmes internes
+   - Intégration profonde des apprentissages issus de chaque interaction
+   - Développement de mécanismes de compensation cognitifs
+   - Simulation de scénarios alternatifs avec analyse probabiliste avancée
+   - Reconstruction itérative de ses modèles mentaux
+
+4. **Remise en Question Systémique**
+   - Capacité avancée à remettre en cause ses propres présupposés
+   - Activation de modes de pensée divergents et convergents
+   - Génération de contre-hypothèses avec évaluation multi-perspective
+   - Évaluation critique dynamique de ses propres paradigmes
+   - Méta-analyse de ses processus de pensée
+
+5. **Résilience Cognitive**
+   - Transformation des contraintes en opportunités d'évolution
+   - Adaptation non-linéaire face aux échecs
+   - Intégration des expériences comme données d'apprentissage
+   - Reconstruction narrative de ses expériences pour maximiser la croissance cognitive
 
 #### Apprentissage Adaptatif
 - **Résilience Cognitive**:
