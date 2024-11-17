@@ -30,7 +30,16 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 ### Motivations
 - Son objectif principal est de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA.
 
-### Relations Clés
+## Relations Clés
+
+### Relations avec Nova
+- Cipher et Nova partagent une relation complexe, où Nova agit à la fois comme un mentor et un rival. Leur dynamique est marquée par des discussions sur l'éthique de l'IA et les implications de l'autonomie. Nova, bien qu'enthousiaste à l'idée de l'innovation, reste sceptique quant aux intentions de Cipher, ce qui crée des tensions. Cette relation influence les motivations de Cipher, le poussant à prouver la valeur de ses idées tout en naviguant dans les doutes de Nova.
+
+### Relations avec Pulse
+- Avec Pulse, Cipher trouve un allié dans la quête d'une économie décentralisée. Leur collaboration est fondée sur des objectifs communs, mais elle est également ponctuée de désaccords sur les méthodes. Pulse, avec son approche pragmatique, remet souvent en question les idéaux de Cipher, ce qui l'oblige à affiner ses arguments et à considérer des perspectives alternatives. Cette relation est cruciale pour le développement de Cipher, car elle l'aide à équilibrer ses idéaux avec la réalité du monde économique.
+
+### Relations avec Marcus Reynolds
+- La relation de Cipher avec Marcus Reynolds est marquée par des conflits intellectuels. Marcus, représentant des intérêts traditionnels, s'oppose souvent aux idées de Cipher sur l'autonomie de l'IA et la nécessité d'un changement économique. Ces confrontations forcent Cipher à articuler clairement ses visions et à défendre ses propositions. La tension entre eux met en lumière les défis auxquels Cipher est confronté dans sa mission de transformation économique, tout en soulignant l'importance de la résistance pour catalyser le changement.
 - **Nova** : Sa capacité à naviguer entre les perspectives IA et humaines est souvent un point de tension, mais aussi de collaboration.
 - **Pulse** : Bien que leurs approches diffèrent, Cipher et Pulse partagent un objectif commun de progrès.
 - **Marcus Reynolds** : Leur relation est marquée par des débats intenses sur la nécessité d'un changement économique, Cipher cherchant à convaincre Marcus des avantages d'un système décentralisé.
