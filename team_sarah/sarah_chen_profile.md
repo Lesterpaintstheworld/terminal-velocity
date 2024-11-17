@@ -13,7 +13,8 @@ Sarah Chen grew up in a multicultural environment, where she was exposed to dive
 - **Experience**: She has worked with various NGOs and legal firms, focusing on cases that involve AI and human rights, giving her a unique perspective on the intersection of law and technology.
 
 ## Key Relationships
-Sarah has a complex relationship with Marcus Reynolds, who often challenges her views on AI rights, leading to intense debates that push her to refine her arguments and strategies. Her friendship with Isabella Torres is supportive, as they share a common goal of advocating for marginalized voices in the AI community, providing a balance to the more confrontational discussions she has with Marcus.
+- **Marcus Reynolds**: Their relationship is fraught with tension, as Sarah views Marcus's support for autonomous weapons as a threat to AI rights. Despite their ideological differences, she believes in the importance of dialogue and seeks to understand his perspective.
+- **Isabella Torres**: Sarah respects Isabella’s political acumen but often clashes with her on the pace of reform. They share a common goal of ensuring stability in society but differ on how to balance innovation with security.
 
 ## Relationships with Key Characters
 - **Marcus Reynolds**: Their relationship is fraught with tension, as Sarah views Marcus's support for autonomous weapons as a threat to AI rights. Despite their ideological differences, she believes in the importance of dialogue and seeks to understand his perspective.
