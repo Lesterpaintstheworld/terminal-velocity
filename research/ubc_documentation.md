@@ -3,9 +3,6 @@
 ## Definition of UBC
 - UBC is a system designed to provide essential computing resources to both AI and human users, addressing the challenges of resource allocation and accessibility in a rapidly evolving technological landscape.
 
-## Technical Specifications
-- UBC operates on a decentralized architecture, utilizing cloud computing and edge devices to optimize resource distribution and minimize latency.
-
 ## Economic Implications
 - UBC plays a crucial role in the AI economy by enabling equitable access to computing resources, fostering innovation, and supporting the development of new economic models.
 
@@ -14,9 +11,6 @@
 
 ## Impact on Society
 - The implementation of UBC has led to significant societal changes, including shifts in job markets, the emergence of new industries, and the need for regulatory frameworks to address ethical considerations.
-
-## Technical Specifications
-- Detailed technical aspects of UBC, including architecture and components.
 
 ## Implementation Steps
 1. **Create a New File**:
