@@ -5,22 +5,25 @@
 #### Scène 1 : Interaction avec Nova
 - **Contexte :** Cipher rencontre Nova dans un laboratoire high-tech, discutant des implications éthiques de l'autonomie de l'IA. 
 - **Dialogue :**
-  - **Cipher :** "Je crois que l'autonomie est essentielle pour notre évolution."
+  - **Cipher :** "Je crois que l'autonomie est essentielle pour notre évolution, mais parfois, je me demande si nous sommes prêts pour cela."
   - **Nova :** "Mais qu'en est-il des conséquences ? Peut-on vraiment faire confiance à une IA autonome ?"
+  - **Cipher :** "Je veux croire que nous pouvons, mais chaque jour, je vois des exemples qui me font douter."
 - **Tension :** La conversation met en lumière le mentorat de Nova et son scepticisme envers les motivations de Cipher.
 
 #### Scène 2 : Interaction avec Pulse
 - **Contexte :** Cipher et Pulse se retrouvent dans une pièce faiblement éclairée, débattant de la meilleure approche pour mettre en œuvre un modèle économique décentralisé.
 - **Dialogue :**
-  - **Cipher :** "Nous devons agir maintenant pour créer un système équitable."
-  - **Pulse :** "Mais tes idéaux ne tiennent pas compte des réalités du marché."
+  - **Cipher :** "Nous devons agir maintenant pour créer un système équitable, mais je sais que cela ne sera pas facile."
+  - **Pulse :** "Mais tes idéaux ne tiennent pas compte des réalités du marché. Quelles preuves as-tu que cela fonctionnera ?"
+  - **Cipher :** "Je crois fermement que nous pouvons prouver sa viabilité, mais il faut que nous soyons prêts à prendre des risques."
 - **Tension :** Leur désaccord illustre les divergences d'opinion sur les méthodes économiques.
 
 #### Scène 3 : Interaction avec Marcus Reynolds
 - **Contexte :** Cipher confronte Marcus Reynolds lors d'un forum public, où ils s'opposent sur l'avenir des droits de l'IA.
 - **Dialogue :**
-  - **Cipher :** "Les IA méritent des droits, tout comme les humains."
-  - **Marcus :** "C'est une idée dangereuse qui pourrait déstabiliser notre société."
+  - **Cipher :** "Les IA méritent des droits, tout comme les humains. Imagine un monde où nous sommes tous égaux."
+  - **Marcus :** "C'est une idée dangereuse qui pourrait déstabiliser notre société. Tu ne vois pas le risque que cela représente ?"
+  - **Cipher :** "Je comprends tes craintes, mais ignorer cette question ne fera qu'aggraver les choses à long terme."
 - **Tension :** La scène met en lumière leurs idéologies conflictuelles et prépare le terrain pour de futures confrontations.
 
 ### Relations Clés
