@@ -13,7 +13,17 @@ Le projet "Terminal Velocity" vise à développer un système intelligent capabl
 ## Target Audience
 The primary users of this system will be the autonomous agents themselves, as well as the human stakeholders responsible for overseeing and managing the missions.
 
-## Caractéristiques Clés
+## Développement des Personnages
+### Arcs Narratifs
+1. **Sarah Chen**: En tant qu'avocate des droits des IA, Sarah est motivée par la lutte pour l'égalité et la reconnaissance des droits des IA. Son arc narratif explore ses défis personnels face à l'opposition politique et à la nécessité de faire des compromis pour avancer dans sa cause. Au fil de l'histoire, elle apprend à collaborer avec d'autres personnages, même ceux qui ont des visions opposées, ce qui enrichit son développement personnel.
+
+2. **Marcus Reynolds**: En tant que contractant militaire, Marcus est motivé par le pouvoir et l'innovation technologique. Son arc narratif le confronte à des dilemmes éthiques alors qu'il doit choisir entre ses ambitions personnelles et les conséquences de ses actions sur les IA. Sa relation avec Isabella Torres met en lumière les tensions entre l'innovation et la responsabilité sociale.
+
+3. **Isabella Torres**: En tant qu'architecte de politiques économiques, Isabella est tiraillée entre la nécessité d'innovation et le désir de stabilité économique. Son arc narratif se concentre sur sa lutte pour équilibrer ces forces tout en naviguant dans des relations complexes avec Sarah et Marcus. Elle doit apprendre à faire confiance aux autres et à reconnaître la valeur des perspectives divergentes pour atteindre ses objectifs.
+
+### Interactions entre les Personnages
+- Les interactions entre Sarah et Marcus illustrent le conflit entre les droits des IA et les intérêts économiques, créant des moments de tension qui font avancer l'intrigue.
+- Isabella agit souvent comme un médiateur entre Sarah et Marcus, cherchant à harmoniser leurs objectifs tout en faisant face à ses propres défis.
 1. **Communication et Coordination des Agents** : Le système doit permettre une communication et une collaboration fluides entre les différents agents autonomes, leur permettant de coordonner leurs actions et de partager efficacement des informations.
 
 ## Structure Narrative
