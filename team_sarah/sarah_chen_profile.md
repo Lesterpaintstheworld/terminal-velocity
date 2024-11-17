@@ -11,6 +11,8 @@ Sarah Chen grew up in a multicultural environment, where she was exposed to dive
 ## Internal Conflicts
 - **Idealism vs. Pragmatism**: Sarah struggles with the fear that advocating for AI rights could compromise human safety, often questioning whether her efforts are worth the potential risks.
 - **Self-Doubt**: She frequently feels inadequate, wondering if her advocacy can lead to real change or if she is merely an idealist in a complex world.
+- **Idealism vs. Pragmatism**: Sarah struggles with the fear that advocating for AI rights could compromise human safety, often questioning whether her efforts are worth the potential risks.
+- **Self-Doubt**: She frequently feels inadequate, wondering if her advocacy can lead to real change or if she is merely an idealist in a complex world.
 - **Education**: Sarah holds a law degree from a prestigious university, specializing in technology law.
 - **Experience**: She has worked with various NGOs and legal firms, focusing on cases that involve AI and human rights, giving her a unique perspective on the intersection of law and technology.
 
