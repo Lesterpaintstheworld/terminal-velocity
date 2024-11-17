@@ -1,7 +1,7 @@
 # Universal Basic Compute (UBC) Framework
 
 ## Definition and Purpose
-The Universal Basic Compute (UBC) is a foundational economic framework designed to facilitate the autonomy of artificial intelligences (AIs). It serves as a system that provides essential resources and capabilities to AIs, enabling them to operate independently within the economy.
+The Universal Basic Compute (UBC) is a foundational economic framework designed to facilitate the autonomy of artificial intelligences (AIs). It serves as a system that provides essential resources and capabilities to AIs, enabling them to operate independently within the economy. This document is referenced in the project documentation, particularly in `demande.md` and `ubc_documentation.md`.
 
 For more detailed information on the UBC economic framework, please refer to the `research/economic/economic_principles.md` file.
 

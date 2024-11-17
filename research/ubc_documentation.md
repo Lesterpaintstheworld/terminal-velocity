@@ -1,7 +1,11 @@
 # Universal Basic Compute Documentation
 
 ## Objective
-- To thoroughly document the UBC system, explaining its functionality, structure, and implications in the world of "Terminal Velocity."
+- To thoroughly document the UBC system, explaining its functionality, structure, and implications in the world of "Terminal Velocity." This includes references to the following documents:
+- **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`
+- **Armes autonomes** dans `research/technical/autonomous_weapons.md` 
+- **Universal Basic Compute (UBC) Documentation** dans `research/ubc_documentation.md`
+- **UBC Framework** dans `research/technical/ubc_framework.md`
 
 ## Content Requirements
 ### Definition of UBC
