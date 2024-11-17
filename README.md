@@ -40,10 +40,16 @@ KinOS is an innovative framework of collaborative autonomous agents designed to 
 - Updates textual content, ensures style consistency, and maintains writing quality.
 - Responsible for the clarity and coherence of the project's written materials.
 
-## New Features
-- Added the SecurityAgent to handle secure communication and access control.
-- Updated the GovernanceAgent to facilitate collective decision-making on economic policies.
-- Improved the EconomicAgent's management of the decentralized economic framework and autonomous transactions.
+## Recent Changes
+
+### Configuration Updates
+- Added new environment variable `KIN_SECURITY_TOKEN` to enable secure communication between agents.
+- Updated the `KIN_ECONOMIC_MODEL` variable to support the latest decentralized economic framework.
+
+### New Features
+- Introduced the SecurityAgent to handle authentication and access control for the KinOS system.
+- Enhanced the GovernanceAgent to facilitate collective decision-making on economic policies and resource allocation.
+- Improved the EconomicAgent's management of the decentralized economic framework, enabling more autonomous transactions between agents.
 
 ## Configuration and Documentation
 
