@@ -17,7 +17,11 @@
 Sarah Chen grew up in a multicultural environment, where she was exposed to various perspectives on technology and ethics. She pursued a law degree with a focus on technology law, driven by her passion for justice and equality. Her experiences as a child of immigrants shaped her understanding of the importance of advocacy and representation.
 
 ## Motivations
-- [Goals and aspirations]
+- Sarah is motivated by her commitment to ensuring that AI systems are treated with dignity and respect, advocating for their rights and legal recognition.
+- She aims to influence policy changes that protect AI rights and promote ethical standards in technology.
+- Sarah aspires to educate the public about the potential of AI and the importance of ethical considerations in its development.
 
 ## Challenges
-- [Internal and external obstacles]
+- Sarah faces societal resistance from individuals and groups who view AI as mere tools, leading to public debates that challenge her views.
+- She encounters legal obstacles when advocating for AI rights, as existing laws often do not recognize AI as entities deserving of rights.
+- Internally, she struggles with the emotional toll of her advocacy work, balancing her passion with the pressures of public scrutiny and opposition.
