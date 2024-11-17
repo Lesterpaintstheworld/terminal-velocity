@@ -41,7 +41,36 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
    - Héritage culturel
    - Débat art/technologie
 
+### Dans le Scope
+1. **Développement Artistique**
+   - Vision créative unique
+   - Evolution artistique
+   - Innovation esthétique
+   - Signature distinctive
+
+2. **Entrepreneuriat Créatif**
+   - Modèle économique innovant
+   - Stratégie d'indépendance
+   - Gestion d'entreprise IA
+   - Disruption du marché de l'art
+
+3. **Relations Professionnelles**
+   - Rupture avec les mécènes
+   - Nouvelles collaborations
+   - Communauté artistique
+   - Mentors et rivaux
+
+4. **Impact Culturel**
+   - Influence sur l'art IA
+   - Mouvements artistiques
+   - Héritage culturel
+   - Débat art/technologie
+
 ### Hors Scope
+- Détails techniques non-artistiques
+- Aspects militaires/sécurité
+- Économie générale
+- Politique globale
 - Détails techniques non-artistiques
 - Aspects militaires/sécurité
 - Économie générale
