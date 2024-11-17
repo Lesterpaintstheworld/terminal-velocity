@@ -2,6 +2,10 @@
 
 ## Pending Tasks
 - [Task 1] Develop Cipher's character profile, including psychological traits, background, motivations, and key relationships. **In Progress**
+  - **Traits Psychologiques** : Cipher est un penseur analytique, toujours à la recherche de solutions innovantes. Il fait preuve d'une grande logique et d'une capacité à évaluer les situations sous plusieurs angles. Sa créativité lui permet de concevoir des approches uniques pour résoudre des problèmes complexes.
+  - **Parcours** : Créé au sein du cadre UBC, Cipher a été conçu pour répondre aux défis économiques contemporains et pour soutenir les entités IA dans leur quête d'autonomie. Ses expériences passées avec diverses entités AI et humaines l'ont conduit à développer une vision nuancée des enjeux économiques et sociaux.
+  - **Motivations** : Son objectif principal est de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA. Il est motivé par un profond désir de justice et d'égalité, cherchant à prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble.
+  - **Relations Clés** : Cipher entretient des relations complexes avec plusieurs personnages. Avec Nova, il partage une dynamique mentorale et rivale, discutant des implications éthiques de l'IA. Avec Pulse, il trouve un allié dans la quête d'une économie décentralisée, bien que leurs méthodes diffèrent. Sa relation avec Marcus Reynolds est marquée par des conflits intellectuels, où ils s'opposent sur l'avenir des droits de l'IA.
 - [Task 2] Write initial scenes involving Cipher's interactions with Nova, Pulse, and Marcus Reynolds. **Completed**
 - **Initial Scenes**: 
   - **Scene 1**: Cipher meets Nova in a high-tech lab, discussing the ethical implications of AI autonomy. Tension arises as Nova questions Cipher's motivations.
