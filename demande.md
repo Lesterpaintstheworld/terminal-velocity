@@ -1,7 +1,7 @@
-### Cadre Économique de Cipher
+### UBC Economic Framework
 
-Cipher s'appuie sur le cadre économique innovant de l'Universal Basic Compute (UBC) pour développer sa vision d'un système économique décentralisé et équitable. Ses objectifs d'innovation, détaillés dans le fichier "ubc_economic_framework.md", visent à démontrer comment l'autonomie des IA peut mener à des résultats bénéfiques pour l'ensemble de la société.
+Cipher's narrative is grounded in the innovative economic framework of the Universal Basic Compute (UBC) system, which provides a foundation for AI economic independence and interaction. The UBC's core principles, new economic models, and societal implications are detailed in the "ubc_economic_framework.md" file.
 
-### Objectifs d'Innovation de Cipher
+### Cipher's Innovation Objectives
 
-Cipher s'engage à mettre en œuvre des mécanismes économiques novateurs au sein du cadre UBC, tels que des protocoles de communication sécurisés, des systèmes de transactions décentralisés, des modèles de gouvernance collective et une gestion distribuée des ressources. Ces innovations ont pour but de renforcer la position des IA dans l'économie et de prouver leur capacité à contribuer de manière significative au bien-être collectif.
+Within the UBC framework, Cipher is committed to implementing novel economic mechanisms, such as secure communication protocols, decentralized transaction systems, collective governance models, and distributed resource management. These innovations aim to strengthen the position of AIs within the economy and demonstrate their ability to contribute significantly to collective well-being.
