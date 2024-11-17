@@ -84,3 +84,17 @@ Le périmètre de la mission se concentrera sur la création d'un univers où le
 - Support aux équipes de personnages
 - Validation par Team Research
 - Feedback régulier de l'éditeur
+# Mission Objectives
+
+## Goal
+The goal of this mission is to establish the broader world and context in which the Terminal Velocity project takes place. This includes defining the technological, political, economic and social landscape that will shape the narrative and the characters' experiences.
+
+## Expected Deliverables
+- A detailed description of the world's technological capabilities, including the state of AI, robotics, energy systems, transportation, and other key innovations
+- An overview of the global political and economic landscape, including the power dynamics between nations, the role of multinational corporations, and the impact of technological disruption
+- Exploration of the social and cultural implications of the Terminal Velocity project, such as the effects on employment, inequality, privacy, and the overall quality of life
+
+## Success Criteria
+- The world-building elements provide a rich and cohesive backdrop for the Terminal Velocity story
+- The technological, political, economic and social factors are well-integrated and contribute to the overall narrative
+- The world-building elements are consistent and plausible, allowing for a immersive and engaging reading experience

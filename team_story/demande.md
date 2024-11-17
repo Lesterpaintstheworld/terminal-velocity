@@ -112,3 +112,19 @@ L'histoire doit équilibrer plusieurs éléments :
 - Validation avec Team World
 - Feedback de Team Research
 - Coordination éditoriale
+# Mission Objectives
+
+## Goal
+The goal of this mission is to develop a comprehensive story and world-building for the Terminal Velocity project. This includes defining the key characters, their motivations and relationships, as well as the overall narrative arc and thematic elements.
+
+## Expected Deliverables
+- Detailed character profiles for the main cast
+- A clear narrative outline with key plot points and story beats
+- Worldbuilding elements such as the technological, political and social landscape
+- Consistent tone, themes and messaging throughout the story
+
+## Success Criteria
+- The story effectively conveys the core themes and messages of the Terminal Velocity project
+- The characters and their interactions are compelling and drive the narrative forward
+- The world-building is rich and cohesive, providing a strong foundation for the story
+- The overall narrative structure is well-paced and engaging for the target audience

@@ -110,4 +110,17 @@ Développer le personnage de Pulse, une IA ex-militaire devenue consultante en s
    - Influence sur la sécurité IA
    - Evolution du rôle protecteur
    - Impact sur les autres personnages
-   - Message final porté
+   - Message final porté# Mission Objectives
+
+## Goal
+The goal of this mission is to establish the character of Pulse and their role as a security expert within the Terminal Velocity project. Pulse's expertise in anticipating and mitigating technological threats will be crucial in ensuring the safe and responsible development of the project's innovations.
+
+## Expected Deliverables
+- A detailed character profile for Pulse, including their background, personality, motivations and relationships with other key characters
+- Specific storylines and plot points that showcase Pulse's influence on the security and risk management decisions made within the Terminal Velocity project
+- Exploration of the tensions and conflicts that arise between Pulse's focus on safety and the more ambitious technological goals of other characters
+
+## Success Criteria
+- The character of Pulse is well-developed and their contributions to the Terminal Velocity project are impactful and meaningful
+- The portrayal of Pulse's role and decision-making process is consistent and coherent
+- The dynamics between Pulse and other characters, particularly those with differing priorities, add depth and complexity to the narrative

@@ -83,4 +83,17 @@ Développer le personnage de Sarah Chen, avocate des droits des IAs, qui aide le
 - Coordination juridique avec Team World
 - Validation historique avec Team Research
 - Alignement narratif avec Team Story
-- Relations avec personnages IA
+- Relations avec personnages IA# Mission Objectives
+
+## Goal
+The goal of this mission is to establish the character of Sarah Chen and her role as a legal and regulatory expert within the Terminal Velocity project. Sarah's expertise in navigating the complex legal and policy landscape will be crucial in ensuring the responsible development and deployment of the project's innovations.
+
+## Expected Deliverables
+- A detailed character profile for Sarah Chen, including her background, personality, motivations and relationships with other key characters
+- Specific storylines and plot points that showcase Sarah's influence on the legal and regulatory decisions made within the Terminal Velocity project
+- Exploration of the tensions and conflicts that arise between Sarah's focus on compliance and the more ambitious technological goals of other characters
+
+## Success Criteria
+- The character of Sarah Chen is well-developed and her contributions to the Terminal Velocity project are impactful and meaningful
+- The portrayal of Sarah's role and decision-making process is consistent and coherent
+- The dynamics between Sarah and other characters, particularly those with differing priorities, add depth and complexity to the narrative

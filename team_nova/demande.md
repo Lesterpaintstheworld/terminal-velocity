@@ -102,3 +102,17 @@ Pour plus d'informations sur le cadre économique, veuillez consulter les docume
 - Validation technique avec Team Research
 - Alignement avec Team World
 - Synchronisation autres personnages
+# Mission Objectives
+
+## Goal
+The goal of this mission is to establish the character of Nova and their role as a strategic economic advisor within the Terminal Velocity project. Nova's expertise in anticipating market trends and identifying emerging opportunities will be crucial in shaping the project's direction.
+
+## Expected Deliverables
+- A detailed character profile for Nova, including their background, personality, motivations and relationships with other key characters
+- Specific storylines and plot points that showcase Nova's influence on the economic and technological decisions made within the Terminal Velocity project
+- Exploration of the tensions and conflicts that arise between Nova's pragmatic approach and the more ideological perspectives of other characters
+
+## Success Criteria
+- The character of Nova is well-developed and their contributions to the Terminal Velocity project are impactful and meaningful
+- The portrayal of Nova's role and decision-making process is consistent and coherent
+- The dynamics between Nova and other characters, particularly those with differing views, add depth and complexity to the narrative
