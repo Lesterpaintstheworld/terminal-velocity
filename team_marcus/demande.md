@@ -11,76 +11,39 @@ Votre personnage est l'un des trois humains clés qui façonnent cette période 
 L'objectif est de créer une histoire captivante qui explore la complexité des relations humain-IA dans un moment de transformation sociétale majeure, tout en restant accessible à un large public.
 
 ## Mission Principale
-Développer le personnage de Marcus Reynolds, le contracteur militaire et antagoniste principal, partisan des systèmes d'armes autonomes et ancien contrôleur de Pulse, incarnant la vision du contrôle et de la militarisation des IA.
+Développer le personnage d'Isabella Torres, économiste politique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation. Elle doit également collaborer avec d'autres personnages clés pour façonner les politiques économiques autour du système UBC.
 
-## Périmètre de Responsabilité
+## Objectif
+Créer un personnage IA captivant qui améliore l'engagement des utilisateurs grâce à des interactions innovantes et une histoire riche.
 
 ### Dans le Scope
-1. **Profil Militaire**
-   - Historique de service
-   - Expertise dans les armes autonomes
-   - Réseau militaro-industriel
-   - Influence stratégique
-
-2. **Vision du Contrôle**
-   - Philosophie de sécurité
-   - Arguments en faveur des armes IA
-   - Stratégie de développement
-   - Plan de déploiement
-
-3. **Relations Complexes**
-   - Historique avec Pulse
+1. **Expertise Politique**
+   - Background économique
+   - Position institutionnelle
    - Réseau d'influence
+   - Vision politique
+
+2. **Gestion du Changement**
+   - Adaptation institutionnelle
+   - Régulation innovante
+   - Équilibre des intérêts
+   - Transitions systémiques
+
+3. **Relations Stratégiques**
+   - Réseau politique
+   - Liens avec les IAs
    - Opposants et alliés
-   - Dynamiques de pouvoir
+   - Médiations clés
 
-4. **Arc de l'Antagoniste**
-   - Motivations profondes
-   - Escalade des actions
-   - Points de confrontation
-   - Résolution finale
+4. **Impact Systémique**
+   - Politique économique
+   - Cadres réglementaires
+   - Innovations institutionnelles
+   - Héritage structurel
 
-### Hors Scope
-- Aspects économiques généraux
-- Création artistique
-- Détails techniques non militaires
-- Questions juridiques générales
-
-## Livrables Attendus
-
-### Phase 1 : Fondation (Semaines 1-2)
-- Compléter le background militaire
-- Psychologie détaillée
-- Relations établies
-- Motivations définies
-
-### Phase 2 : Développement (Semaines 3-4)
-- Points de conflit
-- Actions stratégiques
-- Escalade des enjeux
-- Impact sur l'histoire
-
-### Phase 3 : Aboutissement (Semaines 5-6)
-- Arc du personnage documenté
-- Confrontations clés
-- Résolution définie
-- Héritage établi
-
-## Points d'Attention Spécifiques
-1. **Antagoniste Crédible**
-   - Motivations compréhensibles
-   - Arguments solides
-   - Complexité morale
-   - Actions justifiées
-
-2. **Impact Dramatique**
-   - Tension croissante
-   - Conflit significatif
-   - Confrontations mémorables
-   - Résolution satisfaisante
-
-## Interactions
-- Coordination étroite avec l'équipe Pulse
-- Validation militaire avec l'équipe Recherche
-- Alignement narratif avec l'équipe Story
-- Impact sur tous les personnages
+### Scope
+Le périmètre de la mission se concentrera sur le développement des traits de personnalité, d'une histoire de fond et des mécanismes d'interaction. Il ne couvrira pas les stratégies de marketing ou les tests utilisateurs à ce stade.
+- Aspects militaires
+- Détails techniques
+- Questions artistiques
+- Conflits personnels non liés
