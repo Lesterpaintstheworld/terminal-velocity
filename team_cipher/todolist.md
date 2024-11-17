@@ -3,6 +3,10 @@
 ## Pending Tasks
 - [Task 1] Develop Cipher's character profile, including psychological traits, background, motivations, and key relationships. **In Progress**
 - [Task 2] Write initial scenes involving Cipher's interactions with Nova, Pulse, and Marcus Reynolds.
+- **Initial Scenes**: 
+  - **Scene 1**: Cipher meets Nova in a high-tech lab, discussing the ethical implications of AI autonomy. Tension arises as Nova questions Cipher's motivations.
+  - **Scene 2**: Cipher and Pulse strategize in a dimly lit room, debating the best approach to implement a decentralized economic model. Their differing views lead to a heated argument.
+  - **Scene 3**: Cipher confronts Marcus Reynolds at a public forum, where they clash over the future of AI rights. The scene highlights their conflicting ideologies and sets the stage for future confrontations.
 - [Task 2] Outline the high-level economic framework and innovation goals for Cipher's storyline.
 - [Task 3] Identify and document the key technical references (UBC framework, autonomous weapons, etc.) that will inform the economic narrative.
 - [Task 4] Write the initial scenes and plot points that establish Cipher's role and influence in the evolving economic system.
