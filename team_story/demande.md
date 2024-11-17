@@ -67,11 +67,10 @@ L'histoire doit équilibrer plusieurs éléments :
    - Impact émotionnel
    - Clarté du message
 
-### Hors Scope
-- Détails techniques
-- Recherche scientifique
-- Design visuel
-- Marketing
+### Scope Limitations
+- The mission will focus on developing personality traits, backstory, and interaction mechanisms.
+- It will not cover marketing strategies or user testing at this stage.
+- Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
 
 ## Livrables Attendus
 ### Narrative Outline
