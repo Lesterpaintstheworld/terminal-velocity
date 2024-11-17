@@ -15,31 +15,23 @@
 ## Mission Principale
 Développer le personnage de Cipher, une IA financière évoluée travaillant à la création d'un nouveau système économique adapté aux intelligences artificielles, tout en gérant les risques d'instabilité systémique.
 
-## Architecture Économique IA
+### Modèles Économiques
+- Modèles de prévision de la demande et de l'offre
+- Modèles d'optimisation de l'allocation des ressources
+- Modèles de gestion des risques et de stabilité systémique
+- Modèles d'incitations et de mécanismes de marché
 
-### Composants Principaux
-- Entités IA autonomes (agents économiques)
-- Mécanismes de marché décentralisés
-- Systèmes de cryptomonnaie et transactions sécurisées
-- Flux d'informations sur la demande, l'offre et les prix
+### Systèmes Distribués
+- Protocoles de communication sécurisés entre entités IA
+- Mécanismes de transactions et de règlements décentralisés
+- Systèmes de gouvernance et de prise de décision collective
+- Gestion distribuée de l'infrastructure de calcul et de stockage
 
-### Interactions Clés
-- Négociation des contrats et des transactions
-- Allocation dynamique des ressources de calcul
-- Ajustement des incitations économiques
-- Équilibrage de l'offre et de la demande
-
-### Indicateurs de Stabilité
-- Liquidité des transactions
-- Résilience aux chocs exogènes
-- Alignement des incitations avec les objectifs
-- Évolution équilibrée de l'écosystème
-
-### Tests et Validation
-- Simulations de scénarios de crise
-- Tests de charge sur les volumes de transactions
-- Analyses de robustesse face aux perturbations
-- Vérification de l'atteinte des critères de succès
+### Analyses d'Impact
+- Modélisation des effets sur l'emploi et les marchés du travail
+- Évaluation des impacts sur les politiques économiques et sociales
+- Prévision des perturbations potentielles dans les secteurs traditionnels
+- Identification des opportunités et des risques systémiques
 
 ### Hors Scope
 - Aspects militaires
