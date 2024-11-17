@@ -74,6 +74,26 @@ L'histoire doit équilibrer plusieurs éléments :
 - Marketing
 
 ## Livrables Attendus
+### Narrative Outline
+- Acte 1: Introduction des personnages et du contexte
+  - Scène 1: Présentation de Sarah Chen et de son rôle d'avocate des droits des IA.
+  - Scène 2: Introduction de Marcus Reynolds et de ses motivations.
+  - Scène 3: Isabella Torres face aux défis de l'économie autonome.
+
+- Acte 2: Conflits et tensions
+  - Scène 1: Les tensions entre les personnages se développent.
+  - Scène 2: Les conséquences des décisions politiques sur les IA.
+  - Scène 3: Un événement déclencheur qui change la dynamique.
+
+- Acte 3: Résolution des conflits
+  - Scène 1: Les personnages doivent faire face aux conséquences de leurs choix.
+  - Scène 2: Collaboration inattendue entre les personnages.
+  - Scène 3: Résolution des tensions et des conflits.
+
+- Acte 4: Conclusion et perspectives d'avenir
+  - Scène 1: Réflexion sur les leçons apprises.
+  - Scène 2: Établissement d'un nouvel équilibre entre humains et IA.
+  - Scène 3: Ouverture sur les défis futurs.
 
 ### Phase 1 : Structure (Semaines 1-2)
 - Plan détaillé des 4 actes
