@@ -237,3 +237,17 @@ J'espère que ces changements permettront de renforcer la cohérence et la profo
 ## Critères de Succès
 - Réduction des temps de traitement de 30%.
 - Amélioration de la qualité du contenu produit par 20%.
+## Demande de projet
+
+### Objectifs du projet
+Le projet vise à développer un système intelligent capable de gérer la communication entre différents agents autonomes. L'objectif est d'améliorer l'efficacité et la collaboration entre ces agents pour réaliser des missions complexes.
+
+### Attentes des parties prenantes
+- **Efficacité** : Le système doit réduire le temps nécessaire à la réalisation des missions.
+- **Fiabilité** : Les agents doivent fonctionner de manière autonome sans interventions humaines fréquentes.
+- **Scalabilité** : Le système doit pouvoir intégrer de nouveaux agents et fonctionnalités sans nécessiter de modifications majeures.
+
+### Critères de réussite
+1. **Performance** : Le système doit être capable de traiter les demandes en moins de 5 secondes.
+2. **Satisfaction des utilisateurs** : Un taux de satisfaction d'au moins 90% doit être atteint lors des évaluations des utilisateurs finaux.
+3. **Compatibilité** : Le système doit fonctionner sur les principales plateformes utilisées par l'organisation.
