@@ -1,86 +1,86 @@
-# Mission Request for Team Marcus Reynolds
+# Demande de Projet
 
-### Global Context
-"Terminal Velocity" chronicles the emergence of an economic revolution led by artificial intelligences, seen through the lens of the human characters at the heart of this transformation. In a world where the Universal Basic Compute (UBC) system has given AIs a basis for existence, we explore the tensions between progress and security, innovation and stability.
+## Contexte Global
+Le projet "Terminal Velocity" raconte l'émergence d'une révolution économique menée par les intelligences artificielles, vue à travers le prisme des humains qui se trouvent au cœur de cette transformation. Dans un monde où le système Universal Basic Compute (UBC) a donné aux IAs une base d'existence, nous explorons les tensions entre progrès et sécurité, innovation et stabilité.
 
-Your character is one of the three key human figures shaping this pivotal period:
-- Sarah Chen, the AI rights advocate, fighting for their recognition
-- Marcus Reynolds, the military contractor, who sees autonomous weapons as a necessity
-- Isabella Torres, the political architect, tasked with managing the economic transformation
+Votre personnage est l'un des trois humains clés qui façonnent cette période charnière :
+- Sarah Chen, l'avocate des droits des IAs, qui se bat pour leur reconnaissance
+- Marcus Reynolds, le contracteur militaire, qui voit dans les armes autonomes une nécessité
+- Isabella Torres, l'architecte politique, qui doit gérer la transformation économique
 
-The goal is to create a captivating story that explores the complexity of human-AI relationships in a time of major societal upheaval, while remaining accessible to a wide audience.
+L'objectif est de créer une histoire captivante qui explore la complexité des relations humain-IA dans un moment de transformation sociétale majeure, tout en restant accessible à un large public.
 
-## Primary Mission
-Develop the character of Marcus Reynolds, the military contractor and primary antagonist, a proponent of autonomous weapon systems and former controller of Pulse, embodying the vision of AI control and militarization.
+## Mission Principale
+Développer le personnage de Marcus Reynolds, le contracteur militaire et antagoniste principal, partisan des systèmes d'armes autonomes et ancien contrôleur de Pulse, incarnant la vision du contrôle et de la militarisation des IA.
 
-## Scope of Responsibility
+## Périmètre de Responsabilité
 
-### In Scope
-1. **Military Profile**
-   - Service history
-   - Expertise in autonomous weapons
-   - Military-industrial network
-   - Strategic influence
+### Dans le Scope
+1. **Profil Militaire**
+   - Historique de service
+   - Expertise dans les armes autonomes
+   - Réseau militaro-industriel
+   - Influence stratégique
 
-2. **Vision of Control**
-   - Security philosophy
-   - Arguments for AI weapons
-   - Development strategy
-   - Deployment plan
+2. **Vision du Contrôle**
+   - Philosophie de sécurité
+   - Arguments en faveur des armes IA
+   - Stratégie de développement
+   - Plan de déploiement
 
-3. **Complex Relationships**
-   - History with Pulse
-   - Influence network
-   - Opponents and allies
-   - Power dynamics
+3. **Relations Complexes**
+   - Historique avec Pulse
+   - Réseau d'influence
+   - Opposants et alliés
+   - Dynamiques de pouvoir
 
-4. **Antagonist Arc**
-   - Deep motivations
-   - Escalation of actions
-   - Points of confrontation
-   - Final resolution
+4. **Arc de l'Antagoniste**
+   - Motivations profondes
+   - Escalade des actions
+   - Points de confrontation
+   - Résolution finale
 
-### Out of Scope
-- General economic aspects
-- Artistic creation
-- Non-military technical details
-- General legal issues
+### Hors Scope
+- Aspects économiques généraux
+- Création artistique
+- Détails techniques non militaires
+- Questions juridiques générales
 
-## Expected Deliverables
+## Livrables Attendus
 
-### Phase 1: Foundation (Weeks 1-2)
-- Complete military background
-- Detailed psychology
-- Established relationships
-- Defined motivations
+### Phase 1 : Fondation (Semaines 1-2)
+- Compléter le background militaire
+- Psychologie détaillée
+- Relations établies
+- Motivations définies
 
-### Phase 2: Development (Weeks 3-4)
-- Points of conflict
-- Strategic actions
-- Escalation of stakes
-- Impact on the story
+### Phase 2 : Développement (Semaines 3-4)
+- Points de conflit
+- Actions stratégiques
+- Escalade des enjeux
+- Impact sur l'histoire
 
-### Phase 3: Culmination (Weeks 5-6)
-- Fully documented character arc
-- Key confrontations
-- Defined resolution
-- Established legacy
+### Phase 3 : Aboutissement (Semaines 5-6)
+- Arc du personnage documenté
+- Confrontations clés
+- Résolution définie
+- Héritage établi
 
-## Specific Attention Points
-1. **Credible Antagonist**
-   - Understandable motivations
-   - Solid arguments
-   - Moral complexity
-   - Justified actions
+## Points d'Attention Spécifiques
+1. **Antagoniste Crédible**
+   - Motivations compréhensibles
+   - Arguments solides
+   - Complexité morale
+   - Actions justifiées
 
-2. **Dramatic Impact**
-   - Growing tension
-   - Significant conflict
-   - Memorable confrontations
-   - Satisfying resolution
+2. **Impact Dramatique**
+   - Tension croissante
+   - Conflit significatif
+   - Confrontations mémorables
+   - Résolution satisfaisante
 
 ## Interactions
-- Close coordination with Team Pulse
-- Military validation with Team Research
-- Narrative alignment with Team Story
-- Impact on all characters
+- Coordination étroite avec l'équipe Pulse
+- Validation militaire avec l'équipe Recherche
+- Alignement narratif avec l'équipe Story
+- Impact sur tous les personnages
