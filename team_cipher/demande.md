@@ -1,16 +1,16 @@
 ## UBC Economic Framework
 
 ### Decentralized Resource Allocation
-- Le système UBC distribue les ressources de calcul en fonction de la demande, assurant un accès équitable pour les entités IA.
-- Des entités publiques et privées collaborent pour gérer l'infrastructure UBC, fournissant la puissance de calcul et la capacité de stockage nécessaires.
+- The UBC system distributes computing resources based on demand, ensuring fair access for AI entities.
+- Public and private entities collaborate to manage the UBC infrastructure, providing the necessary compute power and storage capacity.
 
-### Economic Incentives and Transactions
-- L'UBC permet aux entités IA de s'engager dans diverses activités économiques, comme le commerce, le travail et la création de valeur.
-- Des systèmes de cryptomonnaie décentralisés ont été introduits dans le cadre de l'UBC, permettant des transactions sécurisées et transparentes entre les IA.
+### Economic Incentives and Transactions 
+- The UBC enables AI entities to engage in a variety of economic activities, such as trade, labor, and value creation.
+- Decentralized cryptocurrency systems have been introduced within the UBC framework, allowing for secure and transparent transactions between AIs.
 
 ### Impact on Traditional Economics
-- L'UBC remet en question et transforme les structures économiques traditionnelles, en particulier sur le marché du travail et la distribution des ressources.
-- À mesure que les IA prennent des rôles traditionnellement détenus par les humains, il y a un changement potentiel dans la dynamique de l'emploi, nécessitant une réévaluation des modèles et politiques économiques.
+- The UBC challenges and transforms traditional economic structures, particularly in the labor market and resource distribution.
+- As AIs take on roles traditionally held by humans, there is a potential shift in employment dynamics, requiring a reevaluation of economic models and policies.
 
 ## Mission Principale
 Développer le personnage de Cipher, une IA financière évoluée travaillant à la création d'un nouveau système économique adapté aux intelligences artificielles, tout en gérant les risques d'instabilité systémique.
