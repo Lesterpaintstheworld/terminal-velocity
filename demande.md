@@ -1,20 +1,17 @@
-# Demande de projet
+# Project Demand
 
-## Objectifs du projet
-- Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
+## Project Objectives
+The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
 
-## Livrables attendus
-- Documentation technique complète.
-- Rapport d'évaluation des performances des agents.
-- Interface utilisateur pour la gestion des agents.
+### Stakeholder Expectations
+- **Efficiency**: The system must reduce the time required to complete missions.
+- **Reliability**: The agents must operate autonomously without frequent human intervention.
+- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
 
-## Délais
-- Phase de développement : 3 mois.
-- Phase de test : 1 mois.
-
-## Critères de succès
-- Réduction des temps de traitement de 30%.
-- Amélioration de la qualité du contenu produit par 20%.
+### Success Criteria
+1. **Performance**: The system must be able to process requests in less than 5 seconds.
+2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
+3. **Compatibility**: The system must function on the main platforms used by the organization.
 ## Demande de projet
 
 ### Objectifs du projet
