@@ -144,20 +144,23 @@ Le périmètre de la mission se concentrera sur le développement des traits de 
 - Détails techniques
 - Questions artistiques
 - Conflits personnels non liés
-# Mission Objectives
+# Demande de projet
 
-## Goal
-The goal of this mission is to develop the character of Marcus Reynolds and his role within the Terminal Velocity project. Marcus is a key figure who will have a significant impact on the overall narrative and the technological/economic transformation depicted in the story.
+## Objectifs du projet
+- Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
 
-## Expected Deliverables
-- A detailed character profile for Marcus Reynolds, including his background, personality, motivations and relationships with other key characters
-- Specific storylines and plot points that showcase Marcus' influence and decision-making within the Terminal Velocity world
-- Exploration of the tensions and conflicts that arise between Marcus' vision for technological progress and the concerns raised by other characters like Isabella Torres
+## Livrables attendus
+- Documentation technique complète.
+- Rapport d'évaluation des performances des agents.
+- Interface utilisateur pour la gestion des agents.
 
-## Success Criteria
-- The character of Marcus Reynolds is well-developed and his actions/choices drive the narrative in a compelling way
-- The portrayal of Marcus' role and impact on the Terminal Velocity project is consistent and coherent
-- The dynamics between Marcus and other characters, especially Isabella, are complex and nuanced, adding depth to the overall story
+## Délais
+- Phase de développement : 3 mois.
+- Phase de test : 1 mois.
+
+## Critères de succès
+- Réduction des temps de traitement de 30%.
+- Amélioration de la qualité du contenu produit par 20%.
 ### État actuel
 
 1. **Analyse du contenu existant**:
