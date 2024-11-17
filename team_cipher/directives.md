@@ -37,3 +37,47 @@ Le projet "Terminal Velocity" explore l'émergence d'une autonomie économique d
 - Implémentation progressive des mécanismes dans un environnement pilote
 - Analyse des impacts économiques, sociaux et réglementaires
 - Itération et amélioration continue du système décentralisé
+# Operational Directives
+
+## KinOS Context
+This project operates entirely within the KinOS environment. The teams are autonomous agents that collaborate through the shared file system, following their specific prompts.
+
+## Basic Principles
+
+### File System Structure
+- Each team operates in its dedicated space
+- Files are the sole means of communication
+- Coordination is done through file read/write
+- History is preserved in the file system
+
+### Collaboration Mechanism
+- Continuous monitoring of relevant files
+- Reaction to detected modifications
+- Autonomous content updates
+- Natural propagation of changes
+
+### Validation and Consistency
+- Automatic verification by agents
+- Consistency tests via the file system
+- Continuous documentation in files
+- Autonomous conflict resolution
+
+## Autonomous Processes
+
+### Monitoring
+- Each team monitors the relevant files
+- Automatic detection of changes
+- Continuous consistency analysis
+- Status updates
+
+### Conflict Resolution
+- Automatic detection of inconsistencies
+- Documentation in conflicts/
+- Resolution by the concerned teams
+- Update of the impacted files
+
+### Continuous Documentation
+- Automatic file updates
+- Traceability of decisions
+- Modification history
+- Maintenance of current states
