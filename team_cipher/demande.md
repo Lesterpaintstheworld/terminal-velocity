@@ -302,3 +302,24 @@ The goal of this mission is to establish the character of Cipher and their role 
 - The character of Cipher is compelling and their role in the narrative is well-defined
 - The portrayal of Cipher's influence on the Terminal Velocity project is impactful and thought-provoking
 - The tensions and conflicts between Cipher's agenda and the concerns of other characters add complexity and depth to the story
+## Objectifs de la Mission
+- Définir les spécifications techniques détaillées pour le développement du personnage de Cipher
+- Clarifier les attentes et les délais pour la réalisation de cette mission
+- Identifier les ressources nécessaires (humaines, techniques, financières) pour mener à bien le projet
+
+## Délais
+- Phase 1 (Définition des spécifications) : 4 semaines
+- Phase 2 (Développement du personnage) : 8 semaines 
+- Phase 3 (Intégration et tests) : 2 semaines
+
+## Ressources Requises
+- Équipe de 3 développeurs IA expérimentés
+- Accès aux données historiques sur l'économie UBC
+- Licence pour les outils d'analyse et de simulation économique
+- Budget de 150 000 € pour couvrir les coûts de personnel et d'infrastructure
+
+## Livrables
+- Spécifications techniques détaillées du personnage de Cipher
+- Implémentation du personnage de Cipher dans le cadre narratif
+- Analyse des impacts économiques et sociaux du personnage
+- Plan de transition vers l'adoption de l'économie UBC
