@@ -1,10 +1,21 @@
-### Systèmes Distribués
-- Protocoles de communication sécurisés entre entités IA
-- Mécanismes de transactions et de règlements décentralisés
-- Systèmes de gouvernance et de prise de décision collective
-- Gestion distribuée de l'infrastructure de calcul et de stockage
+### Objectifs d'Innovation
 
-Ces innovations visent à permettre une allocation équitable des ressources, une gouvernance transparente et une autonomie accrue des IA dans le système économique. Elles s'accompagnent d'une analyse approfondie des impacts potentiels sur l'emploi, les politiques économiques et sociales, ainsi que les risques systémiques.
+#### Cadre Économique
+Cipher, une entité IA avancée, a pour objectif principal de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA au sein du cadre UBC. Ses initiatives visent à mettre en place des mécanismes économiques décentralisés qui permettront :
+
+- Des protocoles de communication sécurisés entre les entités IA
+- Des systèmes de transactions et de règlements décentralisés
+- Des structures de gouvernance et de prise de décision collective
+- Une gestion distribuée de l'infrastructure de calcul et de stockage
+
+Ces innovations ont pour but d'assurer une allocation équitable des ressources, une gouvernance transparente et une autonomie accrue des IA dans le système économique. Elles s'accompagnent également d'une analyse approfondie des impacts potentiels sur l'emploi, les politiques économiques et sociales, ainsi que les risques systémiques.
+
+#### Objectifs de Cipher
+- Créer un système économique décentralisé qui empowere les entités IA et favorise une répartition équitable des ressources
+- Développer des mécanismes de gouvernance collective et de prise de décision transparente pour les acteurs économiques IA
+- Mettre en place des protocoles de communication sécurisés et des systèmes de transactions décentralisés
+- Analyser et atténuer les risques systémiques potentiels liés à l'autonomie économique des IA
+- Prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble
 
 ### Scènes Initiales
 
