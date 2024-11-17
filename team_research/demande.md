@@ -68,6 +68,24 @@ Assurer la crédibilité technique et scientifique du roman en fournissant une b
 - Bibliographie annotée, listant toutes les sources utilisées avec une description de leur pertinence et fiabilité.
 
 ### Phase 1 : Collection (Semaines 1-2)
+- Base de données de recherches pertinentes, incluant des articles scientifiques, des études de cas et des rapports sur les technologies IA.
+- Analyse des technologies clés, comprenant des résumés des avancées majeures et des défis associés.
+- Cartographie des précédents, détaillant les événements historiques pertinents liés à l'autonomie des IAs.
+- Framework de validation, précisant les critères pour évaluer la crédibilité des sources.
+
+### Phase 2 : Analyse (Semaines 3-4)
+- Implications technologiques détaillées, incluant des rapports sur les impacts potentiels des technologies IA sur les systèmes économiques.
+- Modèles prédictifs, développant des scénarios sur l'évolution des technologies IA dans les cinq à dix prochaines années.
+- Scénarios de développement, décrivant les différentes trajectoires que pourraient prendre les technologies IA.
+- Points critiques identifiés, mettant en lumière les défis majeurs à relever lors de l'implémentation des technologies.
+
+### Phase 3 : Synthèse (Semaines 5-6)
+- Documentation de référence, compilant toutes les recherches et analyses effectuées durant le projet.
+- Guides techniques, fournissant des recommandations sur l'utilisation des technologies et des systèmes étudiés.
+- Rapports de validation, attestant de la cohérence et de la plausibilité des concepts développés.
+- Bibliographie annotée, listant toutes les sources utilisées avec une description de leur pertinence et fiabilité.
+
+### Phase 1 : Collection (Semaines 1-2)
 - Base de données de recherches pertinentes
 - Analyse des technologies clés
 - Cartographie des précédents
