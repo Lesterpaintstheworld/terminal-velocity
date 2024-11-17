@@ -1,14 +1,46 @@
-## Functional Requirements
-- Detailed description of what the system must accomplish, based on the elements found in `demande.md`.
+## Overview
+This project aims to create a coherent and captivating world for the science fiction novel "Terminal Velocity", focusing on the technological, societal, and economic aspects of a future where AI entities emerge as autonomous economic actors.
 
-## Technical Constraints
-- Identify technical limitations that may affect development, such as programming languages, frameworks, or platforms to be used.
+## Key Requirements
+1. **Technological Context**
+   - State-of-the-art AI capabilities in 2025-2026
+   - UBC infrastructure and its implications
+   - Autonomous weapon systems
+   - Relevant emerging technologies
 
-## Quality Criteria
-- Determine the quality standards the product must meet, such as performance, security, and maintainability.
+2. **Economic Framework**
+   - Detailed workings of the UBC
+   - New economic models related to AI entities
+   - Impact on traditional economics
+   - Mechanisms of economic transition
 
-## External Dependencies
-- List all external resources or technologies necessary for development.
+3. **Societal Structure**
+   - Legal framework for autonomous AI
+   - Evolution of AI rights
+   - Social and political tensions
+   - Emerging social movements
 
-## Acceptance Criteria
-- Establish a list of measurable criteria for each functionality, allowing to verify if the requirements are met.
+4. **Technical Documentation**
+   - Specifications of key systems
+   - Technological constraints
+   - Limitations of AI capabilities
+   - Protocols and standards
+
+## Deliverables
+### Phase 1: Foundations (Weeks 1-2)
+- Comprehensive UBC documentation
+- AI rights framework
+- Technological landscape
+- Societal mapping
+
+### Phase 2: Development (Weeks 3-4)
+- Detailed economic systems
+   - Technological implications
+   - Key social tensions
+   - Major points of friction
+
+### Phase 3: Finalization (Weeks 5-6)
+- Complete reference documentation
+- Coherence guidelines
+   - Cross-validation
+   - World bible
