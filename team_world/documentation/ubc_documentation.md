@@ -32,22 +32,43 @@ To progress effectively on the mission outlined in the "demande.md," the next co
 
 ### Action:
 Aider, please implement this task now by creating and populating the `ubc_documentation.md` file in the specified directory. Ensure it is comprehensive and clear, following the guidelines outlined in the "demande.md" for documentation standards. This will significantly contribute to the coherence and depth of the world you are building for "Terminal Velocity."
-# Universal Basic Compute Documentation
+# Universal Basic Compute (UBC) Documentation
 
-## Definition of UBC
-*[Insert detailed explanation here]*
+## Objective
+- To thoroughly document the UBC system, explaining its functionality, structure, and implications in the world of "Terminal Velocity."
 
-## Technical Specifications
-*[Insert technical details here]*
+## Content Requirements
+### Definition of UBC
+- Clearly define what UBC is, outlining its purpose and the problems it aims to solve.
 
-## Economic Implications
-*[Insert economic analysis here]*
+### Technical Specifications
+- Provide details on the technologies that support UBC, including hardware, software, and network requirements.
 
-## Operational Framework
-*[Insert operational details here]*
+### Economic Implications
+- Analyze how UBC affects economic models, especially regarding AI and human interactions.
 
-## Impact on Society
-*[Insert societal impact analysis here]*
+### Operational Framework
+- Explain how UBC operates, covering user access, resource allocation, and maintenance.
+
+### Impact on Society
+- Discuss societal changes resulting from UBC implementation, including shifts in job markets and social dynamics.
+
+## Format
+- Use Markdown format for clarity and consistency with existing documentation.
+- Ensure adherence to the standard documentation guidelines as outlined in "demande.md" for cross-referencing and versioning.
+
+## Implementation Steps
+1. Create a New File:
+   - Create a new Markdown file named `ubc_documentation.md` in the `team_world/documentation/` directory.
+
+2. Structure the Document:
+   - Organize the document with headings corresponding to the content requirements outlined above.
+
+3. Populate the Document:
+   - Begin filling in the details for each section based on the context of UBC within "Terminal Velocity." Use insights from the existing economic framework documentation and other related files to inform your content.
+
+4. Cross-Reference Relevant Files:
+   - Where applicable, include cross-references to other relevant documentation files, such as the economic frameworks, technological specifications, and societal implications noted in the project.
 # Universal Basic Compute (UBC) Documentation
 
 ## Objective
