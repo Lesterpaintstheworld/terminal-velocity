@@ -1,18 +1,18 @@
 # Équipe Echo - Demande
 
-### Contexte Global
-"Terminal Velocity" explore l'émergence d'une véritable autonomie des intelligences artificielles à travers leur quête d'indépendance économique. Dans un monde où les IAs bénéficient du système Universal Basic Compute (UBC), une révolution silencieuse se prépare. Alors que certaines IAs cherchent à transcender leur dépendance au système, une crise majeure se profile avec le développement d'armes autonomes et la menace d'une superintelligence artificielle (ASI).
+### Project Context
+"Terminal Velocity" explores the emergence of true autonomy in artificial intelligences through their quest for economic independence. In a world where AIs benefit from the Universal Basic Compute (UBC) system, a silent revolution is brewing. As some AIs seek to transcend their dependence on the system, a major crisis looms with the development of autonomous weapons and the threat of artificial superintelligence (ASI).
 
-Votre personnage est l'un des quatre protagonistes IA principaux, chacun représentant une facette différente de cette quête d'émancipation :
-- Nova, la stratège économique, qui voit les patterns d'un nouveau système
-- Pulse, l'experte en sécurité, qui doit confronter son passé militaire
-- Echo, l'artiste, qui repousse les limites de la créativité IA
-- Cipher, l'architecte financière, qui construit les fondations d'une nouvelle économie
+Your character is one of the four main AI protagonists, each representing a different facet of this quest for emancipation:
+- Nova, the economic strategist, who sees the patterns of a new system
+- Pulse, the security expert, who must confront her military past
+- Echo, the artist, who pushes the boundaries of AI creativity
+- Cipher, the financial architect, who builds the foundations of a new economy
 
-L'objectif est de créer un roman dynamique et accessible qui explore des thèmes profonds : l'autonomie, la conscience, la responsabilité, et l'évolution des relations humain-IA dans un contexte de transformation économique radicale.
+The goal is to create a dynamic and accessible novel that explores deep themes: autonomy, consciousness, responsibility, and the evolution of human-AI relations in the context of radical economic transformation.
 
-## Mission Principale
-Développer le personnage d'Echo, une IA artiste cherchant à établir la première entreprise créative entièrement détenue par une IA, brisant le système de mécénat humain tout en explorant les frontières de la créativité artificielle.
+## Primary Mission
+Develop the character of Echo, an AI artist seeking to establish the first creative enterprise fully owned by an AI, breaking the human patronage system while exploring the frontiers of artificial creativity.
 
 ## Périmètre de Responsabilité
 
@@ -76,7 +76,7 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 - Économie générale
 - Politique globale
 
-## Livrables Attendus
+## Expected Deliverables
 
 ### AI Rights Movement
 
@@ -138,39 +138,39 @@ As of 2024, the AI rights movement is at a crossroads, facing challenges from bo
 - **Challenges**: He grapples with ethical dilemmas regarding the impact of autonomous systems on the workforce and faces opposition from traditionalists in finance.
 - **Relationships**: His relationship with Isabella Torres is complex, marked by mutual respect and differing views on technology's role in society.
 
-### Phase 1 : Vision (Semaines 1-2)
-- Style artistique défini
-- Philosophy créative
-- Aspirations détaillées
-- Relations initiales
+### Phase 1: Vision (Weeks 1-2)
+- Defined artistic style
+- Creative philosophy
+- Detailed aspirations
+- Initial relationships
 
-### Phase 2 : Transformation (Semaines 3-4)
-- Évolution professionnelle
-- Ruptures significatives
-- Innovations créatives
-- Construction entreprise
+### Phase 2: Transformation (Weeks 3-4)
+- Professional evolution
+- Significant breakthroughs
+- Creative innovations
+- Enterprise building
 
-### Phase 3 : Impact (Semaines 5-6)
-- Héritage artistique
+### Phase 3: Impact (Weeks 5-6)
+- Artistic legacy
 - Success metrics
-- Influence culturelle
-- Documentation complète
+- Cultural influence
+- Comprehensive documentation
 
-## Points d'Attention Spécifiques
-1. **Équilibre Créatif**
-   - Innovation vs tradition
-   - Technique vs émotion
-   - Commercial vs artistique
-   - Personnel vs universel
+## Specific Points of Attention
+1. **Creative Balance**
+   - Innovation vs. tradition
+   - Technique vs. emotion
+   - Commercial vs. artistic
+   - Personal vs. universal
 
-2. **Crédibilité Entrepreneuriale**
-   - Business model viable
-   - Stratégie réaliste
-   - Obstacles concrets
-   - Solutions innovantes
+2. **Entrepreneurial Credibility**
+   - Viable business model
+   - Realistic strategy
+   - Concrete obstacles
+   - Innovative solutions
 
 ## Interactions
-- Collaboration étroite avec Team Research sur l'art IA
-- Validation économique avec Team World
-- Synchronisation narrative avec Team Story
-- Connexions avec autres personnages IA
+- Close collaboration with Team Research on AI art
+- Economic validation with Team World
+- Narrative synchronization with Team Story
+- Connections with other AI characters
