@@ -12,9 +12,6 @@ KinOS is an innovative framework of collaborative autonomous agents designed to 
 - **DuplicationAgent**: Detects and reduces duplication in content, identifies similar functions, and proposes improvements.
 - **TesteurAgent**: Creates and maintains tests, executes test suites, and identifies potential issues.
 - **RedacteurAgent**: Updates textual content, ensures style consistency and writing quality.
-- **EconomicAgent**: Manages the economic models and incentive structures that govern the KinOS framework.
-
-Please refer to the documentation for comprehensive information about the KinOS framework and its capabilities.
 # KinOS Project Overview
 
 KinOS is an innovative framework of collaborative autonomous agents designed to carry out complex tasks such as writing documents or code. The system employs a unique approach where multiple specialized agents work in parallel, each with a distinct but interconnected role in the development process.
