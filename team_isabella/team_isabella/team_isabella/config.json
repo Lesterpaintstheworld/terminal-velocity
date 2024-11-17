@@ -1,32 +1,31 @@
 {
-    "name": "isabella",
-    "display_name": "Isabella",
-    "description": "Auto-generated team configuration for Isabella",
+    "project_name": "Terminal Velocity",
+    "version": "1.0",
     "agents": [
         {
-            "name": "specifications",
-            "type": "aider",
-            "weight": 0.4
+            "name": "Nova",
+            "type": "economic_strategist",
+            "weight": 0.8
         },
         {
-            "name": "management",
-            "type": "aider",
+            "name": "Pulse",
+            "type": "security_expert",
+            "weight": 0.7
+        },
+        {
+            "name": "Echo",
+            "type": "creative_artist",
             "weight": 0.6
         },
         {
-            "name": "evaluation",
-            "type": "aider",
-            "weight": 0.3
-        },
-        {
-            "name": "redacteur",
-            "type": "aider",
-            "weight": 1.0
-        },
-        {
-            "name": "documentaliste",
-            "type": "research",
-            "weight": 0.2
+            "name": "Cipher",
+            "type": "financial_architect",
+            "weight": 0.9
         }
-    ]
+    ],
+    "infrastructure": {
+        "compute_nodes": 100,
+        "storage_capacity": "10 PB",
+        "network_bandwidth": "100 Gbps"
+    }
 }
