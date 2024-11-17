@@ -5,8 +5,11 @@ This project aims to develop an intelligent system capable of managing communica
 
 ## Stakeholder Expectations
 - **Efficiency**: The system must reduce the time required to complete missions.
+  - **Measurement**: Track the average time taken to complete missions before and after implementation, aiming for a reduction of at least 30%.
 - **Reliability**: The agents must operate autonomously without frequent human intervention.
+  - **Measurement**: Monitor the frequency of human interventions required per mission, targeting a reduction of at least 50%.
 - **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
+  - **Measurement**: Evaluate the time and resources needed to integrate new agents, aiming for a process that takes no longer than 2 weeks.
 
 ## Success Criteria
 1. **Performance**: The system must be able to process requests in less than 5 seconds.
