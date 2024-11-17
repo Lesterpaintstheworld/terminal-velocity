@@ -127,3 +127,20 @@ To progress effectively on the mission outlined in the "demande.md," the next co
 ## Cadre Opérationnel
 
 ## Impact sur la Société
+# Documentation on Universal Basic Compute (UBC)
+
+## Definition of UBC
+L'Universal Basic Compute (UBC) est un système conçu pour fournir un accès équitable aux ressources de calcul, visant à résoudre les problèmes d'inégalité d'accès à la technologie.
+
+## Technical Specifications
+- **Hardware Requirements:** Détails sur les exigences matérielles nécessaires pour supporter l'UBC.
+- **Software Requirements:** Détails sur les exigences logicielles nécessaires pour le fonctionnement de l'UBC.
+
+## Economic Implications
+L'UBC a un impact significatif sur les modèles économiques, en particulier sur les interactions entre les IA et les humains, en favorisant une économie plus équitable.
+
+## Operational Framework
+L'UBC fonctionne en allouant des ressources de manière dynamique, en fonction des besoins des utilisateurs, tout en maintenant une infrastructure de maintenance robuste.
+
+## Societal Impact
+L'implémentation de l'UBC entraîne des changements sociétaux, notamment des effets sur le marché du travail et l'accès à la technologie pour tous.
