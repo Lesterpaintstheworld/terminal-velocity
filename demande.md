@@ -57,3 +57,17 @@ Within the UBC framework, Cipher is committed to implementing novel economic mec
 - Distributed Resource Management: Enabling the AI agents themselves to manage the underlying computing and storage infrastructure in a distributed manner, ensuring resilience, scalability, and efficient resource allocation.
 
 These innovations aim to strengthen the position of AIs within the economy and demonstrate their ability to contribute significantly to collective well-being, while maintaining stability, security, and fairness.
+# Project Demand
+
+## Project Objectives
+The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
+
+### Stakeholder Expectations
+- **Efficiency**: The system must reduce the time required to complete missions.
+- **Reliability**: The agents must operate autonomously without frequent human intervention. 
+- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
+
+### Success Criteria
+1. **Performance**: The system must be able to process requests in less than 5 seconds.
+2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
+3. **Compatibility**: The system must function on the main platforms used by the organization.
