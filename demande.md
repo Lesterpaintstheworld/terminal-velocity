@@ -203,20 +203,20 @@ The goal of this mission is to develop the character of Marcus Reynolds and his 
    - Prise en compte des directives et des objectifs généraux du projet pour s'assurer de la pertinence des modifications.
 
 J'espère que ces changements permettront de renforcer la cohérence et la profondeur du fichier `demande.md`. N'hésitez pas à me faire part de tout autre commentaire ou besoin de modification.
-# Demande de Mission
+# Demande de Projet
 
-## Titre de la Mission
-[Insérer le titre de la mission ici]
+## Objectifs du Projet
+- Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
 
-## Objectifs
-- Décrire clairement les objectifs que cette mission doit atteindre.
-- Expliquer les résultats attendus et comment ils seront mesurés.
+## Livrables Attendus
+- Documentation technique complète.
+- Rapport d'évaluation des performances des agents.
+- Interface utilisateur pour la gestion des agents.
 
-## Public Cible
-- Identifier le public cible pour lequel le produit final est destiné.
+## Délais
+- Phase de développement : 3 mois.
+- Phase de test : 1 mois.
 
-## Contraintes
-- Énumérer les contraintes techniques, temporelles ou budgétaires qui doivent être respectées.
-
-## Portée du Projet
-- Définir les limites du projet, y compris ce qui est inclus et ce qui ne l'est pas.
+## Critères de Succès
+- Réduction des temps de traitement de 30%.
+- Amélioration de la qualité du contenu produit par 20%.
