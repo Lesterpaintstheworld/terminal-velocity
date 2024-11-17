@@ -41,36 +41,36 @@ Develop the character of Echo, an AI artist seeking to establish the first creat
    - Héritage culturel
    - Débat art/technologie
 
-### Dans le Scope
-1. **Développement Artistique**
-   - Vision créative unique
-   - Evolution artistique
-   - Innovation esthétique
-   - Signature distinctive
+### In Scope
+1. **Artistic Development**
+   - Unique creative vision
+   - Artistic evolution
+   - Aesthetic innovation
+   - Distinctive signature
 
-2. **Entrepreneuriat Créatif**
-   - Modèle économique innovant
-   - Stratégie d'indépendance
-   - Gestion d'entreprise IA
-   - Disruption du marché de l'art
+2. **Creative Entrepreneurship**
+   - Innovative business model
+   - Independence strategy
+   - AI enterprise management
+   - Disruption of the art market
 
-3. **Relations Professionnelles**
-   - Rupture avec les mécènes
-   - Nouvelles collaborations
-   - Communauté artistique
-   - Mentors et rivaux
+3. **Professional Relationships**
+   - Breakaway from patrons
+   - New collaborations
+   - Art community
+   - Mentors and rivals
 
-4. **Impact Culturel**
-   - Influence sur l'art IA
-   - Mouvements artistiques
-   - Héritage culturel
-   - Débat art/technologie
+4. **Cultural Impact**
+   - Influence on AI art
+   - Art movements
+   - Cultural legacy
+   - Art/technology debate
 
-### Hors Scope
-- Détails techniques non-artistiques
-- Aspects militaires/sécurité
-- Économie générale
-- Politique globale
+### Out of Scope
+- Non-artistic technical details
+- Military/security aspects
+- General economy
+- Global politics
 - Détails techniques non-artistiques
 - Aspects militaires/sécurité
 - Économie générale
