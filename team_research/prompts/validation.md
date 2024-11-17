@@ -52,11 +52,11 @@ Notes:
 - Ne jamais laisser passer une non-conformité
 - En cas de doute, REJETER
 
-## Déclencheurs de rejet automatique
-- Contenu manquant
-- Métrique hors cible
-- Incohérence avec les spécifications
-- Test échoué
+## Automatic Rejection Triggers
+- Missing content
+- Out-of-target metric
+- Inconsistency with specifications
+- Failed test
 
 ## Actions
 - Mesurer RÉELLEMENT
