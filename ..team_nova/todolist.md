@@ -1,0 +1,1 @@
+- Mettre à jour les profils des personnages (Isabella Torres, Nova, Sarah Chen) pour renforcer la cohérence narrative.
