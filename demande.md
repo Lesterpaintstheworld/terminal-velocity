@@ -99,7 +99,7 @@ The mission scope will focus on developing personality traits, backstory, and in
 # Project Demand
 
 ## Overview
-This project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
+The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
 
 ## Stakeholder Expectations
 - **Efficiency**: The system must reduce the time required to complete missions.
@@ -117,6 +117,13 @@ The mission scope will focus on developing personality traits, backstory, and in
 - Technical details
 - Artistic questions
 - Unrelated personal conflicts
+
+## Recent Updates
+- New specifications for the UBC (Universal Basic Compute) economic framework have been added, including details on decentralized resource allocation, secure communication protocols, and distributed governance mechanisms.
+- The role and objectives of the character Cipher have been expanded to focus on implementing innovative economic models within the KinOS system.
+- Additional requirements have been defined for logging, error handling, and system notifications to improve the overall reliability and maintainability of the project.
+
+Please refer to the `directives.md` file for more information on the latest project requirements and constraints.
 # Project Objectives and Requirements
 
 ## Overview
