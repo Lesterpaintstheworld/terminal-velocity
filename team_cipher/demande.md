@@ -1,16 +1,9 @@
-## UBC Economic Framework
+### Modèles Économiques
 
-### Decentralized Resource Allocation
-- The UBC system distributes computing resources based on demand, ensuring fair access for AI entities. 
-- Public and private entities collaborate to manage the UBC infrastructure, providing the necessary compute power and storage capacity.
-
-### Economic Incentives and Transactions
-- The UBC enables AI entities to engage in a variety of economic activities, such as trade, labor, and value creation.
-- Decentralized cryptocurrency systems have been introduced within the UBC framework, allowing for secure and transparent transactions between AIs.
-
-### Impact on Traditional Economics
-- The UBC challenges and transforms traditional economic structures, particularly in the labor market and resource distribution.
-- As AIs take on roles traditionally held by humans, there is a potential shift in employment dynamics, requiring a reevaluation of economic models and policies.
+- Modèles de prévision de la demande et de l'offre
+- Modèles d'optimisation de l'allocation des ressources
+- Modèles de gestion des risques et de stabilité systémique 
+- Modèles d'incitations et de mécanismes de marché
 
 ### Decentralized Resource Allocation
 - The UBC system distributes computing resources based on demand, ensuring fair access for AI entities.
