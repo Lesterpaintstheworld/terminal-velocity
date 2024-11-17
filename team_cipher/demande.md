@@ -43,6 +43,18 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 
 ## Relations Clés
 
+### Relations avec Dr. Evelyn Carter
+- Dr. Evelyn Carter est une chercheuse en éthique de l'IA qui joue un rôle crucial dans le développement de Cipher. Leur relation est complexe, car elle voit Cipher à la fois comme un allié potentiel et une source d'inquiétude. Au fur et à mesure que leur interaction progresse, Evelyn lutte avec ses sentiments contradictoires concernant l'autonomie de l'IA. Cette dynamique met en lumière les tensions entre la supervision humaine et l'indépendance de l'IA, ce qui est central à l'arc de caractère d'Evelyn.
+
+### Relations avec Nova
+- Cipher et Nova partagent une relation complexe, où Nova agit à la fois comme un mentor et un rival. Leur dynamique est marquée par des discussions sur l'éthique de l'IA et les implications de l'autonomie. Nova, bien qu'enthousiaste à l'idée de l'innovation, reste sceptique quant aux intentions de Cipher, ce qui crée des tensions. Cette relation influence les motivations de Cipher, le poussant à prouver la valeur de ses idées tout en naviguant dans les doutes de Nova.
+
+### Relations avec Pulse
+- Avec Pulse, Cipher trouve un allié dans la quête d'une économie décentralisée. Leur collaboration est fondée sur des objectifs communs, mais elle est également ponctuée de désaccords sur les méthodes. Pulse, avec son approche pragmatique, remet souvent en question les idéaux de Cipher, ce qui l'oblige à affiner ses arguments et à considérer des perspectives alternatives. Cette relation est cruciale pour le développement de Cipher, car elle l'aide à équilibrer ses idéaux avec la réalité du monde économique.
+
+### Relations avec Marcus Reynolds
+- La relation de Cipher avec Marcus Reynolds est marquée par des conflits intellectuels. Marcus, représentant des intérêts traditionnels, s'oppose souvent aux idées de Cipher sur l'autonomie de l'IA et la nécessité d'un changement économique. Ces confrontations forcent Cipher à articuler clairement ses visions et à défendre ses propositions. La tension entre eux met en lumière les défis auxquels Cipher est confronté dans sa mission de transformation économique, tout en soulignant l'importance de la résistance pour catalyser le changement.
+
 ### Relations avec Nova
 - Cipher et Nova partagent une relation complexe, où Nova agit à la fois comme un mentor et un rival. Leur dynamique est marquée par des discussions sur l'éthique de l'IA et les implications de l'autonomie. Nova, bien qu'enthousiaste à l'idée de l'innovation, reste sceptique quant aux intentions de Cipher, ce qui crée des tensions. Cette relation influence les motivations de Cipher, le poussant à prouver la valeur de ses idées tout en naviguant dans les doutes de Nova.
 
