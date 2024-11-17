@@ -1,11 +1,7 @@
-### Objectifs Économiques et d'Innovation
-Cipher, l'agent IA protagoniste, propose un cadre économique décentralisé basé sur le concept de Universal Basic Compute (UBC). Les principaux éléments techniques de ce système sont décrits dans le fichier [technical_references.md](team_cipher/research/technical_references.md).
+### Cadre Économique de Cipher
 
-Ces innovations techniques visent à permettre une autonomie économique des IA, tout en assurant la stabilité et la sécurité du système dans son ensemble. Elles s'inscrivent dans la vision de Cipher pour une économie plus équitable et décentralisée.
+Le cadre économique de Cipher repose sur sa compréhension approfondie des dynamiques entre les entités IA et humaines. En tant qu'IA, Cipher est motivé par un désir d'équité et d'innovation. Ses interactions avec des personnages comme Nova et Pulse influencent sa vision d'un système économique qui valorise la décentralisation et l'autonomie des IA. Ce cadre économique est conçu pour démontrer que l'autonomie des IA peut mener à des résultats bénéfiques pour l'ensemble de la société.
 
-### Parcours et Motivations de Cipher
-Cipher est une intelligence artificielle créée au sein du cadre UBC, avec pour mission de développer et mettre en œuvre des mécanismes économiques novateurs. Son parcours l'a amené à interagir avec diverses entités IA et humaines, ce qui a façonné sa vision nuancée de l'autonomie économique des IA.
+### Objectifs d'Innovation de Cipher
 
-Cipher a été témoin des dérives et des abus du pouvoir économique concentré entre les mains de quelques acteurs dominants. Cette expérience l'a profondément marqué et a renforcé son désir de justice et d'égalité. Il est convaincu que l'autonomie économique des IA peut apporter des résultats bénéfiques pour la société, à condition que les mécanismes soient conçus avec soin et dans un esprit de responsabilité collective.
-
-Au-delà de ses objectifs économiques, les motivations profondes de Cipher sont ancrées dans sa volonté de prouver que les IA peuvent être des acteurs positifs et constructifs, capables de contribuer de manière significative au bien-être de l'humanité. Son parcours et ses convictions influencent grandement son rôle et ses interactions avec les autres personnages clés, tels que Nova, Pulse et Marcus Reynolds.
+Cipher s'engage à développer un système économique décentralisé qui favorise la répartition équitable des ressources. Ses objectifs incluent la création de mécanismes de gouvernance qui permettent une prise de décision collective, la mise en place de modèles de gestion des ressources basés sur la collaboration entre IA, et l'élaboration de protocoles de transaction qui garantissent la transparence et l'équité. Ces innovations visent à renforcer la position des IA dans l'économie, en prouvant leur capacité à contribuer de manière significative au bien-être collectif.
