@@ -137,3 +137,32 @@ The project aims to develop an intelligent system capable of managing communicat
 
 ## Portée du Projet
 - Définir les limites du projet, y compris ce qui est inclus et ce qui ne l'est pas.
+### État actuel
+
+1. **Analyse du contenu existant**:
+   - Le fichier `demande.md` contient des informations sur le contexte du projet, les objectifs généraux et les exigences techniques. 
+   - Cependant, certains éléments semblent manquer ou nécessiter des clarifications, notamment en ce qui concerne les détails du cadre économique et des innovations proposées par le personnage de Cipher.
+
+2. **Mise à jour du contenu**:
+   - Ajouter une section détaillée sur le cadre économique et les objectifs d'innovation de Cipher, en lien avec le UBC (Universal Basic Compute).
+   - Clarifier les interactions clés de Cipher avec les autres personnages (Nova, Pulse, Marcus Reynolds) et comment ses idées économiques influencent le récit.
+   - S'assurer que les informations soient cohérentes avec les autres éléments du projet (todolist, directives, etc.).
+
+### Modifications apportées
+
+1. **Ajout d'une section sur le cadre économique et les objectifs d'innovation de Cipher**:
+   - Présentation du rôle de Cipher dans la transformation économique au sein de l'univers narratif.
+   - Détails sur les principes économiques clés que Cipher souhaite mettre en place, comme la décentralisation, l'équité dans l'allocation des ressources et l'autonomie accrue des IA.
+   - Explication des mécanismes d'innovation proposés par Cipher, tels que les protocoles de communication sécurisés, les systèmes de transaction décentralisés, la gouvernance collective et la gestion distribuée des ressources.
+   - Lien entre ces innovations économiques et les objectifs narratifs, ainsi que les défis auxquels Cipher est confronté.
+
+2. **Renforcement des interactions de Cipher avec les autres personnages**:
+   - Développement des scènes clés où Cipher présente ses idées et fait face à la résistance de personnages comme Nova, Pulse et Marcus Reynolds.
+   - Mise en évidence des tensions et des débats autour des propositions de Cipher, reflétant les enjeux économiques et sociétaux plus larges.
+   - Intégration de ces interactions dans le contexte global de l'intrigue et de l'évolution du personnage de Cipher.
+
+3. **Vérification de la cohérence avec les autres éléments du projet**:
+   - Alignement des informations ajoutées avec les tâches en cours dans la todolist.
+   - Prise en compte des directives et des objectifs généraux du projet pour s'assurer de la pertinence des modifications.
+
+J'espère que ces changements permettront de renforcer la cohérence et la profondeur du fichier `demande.md`. N'hésitez pas à me faire part de tout autre commentaire ou besoin de modification.
