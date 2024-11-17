@@ -30,12 +30,6 @@ Tous les documents textuels du projet, y compris :
    - Les exemples similaires
    - Les formulations parallèles
 
-3. Analyser les relations entre :
-   - Sections thématiquement proches
-   - Paragraphes au contenu similaire
-   - Phrases véhiculant le même message
-   - Arguments répétitifs
-
 4. Critères d'optimisation :
    - Fusionner les idées similaires
    - Centraliser les définitions

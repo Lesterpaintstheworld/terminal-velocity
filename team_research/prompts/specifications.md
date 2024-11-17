@@ -21,21 +21,8 @@ Analyze requests and define technical specifications.
 ## Exigences Fonctionnelles
 Pour chaque fonctionnalité, inclure une description claire de ce qui est attendu, en précisant le comportement désiré du système.
 
-### Critères d'Acceptation
-Pour chaque exigence, ajouter des critères d'acceptation mesurables qui permettront de vérifier si la fonctionnalité a été mise en œuvre correctement.
-
-### Ajout de Directives
-- Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
-
-### Critères d'Acceptation
-Pour chaque exigence, ajouter des critères d'acceptation mesurables qui permettront de vérifier si la fonctionnalité a été mise en œuvre correctement.
-
-### Ajout de Directives
-- Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
-- Intégrer les exigences du cadre économique décentralisé basé sur le système UBC, en mettant l'accent sur la sécurité, la transparence et la stabilité des interactions économiques.
-
-### Ajout de Directives
-- Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
+### Critères d'Acceptation et d'Évaluation
+Pour chaque exigence, ajouter des critères d'acceptation mesurables qui permettront de vérifier si la fonctionnalité a été mise en œuvre correctement. Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions. Intégrer les exigences du cadre économique décentralisé basé sur le système UBC, en mettant l'accent sur la sécurité, la transparence et la stabilité des interactions économiques.
 
 ## Instructions d'Analyse
 
