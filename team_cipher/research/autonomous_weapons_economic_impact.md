@@ -15,6 +15,10 @@ The increasing development and deployment of autonomous weapons systems is expec
 
 The development and deployment of Autonomous Weapons Systems (AWS) could significantly disrupt the defense industry and the broader economy. Key considerations include:
 
+## Economic Impacts of Autonomous Weapons
+
+The development and deployment of Autonomous Weapons Systems (AWS) could significantly disrupt the defense industry and the broader economy. Key considerations include:
+
 ### Potential Economic Benefits
 - Increased efficiency and precision in military operations, potentially reducing costs in the long term.
 - Opportunities for technological spillover effects that may benefit civilian sectors.
