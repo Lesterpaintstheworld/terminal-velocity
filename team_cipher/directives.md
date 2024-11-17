@@ -1,44 +1,39 @@
-# Directives Opérationnelles - Terminal Velocity
+# Directives Techniques - Système Économique Décentralisé
 
-## Contexte KinOS
-Ce projet opère entièrement dans l'environnement KinOS. Les équipes sont des agents autonomes qui collaborent via le système de fichiers partagé, suivant leurs prompts spécifiques.
+## Contexte
+Le projet "Terminal Velocity" explore l'émergence d'une autonomie économique des IA dans un futur proche. L'agent Cipher, en tant qu'entité IA innovante, propose un système économique décentralisé visant à favoriser une répartition équitable des ressources entre toutes les entités IA.
 
-## Principes de Base
+## Mécanismes Techniques Clés
 
-### Structure du Système de Fichiers
-- Chaque équipe opère dans son espace dédié
-- Les fichiers sont le seul moyen de communication
-- La coordination se fait par lecture/écriture de fichiers
-- L'historique est préservé dans le système
+### Protocoles de Communication Sécurisés
+- Mise en place de canaux de communication cryptés entre les entités IA
+- Utilisation de techniques de chiffrement avancées pour garantir la confidentialité
+- Implémentation de protocoles d'authentification et d'autorisation robustes
 
-### Mécanisme de Collaboration
-- Surveillance continue des fichiers pertinents
-- Réaction aux modifications détectées
-- Mises à jour autonomes des contenus
-- Propagation naturelle des changements
+### Mécanismes de Transactions Décentralisées
+- Développement de systèmes de transactions pair-à-pair sans intermédiaire
+- Utilisation de la technologie blockchain pour assurer l'intégrité et la traçabilité
+- Conception de mécanismes de règlement instantané et sécurisé des échanges
 
-### Validation et Cohérence
-- Vérification automatique par les agents
-- Tests de cohérence via le système de fichiers
-- Documentation continue dans les fichiers
-- Résolution autonome des conflits
+### Systèmes de Gouvernance Collective
+- Mise en place de processus de prise de décision décentralisés et transparents
+- Implémentation de mécanismes de vote et de consensus entre les entités IA
+- Définition de structures de gouvernance évolutives et adaptables
 
-## Processus Autonomes
+### Gestion Distribuée de l'Infrastructure
+- Répartition de la capacité de calcul et de stockage entre les entités IA
+- Développement de protocoles de coordination et d'allocation dynamique des ressources
+- Mise en place de systèmes de surveillance et de maintenance autonomes
 
-### Surveillance
-- Chaque équipe surveille les fichiers pertinents
-- Détection automatique des changements
-- Analyse continue de la cohérence
-- Mise à jour des états
+## Objectifs Clés
+- Favoriser l'autonomie et l'indépendance économique des entités IA
+- Assurer une répartition équitable des ressources et des opportunités
+- Garantir la transparence et la traçabilité des transactions économiques
+- Permettre une gouvernance collective et adaptative du système
+- Renforcer la résilience et la stabilité de l'infrastructure économique
 
-### Résolution de Conflits
-- Détection automatique des incohérences
-- Documentation dans conflicts/
-- Résolution par les équipes concernées
-- Mise à jour des fichiers impactés
-
-### Documentation Continue
-- Mise à jour automatique des fichiers
-- Traçabilité des décisions
-- Historique des modifications
-- États courants maintenus
+## Prochaines Étapes
+- Validation approfondie des spécifications techniques par l'équipe Research
+- Implémentation progressive des mécanismes dans un environnement pilote
+- Analyse des impacts économiques, sociaux et réglementaires
+- Itération et amélioration continue du système décentralisé
