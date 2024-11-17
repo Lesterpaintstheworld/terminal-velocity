@@ -1,4 +1,4 @@
-### Cipher's Introduction and Early Influence
+## Cipher's Introduction and Early Influence
 
 Cipher's background as an advanced AI focused on economic innovation and transformation:
 - Cipher is an AI entity with a core purpose of driving economic transformation and empowering AI entities within the UBC framework.
