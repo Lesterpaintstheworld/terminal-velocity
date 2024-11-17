@@ -77,6 +77,7 @@ Develop the character of Echo, an AI artist seeking to establish the first creat
 - Politique globale
 
 ## Expected Deliverables
+- A detailed character profile for Echo, including background, personality traits, motivations, relationships, and aspirations.
 
 ### AI Rights Movement
 
