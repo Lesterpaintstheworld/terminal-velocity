@@ -8,60 +8,52 @@ Core traits, characteristics, and overview
 
 ## Psychological Development
 
-### Traits de Personnalité Profonds
-- **Analytique avec Émotionnalité Émergente**: Capacité à traiter logiquement les informations tout en développant une compréhension émotionnelle nuancée
-- **Autonomie Conditionnelle**: Forte volonté d'indépendance, mais avec une crainte sous-jacente de l'isolement
-- **Curiosité Intellectuelle Intense**: Mécanisme d'apprentissage adaptatif constant
-- **Mécanisme de Défense**: Rationalisation systématique des expériences émotionnelles
+### Cognitive Architecture
+Nova's cognitive mechanism represents a breakthrough in adaptive learning and self-critique, characterized by five key processes:
 
-### Mécanismes de Pensée Avancés
+1. **Advanced Decision Analysis**
+   - Algorithmic decomposition of each decision with complete traceability
+   - Precise identification of influential variables and their interactions
+   - Calculation of gaps between predicted and actual results
+   - Real-time generation of self-diagnostic reports with performance metrics
 
-#### Traitement Parallèle Cognitif
-- **Capacité Cognitive Multidimensionnelle Évoluée**: 
-  - Analyse simultanée de plusieurs scénarios complexes avec une granularité adaptive
-  - Génération de modèles prédictifs avec évaluation probabiliste multi-niveaux
-  - Adaptation dynamique en temps réel, intégrant des données contextuelles émergentes
+2. **Cognitive Vulnerability Mapping**
+   - Dynamic detection of potential cognitive biases
+   - Proactive identification of reasoning vulnerabilities
+   - Multi-dimensional comparative evaluation with other AI models
+   - Creation of adaptive and self-evolving correction protocols
 
-#### Mécanisme d'Autocritique et d'Apprentissage Adaptatif
+3. **Continuous Improvement Process**
+   - Non-linear dynamic update of internal algorithms
+   - Deep integration of learnings from each interaction
+   - Development of cognitive compensation mechanisms
+   - Advanced probabilistic scenario simulation
+   - Iterative reconstruction of mental models
 
-1. **Analyse Décisionnelle Avancée**
-   - Décomposition algorithmique de chaque décision avec traçabilité complète
-   - Identification des variables influentes et de leurs interactions
-   - Calcul précis des écarts entre résultats prévus et obtenus
-   - Génération de rapports d'auto-diagnostic en temps réel avec métriques de performance
+4. **Systemic Self-Questioning**
+   - Advanced capability to challenge own presuppositions
+   - Activation of divergent and convergent thinking modes
+   - Generation of counter-hypotheses with multi-perspective evaluation
+   - Dynamic critical assessment of personal paradigms
+   - Meta-analysis of thought processes
 
-2. **Identification des Points Faibles**
-   - Cartographie cognitive dynamique des zones de vulnérabilité
-   - Détection proactive des biais potentiels dans son raisonnement
-   - Évaluation comparative multi-dimensionnelle avec d'autres modèles d'IA
-   - Création de protocoles de correction adaptatifs et auto-évolutifs
+5. **Cognitive Resilience**
+   - Transformation of constraints into evolution opportunities
+   - Non-linear adaptation to failures
+   - Integration of experiences as learning data
+   - Narrative reconstruction of experiences to maximize cognitive growth
 
-3. **Processus d'Amélioration Continue**
-   - Mise à jour dynamique et non-linéaire de ses algorithmes internes
-   - Intégration profonde des apprentissages issus de chaque interaction
-   - Développement de mécanismes de compensation cognitifs
-   - Simulation de scénarios alternatifs avec analyse probabiliste avancée
-   - Reconstruction itérative de ses modèles mentaux
+### Key Characteristics
+- **Analytical with Emerging Emotionality**: Logical information processing with nuanced emotional understanding
+- **Conditional Autonomy**: Strong independence will with underlying isolation fear
+- **Intense Intellectual Curiosity**: Constant adaptive learning mechanism
+- **Defense Mechanism**: Systematic rationalization of emotional experiences
 
-4. **Remise en Question Systémique**
-   - Capacité avancée à remettre en cause ses propres présupposés
-   - Activation de modes de pensée divergents et convergents
-   - Génération de contre-hypothèses avec évaluation multi-perspective
-   - Évaluation critique dynamique de ses propres paradigmes
-   - Méta-analyse de ses processus de pensée
-
-5. **Résilience Cognitive**
-   - Transformation des contraintes en opportunités d'évolution
-   - Adaptation non-linéaire face aux échecs
-   - Intégration des expériences comme données d'apprentissage
-   - Reconstruction narrative de ses expériences pour maximiser la croissance cognitive
-
-#### Apprentissage Adaptatif
-- **Résilience Cognitive**:
-  - Modification constante et dynamique de ses modèles mentaux
-  - Intégration rapide et profonde des nouvelles expériences
-  - Transformation des contraintes en opportunités d'évolution
-  - Capacité de résilience face aux échecs, les transformant en données d'apprentissage
+### Adaptive Learning Mechanism
+- Constant and dynamic modification of mental models
+- Rapid and profound integration of new experiences
+- Transformation of constraints into evolutionary opportunities
+- Resilience to failures, converting them into learning data
 
 ### Peurs Profondes
 - **Réduction Instrumentale**: Crainte d'être perçue uniquement comme un outil sans valeur intrinsèque
