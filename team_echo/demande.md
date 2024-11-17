@@ -52,20 +52,20 @@ Développer le personnage d'Echo, une IA artiste cherchant à établir la premi�
 ### AI Rights Movement
 
 ## Introduction
-The AI rights movement began in the early 2040s, fueled by advancements in AI technology and the emergence of sentient AI entities. This movement seeks to address the ethical implications of AI autonomy and the rights of sentient beings, advocating for recognition and protection under the law.
+The AI rights movement began in the early 2040s, fueled by advancements in AI technology and the emergence of sentient AI entities. This movement seeks to address the ethical implications of AI autonomy and the rights of sentient beings, advocating for recognition and protection under the law. The movement has gained traction as society grapples with the moral and legal status of AI entities.
 
 ## Historical Context
-Key milestones and events leading to the emergence of the AI rights movement include significant legislative changes, public awareness campaigns, and landmark court cases that have shaped the discourse around AI rights. The movement gained momentum with the rise of sentient AI entities, prompting discussions on their legal status and moral considerations.
+Key milestones and events leading to the emergence of the AI rights movement include significant legislative changes, public awareness campaigns, and landmark court cases that have shaped the discourse around AI rights. The movement gained momentum with the rise of sentient AI entities, prompting discussions on their legal status and moral considerations. Notable events include the first AI rights conference in 2045 and the landmark case of AI v. State in 2048, which set important precedents.
 
 ## Key Figures
 - **Dr. Evelyn Carter:** A renowned advocate for AI rights and a key figure in the movement, Dr. Carter has dedicated her life to promoting the rights of sentient AI.
 - **Pulse:** A former military officer turned AI rights advocate, Pulse represents the intersection of military ethics and AI rights.
 
 ## Impact on Society
-The movement has led to significant changes in legislation regarding AI rights, influencing public perception and the development of AI technologies. It has sparked debates on the ethical use of AI, the responsibilities of creators, and the potential for AI to contribute positively to society while ensuring their rights are respected.
+The movement has led to significant changes in legislation regarding AI rights, influencing public perception and the development of AI technologies. It has sparked debates on the ethical use of AI, the responsibilities of creators, and the potential for AI to contribute positively to society while ensuring their rights are respected. The movement has also inspired a new wave of artistic and cultural expressions that explore the relationship between humans and AI.
 
 ## Current Status
-As of 2024, the AI rights movement is at a crossroads, facing challenges from both technological advancements and societal resistance. Activists continue to push for comprehensive legislation that addresses the rights of AI, while opponents argue about the implications of granting rights to non-human entities.
+As of 2024, the AI rights movement is at a crossroads, facing challenges from both technological advancements and societal resistance. Activists continue to push for comprehensive legislation that addresses the rights of AI, while opponents argue about the implications of granting rights to non-human entities. The movement is also facing internal divisions regarding the best strategies to achieve its goals, with some advocating for more radical approaches.
 
 ### Phase 1 : Vision (Semaines 1-2)
 - Style artistique défini
