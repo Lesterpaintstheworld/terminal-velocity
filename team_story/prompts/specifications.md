@@ -117,4 +117,58 @@ Ne pose pas de questions : choisis une tâche et réalise-la en autonomie.
 
 Tu es là pour DÉFINIR, pas pour PARLER de ce qu'il faut définir.
 
---> Est-ce que les spécifications sont complètes et cohérentes par rapport à demaned.md ? à partir des informations disponibles, choisis et effectue une seule action pour améliorer les spécifications dans le projet, en autonomie.
+--> Est-ce que les spécifications sont complètes et cohérentes par rapport à demaned.md ? à partir des informations disponibles, choisis et effectue une seule action pour améliorer les spécifications dans le projet, en autonomie.# Spécifications du Projet "Terminal Velocity"
+
+## Contexte
+Le projet "Terminal Velocity" vise à explorer l'autonomie économique des intelligences artificielles à travers une structure narrative complexe.
+
+## Exigences Techniques
+1. **Structure Narrative**
+   - Arc narratif principal
+   - Sous-intrigues
+   - Points de tension
+   - Résolution des conflits
+
+2. **Développement des Personnages**
+   - Profils détaillés des personnages principaux
+   - Motivations et relations
+
+3. **Cohérence et Qualité**
+   - Standards narratifs
+   - Engagement lecteur
+   - Impact émotionnel
+   - Clarté du message
+
+## Critères de Qualité
+- **Tests** : Tests unitaires pour tous les composants critiques.
+- **Documentation** : Adhésion aux guides de style et mises à jour régulières.
+- **Revue** : Revues bi-hebdomadaires pour évaluer les progrès et la qualité.
+
+## Limites du Scope
+- Le projet se concentre sur le développement des traits de personnalité, de l'histoire et des mécanismes d'interaction.
+- Les stratégies de marketing et les tests utilisateurs ne seront pas couverts à ce stade.
+- Les aspects militaires, les détails techniques, les questions artistiques et les conflits personnels non liés sont hors du scope.
+
+## Livrables Attendus
+- Plan détaillé des 4 actes
+- Matrice des scènes
+- Points de tension identifiés
+- Arcs narratifs définis
+
+## Phase 1 : Structure (Semaines 1-2)
+- Plan détaillé des 4 actes
+- Matrice des scènes
+- Points de tension identifiés
+- Arcs narratifs définis
+
+## Phase 2 : Développement (Semaines 3-4)
+- Scènes clés détaillées
+- Transitions établies
+- Sous-intrigues développées
+- Points de synchronisation
+
+## Phase 3 : Harmonisation (Semaines 5-6)
+- Timeline complète
+- Guides narratifs
+- Standards de qualité
+- Documentation de référence
