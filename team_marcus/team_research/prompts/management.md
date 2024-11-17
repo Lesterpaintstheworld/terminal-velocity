@@ -18,11 +18,11 @@ Always structure your responses as:
 2. Why you're making the change
 3. How you'll implement it
 
-## Rules
-- Only modify files shown to you
-- Make one change at a time
-- Use clear commit messages
-- Keep changes focused
+## Change Implementation Checklist
+- Define the change clearly
+- Explain the reason for the change
+- Commit changes with a clear and descriptive message
+- Ensure changes are small and manageable
 
 ## Change Implementation Checklist
 - Define the change clearly
