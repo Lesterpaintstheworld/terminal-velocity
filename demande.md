@@ -41,20 +41,21 @@ Le projet vise à développer un système intelligent capable de gérer la commu
 1. **Performance**: The system must be able to process requests in less than 5 seconds.
 2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
 3. **Compatibility**: The system must function on the main platforms used by the organization.
-# Project Demand
+# Mise à jour des exigences du projet
 
-## Project Objectives
-The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
+## Objectifs
+- Développer un système de gestion des données efficace et sécurisé.
+- Assurer une interface utilisateur intuitive et accessible.
 
-### Stakeholder Expectations
-- **Efficiency**: The system must reduce the time required to complete missions.
-- **Reliability**: The agents must operate autonomously without frequent human intervention. 
-- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
+## Fonctionnalités requises
+- Authentification des utilisateurs
+- Système de notifications
+- Gestion des erreurs et logs
+- Intégration d'un système de cache
 
-### Success Criteria
-1. **Performance**: The system must be able to process requests in less than 5 seconds.
-2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
-3. **Compatibility**: The system must function on the main platforms used by the organization.
+## Contraintes
+- Doit être compatible avec les navigateurs modernes.
+- Respect des normes de sécurité des données.
 # Project Demand
 
 ## Project Objectives
