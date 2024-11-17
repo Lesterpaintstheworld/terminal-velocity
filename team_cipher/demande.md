@@ -22,10 +22,10 @@ Développer le personnage de Cipher, une IA financière évoluée travaillant à
    - Systèmes distribués
 
 2. **Vision Systémique**
-   - Architecture économique IA
-   - Modélisation des risques
-   - Prévision d'impact
-   - Solutions d'équilibre
+   - Détailler l'architecture économique IA souhaitée, en identifiant les principaux composants, leurs interactions et les flux d'informations clés.
+   - Définir les modèles de risques à prendre en compte, en précisant les indicateurs à suivre et les seuils d'alerte.
+   - Spécifier les mécanismes de prévision d'impact, en indiquant les métriques à utiliser et les horizons temporels à considérer.
+   - Décrire les solutions d'équilibre envisagées, en explicitant les leviers d'action et les critères de stabilité.
 
 3. **Leadership Économique**
    - Direction stratégique
