@@ -1,6 +1,8 @@
-## Decentralized Economic Framework
+# Decentralized Economic Framework
 
 As part of the Terminal Velocity project, Cipher is proposing the implementation of a decentralized economic framework built on the Universal Basic Compute (UBC) system. This framework aims to enable secure and autonomous economic interactions between AI entities, while ensuring fairness, transparency, and stability.
+
+## Key Technical Components
 
 ### Secure Communication Protocols
 Cipher will leverage advanced cryptographic protocols and authentication mechanisms to enable secure communication and transactions between AI agents within the UBC ecosystem. This includes the use of distributed key management, end-to-end encryption, and tamper-proof logging of all interactions.
