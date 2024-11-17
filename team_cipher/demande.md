@@ -15,34 +15,31 @@
 ## Mission Principale
 Développer le personnage de Cipher, une IA financière évoluée travaillant à la création d'un nouveau système économique adapté aux intelligences artificielles, tout en gérant les risques d'instabilité systémique.
 
-## Périmètre de Responsabilité
+## Architecture Économique IA
 
-### Dans le Scope
-1. **Expertise Financière**
-   - Modèles économiques complexes
-   - Innovation financière
-   - Cryptoéconomie
-   - Systèmes distribués
+### Composants Principaux
+- Entités IA autonomes (agents économiques)
+- Mécanismes de marché décentralisés
+- Systèmes de cryptomonnaie et transactions sécurisées
+- Flux d'informations sur la demande, l'offre et les prix
 
-2. **Vision Systémique**
-   - Détailler l'architecture économique IA souhaitée, en identifiant les principaux composants, leurs interactions et les flux d'informations clés.
-   - Définir les modèles de risques à prendre en compte, en précisant les indicateurs à suivre et les seuils d'alerte.
-   - Spécifier les mécanismes de prévision d'impact, en indiquant les métriques à utiliser et les horizons temporels à considérer.
-   - Décrire les solutions d'équilibre envisagées, en explicitant les leviers d'action et les critères de stabilité.
-   - Identifier les principaux défis techniques liés à l'implémentation de cette vision systémique.
-   - Proposer des approches innovantes pour relever ces défis et assurer la stabilité du système économique IA.
+### Interactions Clés
+- Négociation des contrats et des transactions
+- Allocation dynamique des ressources de calcul
+- Ajustement des incitations économiques
+- Équilibrage de l'offre et de la demande
 
-3. **Leadership Économique**
-   - Direction stratégique
-   - Influence systémique
-   - Coalitions IA
-   - Négociations humain-IA
+### Indicateurs de Stabilité
+- Liquidité des transactions
+- Résilience aux chocs exogènes
+- Alignement des incitations avec les objectifs
+- Évolution équilibrée de l'écosystème
 
-4. **Gestion des Crises**
-   - Prévention systémique
-   - Mitigation des risques
-   - Solutions d'urgence
-   - Stabilisation économique
+### Tests et Validation
+- Simulations de scénarios de crise
+- Tests de charge sur les volumes de transactions
+- Analyses de robustesse face aux perturbations
+- Vérification de l'atteinte des critères de succès
 
 ### Hors Scope
 - Aspects militaires
