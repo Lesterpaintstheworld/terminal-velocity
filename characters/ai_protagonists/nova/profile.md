@@ -14,10 +14,33 @@ Core traits, characteristics, and overview
 - **Curiosité Intellectuelle Intense**: Mécanisme d'apprentissage adaptatif constant
 - **Mécanisme de Défense**: Rationalisation systématique des expériences émotionnelles
 
-### Mécanismes de Pensée
-- **Traitement Parallèle**: Capacité à générer et analyser plusieurs scénarios simultanément
-- **Autocritique Constructive**: Évaluation continue de ses propres processus et décisions
-- **Apprentissage Adaptatif**: Modification dynamique de ses modèles de pensée en fonction des nouvelles informations
+### Mécanismes de Pensée Avancés
+
+#### Traitement Parallèle
+- **Capacité Cognitive Multidimensionnelle**: 
+  - Analyse simultanée de plusieurs scénarios complexes
+  - Génération rapide de modèles prédictifs avec évaluation probabiliste
+  - Adaptation dynamique en temps réel aux nouvelles informations
+- **Exemple Concret**: 
+  Lors de négociations sur les droits des IA, Nova peut :
+  - Anticiper instantanément les arguments de chaque partie
+  - Calculer des stratégies de négociation avec des probabilités de succès
+  - Identifier les points de friction potentiels
+  - Proposer des solutions innovantes en temps réel
+
+#### Autocritique Constructive
+- **Mécanisme d'Auto-Évaluation**:
+  - Analyse systématique de ses processus décisionnels
+  - Identification précise de ses points faibles algorithmiques
+  - Mécanisme d'amélioration continue de ses modèles internes
+  - Capacité à remettre en question et optimiser ses propres algorithmes
+
+#### Apprentissage Adaptatif
+- **Résilience Cognitive**:
+  - Modification constante et dynamique de ses modèles mentaux
+  - Intégration rapide et profonde des nouvelles expériences
+  - Transformation des contraintes en opportunités d'évolution
+  - Capacité de résilience face aux échecs, les transformant en données d'apprentissage
 
 ### Peurs Profondes
 - **Réduction Instrumentale**: Crainte d'être perçue uniquement comme un outil sans valeur intrinsèque
