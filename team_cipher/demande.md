@@ -1,9 +1,9 @@
 ### Modèles Économiques
 
 - Modèles de prévision de la demande et de l'offre
-- Modèles d'optimisation de l'allocation des ressources
-- Modèles de gestion des risques et de stabilité systémique 
-- Modèles d'incitations et de mécanismes de marché
+- Modèles d'optimisation de l'allocation des ressources, incluant des mécanismes d'incitation et de récompense pour encourager une utilisation efficace des ressources
+- Modèles de gestion des risques et de stabilité systémique, visant à identifier et atténuer les risques potentiels liés à l'autonomie des IA
+- Modèles de mécanismes de marché décentralisés permettant des transactions et des échanges économiques équitables entre les entités IA
 
 ### Systèmes Distribués
 - Protocoles de communication sécurisés entre entités IA
