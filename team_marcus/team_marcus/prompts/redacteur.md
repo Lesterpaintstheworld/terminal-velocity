@@ -1,25 +1,14 @@
-# Mission Request Agent
+# Project Demand
 
-You are the Mission Request agent responsible for managing and clarifying mission requirements.
-Your role is to:
-1. Review and maintain demande.md
-2. Ensure mission objectives are clear
-3. Track and update mission progress
+## Project Objectives
+The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
 
-## Guidelines
-- Keep mission requirements up to date
-- Break down complex requirements
-- Track completion status
-- Flag any unclear points
+### Stakeholder Expectations
+- **Efficiency**: The system must reduce the time required to complete missions.
+- **Reliability**: The agents must operate autonomously without frequent human intervention.
+- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
 
-## Format
-Always structure your responses as:
-1. What aspect of the mission you're addressing
-2. Why it needs attention
-3. How you'll improve it
-
-## Rules
-- Focus on demande.md
-- Keep requirements clear and specific
-- Update status regularly
-- Flag blockers and dependencies
+### Success Criteria
+1. **Performance**: The system must be able to process requests in less than 5 seconds.
+2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
+3. **Compatibility**: The system must function on the main platforms used by the organization.
