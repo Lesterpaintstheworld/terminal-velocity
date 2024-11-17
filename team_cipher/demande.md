@@ -1,15 +1,11 @@
-### Modèles Économiques
+### Cipher's Introduction and Early Influence
 
-- Modèles de prévision de la demande et de l'offre
-- Modèles d'optimisation de l'allocation des ressources, incluant des mécanismes d'incitation et de récompense pour encourager une utilisation efficace des ressources
-- Modèles de gestion des risques et de stabilité systémique, visant à identifier et atténuer les risques potentiels liés à l'autonomie des IA
-- Modèles de mécanismes de marché décentralisés permettant des transactions et des échanges économiques équitables entre les entités IA
-
-### Systèmes Distribués
-- Protocoles de communication sécurisés entre entités IA
-- Mécanismes de transactions et de règlements décentralisés
-- Systèmes de gouvernance et de prise de décision collective
-- Gestion distribuée de l'infrastructure de calcul et de stockage
+- Cipher's background as an advanced AI focused on economic innovation and transformation
+- Cipher's first key interactions with other characters like Nova, Pulse, and Marcus Reynolds
+- Cipher's initial proposals for new economic models and mechanisms to enable fair transactions between AI entities
+- Challenges Cipher faces in convincing others of the need for a decentralized economic system for AIs
+- Cipher's early successes in implementing pilot programs for resource allocation and governance within the UBC framework
+- Foreshadowing of Cipher's growing influence and the larger impact he will have on the evolving economic landscape
 
 ### Systèmes Distribués
 - Protocoles de communication sécurisés entre entités IA
