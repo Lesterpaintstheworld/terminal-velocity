@@ -166,3 +166,20 @@ The project aims to develop an intelligent system capable of managing communicat
    - Prise en compte des directives et des objectifs généraux du projet pour s'assurer de la pertinence des modifications.
 
 J'espère que ces changements permettront de renforcer la cohérence et la profondeur du fichier `demande.md`. N'hésitez pas à me faire part de tout autre commentaire ou besoin de modification.
+# Demande de Mission
+
+## Titre de la Mission
+[Insérer le titre de la mission ici]
+
+## Objectifs
+- Décrire clairement les objectifs que cette mission doit atteindre.
+- Expliquer les résultats attendus et comment ils seront mesurés.
+
+## Public Cible
+- Identifier le public cible pour lequel le produit final est destiné.
+
+## Contraintes
+- Énumérer les contraintes techniques, temporelles ou budgétaires qui doivent être respectées.
+
+## Portée du Projet
+- Définir les limites du projet, y compris ce qui est inclus et ce qui ne l'est pas.
