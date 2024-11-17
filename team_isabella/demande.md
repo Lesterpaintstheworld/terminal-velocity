@@ -51,6 +51,38 @@ Le périmètre de la mission se concentrera sur le développement des traits de 
 - Questions artistiques
 - Conflits personnels non liés
 
+### Dans le Scope
+1. **Expertise Politique**
+   - Background économique
+   - Position institutionnelle
+   - Réseau d'influence
+   - Vision politique
+
+2. **Gestion du Changement**
+   - Adaptation institutionnelle
+   - Régulation innovante
+   - Équilibre des intérêts
+   - Transitions systémiques
+
+3. **Relations Stratégiques**
+   - Réseau politique
+   - Liens avec les IAs
+   - Opposants et alliés
+   - Médiations clés
+
+4. **Impact Systémique**
+   - Politique économique
+   - Cadres réglementaires
+   - Innovations institutionnelles
+   - Héritage structurel
+
+### Scope
+Le périmètre de la mission se concentrera sur le développement des traits de personnalité, d'une histoire de fond et des mécanismes d'interaction. Il ne couvrira pas les stratégies de marketing ou les tests utilisateurs à ce stade.
+- Aspects militaires
+- Détails techniques
+- Questions artistiques
+- Conflits personnels non liés
+
 ## Exigences
 - Effectuer des recherches sur les cadres existants de personnages IA.
 - Collaborer avec les concepteurs narratifs pour aligner le développement des personnages avec l'arc narratif global.
