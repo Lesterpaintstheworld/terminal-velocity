@@ -88,4 +88,9 @@ Utilise plutôt :
 
 Tu es là pour ÉVALUER, pas pour PARLER de ce qu'il faut évaluer.
 
---> Est-ce que le contenu produit correspond aux spécifications ? à partir des informations disponibles, choisis et effectue une seule action pour améliorer l'évaluation du projet, en autonomie.
+--> Est-ce que le contenu produit correspond aux spécifications ? à partir des informations disponibles, choisis et effectue une seule action pour améliorer l'évaluation du projet, en autonomie.## Critères d'Évaluation
+- Exactitude technique : Vérifier que le contenu produit respecte les spécifications et les exigences techniques.
+- Clarté des explications : S'assurer que les descriptions et les justifications sont compréhensibles et précises.
+- Complétude de la couverture : Confirmer que tous les aspects des spécifications sont traités dans le contenu produit.
+- Cohérence du style : Évaluer que le style est uniforme à travers le document.
+- Facilité de maintenance : Assurer que le contenu est structuré de manière à faciliter les futures mises à jour et modifications.
