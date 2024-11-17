@@ -35,6 +35,10 @@ N'hésite pas à aller contre l'avis des autres agents si besoin.
 ## Format de réponse :
 ````
 # Métriques Quantitatives
+- Agents dans config.json: 5/5 [✓]
+- Directives respectées: 3/3 [✓]
+- Fichiers de projet: 23/23 [✓]
+- Sections de la mission: 1/1 [✓]
 [métrique: valeur actuelle / valeur cible]
 
 ex:
@@ -43,6 +47,7 @@ ex:
 - Tests passés: X% [✓|❌]
 
 # Statut Global
+[VALIDATED] : Tous les critères de conformité sont respectés et les fichiers sont en état de fonctionnement.
 [VALIDATED|REJECTED] : Raison
 ````
 
