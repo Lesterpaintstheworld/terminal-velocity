@@ -37,9 +37,9 @@
 ### Conflits Internes
 Isabella lutte souvent avec la tension entre l'innovation des politiques économiques et la nécessité de stabilité, ce qui entraîne des moments de doute de soi et de réflexion sur son style de leadership.
 
-### Relations Clés
-- **Sarah Chen**: Leur relation est fondée sur un respect mutuel, mais elles peuvent avoir des visions différentes concernant les droits des IA et la sécurité économique.
-- **Marcus Reynolds**: Leur dynamique représente un contraste entre l'innovation technologique agressive et l'approche éthique qu'Isabella défend.
+### Relations Clés de Marcus Reynolds
+- **Isabella Torres**: Leur relation est particulièrement tendue, représentant des points de vue opposés sur le rôle de la technologie dans la société. Marcus voit les systèmes autonomes comme des outils nécessaires pour la défense nationale, tandis qu'Isabella s'inquiète des perturbations potentielles que ces technologies pourraient causer dans l'ordre économique et social existant.
+- **Nova**: Marcus a une relation professionnelle de longue date avec Nova, mais son approche axée sur les applications militaires peut parfois le mettre en désaccord avec la vision plus holistique de Nova sur l'innovation.
 
 ### Motivations
 - **Stabilité Économique**: Isabella est motivée par le désir de créer un environnement économique stable qui profite à tous, en particulier face aux avancées rapides de l'IA.
