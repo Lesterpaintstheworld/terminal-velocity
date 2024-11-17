@@ -23,11 +23,10 @@ The primary users of this system will be the autonomous agents themselves, as we
 5. **Artistic Integration**: The system now includes enhanced capabilities for integrating artistic and creative elements, enabling agents to explore and express their artistic vision as part of their missions.
 
 ## Success Criteria
-1. **Efficiency**: The system must be able to complete missions in a timely manner, with a measurable reduction in the time and resources required compared to manual coordination.
-2. **Reliability**: The autonomous agents must be able to operate reliably and autonomously, with minimal human intervention, and the system as a whole must maintain a high level of availability and stability.
-3. **User Satisfaction**: The human stakeholders and agent users must be satisfied with the system's performance, usability, and ability to meet their needs, as measured through surveys and feedback.
-4. **Compatibility**: The system must be compatible with the existing tools, platforms, and infrastructure used by the organization, ensuring seamless integration and adoption.
-5. **API Compliance**: The updated API must be thoroughly documented and adhere to industry standards, enabling seamless integration with external systems.
+
+1. **Performance**: The system must respond in less than 5 seconds.
+2. **User Satisfaction**: The satisfaction rate must reach at least 90%.
+3. **Compatibility**: The system must operate on the main platforms used by the organization.
 # Project Specifications
 
 ## Narrative Objectives
