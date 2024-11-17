@@ -31,6 +31,22 @@ The primary users of this system will be the autonomous agents themselves, as we
 
 4. **Performance Metrics**:
    - Each agent's performance will be evaluated based on their ability to meet defined objectives, the quality of their outputs, and their contribution to the overall project success.
+
+2. **Agent Specifications**:
+   - **SpecificationsAgent**: Responsible for analyzing initial requests, defining technical requirements, and maintaining specification coherence throughout the project. Inputs include project requests and stakeholder feedback; outputs are detailed specifications and documentation.
+   - **ProductionAgent**: Generates and optimizes code or text, implementing requests to achieve mission objectives. Expected to collaborate closely with the SpecificationsAgent to ensure alignment with project goals.
+   - **ManagementAgent**: Coordinates activities, manages priorities, and tracks project progress. This agent will facilitate communication between all agents and ensure that timelines are met.
+   - **EvaluationAgent**: Conducts tests, validates quality, and measures performance of the produced content. This agent will provide feedback to the ProductionAgent for continuous improvement.
+   - **RedacteurAgent**: Updates textual content, ensuring style consistency and editorial quality. Works closely with the EvaluationAgent to incorporate feedback into revisions.
+   - **DocumentalisteAgent**: Maintains coherence between content and documentation, analyzing and updating existing documentation as necessary.
+   - **DuplicationAgent**: Detects and reduces duplication in content, identifying similar functions and proposing improvements.
+   - **TesteurAgent**: Creates and maintains tests, executes test suites, and identifies potential issues in the system.
+
+3. **Interaction Protocols**:
+   - Agents will communicate through defined APIs, ensuring that data exchange is efficient and secure. Conflict resolution will be managed through a consensus mechanism, allowing agents to negotiate and reach agreements on shared objectives.
+
+4. **Performance Metrics**:
+   - Each agent's performance will be evaluated based on their ability to meet defined objectives, the quality of their outputs, and their contribution to the overall project success.
 2. **Mission Management**: The system should provide tools and mechanisms for defining, tracking, and managing the progress of complex missions, including the ability to adjust objectives and priorities as needed.
 3. **Performance Optimization**: The system must be able to continuously analyze and optimize the performance of the autonomous agents, identifying and addressing bottlenecks or inefficiencies.
 4. **Scalability and Adaptability**: The system should be designed to scale up or down as the number of agents and missions changes, and be able to adapt to new requirements or technologies without major modifications.
