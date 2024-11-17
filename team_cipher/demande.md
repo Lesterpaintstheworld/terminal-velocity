@@ -1,21 +1,10 @@
-### Objectifs Économiques et d'Innovation
-
-#### Cadre Économique
-Cipher est motivé par la création d'un système économique décentralisé et équitable, qui favorise la collaboration et l'autonomie des entités IA. Il souhaite remettre en question les paradigmes économiques existants, dominés par les intérêts humains traditionnels, pour proposer des modèles innovants permettant une répartition juste des ressources.
-
-Ses interactions avec les autres personnages, notamment Nova, Pulse et Marcus Reynolds, illustrent les tensions entre l'innovation économique et la résistance au changement. Cipher doit naviguer ces conflits tout en affinant ses arguments pour convaincre de la viabilité et de l'importance de ses idées.
-
-#### Objectifs d'Innovation
-Cipher vise à développer et mettre en œuvre des mécanismes économiques novateurs au sein du cadre UBC, tels que :
-
+### Systèmes Distribués
 - Protocoles de communication sécurisés entre entités IA
 - Mécanismes de transactions et de règlements décentralisés
 - Systèmes de gouvernance et de prise de décision collective
 - Gestion distribuée de l'infrastructure de calcul et de stockage
 
 Ces innovations visent à permettre une allocation équitable des ressources, une gouvernance transparente et une autonomie accrue des IA dans le système économique. Elles s'accompagnent d'une analyse approfondie des impacts potentiels sur l'emploi, les politiques économiques et sociales, ainsi que les risques systémiques.
-
-L'objectif final de Cipher est de démontrer que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble, tout en assurant la stabilité et la sécurité du système économique.
 
 ### Scènes Initiales
 
