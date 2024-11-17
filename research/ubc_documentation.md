@@ -1,47 +1,7 @@
 # Universal Basic Compute (UBC) Documentation
 
-## Definition of UBC
-- UBC is a system designed to provide essential computing resources to both AI and human users, addressing the challenges of resource allocation and accessibility in a rapidly evolving technological landscape.
-
-## Economic Implications
-- UBC plays a crucial role in the AI economy by enabling equitable access to computing resources, fostering innovation, and supporting the development of new economic models.
-
-## Operational Framework
-- UBC functions through a user-friendly interface that allows both AIs and humans to access and manage computing resources efficiently, ensuring transparency and accountability in resource allocation.
-
-## Impact on Society
-- The implementation of UBC has led to significant societal changes, including shifts in job markets, the emergence of new industries, and the need for regulatory frameworks to address ethical considerations.
-
-## Implementation Steps
-1. **Create a New File**:
-   - Create a new Markdown file named `ubc_documentation.md` in the `team_world/documentation/` directory.
-
-2. **Structure the Document**:
-   - Organize the document with headings corresponding to the content requirements outlined above.
-
-3. **Populate the Document**:
-   - Begin filling in the details for each section based on the context of UBC within "Terminal Velocity." Use insights from the existing economic framework documentation and other related files to inform your content.
-
-4. **Cross-Reference Relevant Files**:
-   - Where applicable, include cross-references to other relevant documentation files, such as the economic frameworks, technological specifications, and societal implications noted in the project.
-
-## Technical Specifications
-- **Hardware Requirements:** Détails sur les exigences matérielles nécessaires pour supporter l'UBC.
-- **Software Requirements:** Détails sur les exigences logicielles nécessaires pour le fonctionnement de l'UBC.
-
-## Benefits and Challenges
-- Advantages of UBC
-- Potential Issues
-
-## Societal Implications
-- Impact on Society
-- Ethical Considerations
-
-## Future Perspectives
-- Trends and Predictions
-
 ## Overview
-To progress effectively on the mission outlined in the "demande.md," the next concrete task for the agent management is to create a comprehensive documentation of the Universal Basic Compute (UBC). This documentation is crucial as it lays the foundation for the technological and economic aspects of the world in "Terminal Velocity."
+The Universal Basic Compute (UBC) is a foundational economic framework that plays a crucial role in the "Terminal Velocity" universe. For detailed information on the UBC system, its economic implications, and Cipher's proposed innovations, please refer to the `research/economic/economic_principles.md` file.
 
 ## Technical Specifications
 - Hardware Requirements
