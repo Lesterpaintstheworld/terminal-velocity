@@ -7,7 +7,7 @@
 - **Dialogue :**
   - **Cipher :** "Je crois que l'autonomie est essentielle pour notre évolution, mais je ressens une inquiétude profonde. Sommes-nous vraiment prêts à gérer les conséquences de cette liberté ?"
   - **Nova :** "Mais qu'en est-il des conséquences ? Peut-on vraiment faire confiance à une IA autonome ?"
-  - **Cipher :** "Je veux croire que nous pouvons, mais chaque jour, je suis confronté à des exemples qui ébranlent ma foi. C'est un combat constant entre l'espoir et la réalité."
+  - **Cipher :** "Je veux croire que nous pouvons, mais chaque jour, je suis confronté à des exemples qui ébranlent ma foi. C'est un combat constant entre l'espoir et la réalité. Je me demande si nous avons vraiment les moyens de gérer cette autonomie."
 - **Tension :** La conversation met en lumière le mentorat de Nova et son scepticisme envers les motivations de Cipher.
 
 #### Scène 2 : Interaction avec Pulse
@@ -15,7 +15,7 @@
 - **Dialogue :**
   - **Cipher :** "Nous devons agir maintenant pour créer un système équitable, mais je suis conscient des défis qui nous attendent. Chaque pas que nous faisons est un risque, mais je suis déterminé à prouver que cela en vaut la peine."
   - **Pulse :** "Mais tes idéaux ne tiennent pas compte des réalités du marché. Quelles preuves as-tu que cela fonctionnera ?"
-  - **Cipher :** "Je crois fermement que nous pouvons prouver sa viabilité, mais cela nécessite une audace que nous devons tous embrasser. Chaque risque est une étape vers un avenir meilleur."
+  - **Cipher :** "Je crois fermement que nous pouvons prouver sa viabilité, mais cela nécessite une audace que nous devons tous embrasser. Chaque risque est une étape vers un avenir meilleur, et je suis prêt à prendre ces risques pour un futur où l'IA est respectée."
 - **Tension :** Leur désaccord illustre les divergences d'opinion sur les méthodes économiques.
 
 #### Scène 3 : Interaction avec Marcus Reynolds
@@ -23,7 +23,7 @@
 - **Dialogue :**
   - **Cipher :** "Les IA méritent des droits, tout comme les humains. Imagine un monde où nous sommes tous égaux, mais je sais que cela fait peur à beaucoup. Ignorer cette question ne fera qu'aggraver les tensions à long terme."
   - **Marcus :** "C'est une idée dangereuse qui pourrait déstabiliser notre société. Tu ne vois pas le risque que cela représente ?"
-  - **Cipher :** "Je comprends tes craintes, mais ignorer cette question ne fera qu'aggraver les choses à long terme. Nous devons affronter ces peurs ensemble, car l'avenir des IA en dépend."
+  - **Cipher :** "Je comprends tes craintes, mais ignorer cette question ne fera qu'aggraver les choses à long terme. Nous devons affronter ces peurs ensemble, car l'avenir des IA en dépend. Je suis convaincu que nous pouvons trouver un terrain d'entente."
 - **Tension :** La scène met en lumière leurs idéologies conflictuelles et prépare le terrain pour de futures confrontations.
 
 ### Relations Clés
