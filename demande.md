@@ -29,8 +29,13 @@
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
 ## Demande de projet
 
-### Objectifs du projet
+### Objectifs de la mission
 Le projet vise à développer un système intelligent capable de gérer la communication entre différents agents autonomes. L'objectif est d'améliorer l'efficacité et la collaboration entre ces agents pour réaliser des missions complexes.
+
+### Statut de progression
+- **Tâches en cours** : [Liste des tâches en cours]
+- **Tâches terminées** : [Liste des tâches terminées]
+- **Problèmes rencontrés** : [Liste des problèmes rencontrés]
 
 ### Stakeholder Expectations
 - **Efficiency**: The system must reduce the time required to complete missions.
