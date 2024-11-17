@@ -1,3 +1,4 @@
+## Key Objectives
 ## Agent Roles
 - **SpecificationsAgent**: Analyzes initial requests, defines technical requirements, and ensures consistency throughout the project.
 - **ProductionAgent**: Generates and optimizes code or text, implementing requests to achieve project objectives.
