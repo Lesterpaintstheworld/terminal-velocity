@@ -23,3 +23,34 @@
 
 ## Legal Framework
 - Investigate existing or proposed legal constraints surrounding autonomous weapons and their deployment.
+# Autonomous Weapons Systems Specifications
+
+## Overview
+The Terminal Velocity universe features the emergence of advanced autonomous weapons systems, which pose significant challenges and ethical dilemmas. These systems are characterized by the following key technical specifications:
+
+1. **Sensor Suite**
+   - Comprehensive multi-modal perception (visual, auditory, thermal, etc.)
+   - Advanced target identification and tracking algorithms
+   - Sensor fusion for situational awareness
+
+2. **Decision-Making and Targeting**
+   - Autonomous target selection and prioritization
+   - Real-time threat assessment and response planning
+   - Compliance with rules of engagement and ethical constraints
+
+3. **Actuation and Lethality**
+   - Precision guidance and maneuvering capabilities
+   - Scalable lethality options (non-lethal to lethal)
+   - Redundant safety and override mechanisms
+
+4. **Networking and Coordination**
+   - Secure peer-to-peer communication and data sharing
+   - Distributed decision-making and task allocation
+   - Resilience against jamming and cyber-attacks
+
+5. **Autonomy and Human-Machine Teaming**
+   - Varying levels of autonomy, from semi-autonomous to fully autonomous
+   - Seamless integration and collaboration with human operators
+   - Transparent decision-making and accountability mechanisms
+
+These autonomous weapons systems present significant ethical and legal challenges that must be carefully navigated within the Terminal Velocity narrative.
