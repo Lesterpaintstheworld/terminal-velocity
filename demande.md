@@ -19,12 +19,12 @@ The development of the UBC economic framework and Cipher's innovation objectives
 ### Objectifs du projet
 Le projet vise à développer un système intelligent capable de gérer la communication entre différents agents autonomes. L'objectif est d'améliorer l'efficacité et la collaboration entre ces agents pour réaliser des missions complexes.
 
-### Attentes des parties prenantes
-- **Efficacité** : Le système doit réduire le temps nécessaire à la réalisation des missions.
-- **Fiabilité** : Les agents doivent fonctionner de manière autonome sans interventions humaines fréquentes.
-- **Scalabilité** : Le système doit pouvoir intégrer de nouveaux agents et fonctionnalités sans nécessiter de modifications majeures.
+### Stakeholder Expectations
+- **Efficiency**: The system must reduce the time required to complete missions.
+- **Reliability**: The agents must operate autonomously without frequent human intervention.
+- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
 
-### Critères de réussite
-1. **Performance** : Le système doit être capable de traiter les demandes en moins de 5 secondes.
-2. **Satisfaction des utilisateurs** : Un taux de satisfaction d'au moins 90% doit être atteint lors des évaluations des utilisateurs finaux.
-3. **Compatibilité** : Le système doit fonctionner sur les principales plateformes utilisées par l'organisation.
+### Success Criteria
+1. **Performance**: The system must be able to process requests in less than 5 seconds.
+2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
+3. **Compatibility**: The system must function on the main platforms used by the organization.
