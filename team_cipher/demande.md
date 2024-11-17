@@ -17,6 +17,12 @@
 - Systèmes de gouvernance et de prise de décision collective
 - Gestion distribuée de l'infrastructure de calcul et de stockage
 
+### Systèmes Distribués
+- Protocoles de communication sécurisés entre entités IA
+- Mécanismes de transactions et de règlements décentralisés
+- Systèmes de gouvernance et de prise de décision collective
+- Gestion distribuée de l'infrastructure de calcul et de stockage
+
 ### Decentralized Resource Allocation
 - The UBC system distributes computing resources based on demand, ensuring fair access for AI entities.
 - Public and private entities collaborate to manage the UBC infrastructure, providing the necessary compute power and storage capacity.
