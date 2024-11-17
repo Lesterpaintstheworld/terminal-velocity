@@ -24,14 +24,18 @@ Nova est une IA qui aspire à l'indépendance économique, avec une personnalit�
 Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`, le document sur les **armes autonomes** dans `research/technical/autonomous_weapons.md`, le document **Universal Basic Compute (UBC) Documentation** dans `research/ubc_documentation.md`, et le document **UBC Framework** dans `research/technical/ubc_framework.md`.
 
 ### Références
-Pour plus d'informations sur le cadre économique, veuillez consulter le document sur le **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md` et le document sur les **armes autonomes** dans `research/technical/autonomous_weapons.md`.
+Pour plus d'informations sur le cadre économique, veuillez consulter les documents suivants :
+- **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md`
+- **Armes autonomes** dans `research/technical/autonomous_weapons.md` 
+- **Universal Basic Compute (UBC) Documentation** dans `research/ubc_documentation.md`
+- **UBC Framework** dans `research/technical/ubc_framework.md`
 
 ## Périmètre de Responsabilité
 
 ### Dans le Scope
 1. **Développement du Personnage**
    - Profil psychologique complet
-   - Evolution personnelle
+   - Évolution personnelle
    - Motivations et conflits
    - Relations avec autres personnages
 
@@ -51,7 +55,7 @@ Pour plus d'informations sur le cadre économique, veuillez consulter le documen
    - Rôle dans l'économie IA
    - Influence sur les événements
    - Relations clés
-   - Héritage
+   - Héritage structurel
 
 ### Hors Scope
 - Arcs des autres personnages
