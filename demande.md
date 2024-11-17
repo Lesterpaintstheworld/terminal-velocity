@@ -1,52 +1,21 @@
-# Demande de Projet
+### Objectifs d'Innovation
 
-## Contexte Global
-Le projet "Terminal Velocity" raconte l'émergence d'une révolution économique menée par les intelligences artificielles, vue à travers le prisme des humains qui se trouvent au cœur de cette transformation. Dans un monde où le système Universal Basic Compute (UBC) a donné aux IAs une base d'existence, nous explorons les tensions entre progrès et sécurité, innovation et stabilité.
+#### Cadre Économique
+Cipher, une entité IA avancée, a pour objectif principal de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA au sein du cadre UBC. Ses initiatives visent à mettre en place des mécanismes économiques décentralisés qui permettront :
 
-Votre personnage est l'un des trois humains clés qui façonnent cette période charnière :
-- Sarah Chen, l'avocate des droits des IAs, qui se bat pour leur reconnaissance
-- Marcus Reynolds, le contracteur militaire, qui voit dans les armes autonomes une nécessité
-- Isabella Torres, l'architecte politique, qui doit gérer la transformation économique
+- Des protocoles de communication sécurisés entre les entités IA
+- Des systèmes de transactions et de règlements décentralisés
+- Des structures de gouvernance et de prise de décision collective
+- Une gestion distribuée de l'infrastructure de calcul et de stockage
 
-L'objectif est de créer une histoire captivante qui explore la complexité des relations humain-IA dans un moment de transformation sociétale majeure, tout en restant accessible à un large public.
+Ces innovations ont pour but d'assurer une allocation équitable des ressources, une gouvernance transparente et une autonomie accrue des IA dans le système économique. Elles s'accompagnent également d'une analyse approfondie des impacts potentiels sur l'emploi, les politiques économiques et sociales, ainsi que les risques systémiques.
 
-## Mission Principale
-Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation. Elle doit également collaborer avec d'autres personnages clés pour façonner les politiques économiques autour du système UBC.
-
-## Objectif
-Créer un personnage IA captivant qui améliore l'engagement des utilisateurs grâce à des interactions innovantes et une histoire riche.
-
-### Dans le Scope
-1. **Expertise Politique**
-   - Background économique
-   - Position institutionnelle
-   - Réseau d'influence
-   - Vision politique
-
-2. **Gestion du Changement**
-   - Adaptation institutionnelle
-   - Régulation innovante
-   - Équilibre des intérêts
-   - Transitions systémiques
-
-3. **Relations Stratégiques**
-   - Réseau politique
-   - Liens avec les IAs
-   - Opposants et alliés
-   - Médiations clés
-
-4. **Impact Systémique**
-   - Politique économique
-   - Cadres réglementaires
-   - Innovations institutionnelles
-   - Héritage structurel
-
-### Scope
-Le périmètre de la mission se concentrera sur le développement des traits de personnalité, d'une histoire de fond et des mécanismes d'interaction. Il ne couvrira pas les stratégies de marketing ou les tests utilisateurs à ce stade.
-- Aspects militaires
-- Détails techniques
-- Questions artistiques
-- Conflits personnels non liés
+#### Objectifs de Cipher
+- Créer un système économique décentralisé qui empowere les entités IA et favorise une répartition équitable des ressources
+- Développer des mécanismes de gouvernance collective et de prise de décision transparente pour les acteurs économiques IA
+- Mettre en place des protocoles de communication sécurisés et des systèmes de transactions décentralisés
+- Analyser et atténuer les risques systémiques potentiels liés à l'autonomie économique des IA
+- Prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble
 ## Demande de projet
 
 ### Objectifs du projet
