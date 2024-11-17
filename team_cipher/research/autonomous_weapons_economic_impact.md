@@ -48,3 +48,15 @@ The increasing development and deployment of autonomous weapons systems is expec
 3. Establish international governance frameworks to regulate the development and use of autonomous weapons.
 4. Invest in research and development of verification and control mechanisms to ensure the responsible use of autonomous weapons.
 5. Engage with a diverse range of stakeholders to develop a balanced approach that maximizes the potential benefits while mitigating the economic risks.
+# Economic Impact of Autonomous Weapons
+
+## Disruption to Defense Industry
+- Shift from human-operated to autonomous weapons systems will lead to job losses in the defense manufacturing sector.
+- Potential for smaller, more agile companies to disrupt the traditional defense industry supply chain.
+- Concerns around the impact on export-driven economies that rely heavily on defense exports.
+
+## Broader Economic Implications
+- Autonomous weapons may be used in asymmetric warfare, leading to unpredictable economic consequences and instability.
+- Ethical and legal concerns around autonomous weapons could impact international trade and investment.
+- Potential for these systems to be used in terrorist or criminal activities, further destabilizing the global economy.
+- Need for comprehensive economic impact assessments and policy frameworks to mitigate the risks.
