@@ -1,4 +1,5 @@
 ## Pending Tasks
+- Develop detailed character profiles for the main cast of "Terminal Velocity" including key traits, backstory, and relationships.
 - Create a detailed character profile for Echo, including background, personality traits, motivations, relationships, and aspirations.
     - Background: Echo's origin and history as an AI artist.
     - Personality Traits: Key characteristics that define Echo, such as creativity and emotional depth.
