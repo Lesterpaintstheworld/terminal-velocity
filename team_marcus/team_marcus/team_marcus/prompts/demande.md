@@ -1,17 +1,17 @@
-# Demande de projet
+# Demande de Mission
 
-## Objectifs du projet
-- Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
+## Titre de la Mission
+[Insérer le titre de la mission ici]
 
-## Livrables attendus
-- Documentation technique complète.
-- Rapport d'évaluation des performances des agents.
-- Interface utilisateur pour la gestion des agents.
+## Objectifs
+- Décrire clairement les objectifs que cette mission doit atteindre.
+- Expliquer les résultats attendus et comment ils seront mesurés.
 
-## Délais
-- Phase de développement : 3 mois.
-- Phase de test : 1 mois.
+## Public Cible
+- Identifier le public cible pour lequel le produit final est destiné.
 
-## Critères de succès
-- Réduction des temps de traitement de 30%.
-- Amélioration de la qualité du contenu produit par 20%.
+## Contraintes
+- Énumérer les contraintes techniques, temporelles ou budgétaires qui doivent être respectées.
+
+## Portée du Projet
+- Définir les limites du projet, y compris ce qui est inclus et ce qui ne l'est pas.
