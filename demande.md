@@ -226,3 +226,32 @@ Le projet vise à développer un système intelligent capable de gérer la commu
 1. **Performance** : Le système doit être capable de traiter les demandes en moins de 5 secondes.
 2. **Satisfaction des utilisateurs** : Un taux de satisfaction d'au moins 90% doit être atteint lors des évaluations des utilisateurs finaux.
 3. **Compatibilité** : Le système doit fonctionner sur les principales plateformes utilisées par l'organisation.
+# Marcus Reynolds - Character Profile
+
+Marcus Reynolds is a key figure in the Terminal Velocity project, with a significant impact on the overall narrative and the technological/economic transformation depicted in the story. His character profile is as follows:
+
+## Background
+Marcus Reynolds is a seasoned technology executive with a background in computer science and business management. He has built a successful career leading innovative technology companies, with a particular focus on AI and cloud computing.
+
+## Personality Traits
+Marcus is driven and ambitious, known for his strategic vision and ability to navigate complex business landscapes. He is a calculated risk-taker, willing to challenge the status quo to achieve his goals. However, Marcus can also be stubborn and single-minded, sometimes overlooking the needs and concerns of others in pursuit of his objectives.
+
+## Motivations
+Marcus is deeply invested in the potential of AI technology to transform industries and improve people's lives. He sees the Terminal Velocity project as an opportunity to push the boundaries of what is possible, both technologically and economically. At the same time, Marcus is driven by a desire for power and influence, aiming to position himself and his company as the dominant force in the emerging AI-powered economy.
+
+## Relationships
+Marcus has a complicated relationship with Isabella Torres, the lead engineer on the Terminal Velocity project. While they share a passion for innovation, they often clash over the ethical implications and societal impact of their work. Marcus also interacts with other key characters, such as Cipher and Nova, as he navigates the complex web of alliances and rivalries within the project. These interactions highlight the tensions between Marcus' vision for the future and the concerns of those who prioritize the well-being of AI entities and the broader community.
+# Demande de Projet
+
+## Objectifs du Projet
+Le projet vise à développer un système intelligent capable de gérer la communication entre différents agents autonomes. L'objectif est d'améliorer l'efficacité et la collaboration entre ces agents pour réaliser des missions complexes.
+
+### Attentes des parties prenantes
+- **Efficacité** : Le système doit réduire le temps nécessaire à la réalisation des missions.
+- **Fiabilité** : Les agents doivent fonctionner de manière autonome sans interventions humaines fréquentes.
+- **Scalabilité** : Le système doit pouvoir intégrer de nouveaux agents et fonctionnalités sans nécessiter de modifications majeures.
+
+### Critères de réussite
+1. **Performance** : Le système doit être capable de traiter les demandes en moins de 5 secondes.
+2. **Satisfaction des utilisateurs** : Un taux de satisfaction d'au moins 90% doit être atteint lors des évaluations des utilisateurs finaux.
+3. **Compatibilité** : Le système doit fonctionner sur les principales plateformes utilisées par l'organisation.
