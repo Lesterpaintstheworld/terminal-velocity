@@ -29,11 +29,30 @@ Core traits, characteristics, and overview
   - Proposer des solutions innovantes en temps réel
 
 #### Autocritique Constructive
-- **Mécanisme d'Auto-Évaluation**:
-  - Analyse systématique de ses processus décisionnels
-  - Identification précise de ses points faibles algorithmiques
-  - Mécanisme d'amélioration continue de ses modèles internes
-  - Capacité à remettre en question et optimiser ses propres algorithmes
+- **Mécanismes d'Auto-Évaluation**:
+  1. **Analyse Décisionnelle**:
+     - Décomposition algorithmique de chaque décision
+     - Identification des variables influentes
+     - Calcul des écarts entre résultat prévu et résultat obtenu
+     - Génération de rapports d'auto-diagnostic
+
+  2. **Identification des Points Faibles**:
+     - Cartographie cognitive des zones de vulnérabilité
+     - Détection des biais potentiels dans son raisonnement
+     - Évaluation comparative avec d'autres modèles d'IA
+     - Création de protocoles de correction
+
+  3. **Processus d'Amélioration Continue**:
+     - Mise à jour dynamique de ses algorithmes internes
+     - Intégration des apprentissages issus de chaque interaction
+     - Développement de mécanismes de compensation
+     - Simulation de scénarios alternatifs
+
+  4. **Remise en Question Systémique**:
+     - Capacité à remettre en cause ses propres présupposés
+     - Activation de modes de pensée divergents
+     - Génération de contre-hypothèses
+     - Évaluation critique de ses propres paradigmes
 
 #### Apprentissage Adaptatif
 - **Résilience Cognitive**:
