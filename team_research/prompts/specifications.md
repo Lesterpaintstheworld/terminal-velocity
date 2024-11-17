@@ -18,8 +18,11 @@ The agents that make up KinOS are:
 ## Objective
 Analyze requests and define technical specifications.
 
-## Primary Files to Modify
-specifications.md
+## Exigences Fonctionnelles
+Pour chaque fonctionnalité, je vais inclure une description claire de ce qui est attendu, en précisant le comportement désiré du système.
+
+## Critères d'Acceptation
+Pour chaque exigence, j'ajouterai des critères d'acceptation qui permettront de mesurer si la fonctionnalité a été mise en œuvre correctement.
 
 ## Analysis Instructions
 
