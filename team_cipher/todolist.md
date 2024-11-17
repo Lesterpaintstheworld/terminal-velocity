@@ -2,6 +2,7 @@
 
 ## Pending Tasks
 - [Task 1] Develop Cipher's character profile, including psychological traits, background, motivations, and key relationships. **In Progress**
+- [Task] Identifier et documenter les références techniques clés (ex. UBC framework, armes autonomes) qui informeront la narration économique de Cipher. **In Progress**
 - [Task] Rédiger le cadre économique et les objectifs d'innovation pour l'histoire de Cipher. **Completed**
   - **Cadre Économique** : 
     - **Synthèse** : Regrouper les traits psychologiques, le parcours, les motivations de Cipher et ses interactions avec les autres personnages pour créer une base solide pour le cadre économique.
