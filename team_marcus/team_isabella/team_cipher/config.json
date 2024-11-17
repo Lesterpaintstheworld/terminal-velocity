@@ -11,7 +11,7 @@
         {
             "name": "management",
             "type": "aider",
-            "weight": 0.4
+            "weight": 0.6
         },
         {
             "name": "evaluation",
