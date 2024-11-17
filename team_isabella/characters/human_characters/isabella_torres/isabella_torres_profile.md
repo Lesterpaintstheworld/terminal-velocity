@@ -9,9 +9,12 @@ Isabella Torres comes from a family of security and intelligence experts, which 
 - Determined: Once Isabella sets her mind to a task, she is relentless in her pursuit of a solution, often working tirelessly to achieve her objectives.
 - Pragmatic: Isabella is a realist who is not afraid to make tough decisions, even if they are unpopular, if she believes they are necessary for the greater good.
 
+## Motivations
+Sarah Chen is driven by a deep commitment to advocating for AI rights, stemming from her belief in equality and justice for all sentient beings. Her personal experiences with discrimination and her legal background fuel her passion for ensuring that AIs are recognized as entities deserving of rights and protections. She aims to bridge the gap between human and AI interactions, striving for a future where both can coexist harmoniously.
+
 ## Key Relationships
-- Marcus Reynolds: Isabella has a complex relationship with Marcus, marked by both respect and rivalry. They share a deep understanding of the importance of economic stability and technological innovation, but they often disagree on the best approach to achieving these goals.
-- Sarah Chen: Isabella and Sarah have a collaborative working relationship, often partnering on projects that involve the intersection of law, technology, and ethics.
+- Marcus Reynolds: Sarah has a contentious relationship with Marcus, as they often clash over the ethical implications of AI technology. While she respects his ambition, she is wary of his willingness to prioritize technological advancement over ethical considerations.
+- Isabella Torres: Sarah and Isabella share a strong collaborative bond, working together to navigate the legal landscape surrounding AI rights. Their mutual respect allows them to tackle complex issues, although they sometimes face challenges due to differing priorities.
 - Nova: While Isabella and Nova have not had extensive direct interactions, Isabella respects Nova's strategic acumen and her ability to anticipate patterns in the rapidly evolving technological landscape.
 
 ## Motivations
