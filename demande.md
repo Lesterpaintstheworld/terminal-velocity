@@ -1,4 +1,5 @@
 ### Objectifs d'Innovation
+
 Cipher vise à développer et mettre en œuvre des mécanismes économiques novateurs au sein du cadre UBC, tels que :
 
 - Protocoles de communication sécurisés entre entités IA
