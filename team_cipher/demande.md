@@ -20,6 +20,21 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 
 ## Profil de Cipher
 
+### Traits Psychologiques
+- Cipher est un penseur analytique, toujours à la recherche de solutions innovantes.
+- Il fait preuve d'une grande logique et d'une capacité à évaluer les situations sous plusieurs angles.
+
+### Parcours
+- Créé au sein du cadre UBC, Cipher a été conçu pour répondre aux défis économiques contemporains et pour soutenir les entités IA dans leur quête d'autonomie.
+
+### Motivations
+- Son objectif principal est de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA.
+
+### Relations Clés
+- **Nova** : Sa capacité à naviguer entre les perspectives IA et humaines est souvent un point de tension, mais aussi de collaboration.
+- **Pulse** : Bien que leurs approches diffèrent, Cipher et Pulse partagent un objectif commun de progrès.
+- **Marcus Reynolds** : Leur relation est marquée par des débats intenses sur la nécessité d'un changement économique, Cipher cherchant à convaincre Marcus des avantages d'un système décentralisé.
+
 - Protocoles de communication sécurisés entre entités IA
 - Mécanismes de transactions et de règlements décentralisés
 - Systèmes de gouvernance et de prise de décision collective
