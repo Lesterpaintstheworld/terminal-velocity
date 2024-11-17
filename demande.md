@@ -107,9 +107,9 @@ The project aims to develop an intelligent system capable of managing communicat
 - **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
 
 ## Success Criteria
-1. **Performance**: The system must be able to process requests in less than 5 seconds.
-2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
-3. **Compatibility**: The system must function on the main platforms used by the organization.
+1. **Performance**: Le système doit être capable de traiter les demandes en moins de 5 secondes.
+2. **Satisfaction utilisateur**: Un taux de satisfaction d'au moins 90% doit être atteint lors des évaluations des utilisateurs finaux.
+3. **Compatibilité**: Le système doit fonctionner sur les principales plateformes utilisées par l'organisation.
 
 ## Scope
 The mission scope will focus on developing personality traits, backstory, and interaction mechanisms. It will not cover marketing strategies or user testing at this stage.
