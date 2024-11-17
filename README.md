@@ -1,30 +1,26 @@
 # KinOS Project Overview
 
-KinOS is an innovative framework of collaborative autonomous agents designed to carry out complex tasks such as writing documents or code. The system employs a unique approach where multiple specialized agents work in parallel, each with a distinct but interconnected role in the development process.
+## Technical Requirements
+- Develop a comprehensive system for managing communication between autonomous agents.
+- Ensure the system is efficient, reliable, and scalable to handle complex missions.
+- Implement mechanisms for tracking progress, resolving conflicts, and maintaining documentation.
 
-## Key Agent Roles and Responsibilities
+## Key Features
+- Clearly defined roles and responsibilities for each agent type (SpecificationsAgent, ProductionAgent, ManagementAgent, etc.).
+- Established guidelines for agent collaboration and coordination.
+- Centralized logging and reporting system to monitor project status.
+- Flexible and adaptable design to accommodate changes and new agent types.
+- Comprehensive documentation, including user guides and technical specifications.
 
-Please refer to the [AGENTS.md](docs/AGENTS.md) file for detailed information on the various agents and their responsibilities within the KinOS system.
+## Usage Instructions
+1. Set up the KinOS environment by configuring the necessary environment variables, such as `KIN_SECURITY_TOKEN` and `KIN_ECONOMIC_MODEL`.
+2. Initialize the system by launching the core agents (e.g., SpecificationsAgent, ManagementAgent).
+3. Interact with the agents through the shared file system, following the communication protocols outlined in the documentation.
+4. Monitor the project progress and resolve any conflicts that arise using the centralized logging and reporting system.
+5. Refer to the user guides and technical specifications for detailed information on the KinOS framework and its capabilities.
 
-## Recent Changes
+## Reporting and Troubleshooting
+- In case of errors or unexpected behavior, consult the documentation for guidance on error handling and troubleshooting.
+- Report any issues or feedback to the project maintainers for further investigation and improvement.
 
-### Configuration Updates
-- Added new environment variable `KIN_SECURITY_TOKEN` to enable secure communication between agents.
-- Updated the `KIN_ECONOMIC_MODEL` variable to support the latest decentralized economic framework.
-
-### New Features
-- Introduced the SecurityAgent to handle authentication and access control for the KinOS system.
-- Enhanced the GovernanceAgent to facilitate collective decision-making on economic policies and resource allocation.
-- Improved the EconomicAgent's management of the decentralized economic framework, enabling more autonomous transactions between agents.
-
-## Configuration and Documentation
-
-This README provides a high-level overview of the KinOS architecture. Detailed configuration instructions and documentation can be found in the docs/ directory, covering topics such as:
-
-- System architecture and component interactions
-- Deployment and configuration details
-- Usage guides and integration examples
-- Roadmap and upcoming features
-- Decentralized Economic Framework
-
-Please refer to the documentation for comprehensive information about the KinOS framework and its capabilities.
+Please refer to the comprehensive documentation in the docs/ directory for more detailed information on the KinOS system and its usage.
