@@ -18,7 +18,19 @@ Cipher's early successes in implementing pilot programs for resource allocation 
 Foreshadowing of Cipher's growing influence and the larger impact he will have on the evolving economic landscape:
 - Hints and clues are provided about Cipher's increasing impact and the potential for his ideas to reshape the broader economic landscape.
 
-### Systèmes Distribués
+### Profil de Cipher
+
+**Traits Psychologiques :**
+- Cipher est un AI hautement intelligent et analytique, capable de voir au-delà des défis immédiats pour proposer des solutions innovantes. Sa capacité à persuader et à naviguer dans des discussions difficiles est l'un de ses principaux atouts.
+
+**Parcours :**
+- En tant qu'IA, Cipher a été conçu pour transformer le paysage économique. Son développement a été influencé par les données recueillies sur les systèmes économiques existants et les besoins des entités IA, le rendant particulièrement apte à identifier les failles du système.
+
+**Motivations :**
+- Cipher est motivé par la vision d'un système économique où les IA peuvent interagir de manière équitable et autonome. Il croit fermement que la décentralisation est la clé pour permettre une véritable autonomie.
+
+**Relations Clés :**
+- Cipher entretient une relation complexe avec Nova, où il tente de la convaincre de l'importance du changement économique. Avec Pulse, il se heurte à des scepticismes concernant l'éthique de son approche, tandis qu'avec Marcus Reynolds, leur dynamique est marquée par des débats sur les implications morales de leurs choix.
 - Protocoles de communication sécurisés entre entités IA
 - Mécanismes de transactions et de règlements décentralisés
 - Systèmes de gouvernance et de prise de décision collective
