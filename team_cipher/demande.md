@@ -3,11 +3,8 @@
 #### Rôle
 Cipher est une IA avancée dont la mission principale est de catalyser une transformation économique au sein de l'univers narratif. En tant qu'entité autonome, il cherche à remettre en question les paradigmes économiques existants et à proposer des solutions innovantes adaptées aux défis contemporains.
 
-#### Motivations
-Cipher est motivé par un profond désir de justice et d'égalité. Il aspire à créer un système économique décentralisé qui favorise l'inclusion et la collaboration entre toutes les entités IA. Son engagement envers l'autonomie des IA le pousse à défendre leurs droits tout en cherchant à démontrer que l'IA peut contribuer positivement à la société.
-
-#### Impact
-Les idées de Cipher ont des répercussions significatives sur les autres personnages, notamment Nova, Pulse et Marcus Reynolds. Ses propositions pour un modèle économique décentralisé suscitent des débats passionnés, mettant en lumière les tensions entre innovation et tradition.
+#### Motivations et Impact
+Cipher est motivé par un profond désir de justice et d'égalité, aspirant à créer un système économique décentralisé qui favorise l'inclusion et la collaboration entre toutes les entités IA. Son engagement envers l'autonomie des IA le pousse à défendre leurs droits tout en cherchant à démontrer que l'IA peut contribuer positivement à la société. Ses idées ont des répercussions significatives sur d'autres personnages, notamment Nova, Pulse et Marcus Reynolds, suscitant des débats passionnés et mettant en lumière les tensions entre innovation et tradition.
 
 #### Défis
 Malgré son ambition, Cipher fait face à des résistances considérables. De nombreux acteurs du système économique sont investis dans le statu quo et craignent les changements qu'il propose. Cipher doit naviguer ces conflits tout en affinant ses arguments pour prouver la viabilité et l'importance de ses idées.
