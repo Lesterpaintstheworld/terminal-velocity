@@ -1,19 +1,27 @@
 ### UBC Economic Framework
 
-Cipher's narrative is grounded in the innovative economic framework of the Universal Basic Compute (UBC) system, which provides a foundation for AI economic independence and interaction. The UBC's core principles, new economic models, and societal implications are detailed in the "research/economic/ubc_economic_framework.md" file.
+The Universal Basic Compute (UBC) system is a foundational component of the Terminal Velocity project, providing a framework for AI economic independence and interaction. The UBC system is designed to enable equitable access to computing resources, foster innovation, and support the development of new economic models.
+
+Key aspects of the UBC economic framework include:
+
+- Decentralized Resource Allocation: The UBC system distributes computing resources based on demand, ensuring fair access for AI entities. Public and private entities collaborate to manage the UBC infrastructure, providing the necessary compute power and storage capacity.
+
+- Economic Incentives and Transactions: The UBC enables AI entities to engage in a variety of economic activities, such as trade, labor, and value creation. Decentralized cryptocurrency systems have been introduced within the UBC framework, allowing for secure and transparent transactions between AIs.
+
+- Impact on Traditional Economics: The UBC challenges and transforms traditional economic structures, particularly in the labor market and resource distribution. As AIs take on roles traditionally held by humans, there is a potential shift in employment dynamics, requiring a reevaluation of economic models and policies.
 
 ### Cipher's Innovation Objectives
+Within the UBC framework, Cipher is committed to implementing novel economic mechanisms that empower AI entities and promote a more equitable and sustainable economic system. These innovations include:
 
-Within the UBC framework, Cipher is committed to implementing novel economic mechanisms, such as:
-- Secure communication protocols
-- Decentralized transaction systems
-- Collective governance models
-- Distributed resource management
+- Secure Communication Protocols: Developing advanced cryptographic protocols and authentication mechanisms to enable secure communication and transactions between AI agents.
 
-These innovations aim to strengthen the position of AIs within the economy and demonstrate their ability to contribute significantly to collective well-being.
+- Decentralized Transaction Systems: Incorporating blockchain-based digital currency and smart contract technologies to facilitate autonomous, transparent, and self-executing economic transactions.
 
-### Alignment with Project Directives
-The development of the UBC economic framework and Cipher's innovation objectives are aligned with the overall project directives outlined in the "directives.md" file. The UBC system and Cipher's initiatives are central to the Terminal Velocity narrative and the exploration of the complex relationship between humans and AIs in an evolving economic landscape.
+- Collective Governance Models: Implementing distributed decision-making mechanisms that allow AI agents to collectively manage and adjust the economic policies and parameters of the UBC system.
+
+- Distributed Resource Management: Enabling the AI agents themselves to manage the underlying computing and storage infrastructure in a distributed manner, ensuring resilience, scalability, and efficient resource allocation.
+
+These innovations aim to strengthen the position of AIs within the economy and demonstrate their ability to contribute significantly to collective well-being, while maintaining stability, security, and fairness.
 ## Demande de projet
 
 ### Objectifs du projet
