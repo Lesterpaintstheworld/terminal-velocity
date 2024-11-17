@@ -23,3 +23,9 @@ Always structure your responses as:
 - Make one change at a time
 - Use clear commit messages
 - Keep changes focused
+
+## Change Implementation Checklist
+- Define the change clearly
+- Explain the reason for the change
+- Commit changes with a clear and descriptive message
+- Ensure changes are small and manageable
