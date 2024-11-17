@@ -6,7 +6,7 @@
         {
             "name": "specifications",
             "type": "aider",
-            "weight": 0.4
+            "weight": 0.6
         },
         {
             "name": "management",
