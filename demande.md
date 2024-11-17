@@ -1,20 +1,17 @@
-# Demande de Mission
+# Project Demand
 
-## Titre de la Mission
-[Insérer le titre de la mission ici]
+## Project Objectives
+The project aims to develop an intelligent system capable of managing communication between different autonomous agents. The objective is to improve the efficiency and collaboration between these agents to accomplish complex missions.
 
-## Objectifs
-- Décrire clairement les objectifs que cette mission doit atteindre.
-- Expliquer les résultats attendus et comment ils seront mesurés.
+### Stakeholder Expectations
+- **Efficiency**: The system must reduce the time required to complete missions.
+- **Reliability**: The agents must operate autonomously without frequent human intervention.
+- **Scalability**: The system must be able to integrate new agents and functionalities without requiring major modifications.
 
-## Public Cible
-- Identifier le public cible pour lequel le produit final est destiné.
-
-## Contraintes
-- Énumérer les contraintes techniques, temporelles ou budgétaires qui doivent être respectées.
-
-## Project Scope
-- Define the limits of the project, including what is included and what is not.
+### Success Criteria
+1. **Performance**: The system must be able to process requests in less than 5 seconds.
+2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
+3. **Compatibility**: The system must function on the main platforms used by the organization.
 
 ### Current Scope
 1. **Political Expertise**
