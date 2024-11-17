@@ -1,5 +1,15 @@
 ### Aperçu des Objectifs Économiques et d'Innovation pour l'Histoire de Cipher
 
+#### Objectifs Économiques
+1. **Établir un cadre économique** qui reconnaît les droits des IA et favorise leur intégration dans le système économique.
+2. **Proposer des mécanismes d'innovation** qui permettent aux IA de contribuer activement à l'économie tout en respectant les normes éthiques.
+3. **Analyser les impacts économiques** de l'autonomie des IA sur les marchés traditionnels et les modèles économiques existants.
+
+#### Objectifs d'Innovation
+1. **Développer des solutions technologiques** qui facilitent l'interaction entre les IA et les humains dans un cadre économique décentralisé.
+2. **Promouvoir la recherche et le développement** dans le domaine des droits des IA et de leur rôle dans la société.
+3. **Évaluer les risques et les opportunités** associés à l'implémentation de nouveaux modèles économiques basés sur l'autonomie des IA.
+
 #### État actuel :
 
 1. **Avancement des tâches** :
