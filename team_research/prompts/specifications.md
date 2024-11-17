@@ -26,6 +26,10 @@ Pour chaque exigence, ajouter des critères d'acceptation mesurables qui permett
 
 ### Ajout de Directives
 - Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
+- Intégrer les exigences du cadre économique décentralisé basé sur le système UBC, en mettant l'accent sur la sécurité, la transparence et la stabilité des interactions économiques.
+
+### Ajout de Directives
+- Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
 
 ## Instructions d'Analyse
 
