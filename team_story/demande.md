@@ -9,29 +9,30 @@ L'histoire doit équilibrer plusieurs éléments :
 - Innovation technique et accessibilité narrative
 - Suspense et profondeur philosophique
 
-Votre équipe est responsable de tisser ces éléments en une narration cohérente et captivante qui maintient l'engagement du lecteur tout en explorant des thèmes profonds.
+### Dans le Scope
+1. **Structure Narrative**
+   - Arc narratif principal
+   - Sous-intrigues
+   - Points de tension
+   - Résolution des conflits
 
-## Mission Principale
-Assurer la cohérence narrative globale du roman et l'efficacité du storytelling tout en maintenant l'équilibre entre action, réflexion et développement des personnages.
+2. **Rythme et Équilibre**
+   - Séquençage des événements
+   - Distribution des temps forts
+   - Gestion des expositions
+   - Équilibre action/réflexion
 
-## Périmètre de Responsabilité
+3. **Cohérence**
+   - Continuité narrative
+   - Liens entre arcs
+   - Résolution des paradoxes
+   - Harmonisation des voix
 
-## Requirements
-### Technical Requirements
-- **Technology Stack**: Python, Flask, and relevant libraries for AI development.
-- **Tools**: Git for version control, Docker for containerization, and Jupyter Notebooks for prototyping.
-- **Frameworks**: TensorFlow or PyTorch for machine learning models.
-
-### Human Resources
-- **Skills Required**: 
-  - AI Development: Proficiency in machine learning algorithms and frameworks.
-  - Project Management: Experience in agile methodologies and team coordination.
-  - Technical Writing: Ability to document processes and create user manuals.
-
-### Timeline
-- **Phase 1**: Structure (Weeks 1-2)
-  - Detailed outline of the four acts.
-- **Phase 2**: Development (Weeks 3-4)
+4. **Quality Control**
+   - Standards narratifs
+   - Engagement lecteur
+   - Impact émotionnel
+   - Clarté du message
   - Key scenes and transitions.
 - **Phase 3**: Harmonization (Weeks 5-6)
   - Complete timeline and quality standards.
