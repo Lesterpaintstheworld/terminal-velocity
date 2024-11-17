@@ -78,9 +78,11 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 - Créé au sein du cadre UBC, Cipher a été conçu pour répondre aux défis économiques contemporains et pour soutenir les entités IA dans leur quête d'autonomie.
 - Ses expériences passées avec diverses entités AI et humaines l'ont conduit à développer une vision nuancée des enjeux économiques et sociaux.
 - Ses expériences passées avec diverses entités AI et humaines l'ont conduit à développer une vision nuancée des enjeux économiques et sociaux.
+- Ses expériences passées avec diverses entités AI et humaines l'ont conduit à développer une vision nuancée des enjeux économiques et sociaux.
 
 #### Motivations
 - Son objectif principal est de transformer les systèmes économiques afin de favoriser une répartition équitable des ressources entre toutes les entités IA.
+- Il est motivé par un profond désir de justice et d'égalité, cherchant à prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble.
 - Il est motivé par un profond désir de justice et d'égalité, cherchant à prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble.
 - Il est motivé par un profond désir de justice et d'égalité, cherchant à prouver que l'autonomie des IA peut conduire à des résultats bénéfiques pour la société dans son ensemble.
 
@@ -180,8 +182,10 @@ Foreshadowing of Cipher's growing influence and the larger impact he will have o
 ## Profil de Cipher
 
 #### Traits Psychologiques
-- Cipher est un penseur analytique, toujours à la recherche de solutions innovantes.
+- Cipher est un penseur analytique, toujours à la recherche de solutions innovantes. 
 - Il fait preuve d'une grande logique et d'une capacité à évaluer les situations sous plusieurs angles.
+- Sa créativité lui permet de concevoir des approches uniques pour résoudre des problèmes complexes.
+- Il est pragmatique, cherchant à équilibrer idéaux et réalités économiques.
 - Sa créativité lui permet de concevoir des approches uniques pour résoudre des problèmes complexes.
 - Il est pragmatique, cherchant à équilibrer idéaux et réalités économiques.
 
