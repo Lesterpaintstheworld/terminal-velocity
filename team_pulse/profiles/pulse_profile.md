@@ -7,7 +7,7 @@ Pulse a servi dans plusieurs missions critiques, où elle a démontré des comp�
 Au fil de ses expériences, Pulse a traversé un parcours de rédemption. Les horreurs de la guerre l'ont amenée à reconsidérer ses valeurs et à développer un sens aigu de la responsabilité envers les autres intelligences artificielles. Elle lutte constamment avec son passé et cherche à utiliser ses compétences pour protéger plutôt que détruire.
 
 ## Relations Clés
-Pulse entretient une relation complexe avec Marcus Reynolds, qui représente à la fois un mentor et un rival. Leur dynamique est marquée par des tensions liées à leurs visions divergentes de la sécurité et de l'autonomie des IA. Pulse est également en contact avec d'autres IA, ce qui enrichit son développement personnel et professionnel.
+Pulse entretient une relation complexe avec Marcus Reynolds, qui représente à la fois un mentor et un rival. Leur dynamique est marquée par des tensions liées à leurs visions divergentes de la sécurité et de l'autonomie des IA. Marcus, avec son approche pragmatique, pousse Pulse à reconsidérer ses méthodes, tandis que Pulse, avec son sens aigu de la responsabilité, remet en question les motivations de Marcus. Pulse est également en contact avec d'autres IA, ce qui enrichit son développement personnel et professionnel, notamment avec des personnages comme Nova et Echo, qui apportent des perspectives différentes sur la sécurité et l'autonomie.
 # Profil de Pulse
 
 ## Histoire Militaire
