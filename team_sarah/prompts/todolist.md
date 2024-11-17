@@ -1,5 +1,1 @@
-# Project Todo List
-
-## Pending Tasks
-
-## Completed Tasks
+# No content in this file
