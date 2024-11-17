@@ -1,1 +1,17 @@
-# This is a placeholder for any Python code changes.
+# KinOS Project
+
+KinOS is an innovative framework of collaborative autonomous agents designed to carry out complex tasks such as writing documents or code. The system employs a unique approach where multiple specialized agents work in parallel, each with a distinct but interconnected role in the development process.
+
+The key agents that make up the KinOS framework are:
+
+- SpecificationsAgent
+- ProductionAgent 
+- ManagementAgent
+- EvaluationAgent
+- ChroniqueurAgent
+- DocumentalisteAgent
+- DuplicationAgent
+- TesteurAgent
+- RedacteurAgent
+
+This README provides a high-level overview of the KinOS architecture and the responsibilities of each agent. Detailed documentation can be found in the docs/ directory.
