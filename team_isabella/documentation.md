@@ -108,3 +108,16 @@ Isabella will work on integrating ethical AI practices into economic policies an
 
 ## Current Status
 - Documentation is now complete and ready for the next phases of the project.
+# Documentation du Projet Terminal Velocity
+
+## Objectifs du Projet
+L'objectif principal de ce projet est de développer le personnage d'Isabella Torres, architecte de politique économique, et d'explorer ses interactions avec d'autres personnages clés dans le cadre de la révolution économique menée par les intelligences artificielles.
+
+## Spécifications Techniques
+- **Personnage** : Isabella Torres
+- **Rôle** : Architecte politique
+- **Thèmes abordés** : Innovation, stabilité, relations humain-IA
+
+## Exigences pour la Validation
+- La documentation doit être complète et refléter fidèlement les spécifications du projet.
+- Les interactions et les initiatives d'Isabella doivent être clairement définies et documentées pour assurer la cohérence narrative.
