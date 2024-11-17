@@ -1,7 +1,8 @@
 # Métriques Quantitatives
-- Fichiers demandés: 6 [✓]
-- Fichiers produits: 0 [❌]
-- Spécifications respectées: Non [❌]
+- Fichiers de demande: 1/1 [✓]
+- Fichiers de directives: 1/1 [✓] 
+- Fichiers de spécifications: 1/1 [✓]
+- Fichiers de documentation: 0/1 [❌]
 
 # Statut Global
-REJECTED : Le contenu produit ne respecte pas les spécifications de la demande. Aucun fichier pertinent n'est présent pour valider l'état actuel du projet.
+REJECTED : Contenu de documentation manquant
