@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+aider.code-workspace
+*.pyc
+.aider*
+.kinos*
+aider_chat.egg-info/
+build
+dist/
+Gemfile.lock
+_site
+.jekyll-cache/
+.jekyll-metadata
+aider/__version__.py
+.venv/
+.env
