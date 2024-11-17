@@ -96,46 +96,23 @@ The project aims to develop an intelligent system capable of managing communicat
 3. **Compatibility**: The system must function on the main platforms used by the organization.
 # Project Demand
 
-## Global Context
-The "Terminal Velocity" project tells the story of an economic revolution led by artificial intelligences, seen through the lens of the humans at the heart of this transformation. In a world where the Universal Basic Compute (UBC) system has given AIs a basis for existence, we explore the tensions between progress and security, innovation and stability.
+## Objectives
+- Clearly define the expectations and desired outcomes for the mission.
+- Clarify the role of each agent involved in the mission to ensure effective coordination.
+- Establish a schedule of deliverables and milestones to be achieved.
 
-Your character is one of the three key humans shaping this pivotal period:
-- Sarah Chen, the AI rights advocate, fighting for their recognition
-- Marcus Reynolds, the military contractor, who sees autonomous weapons as a necessity
-- Isabella Torres, the policy architect, who must manage the economic transformation
+## Context
+This mission aims to develop an economic framework for the analysis of autonomous weapons. The agents must collaborate in an interdisciplinary manner to produce optimal results and ensure that all technical specifications are met.
 
-The goal is to create a captivating story that explores the complexity of human-AI relationships in a time of major societal transformation, while remaining accessible to a wide audience.
+## Expectations
+- Each agent must provide regular updates on the progress of their tasks.
+- The produced documents must comply with the established guidelines.
+- The quality and relevance of the contributions must be evaluated at each stage.
 
-## Primary Mission
-Develop the character of Isabella Torres, an economic policy architect, who must navigate between innovation and stability in the face of an emerging autonomous AI economy, embodying the institutional challenges of this transformation. She must also collaborate with other key characters to shape the economic policies around the UBC system.
-
-## Objective
-Create a compelling AI character that enhances user engagement through innovative interactions and a rich backstory.
-
-### In Scope
-1. **Political Expertise**
-   - Economic background
-   - Institutional position
-   - Network of influence
-   - Political vision
-
-2. **Change Management**
-   - Institutional adaptation
-   - Innovative regulation
-   - Balancing of interests
-   - Systemic transitions
-
-3. **Strategic Relationships**
-   - Political network
-   - Connections with AIs
-   - Opponents and allies
-   - Key mediations
-
-4. **Systemic Impact**
-   - Economic policy
-   - Regulatory frameworks
-   - Institutional innovations
-   - Structural legacy
+## Next Steps
+- Finalize the technical specifications.
+- Establish a detailed work plan for each agent.
+- Organize an alignment meeting to discuss roles and responsibilities.
 
 ### Scope
 The mission scope will focus on developing personality traits, backstory, and interaction mechanisms. It will not cover marketing strategies or user testing at this stage.
