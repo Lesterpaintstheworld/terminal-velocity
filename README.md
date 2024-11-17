@@ -16,6 +16,11 @@ KinOS is an innovative framework of collaborative autonomous agents designed to 
 - **GovernanceAgent**: Facilitates the collective decision-making process for adjusting economic policies and parameters.
 - **EconomicAgent**: Manages the decentralized economic framework and autonomous transactions within the UBC system.
 
+## Recent Changes
+- Added the SecurityAgent to handle secure communication and access control.
+- Updated the GovernanceAgent to facilitate collective decision-making on economic policies.
+- Improved the EconomicAgent's management of the decentralized economic framework and autonomous transactions.
+
 ## Configuration and Documentation
 
 This README provides a high-level overview of the KinOS architecture and the responsibilities of each agent. Detailed configuration instructions and documentation can be found in the docs/ directory, covering topics such as:
