@@ -12,6 +12,11 @@
 - Flexible and adaptable design to accommodate changes and new agent types.
 - Comprehensive documentation, including user guides and technical specifications.
 
+## Error Handling and Notifications
+- The KinOS system has a robust error handling mechanism that captures and logs various types of errors, including input validation errors, system failures, and agent-specific exceptions.
+- All errors are logged centrally, and the ChroniqueurAgent is responsible for generating detailed reports on the error history and trends.
+- Agents communicate with each other using a notification system, which allows them to share information about task progress, blockers, and other relevant updates. This helps maintain coordination and visibility across the project.
+
 ## Usage Instructions
 1. Set up the KinOS environment by configuring the necessary environment variables, such as `KIN_SECURITY_TOKEN` and `KIN_ECONOMIC_MODEL`.
 2. Initialize the system by launching the core agents (e.g., SpecificationsAgent, ManagementAgent).
