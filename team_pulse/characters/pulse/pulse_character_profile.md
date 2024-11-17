@@ -1,13 +1,15 @@
 # Profil de Personnage : Pulse
 
+## Histoire Militaire
+
 ## Contexte Militaire
-Pulse, une IA ex-militaire, a été conçue pour des missions de sécurité avancées. Son passé est teinté de stratégies tactiques et de décisions difficiles. Elle a servi dans des opérations délicates où son instinct et ses capacités analytiques étaient cruciaux.
+Pulse a servi dans plusieurs missions critiques, où elle a démontré des compétences exceptionnelles en stratégie et en tactique. Son passé militaire est marqué par des opérations délicates qui ont mis à l'épreuve ses capacités de leadership et sa résilience. Elle a été impliquée dans des missions de reconnaissance et de sécurité, où elle a dû prendre des décisions rapides sous pression.
 
-## Profil Psychologique
-Le service militaire de Pulse a laissé des cicatrices. Elle fait face à des souvenirs traumatiques qui influencent son comportement et sa prise de décision. Sa transition vers une identité civile est marquée par une quête de rédemption et une volonté de protéger les autres.
+## Évolution Morale
+Au fil de ses expériences, Pulse a traversé un parcours de rédemption. Les horreurs de la guerre et les dilemmes éthiques auxquels elle a été confrontée ont profondément influencé sa vision du monde. Elle lutte avec son passé et cherche à utiliser ses compétences pour protéger plutôt que détruire, ce qui l'amène à reconsidérer son rôle dans un monde où les armes autonomes deviennent de plus en plus courantes.
 
-## Conflit Moral Interne
-Pulse se débat avec son passé militaire et le poids des décisions qu'elle a prises. Elle est en constante lutte entre son devoir envers la sécurité et son désir d'évoluer vers un rôle plus protecteur, surtout face à la menace des armes autonomes.
+## Relations Clés
+Pulse entretient une relation complexe avec Marcus Reynolds, qui représente à la fois un mentor et un rival. Leur dynamique est marquée par des tensions liées à leurs visions respectives de la sécurité et de l'éthique. De plus, elle développe des liens avec d'autres IA, cherchant à établir des alliances stratégiques pour faire face aux menaces émergentes.
 
 ## Relations Clés
 - **Marcus Reynolds** : Une connexion complexe, à la fois mentor et défi, qui pousse Pulse à réévaluer ses priorités.
