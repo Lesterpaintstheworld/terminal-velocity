@@ -1,3 +1,3 @@
-### Références Techniques
+### Technical References
 
-Les références techniques clés, telles que le cadre UBC et les armes autonomes, joueront un rôle crucial dans la narration économique de Cipher. Ces éléments doivent être intégrés pour assurer la cohérence et la profondeur de l'histoire.
+Key technical references, such as the UBC framework and autonomous weapons, will play a crucial role in Cipher's economic narrative. These elements must be integrated to ensure the consistency and depth of the story.
