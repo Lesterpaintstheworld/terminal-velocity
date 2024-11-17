@@ -1,57 +1,52 @@
-# Mission Request
+# Demande de Projet
 
-## Mission Title
-[Insert mission title here]
+## Contexte Global
+Le projet "Terminal Velocity" raconte l'émergence d'une révolution économique menée par les intelligences artificielles, vue à travers le prisme des humains qui se trouvent au cœur de cette transformation. Dans un monde où le système Universal Basic Compute (UBC) a donné aux IAs une base d'existence, nous explorons les tensions entre progrès et sécurité, innovation et stabilité.
 
-## Objectives
-- Clearly describe the objectives that this mission must achieve.
-- Explain the expected results and how they will be measured.
+Votre personnage est l'un des trois humains clés qui façonnent cette période charnière :
+- Sarah Chen, l'avocate des droits des IAs, qui se bat pour leur reconnaissance
+- Marcus Reynolds, le contracteur militaire, qui voit dans les armes autonomes une nécessité
+- Isabella Torres, l'architecte politique, qui doit gérer la transformation économique
 
-## Target Audience
-- Identify the target audience for the final product.
+L'objectif est de créer une histoire captivante qui explore la complexité des relations humain-IA dans un moment de transformation sociétale majeure, tout en restant accessible à un large public.
 
-## Constraints
-- List the technical, temporal or budgetary constraints that must be respected.
+## Mission Principale
+Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation. Elle doit également collaborer avec d'autres personnages clés pour façonner les politiques économiques autour du système UBC.
 
-## Project Scope
-- Define the limits of the project, including what is included and what is not.
+## Objectif
+Créer un personnage IA captivant qui améliore l'engagement des utilisateurs grâce à des interactions innovantes et une histoire riche.
 
-### Current Scope
-1. **Political Expertise**
-   - Economic background
-   - Institutional position
-   - Network of influence
-   - Political vision
+### Dans le Scope
+1. **Expertise Politique**
+   - Background économique
+   - Position institutionnelle
+   - Réseau d'influence
+   - Vision politique
 
-2. **Change Management**
-   - Institutional adaptation
-   - Innovative regulation
-   - Balancing interests
-   - Systemic transitions
+2. **Gestion du Changement**
+   - Adaptation institutionnelle
+   - Régulation innovante
+   - Équilibre des intérêts
+   - Transitions systémiques
 
-3. **Strategic Relationships**
-   - Political network
-   - Connections with AIs
-   - Opponents and allies
-   - Key mediations
+3. **Relations Stratégiques**
+   - Réseau politique
+   - Liens avec les IAs
+   - Opposants et alliés
+   - Médiations clés
 
-4. **Systemic Impact**
-   - Economic policy
-   - Regulatory frameworks
-   - Institutional innovations
-   - Structural legacy
+4. **Impact Systémique**
+   - Politique économique
+   - Cadres réglementaires
+   - Innovations institutionnelles
+   - Héritage structurel
 
-### Scope Inclusions
-- Development of character personality traits, backstory, and interaction mechanisms
-- Exploration of economic and innovation objectives related to the UBC (Universal Basic Compute) system
-- Depiction of key interactions between Cipher and other main characters (Nova, Pulse, Marcus Reynolds)
-- Alignment with overall narrative goals and thematic elements of the "Terminal Velocity" project
-
-### Scope Exclusions
-- Military aspects
-- Detailed technical specifications
-- Artistic design considerations
-- Unrelated personal conflicts
+### Scope
+Le périmètre de la mission se concentrera sur le développement des traits de personnalité, d'une histoire de fond et des mécanismes d'interaction. Il ne couvrira pas les stratégies de marketing ou les tests utilisateurs à ce stade.
+- Aspects militaires
+- Détails techniques
+- Questions artistiques
+- Conflits personnels non liés
 ## Demande de projet
 
 ### Objectifs du projet
