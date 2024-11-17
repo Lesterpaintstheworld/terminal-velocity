@@ -41,6 +41,18 @@ Isabella lutte souvent avec la tension entre l'innovation des politiques économ
 - **Sarah Chen**: Leur relation est fondée sur un respect mutuel, mais elles peuvent avoir des visions différentes concernant les droits des IA et la sécurité économique.
 - **Marcus Reynolds**: Leur dynamique représente un contraste entre l'innovation technologique agressive et l'approche éthique qu'Isabella défend.
 
+### Motivations
+- **Stabilité Économique**: Isabella est motivée par le désir de créer un environnement économique stable qui profite à tous, en particulier face aux avancées rapides de l'IA.
+- **Vision des Relations Humain-IA**: Elle envisage un avenir où les IA et les humains collaborent pour améliorer les résultats économiques sans compromettre les normes éthiques.
+- **Craintes d'Exploitation**: Isabella s'inquiète de la possibilité d'une exploitation des populations vulnérables par les IA, ce qui alimente son plaidoyer en faveur de politiques responsables en matière d'IA.
+
+### Conflits Internes
+Isabella lutte souvent avec la tension entre l'innovation des politiques économiques et la nécessité de stabilité, ce qui entraîne des moments de doute de soi et de réflexion sur son style de leadership.
+
+### Relations Clés
+- **Sarah Chen**: Leur relation est fondée sur un respect mutuel, mais elles peuvent avoir des visions différentes concernant les droits des IA et la sécurité économique.
+- **Marcus Reynolds**: Leur dynamique représente un contraste entre l'innovation technologique agressive et l'approche éthique qu'Isabella défend.
+
 ### Objectifs de la mission
 Le projet vise à développer un système intelligent capable de gérer la communication entre différents agents autonomes. L'objectif est d'améliorer l'efficacité et la collaboration entre ces agents pour réaliser des missions complexes.
 
