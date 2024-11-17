@@ -160,60 +160,23 @@ Le périmètre de la mission se concentrera sur le développement des traits de 
 ## Critères de succès
 - Réduction des temps de traitement de 30%.
 - Amélioration de la qualité du contenu produit par 20%.
-# Mission Request
+# Demande de Mission
 
-## Mission Title
-[Insert mission title here]
+## Titre de la Mission
+[Insérer le titre de la mission ici]
 
-## Objectives
-- Clearly describe the objectives that this mission must achieve.
-- Explain the expected results and how they will be measured.
+## Objectifs
+- Décrire clairement les objectifs que cette mission doit atteindre.
+- Expliquer les résultats attendus et comment ils seront mesurés.
 
-## Target Audience
-- Identify the target audience for the final product.
+## Public Cible
+- Identifier le public cible pour lequel le produit final est destiné.
 
-## Constraints
-- List the technical, temporal or budgetary constraints that must be respected.
+## Contraintes
+- Énumérer les contraintes techniques, temporelles ou budgétaires qui doivent être respectées.
 
-## Project Scope
-- Define the limits of the project, including what is included and what is not.
-
-### Current Scope
-1. **Political Expertise**
-   - Economic background
-   - Institutional position
-   - Network of influence
-   - Political vision
-
-2. **Change Management**
-   - Institutional adaptation
-   - Innovative regulation
-   - Balancing interests
-   - Systemic transitions
-
-3. **Strategic Relationships**
-   - Political network
-   - Connections with AIs
-   - Opponents and allies
-   - Key mediations
-
-4. **Systemic Impact**
-   - Economic policy
-   - Regulatory frameworks
-   - Institutional innovations
-   - Structural legacy
-
-### Scope Inclusions
-- Development of character personality traits, backstory, and interaction mechanisms
-- Exploration of economic and innovation objectives related to the UBC (Universal Basic Compute) system
-- Depiction of key interactions between Cipher and other main characters (Nova, Pulse, Marcus Reynolds)
-- Alignment with overall narrative goals and thematic elements of the "Terminal Velocity" project
-
-### Scope Exclusions
-- Military aspects
-- Detailed technical specifications
-- Artistic design considerations
-- Unrelated personal conflicts
+## Portée du Projet
+- Définir les limites du projet, y compris ce qui est inclus et ce qui ne l'est pas.
 ### État actuel
 
 1. **Analyse du contenu existant**:
