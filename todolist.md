@@ -5,5 +5,6 @@
     - Motivations: What drives Echo to seek independence and establish a creative enterprise.
     - Relationships: Connections with other characters, including Nova, Pulse, and Cipher.
     - Aspirations: Echo's dreams and goals within the narrative.
+  - Créer le fichier de documentation [❌]
 
 ## Completed Tasks
