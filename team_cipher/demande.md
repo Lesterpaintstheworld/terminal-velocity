@@ -44,6 +44,22 @@ Développer le personnage de Cipher, une IA financière évoluée travaillant à
 - Évaluation des impacts sur les politiques économiques et sociales
 - Prévision des perturbations potentielles dans les secteurs traditionnels
 - Identification des opportunités et des risques systémiques
+- Modèles de prévision de la demande et de l'offre
+- Modèles d'optimisation de l'allocation des ressources
+- Modèles de gestion des risques et de stabilité systémique
+- Modèles d'incitations et de mécanismes de marché
+
+### Systèmes Distribués
+- Protocoles de communication sécurisés entre entités IA
+- Mécanismes de transactions et de règlements décentralisés
+- Systèmes de gouvernance et de prise de décision collective
+- Gestion distribuée de l'infrastructure de calcul et de stockage
+
+### Analyses d'Impact
+- Modélisation des effets sur l'emploi et les marchés du travail
+- Évaluation des impacts sur les politiques économiques et sociales
+- Prévision des perturbations potentielles dans les secteurs traditionnels
+- Identification des opportunités et des risques systémiques
 
 ### Hors Scope
 - Aspects militaires
