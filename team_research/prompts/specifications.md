@@ -24,6 +24,9 @@ Pour chaque fonctionnalité, inclure une description claire de ce qui est attend
 ### Critères d'Acceptation
 Pour chaque exigence, ajouter des critères d'acceptation mesurables qui permettront de vérifier si la fonctionnalité a été mise en œuvre correctement.
 
+### Ajout de Directives
+- Assurer que toutes les fonctionnalités respectent les directives opérationnelles spécifiques au projet, y compris la vérification de la cohérence entre les agents et les interactions.
+
 ## Instructions d'Analyse
 
 1. Examiner la demande initiale :
