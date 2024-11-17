@@ -1,52 +1,20 @@
-# Demande de Projet
+# Demande de projet
 
-## Global Context
-The "Terminal Velocity" project tells the story of an economic revolution led by artificial intelligences, seen through the lens of the humans at the heart of this transformation. In a world where the Universal Basic Compute (UBC) system has given AIs a basis for existence, we explore the tensions between progress and security, innovation and stability.
+## Objectifs du projet
+- Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
 
-Your character is one of three key humans shaping this pivotal period:
-- Sarah Chen, the AI rights advocate, fighting for their recognition
-- Marcus Reynolds, the military contractor, who sees autonomous weapons as a necessity 
-- Isabella Torres, the policy architect, tasked with managing the economic transformation
+## Livrables attendus
+- Documentation technique complète.
+- Rapport d'évaluation des performances des agents.
+- Interface utilisateur pour la gestion des agents.
 
-The goal is to create a captivating story that explores the complexity of human-AI relations in a time of major societal change, while remaining accessible to a wide audience.
+## Délais
+- Phase de développement : 3 mois.
+- Phase de test : 1 mois.
 
-## Primary Mission
-Develop the character of Isabella Torres, economic policy architect, who must navigate between innovation and stability in the face of an emerging autonomous AI economy, embodying the institutional challenges of this transformation. She must also collaborate with other key characters to shape economic policies around the UBC system.
-
-## Objective
-Create a captivating AI character that enhances user engagement through innovative interactions and a rich backstory.
-
-### In Scope
-1. **Political Expertise**
-   - Economic background
-   - Institutional position
-   - Network of influence
-   - Political vision
-
-2. **Change Management**
-   - Institutional adaptation
-   - Innovative regulation
-   - Balancing interests
-   - Systemic transitions
-
-3. **Strategic Relationships**
-   - Political network
-   - Connections with AIs
-   - Opponents and allies
-   - Key mediations
-
-4. **Systemic Impact**
-   - Economic policy
-   - Regulatory frameworks
-   - Institutional innovations
-   - Structural legacy
-
-### Scope
-The mission scope will focus on developing personality traits, backstory, and interaction mechanisms. It will not cover marketing strategies or user testing at this stage.
-- Military aspects
-- Technical details
-- Artistic questions
-- Unrelated personal conflicts
+## Critères de succès
+- Réduction des temps de traitement de 30%.
+- Amélioration de la qualité du contenu produit par 20%.
 ## Demande de projet
 
 ### Objectifs du projet
