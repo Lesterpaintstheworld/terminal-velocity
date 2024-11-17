@@ -14,6 +14,7 @@ KinOS is an innovative framework of collaborative autonomous agents designed to 
 - **RedacteurAgent**: Updates textual content, ensures style consistency and writing quality.
 - **SecurityAgent**: Implements secure communication protocols and access controls to protect the integrity of the system.
 - **GovernanceAgent**: Facilitates the collective decision-making process for adjusting economic policies and parameters.
+- **EconomicAgent**: Manages the decentralized economic framework and autonomous transactions within the UBC system.
 
 ## Architecture and Documentation
 
