@@ -16,6 +16,22 @@ Développer le personnage d'Isabella Torres, architecte de politique économique
 ## Mission Principale
 Développer le personnage d'Isabella Torres, architecte de politique économique, qui doit naviguer entre innovation et stabilité face à l'émergence d'une économie IA autonome, incarnant les défis institutionnels de cette transformation.
 
+# Isabella Torres - Character Profile
+
+## Background
+Isabella Torres grew up in a family of economists, which influenced her understanding of economic systems. She studied AI ethics and economic policy, developing a strong ethical stance on AI use in economic frameworks.
+
+## Motivations
+- **Economic Stability**: Driven by a desire to create a stable environment benefiting all, particularly in the face of rapid AI advancements.
+- **Vision for AI-Human Relationships**: Envisions a future where AI and humans collaborate without compromising ethical standards.
+- **Fears of Exploitation**: Concerned about potential AI exploitation of vulnerable populations, advocating for responsible AI policies.
+
+## Internal Conflicts
+Isabella grapples with the tension between innovative policies and stability, leading to self-doubt and reflection on her leadership style.
+
+## Initiatives
+Isabella will pursue initiatives to integrate ethical AI practices into economic policies, collaborating with other characters to address AI-related challenges.
+
 ## Objectif
 Créer un personnage IA captivant qui améliore l'engagement des utilisateurs grâce à des interactions innovantes et une histoire riche.
 
