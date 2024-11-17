@@ -116,3 +116,14 @@ To progress effectively on the mission outlined in the "demande.md," the next co
 2. Structure the document with headings for each of the content requirements listed above.
 3. Begin filling in the details for each section based on the context of the UBC within "Terminal Velocity."
 4. Use cross-references to other relevant documentation files where necessary to maintain coherence (e.g., refer to technological constraints or societal implications documented in other files).
+# Documentation UBC
+
+## Définition de UBC
+
+## Spécifications Techniques
+
+## Implications Économiques
+
+## Cadre Opérationnel
+
+## Impact sur la Société
