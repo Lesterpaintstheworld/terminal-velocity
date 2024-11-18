@@ -2,8 +2,12 @@
 
 ### New Interaction Script for Isabella Torres and Marcus Reynolds
 
+### New Interaction Script for Isabella Torres and Marcus Reynolds
+
 ## Scene 1: Ethical Dilemma
 *Setting: A conference room filled with stakeholders discussing AI regulations.*
+
+**Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past."
 
 **Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past."
 
@@ -14,6 +18,8 @@
 
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
 
+**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
+
 **Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
 
 ## Scene 3: Climactic Confrontation
@@ -21,12 +27,14 @@
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
 
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+
 **Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
 
 ### Source Files
 - **Files to Analyze**: 
-  - `demande.md`
-  - `Marcus Reynolds - Character Profile.md`
+  - `characters/human_characters/isabella_torres/demande.md`
+  - `characters/human_characters/marcus_reynolds/profile.md`
 - **Relevant Sections**: 
   - For `demande.md`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
   - For `Marcus Reynolds - Character Profile.md`: Pay attention to his interactions with Isabella and their conflicting perspectives.
@@ -41,6 +49,8 @@
 
 ## Scene 4: Reflection
 *Setting: Isabella's office, late at night, after a heated debate.*
+
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
 
 **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
 
