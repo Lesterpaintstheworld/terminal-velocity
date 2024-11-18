@@ -9,7 +9,7 @@ Develop a comprehensive specification document focused on the character of Isabe
 - Ensure that all sections of the document align with the project’s overarching narrative and character dynamics as outlined in `demande.md`.
 
 ## Required Dependencies
-- Access to project documents: `demande.md`, `directives.md`.
+- Access to project documents: `demande.md`, `directives.md`, `profile.md`.
 - Input from stakeholder interviews focusing on Isabella Torres' character and narrative role.
 - Collaboration with the Production Agent for alignment on character development aspects.
 
