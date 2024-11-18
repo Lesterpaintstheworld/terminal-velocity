@@ -1,8 +1,9 @@
 # Isabella Torres - Character Profile
 
-## Objective for Duplication Agent
-### Action Statement
-Duplicate the character profile of Isabella Torres, focusing on her motivations, conflicts, and relationships with other characters, to enhance narrative depth and consistency across the Terminal Velocity project.
+## Objective for Specification Agent
+
+1. **Action Statement**
+   - Develop a comprehensive character profile for Isabella Torres, focusing on her motivations, conflicts, and relationships with Marcus Reynolds and Sarah Chen to deepen narrative engagement.
 
 ### Source Files
 - **Analyze File**: `demande.md`
@@ -12,10 +13,10 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
 - **Dependencies**: Ensure access to the latest version of Isabella Torres’ character profile from the primary data repository.
 
 ### Target Changes
-- **Modify File**: `character_profiles.md`
-  - **Nature of Expected Changes**: 
-    - Create a new entry for the duplicated profile of Isabella Torres, reflecting her motivations, internal conflicts, and relationship dynamics, ensuring alignment with the narrative context.
-  - **Impact on System State**: This will provide a comprehensive character profile for use in upcoming narrative development, improving coherence and engagement.
+- Modify `demande.md` to include:
+  - A detailed backstory for Isabella Torres that elaborates on her internal conflicts regarding economic stability vs. innovation.
+  - Specific interactions and conflicts with Marcus Reynolds and Sarah Chen that highlight the thematic tensions of the narrative.
+   - Ensure these modifications align with the established project guidelines and enhance character depth.
 
 ## Objective for Duplication Agent
 
@@ -36,17 +37,15 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
   - **Impact on System State**: This will provide a comprehensive character profile for use in upcoming narrative development, improving coherence and engagement.
 
 ### Validation Points
-- **Verify Success**: 
-  - Check that the duplication meets the following criteria:
-    - A duplication success rate of at least 95%.
-    - Less than 5% variance between the original and duplicated character profiles.
-  - **Output to Check**: The newly created profile in `character_profiles.md` should accurately reflect the specified attributes of Isabella Torres.
-  - **States to Validate**: Ensure that the new profile integrates seamlessly with existing narratives and other character profiles.
+- Verify success by checking:
+  - The completion of the new character profile for Isabella Torres in `demande.md`.
+  - Consistency and relevance of the new content with existing narrative elements.
+  - Audience feedback indicating improved engagement with Isabella's character during evaluations.
 
 ### Operation Bounds
-- **Resource Limitations**: The duplication process should not exceed a 3-second processing time per character profile.
-- **Scope Restrictions**: Focus exclusively on the character profile duplication; do not engage in marketing strategies or user testing at this stage.
-- **Dependency Requirements**: Access to the primary character data repository is essential for accurate duplication.
+- Resource Limitations: Ensure modifications can be completed within the current time frame of ongoing tasks.
+- Scope Restrictions: Do not introduce new characters or plotlines outside of Isabella's interactions.
+- Dependency Requirements: Collaborate with insights from the Production Agent for narrative integration.
 
 ## Marcus Reynolds - Character Profile
 
