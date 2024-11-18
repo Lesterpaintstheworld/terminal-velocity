@@ -1,4 +1,4 @@
-## Objective for the Redondance Agent
+## Objective
 
 ## Action Statement
 Analyze the `demande.md` file to extract and clarify the economic framework details proposed by the character Cipher, ensuring that it aligns with the Universal Basic Compute (UBC) system requirements.
