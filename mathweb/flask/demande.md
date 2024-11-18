@@ -7,18 +7,16 @@ Develop a detailed conflict resolution framework for Isabella Torres that explor
    - Analyze the existing character profiles of Isabella Torres, Sarah Chen, and Marcus Reynolds to create a detailed outline of their interactions, highlighting key conflicts and resolutions that drive the narrative forward.
 
 2. **Source Files**
-   - Analyze the following specific files:
-     - `demande.md`: Focus on the sections detailing the character motivations, relationships, and conflicts.
-     - `specification_agent_configuration.md`: Review the responsibilities and output standards for character development.
-   - Relevant sections include:
-     - Character motivations and internal conflicts.
-     - Inter-character dynamics and relationships.
+   - Analyze the file `demande.md`, specifically the sections on:
+     - The role and objectives of Cipher
+     - Key interactions with other characters (e.g., Nova, Pulse, Marcus Reynolds)
+     - The economic framework details related to the UBC system
 
 3. **Target Changes**
-   - Modify the `demande.md` file to include a new section titled "Character Interactions Outline" that details:
-     - Key interactions between Isabella, Sarah, and Marcus.
-     - Specific dialogues or scenarios that illustrate their conflicts and resolutions.
-   - Expected changes will enhance the narrative depth and coherence of character relationships.
+   - Modify the `demande.md` file to include:
+     - A comprehensive backstory for Cipher that outlines his motivations and economic principles
+     - Specific scenes and dialogues that highlight his interactions with other characters and the resulting tensions
+     - Integration of his ideas into the broader narrative context
 - **Impact on System State**: Enhances narrative depth and character complexity, ensuring alignment with the overarching themes of innovation and stability.
 - **Files to Modify**:
   - `demande.md`: Add a detailed section on Isabella Torres' character profile, including her motivations, key relationships, and the challenges she faces.
@@ -32,9 +30,9 @@ Develop a detailed conflict resolution framework for Isabella Torres that explor
      - Interactions are consistent with the established character traits and motivations, achieving a narrative satisfaction rate of at least 90% in peer reviews.
 
 5. **Operation Bounds**
-   - Resource limitations: Ensure that the modifications can be completed within the current project timeline.
-   - Scope restrictions: Focus exclusively on character interactions without altering other narrative elements or introducing new characters.
-   - Dependency requirements: Collaborate with the Production Agent for narrative integration insights if necessary.
+   - Resource Limitations: Ensure the task remains within the scope of character development without delving into technical details or unrelated personal conflicts.
+   - Scope Restrictions: Focus solely on Cipher's character and his economic ideas, excluding marketing strategies or user testing.
+   - Dependency Requirements: Collaborate with the Production Agent for narrative integration and management of overall character dynamics.
 
 6. **Search:** 
    - N/A (No additional research is necessary for this task)
