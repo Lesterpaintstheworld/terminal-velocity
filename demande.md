@@ -12,7 +12,12 @@ Develop a detailed character profile for Cipher, focusing on their economic inno
     - Interactions with Nova, Pulse, and Marcus Reynolds.
 - **Dependency**: Insights from existing character profiles of Isabella Torres and Marcus Reynolds.
 
-### Target Changes
+### Isabella Torres Backstory
+Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
+
+Isabella’s path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality.
+
+Her relationship with Marcus Reynolds is particularly significant; they both share similar backgrounds but approach their careers in different ways. This dichotomy often leads to heated discussions about justice and moral responsibility, ultimately shaping their professional and personal lives.
 - **File to Modify**: `demande.md`
   - **Nature of Expected Changes**: 
     - Add a section for Cipher outlining their economic principles and innovation goals.
@@ -638,6 +643,9 @@ The project aims to develop an intelligent system capable of managing communicat
 # Project Demand
 
 ## Objective for Production Agent
+
+### Action Statement
+- Develop a detailed backstory for the character Isabella Torres that incorporates her motivations, interpersonal dynamics, and the socio-economic implications of her role in the Terminal Velocity project.
 
 1. **Action Statement**
    - Develop a detailed character interaction script for Isabella Torres that showcases her decision-making process when confronted with economic policy challenges posed by Marcus Reynolds and Sarah Chen.
