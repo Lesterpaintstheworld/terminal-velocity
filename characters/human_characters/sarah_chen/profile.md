@@ -9,6 +9,9 @@ Sarah is driven by a deep-seated belief in equality and justice. Her personal ex
 ## Expertise
 As a legal expert specializing in AI rights, Sarah has worked on several landmark cases that have set precedents in the field. She is well-versed in the complexities of AI legislation and advocates for the recognition of AI as legal entities. Her expertise includes understanding the implications of AI autonomy, the ethical considerations surrounding AI rights, and the development of legal frameworks that support AI integration into society. Sarah is also a sought-after speaker at conferences, where she shares her insights on the intersection of law and technology.
 
+## Internal Conflicts
+Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. She often questions whether her push for progressive policies might inadvertently harm the very communities she aims to protect. This internal struggle influences her relationships with Marcus Reynolds and Sarah Chen, as their differing views on technology and ethics challenge her beliefs and force her to reconsider her approach to advocacy.
+
 ## Key Relationships
 - **Marcus Reynolds**: Their relationship is complex; they often clash over their differing views on the role of technology in society. While Marcus sees autonomous systems as necessary for national security, Isabella worries about their implications for social equity and justice.
 - **Sarah Chen**: Shares a strong bond with Sarah, as they both advocate for marginalized voices in the AI community. Their friendship is built on mutual respect and shared goals.
