@@ -63,10 +63,9 @@ Analyze the `demande.md` file, specifically focusing on the sections detailing t
    - The mission will focus on developing personality traits, backstory, and interaction mechanisms.
    - It will not cover marketing strategies or user testing at this stage.
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
-## Objective for Management Agent
-
+## Objective for Redaction Agent
 ### Action Statement
-Analyze the `demande.md` file to extract and clearly define the economic policy proposals put forth by the character Cipher, ensuring alignment with the existing narrative surrounding the UBC (Universal Basic Compute) system.
+Conduct a comprehensive review of the `demande.md` and `directives.md` files to identify and redact any sensitive information related to the economic framework and character interactions, ensuring compliance with data privacy standards.
 
 ### Source Files
 - Analyze the following file: `demande.md`
