@@ -1,21 +1,22 @@
-# Objective for Production Agent
+# Objective for Specification Agent
 
 ## Action Statement
-Develop a comprehensive backstory for Isabella Torres, focusing on her motivations, challenges, and relationships with other key characters, to enhance narrative depth and character engagement.
+Develop a detailed economic framework section for the character Cipher, focusing on decentralized resource allocation, secure communication protocols, and distributed governance mechanisms. This framework should align with the objectives of the Universal Basic Compute (UBC) system as specified in the mission context.
 
 ## Action Statement
 Develop a comprehensive character profile for Isabella Torres, focusing on her political expertise, motivations, and internal conflicts, to enhance the narrative depth of the Terminal Velocity project.
 
 ## Source Files
-- Analyze the file `demande.md`
+- **File to Analyze**: `demande.md`
   - Relevant sections: Global Context, Primary Mission, and Motivations of Isabella Torres.
 - Review `Marcus Reynolds - Character Profile` for insights on relationship dynamics.
 
 ## Target Changes
-- Modify `demande.md` to include:
-  - A detailed backstory for Isabella Torres that highlights her motivations for advocating for economic stability in the face of AI advancements.
-  - Clarify her internal conflicts and external challenges, particularly her interactions with Marcus Reynolds and Sarah Chen.
-- Update `production_agent` documentation to reflect the new character development guidelines.
+- **Files to Modify**: `demande.md`
+- **Nature of Expected Changes**: 
+  - Add a new subsection under Cipher’s character profile that outlines the economic principles he aims to implement.
+  - Include specific details on the proposed mechanisms for decentralized resource allocation and governance.
+- **Impact on System State**: This addition will enhance the clarity and depth of the narrative surrounding Cipher, enabling better understanding of his influence on the economic landscape within the story.
 
 ## Target Changes
 - **File to Modify**: `demande.md`
@@ -26,12 +27,12 @@ Develop a comprehensive character profile for Isabella Torres, focusing on her p
 
 ## Validation Points
 - **How to Verify Success**: 
-  - Ensure the new section on Isabella Torres achieves a minimum 90% satisfaction rate in peer reviews.
-  - Validate that her character aligns with the thematic goals outlined in the project documents.
+  - Review the updated `demande.md` to ensure the new economic framework section has been added.
+  - Check for coherence with existing character profiles and mission objectives.
 - **Output to Check**: The newly added section in `demande.md`.
 - **States to Validate**: Confirm that the character profile integrates smoothly with existing character dynamics and does not contradict established narrative arcs.
 
 ## Operation Bounds
-- **Resource Limitations**: The objective should be completed within 2 days to maintain project timelines.
-- **Scope Restrictions**: Focus exclusively on Isabella Torres' character development; do not include marketing strategies or user testing at this stage.
-- **Dependency Requirements**: Ensure access to the latest version of `demande.md` and any relevant character documentation for reference.
+- **Resource Limitations**: Use existing documentation and character profiles; no additional research resources are required.
+- **Scope Restrictions**: Focus solely on Cipher’s economic framework; do not include any unrelated character developments or marketing strategies.
+- **Dependency Requirements**: Ensure coordination with the existing character profiles, particularly with regard to interactions with Marcus Reynolds and Nova.
