@@ -1,4 +1,5 @@
-## Expanded Interaction Script for Isabella Torres and Marcus Reynolds
+## Interaction Script for Isabella Torres
+### Scene: Economic Policy Debate
 ### Scene: Ethical Debate on AI Policies
 
 ### Scene 1: Ethical Concerns
@@ -135,7 +136,7 @@
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, after a heated debate on their differing views.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
+**Isabella**: "I often question whether my commitment to ethical AI is too idealistic. How do I ensure that my advocacy for innovation doesn't overlook the needs of those I aim to protect?"
 
 *She reflects on her motivations, realizing that her goals, while different, stem from a shared desire to create a better future with Marcus and Sarah. The weight of her decisions looms large as she contemplates the future of AI and its impact on society.*
 
@@ -195,7 +196,7 @@
 
 **Cipher**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
 
-**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
+**Isabella**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
 
 ### Scene 3: Tension Peaks
 *Setting: A public forum where both are presenting their views on AI governance.*
@@ -273,9 +274,9 @@
 
 **Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past. This is why I advocate for decentralized resource allocation—it's essential for ensuring fairness."
 
-**Marcus**: "I understand your concerns, Isabella, but we need to focus on the benefits AI can bring to our economy. Security and efficiency should come first."
+**Marcus**: "I see your point, but we also need to consider the broader implications of our decisions. If we don't act decisively, we risk losing the opportunity to lead in AI innovation."
 
-**Isabella**: "What about the communities that might be left behind? We have a responsibility to ensure our policies are inclusive and equitable."
+**Isabella**: "We cannot ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
 
 ### Scene 2: Collaborative Moment
 *Setting: A quiet café after a long day of meetings.*
@@ -339,7 +340,7 @@ In her interactions, Isabella often references the economic frameworks that guid
 
 **Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past. This is why I advocate for decentralized resource allocation—it's essential for ensuring fairness."
 
-**Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past."
+**Isabella**: "We need to ensure that our economic policies reflect the needs of marginalized communities. If we prioritize efficiency over equity, we risk deepening existing inequalities."
 
 **Marcus**: "I understand your concerns, Isabella, but we need to focus on the benefits AI can bring to our economy. Security and efficiency should come first."
 
