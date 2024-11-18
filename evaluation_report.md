@@ -3,9 +3,16 @@
 ## Objective for Evaluation Agent
 
 ## Action Statement
+Analyze the character interaction dynamics between Cipher and Marcus Reynolds to enhance understanding of their ideological conflicts regarding AI economic policies and prepare a report on the implications for the narrative.
+
+## Action Statement
 Conduct a comprehensive evaluation of the performance data related to the newly integrated character Cipher from recent updates in the project files, focusing specifically on its economic impact and interaction dynamics with other characters.
 
 ## Source Files
+- **Files to Analyze**:
+  - `characters/ai_protagonists/cipher/relationships.md`: Focus on Cipher's relationship dynamics with Marcus.
+  - `characters/human_characters/marcus_reynolds/relationships.md`: Examine Marcus's perspective on his interactions with Cipher.
+  - `scenes/cipher_marcus_interaction.md`: Review the dialogue and interactions to gather context and tone.
 - **Files to Analyze**: 
   - `demande.md`
   - `evaluation.md`
@@ -16,6 +23,9 @@ Conduct a comprehensive evaluation of the performance data related to the newly 
 
 ## Target Changes
 - **Files to Modify**:
+  - `evaluation_report.md`: Create a new section detailing the findings from the analysis, focusing on how these interactions influence their character arcs and the broader narrative.
+- **Nature of Expected Changes**: Add insights and implications derived from the interaction analysis, ensuring clarity and relevance to the overall themes of AI rights and economic policy.
+- **Files to Modify**:
   - `evaluation.md`
 - **Nature of Expected Changes**:
   - Add a new section that details the evaluation findings for Cipher, including performance metrics, interaction quality with characters like Nova, Pulse, and Marcus Reynolds, and recommendations for improvement.
@@ -23,6 +33,9 @@ Conduct a comprehensive evaluation of the performance data related to the newly 
   - Enhanced understanding of Cipher’s role and effectiveness in achieving the project objectives, leading to potential adjustments in character development strategies.
 
 ## Validation Points
+- **Verification of Success**:
+  - Check that the new section in `evaluation_report.md` includes at least three actionable insights regarding the ideological conflicts.
+  - Ensure the report maintains a clear connection to the characters' development and overall project themes.
 - **How to Verify Success**:
   - Check that the newly added section in `evaluation.md` includes quantitative metrics and qualitative insights based on the evaluation.
 - **What Output to Check**:
@@ -31,6 +44,9 @@ Conduct a comprehensive evaluation of the performance data related to the newly 
   - Confirm that the evaluation findings align with the expected performance benchmarks for character interactions and economic impact.
 
 ## Operation Bounds
+- **Resource Limitations**: The analysis should be completed within 2 days to align with project timelines.
+- **Scope Restrictions**: Focus strictly on the interactions between Cipher and Marcus; do not include unrelated character dynamics.
+- **Dependency Requirements**: Ensure that the analysis is based on the most recent versions of the source files to maintain accuracy.
 - **Resource Limitations**: The evaluation should be completed within a 5-day timeframe to allow for timely integration of findings into project development.
 - **Scope Restrictions**: Focus exclusively on Cipher’s character evaluation without delving into unrelated elements or broader project marketing strategies.
 - **Dependency Requirements**: Ensure that all necessary data from the other agents is available before starting the evaluation process.
