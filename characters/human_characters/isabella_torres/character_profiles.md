@@ -98,8 +98,8 @@ Despite facing numerous challenges, including financial instability and the abse
 Isabella Torres possesses a deep understanding of political dynamics and the intricacies of economic policy. Her background in social work and community activism informs her approach to governance, emphasizing inclusivity and equity.
 
 ### Motivations
-- **Economic Stability**: Isabella is motivated by a desire to create a stable economic environment that benefits underrepresented communities. She believes that ethical AI usage is crucial in achieving this stability.
-- **Ethical Concerns**: She is deeply concerned about the implications of AI on social equity and strives to ensure that technological advancements do not exacerbate existing inequalities. Her advocacy is driven by a commitment to protect marginalized communities from potential exploitation.
+- **Economic Stability**: [REDACTED]
+- **Ethical Concerns**: [REDACTED]
 - **Leadership Style**: Isabella's leadership is characterized by compassion and resilience, as she navigates the complexities of economic policy-making.
 
 ### Internal Conflicts

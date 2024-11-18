@@ -1,7 +1,7 @@
 # Marcus Reynolds - Character Profile
 
 ## Relationships
-- **Isabella Torres**: Shares a strong bond with Isabella, as they both advocate for marginalized voices in the AI community. Their friendship is built on mutual respect and shared goals.
+- **Isabella Torres**: [REDACTED]
 
 ## Core Traits
 - **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI.
