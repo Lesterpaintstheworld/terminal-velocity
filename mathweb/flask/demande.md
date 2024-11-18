@@ -7,12 +7,15 @@ Develop a comprehensive backstory for Isabella Torres, focusing on her motivatio
 Develop a comprehensive character profile for Isabella Torres, focusing on her political expertise, motivations, and internal conflicts, to enhance the narrative depth of the Terminal Velocity project.
 
 ## Source Files
-- **File to Analyze**: `demande.md`
-  - **Relevant Sections**: 
-    - Global Context
-    - Primary Mission
-    - Motivations de Marcus Reynolds (for context on conflict)
-- **Dependencies**: Utilize the character traits and backstory guidelines outlined in the `production Agent Configuration`.
+- Analyze the file `demande.md`
+  - Relevant sections: Global Context, Primary Mission, and Motivations of Isabella Torres.
+- Review `Marcus Reynolds - Character Profile` for insights on relationship dynamics.
+
+## Target Changes
+- Modify `demande.md` to include:
+  - A detailed backstory for Isabella Torres that highlights her motivations for advocating for economic stability in the face of AI advancements.
+  - Clarify her internal conflicts and external challenges, particularly her interactions with Marcus Reynolds and Sarah Chen.
+- Update `production_agent` documentation to reflect the new character development guidelines.
 
 ## Target Changes
 - **File to Modify**: `demande.md`
