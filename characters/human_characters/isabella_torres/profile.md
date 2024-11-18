@@ -6,6 +6,9 @@ Isabella Torres grew up in an urban environment, raised by a single mother who s
 ## Background
 Isabella’s path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality.
 
+## Motivations and Internal Conflicts
+Isabella is motivated by a desire to create a stable economic environment that benefits underrepresented communities. She grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. Her relationships with Marcus Reynolds and Sarah Chen significantly shape her character arc, as they challenge her beliefs and push her to refine her advocacy strategies.
+
 ## Personality Traits
 - **Compassionate**: Deeply cares about social justice and the well-being of others.
 - **Resilient**: Overcomes personal and societal challenges with determination.
