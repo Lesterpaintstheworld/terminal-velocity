@@ -22,6 +22,10 @@
 - **Collaborative Dynamics**: Ensure that validation mechanisms reflect the collaborative nature of agent interactions, enhancing data integrity across the system.
 
 ## Objective for Deduplication Agent
+
+### Character Development Guidelines
+- Ensure that character profiles, particularly for Isabella Torres, are updated to reflect her motivations, internal conflicts, and relationships with other key characters.
+- Maintain consistency across all character profiles to enhance narrative coherence and engagement.
 1. **Action Statement**
    - Analyze the current dataset in `demande.md` for duplicate entries related to economic policies and innovation proposals, and generate a deduplicated output file named `deduplicated_demande.md`.
 
