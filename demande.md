@@ -1,5 +1,10 @@
 # État d'Avancement du Projet Terminal Velocity
 
+## Objectif pour l'Agent de Redondance
+
+### Action Statement
+Analyser le fichier `demande.md` pour identifier et documenter des cas spécifiques de problèmes de redondance dans les journaux de communication entre agents autonomes et proposer des améliorations ciblées pour renforcer les stratégies de redondance.
+
 ## Éléments Bien Développés (70-90% complets)
 
 ### 1. Cadre Économique UBC
@@ -46,6 +51,10 @@
   - Arcs narratifs individuels
 
 ### 3. Implications Sociétales
+
+### Propositions d'Amélioration
+- Ajouter une nouvelle section résumant les problèmes de redondance identifiés et les améliorations recommandées.
+- S'assurer que les stratégies proposées s'alignent avec les protocoles de gestion des erreurs existants.
 - Framework éthique établi
 - Impact social du UBC documenté
 - À développer :
@@ -54,6 +63,9 @@
   - Dynamiques culturelles émergentes
 
 ## Éléments Nécessitant Plus de Développement (<30% complets)
+
+### Impact sur l'État du Système
+Des mesures de redondance améliorées renforceront la fiabilité du système et l'efficacité de la communication entre les agents.
 
 ### 1. Environnements
 - Locations physiques à détailler
