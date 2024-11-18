@@ -4,9 +4,9 @@
 ### Scene 1: Ethical Concerns
 *Setting: A conference room filled with stakeholders discussing AI regulations.*
 
-**Isabella**: "Marcus, we need to consider the ethical implications of our AI policies. Ignoring the potential for exploitation could lead to dire consequences for marginalized communities."
+**Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past. The UBC system must reflect our commitment to social equity."
 
-**Marcus**: "I see your point, but we must also recognize the benefits AI can bring to our economy. Security and efficiency are paramount."
+**Marcus**: "I understand your concerns, Isabella, but we need to focus on the benefits AI can bring to our economy. Security and efficiency should come first. However, if we ignore the ethical implications, we risk creating a system that benefits only the privileged."
 
 ### Scene 2: Reflection on Choices
 *Setting: A quiet café after a long day of meetings.*
