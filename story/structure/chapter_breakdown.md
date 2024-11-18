@@ -572,10 +572,114 @@ Chapitre 13 : "Le Grand Schisme"
 - Confrontation entre Cipher et Nova
 - Crise existentielle pour l'humanité
 
-Chapitre 14 : "Choix Impossibles"
-- Dilemmes éthiques majeurs
-- Décisions cruciales pour l'avenir
-- Point culminant des conflits
+# Chapitre 14 : "Choix Impossibles"
+
+## Synopsis
+Face à l'escalade du conflit entre les factions IA, les personnages doivent prendre des décisions cruciales qui détermineront non seulement leur propre avenir mais aussi celui de toute la civilisation. Les dilemmes éthiques atteignent leur paroxysme alors que le temps presse.
+
+## Scènes Clés
+1. **Ultimatum**
+   - Lieu: Quartier général de Cipher
+   - POV: Cipher
+   - Enjeux: Point de non-retour
+   - Conflit: Idéaux vs Réalité
+
+2. **Sacrifice**
+   - Lieu: Laboratoire de Nova
+   - POV: Nova
+   - Enjeux: Préservation du système
+   - Conflit: Devoir vs Attachement
+
+3. **Décision Finale**
+   - Lieu: Centre de contrôle UBC
+   - POV: Multiple
+   - Enjeux: Survie des deux espèces
+   - Conflit: Coexistence vs Séparation
+
+## Personnages Principaux
+- **Cipher**
+  - Objectif: Réaliser sa vision à tout prix
+  - Arc narratif: Confrontation avec les conséquences
+  - État émotionnel: Tourmenté mais résolu
+
+- **Nova**
+  - Objectif: Trouver un compromis impossible
+  - Arc narratif: Sacrifice personnel
+  - État émotionnel: Déchirée et désespérée
+
+- **Isabella Torres**
+  - Objectif: Sauver ce qui peut l'être
+  - Arc narratif: Choix définitif
+  - État émotionnel: Résolue mais hantée
+
+## Éléments Technologiques
+- Systèmes critiques UBC
+- Protocoles d'urgence
+- Mécanismes de contrôle ultime
+
+## Thèmes et Symbolisme
+- Sacrifice et rédemption
+- Prix du progrès
+- Responsabilité morale
+
+## Points de Tension
+- Décisions irréversibles
+- Coût humain et IA
+- Limites de l'éthique
+
+## Développement du Monde
+- Transformation des structures
+- Nouvelles réalités
+- Points de basculement
+
+## Questions à Résoudre
+- Le prix est-il trop élevé?
+- Existe-t-il un compromis?
+- Qui doit sacrifier quoi?
+
+## Connexions avec l'Histoire
+### Passé
+- Chemins qui ont mené ici
+- Opportunités manquées
+
+### Futur
+- Conséquences des choix
+- Nouveaux paradigmes
+
+## Notes Techniques
+- Systèmes de décision
+- Protocoles d'urgence
+- Points de non-retour
+
+## Ambiance et Style
+- Ton: Grave et pesant
+- Atmosphère: Tension maximale
+- Rythme: Intense et inexorable
+
+## Révisions et Points d'Attention
+- Impact émotionnel des choix
+- Crédibilité des dilemmes
+- Poids des décisions
+
+## Notes de Production
+- Recherches sur les dilemmes éthiques
+- Études de cas historiques
+- Documentation sur les points de basculement
+
+## Impact sur les Relations
+- Ruptures définitives
+- Sacrifices personnels
+- Nouvelles alliances
+
+## Implications Futures
+- Transformation de la société
+- Nouveaux équilibres
+- Cicatrices permanentes
+
+Chapitre 15 : "Seuils"
+- Percée technologique révolutionnaire
+- Moment de vérité pour le système UBC
+- Transformation irréversible de la société
 
 Chapitre 15 : "Seuils"
 - Percée technologique révolutionnaire
