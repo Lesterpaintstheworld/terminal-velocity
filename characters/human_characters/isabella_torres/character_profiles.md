@@ -39,9 +39,17 @@ Isabella Torres grew up in an urban environment, raised by a single mother who s
 
 Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
 
-## Motivations
+## Character Profile for Isabella Torres
+
+### Political Expertise
+Isabella Torres possesses a deep understanding of political dynamics and the intricacies of economic policy. Her background in social work and community activism informs her approach to governance, emphasizing inclusivity and equity.
+
+### Motivations
 - **Economic Stability**: Isabella is motivated by a desire to create a stable economic environment that benefits underrepresented communities.
 - **Ethical Concerns**: She is deeply concerned about the implications of AI on social equity and strives to ensure that technological advancements do not exacerbate existing inequalities.
+
+### Internal Conflicts
+Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
 
 ## Key Interactions
 - **With Marcus Reynolds**: Their relationship is marked by tension and collaboration, as they often debate the ethical implications of AI in economic policies.
