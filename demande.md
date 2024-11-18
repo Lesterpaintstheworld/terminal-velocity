@@ -1,42 +1,29 @@
-## Objective for Specification Agent
+## Objective for Redaction Agent
 
 ### Action Statement
-Develop a comprehensive backstory for the character Cipher, focusing on their economic innovations and how they influence the narrative and interactions with other characters.
+- Analyze the `demande.md` file to identify and redact sensitive information related to economic policies and character interactions that may be confidential.
 
 ### Source Files
-- **File to Analyze**: `demande.md`
-  - **Relevant Sections**: 
-    - Section detailing Cipher's role in the economic framework
-    - Interactions with Nova, Pulse, and Marcus Reynolds
-- **Dependencies**: 
-  - Insights from previous character profiles, especially those of Isabella Torres and Marcus Reynolds, to ensure narrative consistency.
+- **File to analyze**: `demande.md`
+- **Relevant sections**: Focus on sections detailing the economic framework, character interactions, and sensitive data about individuals involved in the project.
+- **Dependencies**: Ensure access to the predefined list of sensitive data types for accurate redaction.
 
 ### Target Changes
-- **File to Modify**: `demande.md`
-  - **Nature of Expected Changes**: 
-    - Add a comprehensive backstory for Cipher that includes their motivations, challenges, and goals related to the UBC system.
-    - Integrate specific interactions with other characters that highlight the tension and collaboration stemming from Cipher's economic proposals.
-  - **Impact on System State**: 
-    - Enrich the overall narrative and character dynamics, enhancing audience engagement.
+- **File to modify**: `demande.md`
+- **Nature of expected changes**: Redact sensitive personal information and confidential economic policy details while preserving the integrity of the document.
+- **Impact on system state**: The document will be compliant with privacy regulations and organizational policies post-redaction.
 
 ### Validation Points
-- **How to Verify Success**: 
-  - Ensure the new backstory is coherent with existing character arcs and enhances the narrative.
-- **What Output to Check**: 
-  - Review the updated `demande.md` for clarity, depth, and integration of Cipher's backstory.
-- **Which States to Validate**: 
-  - Confirm that the character interactions are logical and enhance the story's complexity.
+- **How to verify success**: Check the redacted `demande.md` file to ensure all sensitive information has been adequately removed.
+- **Output to check**: Review the final output to confirm no residual sensitive information is visible.
+- **States to validate**: Validate that the redaction process achieved a minimum of 95% accuracy in identifying sensitive information.
 
 ### Operation Bounds
-- **Resource Limitations**: 
-  - Utilize existing character profiles and project guidelines without requiring additional research or external resources.
-- **Scope Restrictions**: 
-  - Focus solely on Cipher's backstory; do not include marketing strategies or unrelated character developments.
-- **Dependency Requirements**: 
-  - Rely on previously established character dynamics and project specifications for coherence.
+- **Resource limitations**: The process should not exceed a 5-second completion time for redaction.
+- **Scope restrictions**: Focus solely on redaction; do not engage in marketing strategies or user testing.
+- **Dependency requirements**: Ensure access to the secure storage for original and redacted documents.
 
-### Search: 
-- No search necessary for this task.
+### Search**: None required for this task.
 
 ### Isabella Torres Backstory
 
