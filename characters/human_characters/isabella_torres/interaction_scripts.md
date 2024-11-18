@@ -87,10 +87,18 @@
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
 
+**Marcus**: "I understand your passion, but we must also consider the practical implications of our decisions."
+
+**Isabella**: "Practicality should not overshadow our ethical responsibilities. We have a duty to advocate for those who are often overlooked."
+
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
 **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+
+**Isabella**: "I feel the weight of my decisions. Every choice I make impacts not just the present, but the future of countless lives."
+
+**Isabella**: "I need to find a way to ensure that my advocacy leads to real change, not just theoretical discussions."
 
 *She reflects on her motivations, realizing that her goals, while different, stem from a shared desire to create a better future with Marcus.*
 
@@ -126,6 +134,10 @@
 **Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
 **Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
+
+**Sarah**: "I think we should also consider how these policies can be communicated to the public. Transparency will be key in gaining support."
+
+**Isabella**: "Absolutely, Sarah. We need to ensure that our message resonates with the communities we aim to protect."
 
 ### Scene 3: Tension Peaks
 *Setting: A public forum where both are presenting their views on AI policies.*
@@ -983,6 +995,10 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
+
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
+
+**Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 
 ### Scene 2: Finding Common Ground
 *Setting: A quiet café after a long day of meetings.*
