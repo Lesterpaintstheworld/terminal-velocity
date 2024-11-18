@@ -13,7 +13,8 @@ Develop a comprehensive character profile for Isabella Torres, focusing on her m
   - Relations Clés
 - **Dependencies**: Input from other character profiles, especially concerning their interactions with Isabella.
 
-### Target Changes
+### Isabella Torres: Backstory and Internal Conflicts
+Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 - **File to Modify**: `demande.md`
 - **Nature of Expected Changes**: 
   - Create a detailed section on Isabella's motivations, emphasizing her desire for economic stability and ethical AI usage.
