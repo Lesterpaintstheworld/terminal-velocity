@@ -105,7 +105,12 @@ Isabella Torres possesses a deep understanding of political dynamics and the int
 ### Internal Conflicts
 Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
 
-## Key Interactions
+## Summary
+- **Motivations**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements.
+- **Internal Conflicts**: Isabella often struggles with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is particularly evident in her interactions with Marcus Reynolds, where their differing views on the role of AI in society lead to intense discussions.
+- **Relationships**: 
+  - **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts.
+  - **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies.
 - **With Marcus Reynolds**: Their relationship is marked by tension and collaboration, as they often debate the ethical implications of AI in economic policies. This dynamic highlights the conflict between innovation and stability.
 - **With Sarah Chen**: Isabella collaborates with Sarah on advocacy efforts, influencing her views on social justice and AI rights. Their partnership emphasizes the importance of ethical considerations in technological advancements.
 
