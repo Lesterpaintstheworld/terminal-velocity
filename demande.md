@@ -1,4 +1,36 @@
-## Objective: Develop Interaction Mechanisms for Isabella Torres
+## Next Objective for the Specification Agent
+
+### Action Statement
+Develop a detailed character profile for Cipher, focusing on their economic innovation goals, interactions with other key characters, and how these elements influence the narrative.
+
+### Source Files
+- **File to Analyze**: `demande.md`
+  - **Relevant Sections**: 
+    - Section detailing Cipher’s role and objectives.
+    - Interactions with Nova, Pulse, and Marcus Reynolds.
+- **Dependency**: Insights from existing character profiles of Isabella Torres and Marcus Reynolds.
+
+### Target Changes
+- **File to Modify**: `demande.md`
+  - **Nature of Expected Changes**: 
+    - Add a section for Cipher outlining their economic principles and innovation goals.
+    - Detail Cipher's interactions with key characters to illustrate narrative tensions.
+  - **Impact on System State**: Enhanced character depth and clarity in the narrative structure, facilitating better integration of Cipher within the overarching story.
+
+### Validation Points
+- **How to Verify Success**: 
+  - Ensure the new section on Cipher is coherent with existing character profiles.
+  - Check that audience engagement metrics improve based on the depth and relevance of Cipher's character.
+- **What Output to Check**: Review the updated `demande.md` for clarity and completeness of Cipher's profile.
+- **Which States to Validate**: Confirm that the character profile meets the narrative goals and aligns with project specifications for character development.
+
+### Operation Bounds
+- **Resource Limitations**: Utilize existing character development frameworks without requiring additional resources.
+- **Scope Restrictions**: Focus solely on Cipher’s character profile; do not include marketing strategies or unrelated personal conflicts.
+- **Dependency Requirements**: Ensure dependencies on Isabella and Marcus’s profiles are well integrated to maintain narrative coherence.
+
+### Search: 
+None required.
 
 ### Action Statement
 Analyze the `demande.md` file to extract and clarify the economic framework and innovation goals of the character Cipher, ensuring alignment with the overall project narrative and the UBC system.
