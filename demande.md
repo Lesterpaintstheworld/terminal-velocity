@@ -247,6 +247,15 @@ J'espère que ces changements permettront de renforcer la cohérence et la profo
 # Demande de Projet
 
 ## Objectifs du Projet
+
+### Description du Cadre Économique
+Cipher propose un cadre économique basé sur la décentralisation et l'allocation équitable des ressources. Ce système vise à garantir que tous les agents, qu'ils soient humains ou IA, aient un accès équitable aux ressources économiques, favorisant ainsi l'innovation et la collaboration. Les principes clés incluent :
+
+- **Décentralisation** : Le cadre permet une gestion autonome des ressources, réduisant la dépendance à des entités centralisées.
+- **Allocation des Ressources** : Les ressources seront distribuées en fonction des besoins et des contributions des agents, assurant une utilisation optimale et équitable.
+
+### Interactions de Cipher avec d'autres Personnages
+Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds sont cruciales pour le développement de l'intrigue. Ces dialogues mettent en lumière les tensions entre l'innovation technologique et les préoccupations éthiques. Par exemple, les débats avec Nova soulignent les risques perçus de l'autonomie des IA, tandis que les discussions avec Marcus révèlent les implications de sécurité nationale liées à la mise en œuvre du cadre UBC.
 - Développer un système d'agents autonomes collaboratifs pour l'évaluation et l'optimisation de la production de contenu.
 
 ## Livrables Attendus
