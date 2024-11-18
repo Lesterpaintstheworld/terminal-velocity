@@ -28,11 +28,14 @@
    - No search required for this task.
 Evolution and growth throughout the story# Character Development Arc for Isabella Torres
 
-## Journey Overview
+## Internal Conflicts of Isabella Torres
+- **Struggles with Innovation vs. Stability**: Isabella grapples with the tension between her desire for innovative economic policies and the need for stability in a rapidly changing environment. This internal conflict often manifests in her interactions with Marcus Reynolds and Sarah Chen, as she weighs the potential benefits of progressive policies against the risks they pose to vulnerable communities.
 - Transition from a community activist to a professional advocate.
 - Struggles with systemic injustice and her relationship with Marcus.
 
 ## Key Milestones
+- **Conflict with Marcus Reynolds**: During a pivotal debate, Isabella confronts Marcus about the implications of AI autonomy, questioning whether technological advancements might exacerbate existing inequalities.
+- **Collaboration with Sarah Chen**: Isabella and Sarah work together on a policy proposal that aims to balance innovation with ethical considerations, highlighting their shared commitment to social justice.
 - **Initial Conflict:** Encountering systemic injustice in her community.
 - **Growth Moment:** Realizing the power of advocacy and professional engagement.
 - **Resolution:** Achieving a significant victory in her advocacy work.
