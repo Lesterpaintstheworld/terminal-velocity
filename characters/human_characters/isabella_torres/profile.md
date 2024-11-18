@@ -9,8 +9,8 @@ Isabella Torres grew up in a politically active family, where discussions about 
 - Isabella is motivated by a deep desire to advocate for underrepresented communities and ensure their voices are heard in the AI discourse. She seeks to balance technological innovation with social justice.
 - She grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
 
-### Internal Conflicts
-- Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
+## Internal Conflicts
+Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
 
 ### Strategic Relationships
 - **Marcus Reynolds**: Their relationship is complex; they often clash over their differing views on the role of technology in society. While Marcus sees autonomous systems as necessary for national security, Isabella worries about their implications for social equity and justice. Their debates challenge her to refine her arguments and strategies.
