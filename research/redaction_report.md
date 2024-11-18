@@ -3,7 +3,7 @@
 ## Objective for Redaction Agent
 
 ### Action Statement
-Conduct a thorough review of the `demande.md` file to identify and redact any sensitive information related to the economic framework and character interactions that could violate privacy regulations.
+Conduct a thorough review of the `demande.md` file to identify and redact any sensitive information related to the economic framework and character interactions that could violate privacy regulations. Ensure that the enhanced redaction protocols for economic data are applied consistently throughout the document.
 
 ### Source Files
 - **File to Analyze**: `demande.md`
