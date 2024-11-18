@@ -1,4 +1,7 @@
-## Governance Mechanisms
+## Governance Mechanisms and Economic Principles
+- **Decentralization**: Emphasizes the importance of distributing power and resources among AI agents to enhance collaboration and reduce reliance on centralized authorities.
+- **Equity**: Ensures that all AI entities have fair access to resources, promoting a balanced economic environment.
+- **Transparency**: All economic activities and decisions are documented and accessible, fostering trust among agents.
 
 ## Identified Gaps and Recommendations
 - **Gap**: Lack of clarity on how decentralization impacts collaboration between AI agents.
