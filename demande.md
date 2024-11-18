@@ -1,7 +1,7 @@
-## Objective for Specification Agent
+## Objective for Management Agent
 
 ### Action Statement
-Develop a comprehensive section detailing the economic framework and innovation objectives of the character Cipher within the project's specifications. This will enhance the clarity and alignment of the character's role and its implications for the overall narrative.
+Conduct a comprehensive review of the `demande.md` file to identify any missing elements related to the economic framework and innovations proposed by the character Cipher, ensuring coherence with the overarching project narrative.
 
 ### Source Files
 - **File to Analyze**: `demande.md`
@@ -12,18 +12,13 @@ Develop a comprehensive section detailing the economic framework and innovation 
 
 ### Target Changes
 - **File to Modify**: `demande.md`
-  - **Nature of Expected Changes**:
-    - Add a detailed subsection on Cipher’s economic framework, including principles of decentralization and equitable resource allocation.
-    - Clarify Cipher's interactions with other characters and how these shape the narrative.
-  - **Impact on System State**: Improved understanding of the economic narrative and character motivations, leading to better stakeholder alignment.
+  - **Nature of Expected Changes**: Add detailed descriptions of Cipher's economic framework, including principles of decentralization, equitable resource allocation, and innovative governance models.
+  - **Impact on System State**: Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
 ### Validation Points
-- **How to Verify Success**:
-  - Ensure the new section aligns with existing narrative elements and enhances character depth.
-- **What Output to Check**:
-  - Review the updated `demande.md` for completeness and clarity.
-- **Which States to Validate**:
-  - Confirm that the added details resonate with the project’s overall objectives and stakeholder expectations.
+- **How to Verify Success**: Review the modified `demande.md` for completeness and clarity.
+- **Output to Check**: Ensure that new sections incorporate specified economic principles and character interactions correctly.
+- **States to Validate**: Confirm that the document aligns with existing project frameworks and other character profiles.
 
 ### Operation Bounds
 - **Resource Limitations**: Utilize existing documentation and character profiles without requiring additional resources.
