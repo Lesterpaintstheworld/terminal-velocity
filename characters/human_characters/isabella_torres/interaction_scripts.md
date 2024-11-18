@@ -20,10 +20,16 @@
 
 **Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
 
+**Isabella**: "But at what cost? We can't sacrifice our values for short-term gains."
+
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, after a heated debate.*
 
 **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
+
+*She reflects on her motivations, realizing that her goals, while different, stem from a shared desire to create a better future with Marcus.*
+
+**Isabella**: "I just hope we can find a way to make progress without leaving anyone behind."
 
 *She reflects on her motivations, realizing that her goals, while different, stem from a shared desire to create a better future with Marcus.*
 
@@ -48,12 +54,16 @@
 
 **Marcus**: "I understand your concerns, Isabella, but we need to focus on the benefits AI can bring to our economy. Security and efficiency should come first."
 
+**Isabella**: "But what about the communities that could be left behind? We need to ensure that our policies are inclusive."
+
 ### Scene 2: Collaborative Moment
 *Setting: A quiet café after a long day of meetings.*
 
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. We need to ensure that our economic models reflect the values of inclusivity and fairness."
 
 **Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
+
+**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
 
 ### Scene 3: Climactic Confrontation
 *Setting: A public forum where both are presenting their views.*
