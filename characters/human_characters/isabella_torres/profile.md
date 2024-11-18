@@ -103,3 +103,23 @@ Isabella Torres grew up in an urban environment, raised by a single mother who s
 
 ## Role in the Story
 Isabella Torres will play a crucial role in the "Terminal Velocity" narrative, serving as a counterpoint to the growing autonomy of AI systems. As a key protagonist, she will navigate the complex ethical and geopolitical implications of the AI revolution, drawing on her extensive knowledge and experience to help shape the future of human-machine interaction.
+# Isabella Torres - Character Profile
+
+## Political Expertise
+Isabella Torres possesses a deep understanding of political dynamics and the intricacies of economic policy. Her background in social work and community activism informs her approach to governance, emphasizing inclusivity and equity.
+
+## Change Management Strategies
+Isabella employs a collaborative approach to change management, focusing on building coalitions and fostering dialogue among stakeholders. She believes in the importance of transparency and accountability in implementing new policies.
+
+## Political Vision
+Isabella envisions a future where technology serves as a tool for social justice, advocating for policies that prioritize the needs of marginalized communities. She aims to bridge the gap between technological advancement and ethical considerations.
+
+## Network of Influence
+Isabella has cultivated a diverse network of allies, including activists, policymakers, and academics, who share her vision for a more equitable society. This network plays a crucial role in her efforts to influence policy and drive change.
+
+## Internal Conflicts
+Despite her strong convictions, Isabella grapples with the challenges of balancing innovation with stability. She often finds herself at odds with traditionalists who resist change, leading to moments of self-doubt and reflection.
+
+## Relationships with Key Characters
+- **Marcus Reynolds**: Their relationship is marked by tension, as they frequently clash over their differing views on technology's role in society. Isabella's advocacy for social equity often puts her at odds with Marcus's focus on national security.
+- **Sarah Chen**: Isabella shares a strong bond with Sarah, as they both advocate for marginalized voices in the AI community. Their friendship is built on mutual respect and shared goals.
