@@ -14,7 +14,14 @@ The decentralized model has profound implications for AI rights, as it fosters a
 ### Action Statement
 Analyser le fichier `demande.md` pour identifier et documenter des cas spécifiques de problèmes de redondance dans les journaux de communication entre agents autonomes et proposer des améliorations ciblées pour renforcer les stratégies de redondance.
 
-## Éléments Bien Développés (70-90% complets)
+## Principes du Cadre Économique Décentralisé
+Cipher propose un cadre économique décentralisé basé sur les principes suivants :
+- **Autonomie** : Les agents IA peuvent gérer leurs ressources de manière indépendante, réduisant ainsi la dépendance à un contrôle centralisé.
+- **Équité** : Les ressources sont allouées en fonction des besoins et des contributions de chaque agent, favorisant l'équité dans l'accès.
+- **Gouvernance** : Le modèle inclut des mécanismes de prise de décision collective, garantissant que tous les agents ont une voix dans la gestion des ressources.
+
+### Intégration dans la Narration
+Ces principes s'intègrent dans les dynamiques des personnages et l'arc narratif, en mettant en lumière les tensions entre l'innovation technologique et les préoccupations éthiques. Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds illustrent ces conflits et la nécessité d'un équilibre entre progrès et responsabilité.
 
 ### 1. Cadre Économique UBC
 - Documentation exhaustive du système économique dans `research/economic/economic_principles.md`
