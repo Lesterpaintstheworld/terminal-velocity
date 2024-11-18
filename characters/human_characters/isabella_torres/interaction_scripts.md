@@ -8,8 +8,8 @@
 
 **Isabella**: "Your approach risks sidelining the very communities we aim to uplift. We need to prioritize social equity in our economic models."
 
-### Scene 2: Seeking Common Ground
-*Setting: A quiet café after a long day of meetings.*
+### Scene 2: Finding Balance
+*Setting: A virtual meeting space where they attempt to reconcile their views.*
 
 **Isabella**: "Maybe we can find a middle ground. What if we propose a policy that includes safeguards for marginalized communities?"
 
