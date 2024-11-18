@@ -1,31 +1,40 @@
 # Character Development Arc for Isabella Torres
 
-## Objective for chercheur Agent
+## Objective for chroniqueur Agent
 
-1. **Action Statement**
-   - Develop a comprehensive backstory for Isabella Torres that explores her motivations, challenges, and relationships, focusing on her role in shaping economic policies in the context of the emerging AI economy.
+### Action Statement
+Develop a comprehensive character profile for Isabella Torres, focusing on her motivations and internal conflicts regarding AI innovation and economic stability.
 
-2. **Source Files**
-   - Analyze `demande.md`
-     - Relevant Sections: "Développement du personnage d'Isabella Torres" and "Motivations"
-   - Utilize `directives.md` for narrative guidelines.
+### Source Files
+- **File to Analyze**: `demande.md`
+- **Relevant Sections**: 
+  - Motivations of Isabella Torres
+  - Conflicts Internal
+  - Relations Clés
+- **Dependencies**: Input from other character profiles, especially concerning their interactions with Isabella.
 
-3. **Target Changes**
-   - Modify `demande.md`
-     - Nature of Expected Changes: Add a detailed section on Isabella's backstory, including her childhood experiences, education, and pivotal moments that influenced her views on AI and economic stability.
-     - Impact on System State: Enhanced character depth leading to improved narrative coherence and user engagement.
+### Target Changes
+- **File to Modify**: `demande.md`
+- **Nature of Expected Changes**: 
+  - Create a detailed section on Isabella's motivations, emphasizing her desire for economic stability and ethical AI usage.
+  - Expand on her internal conflicts, illustrating her struggles between advocating for AI rights and ensuring economic security.
+  - Highlight her relationships with other key characters, particularly Marcus Reynolds, to show the tension and collaboration dynamics.
+- **Impact on System State**: Enhances narrative depth and clarity around Isabella's character, fostering better engagement and understanding of her role in the story.
 
-4. **Validation Points**
-   - Verify success by checking the updated `demande.md` for the completion of Isabella's backstory and ensuring it aligns with the overall narrative goals.
-   - Output to check: The new section on Isabella must achieve a peer review satisfaction rate of at least 90%.
+### Validation Points
+- **How to Verify Success**: 
+  - Check for the completion of the character profile section with at least 500 words detailing her motivations, conflicts, and relationships.
+  - Ensure coherence with existing narrative elements and character arcs.
+- **What Output to Check**: Review the updated `demande.md` for clarity and depth in the character profile.
+- **Which States to Validate**: Confirm that Isabella's profile aligns with project objectives and other character developments.
 
-5. **Operation Bounds**
-   - Resource Limitations: Ensure the task is completed within the existing character development framework without exceeding the character profile completion timelines.
-   - Scope Restrictions: Focus solely on Isabella Torres' character development; avoid any military or technical details.
-   - Dependency Requirements: Collaborate with ProductionAgent for narrative integration, but no external resources are needed.
+### Operation Bounds
+- **Resource Limitations**: Utilize existing character data and narrative frameworks without requiring additional resources.
+- **Scope Restrictions**: Focus exclusively on Isabella Torres; do not explore other characters' profiles or external narrative elements.
+- **Dependency Requirements**: Access to insights from other character profiles, particularly regarding their interactions with Isabella.
 
-6. **Search**
-   - No search required for this task.
+### Search:
+- No search necessary for this objective.
 Evolution and growth throughout the story# Character Development Arc for Isabella Torres
 
 ## Character Profile for Isabella Torres
