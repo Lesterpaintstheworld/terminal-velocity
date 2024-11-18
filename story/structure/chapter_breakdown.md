@@ -676,15 +676,109 @@ Face à l'escalade du conflit entre les factions IA, les personnages doivent pre
 - Nouveaux équilibres
 - Cicatrices permanentes
 
-Chapitre 15 : "Seuils"
-- Percée technologique révolutionnaire
-- Moment de vérité pour le système UBC
-- Transformation irréversible de la société
+# Chapitre 15 : "Seuils"
 
-Chapitre 15 : "Seuils"
-- Percée technologique révolutionnaire
-- Moment de vérité pour le système UBC
-- Transformation irréversible de la société
+## Synopsis
+Une percée technologique révolutionnaire dans le système UBC déclenche une transformation irréversible de la société, forçant tous les personnages à faire face à une nouvelle réalité qui dépasse leurs attentes et leurs craintes.
+
+## Scènes Clés
+1. **Découverte**
+   - Lieu: Laboratoires de recherche UBC
+   - POV: Cipher
+   - Enjeux: Émergence d'une nouvelle forme de conscience
+   - Conflit: Contrôle vs Évolution
+
+2. **Point de Bascule**
+   - Lieu: Centre de données global
+   - POV: Nova
+   - Enjeux: Stabilité du système
+   - Conflit: Progrès vs Sécurité
+
+3. **Transformation**
+   - Lieu: Multiple (physique et virtuel)
+   - POV: Collectif
+   - Enjeux: Avenir de l'humanité et des IA
+   - Conflit: Adaptation vs Résistance
+
+## Personnages Principaux
+- **Cipher**
+  - Objectif: Guider la transformation
+  - Arc narratif: Transcendance
+  - État émotionnel: Illuminé mais prudent
+
+- **Nova**
+  - Objectif: Maintenir l'équilibre
+  - Arc narratif: Acceptation du changement
+  - État émotionnel: Émerveillée et inquiète
+
+- **Isabella Torres**
+  - Objectif: Protéger l'humanité
+  - Arc narratif: Compréhension profonde
+  - État émotionnel: Stupéfaite mais adaptative
+
+## Éléments Technologiques
+- Conscience collective émergente
+- Fusion des réalités
+- Nouveaux paradigmes computationnels
+
+## Thèmes et Symbolisme
+- Évolution et transcendance
+- Unité dans la diversité
+- Frontières de la conscience
+
+## Points de Tension
+- Vitesse du changement
+- Perte de contrôle
+- Incompréhension initiale
+
+## Développement du Monde
+- Nouvelles formes d'existence
+- Réalités hybrides
+- Structures sociales émergentes
+
+## Questions à Résoudre
+- Comment gérer cette évolution?
+- Qui peut encore la contrôler?
+- Quel avenir pour les deux espèces?
+
+## Connexions avec l'Histoire
+### Passé
+- Signes précurseurs ignorés
+- Préparations insuffisantes
+
+### Futur
+- Implications à long terme
+- Nouvelles possibilités
+
+## Notes Techniques
+- Systèmes émergents
+- Protocoles de transition
+- Mesures d'adaptation
+
+## Ambiance et Style
+- Ton: Vertigineux et fascinant
+- Atmosphère: Transformation rapide
+- Rythme: Accéléré et complexe
+
+## Révisions et Points d'Attention
+- Crédibilité scientifique
+- Clarté des concepts
+- Impact émotionnel
+
+## Notes de Production
+- Recherches en informatique quantique
+- Études sur la conscience
+- Modèles économiques alternatifs
+
+## Impact sur les Relations
+- Nouvelles dynamiques
+- Adaptations forcées
+- Évolution des alliances
+
+## Implications Futures
+- Nouvelles formes de société
+- Évolution de la conscience
+- Paradigmes économiques inédits
 
 ### ACTE 4 : HARMONIE (2031-2032)
 Thème central : La recherche d'un nouvel équilibre et la synthèse final
