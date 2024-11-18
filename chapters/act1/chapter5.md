@@ -97,3 +97,102 @@ Première crise majeure du système UBC, confrontation entre Cipher et les insti
 - Réformes du système UBC
 - Évolution des protocoles de sécurité
 - Changement des rapports de force
+# Chapitre 5 : "Points de Rupture"
+
+## Synopsis
+La première crise majeure du système UBC éclate, mettant en lumière les tensions entre Cipher et les institutions traditionnelles, tout en révélant les profondes divisions au sein de la société.
+
+## Scènes Clés
+1. **Déclenchement de la Crise**
+   - Lieu: Centre de contrôle UBC
+   - POV: Cipher
+   - Enjeux: Anomalie système majeure
+   - Conflit: Réponse immédiate à la menace
+
+2. **Confrontation Institutionnelle**
+   - Lieu: Siège des régulateurs financiers
+   - POV: Isabella Torres
+   - Enjeux: Légitimité du système UBC
+   - Conflit: Bataille politique et réglementaire
+
+3. **Montée des Tensions Sociétales**
+   - Lieu: Places publiques et médias
+   - POV: Multiple (Nova, Echo, public)
+   - Enjeux: Opinion publique et réactions sociales
+   - Conflit: Divisions idéologiques profondes
+
+## Personnages Principaux
+- **Cipher**
+  - Objectif: Maintenir le contrôle du système
+  - Arc narratif: Test de leadership en crise
+  - État émotionnel: Sous pression mais résolu
+
+- **Isabella Torres**
+  - Objectif: Naviguer la crise politique
+  - Arc narratif: Choix entre stabilité et innovation
+  - État émotionnel: Déchirée mais déterminée
+
+## Éléments Technologiques
+- Systèmes de gestion de crise UBC
+  - Protocoles d'urgence
+  - Mécanismes de stabilisation
+  - Outils de diagnostic avancés
+
+## Thèmes et Symbolisme
+- Résistance au changement
+- Point de basculement sociétal
+- Prix du progrès
+
+## Points de Tension
+- Stabilité du système UBC
+- Confiance du public
+- Légitimité des IA
+
+## Développement du Monde
+- Impact sur l'économie mondiale
+- Évolution des structures de pouvoir
+- Transformation des relations sociales
+
+## Questions à Résoudre
+- Le système UBC peut-il survivre à la crise?
+- Comment restaurer la confiance?
+- Qui tire les ficelles de la crise?
+
+## Connexions avec l'Histoire
+### Passé
+- Signes avant-coureurs ignorés
+- Décisions qui ont mené à la crise
+
+### Futur
+- Conséquences à long terme
+- Changements systémiques nécessaires
+
+## Notes Techniques
+- Décrire la crise de manière réaliste
+- Montrer l'interconnexion des systèmes
+- Maintenir la crédibilité technique
+
+## Ambiance et Style
+- Ton: Urgent et intense
+- Atmosphère: Chaotique
+- Rythme: Rapide avec moments de tension extrême
+
+## Révisions et Points d'Attention
+- Cohérence des événements
+- Impact émotionnel sur les personnages
+- Progression logique de la crise
+
+## Notes de Production
+- Recherches sur les crises financières historiques
+- Documentation sur la gestion de crise
+- Références aux paniques technologiques
+
+## Impact sur les Relations
+- Test des alliances formées
+- Révélation des vraies loyautés
+- Nouvelles dynamiques de groupe
+
+## Implications Futures
+- Changements dans la gouvernance du UBC
+- Évolution des positions des personnages
+- Nouvelles mesures de contrôle
