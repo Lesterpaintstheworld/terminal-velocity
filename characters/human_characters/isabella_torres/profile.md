@@ -2,8 +2,8 @@
 
 ## Character Profile for Isabella Torres
 
-### Background
-Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
+## Backstory
+Isabella Torres grew up in a politically active family, where discussions about economics and governance were common. Her early exposure to these topics shaped her understanding of the complexities of societal structures. She pursued a degree in political science, focusing on economic policies and their implications for both humans and AI. A significant event in her life was witnessing the impact of economic policies on marginalized communities, which fueled her desire to advocate for equitable solutions.
 
 ### Motivations and Internal Conflicts
 - Isabella is motivated by a deep desire to advocate for underrepresented communities and ensure their voices are heard in the AI discourse. She seeks to balance technological innovation with social justice.
