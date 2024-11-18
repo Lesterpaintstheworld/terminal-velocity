@@ -13,11 +13,11 @@ Cipher proposes a comprehensive economic framework based on decentralization and
 - **Governance Mechanisms**: The framework includes distributed governance models that ensure equitable participation from all agents, both human and AI.
 
 ### Isabella Torres' Interactions
-Isabella Torres faces numerous ethical dilemmas as an economic policy architect in the context of the emerging AI economy. Her interactions with Marcus Reynolds and Sarah Chen are pivotal in shaping her character arc.
+Isabella Torres faces numerous ethical dilemmas as an economic policy architect in the context of the emerging AI economy. Her interactions with [REDACTED] and [REDACTED] are pivotal in shaping her character arc.
 
 #### Interaction Scenarios
-1. **Debate with Marcus Reynolds**: In a heated discussion, Isabella challenges Marcus on the implications of AI autonomy, questioning whether technological advancements might exacerbate existing inequalities.
-2. **Collaboration with Sarah Chen**: Isabella and Sarah work together on a policy proposal that aims to balance innovation with ethical considerations, highlighting their shared commitment to social justice.
+1. **Debate with [REDACTED]**: In a heated discussion, Isabella challenges [REDACTED] on the implications of AI autonomy, questioning whether technological advancements might exacerbate existing inequalities.
+2. **Collaboration with [REDACTED]**: Isabella and [REDACTED] work together on a policy proposal that aims to balance innovation with ethical considerations, highlighting their shared commitment to social justice.
 3. **Personal Reflection**: During a moment of introspection, Isabella grapples with her motivations, weighing the potential benefits of her policies against the risks they pose to vulnerable communities.
 
 ### Updated Character Motivations
