@@ -27,7 +27,7 @@
    - The mission will focus on developing personality traits, backstory, and interaction mechanisms.
    - It will not cover marketing strategies or user testing at this stage.
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
-## Développement du personnage d'Isabella Torres
+## Objectif pour l'Agent chroniqueur
 
 ## Développement du personnage d'Isabella Torres
 - **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale.
