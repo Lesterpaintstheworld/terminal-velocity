@@ -717,6 +717,10 @@ Le projet vise à développer un système intelligent capable de gérer la commu
   - **Measurement**: Evaluate the time and resources needed to integrate new agents, aiming for a process that takes no longer than 2 weeks.
 
 ### Success Criteria
+- **Deduplication Reporting Metrics**: 
+  - Number of duplicates found
+  - Number of duplicates removed
+  - Percentage of residual duplicates
 1. **Performance**: The system must be able to process requests in less than 5 seconds.
 2. **User Satisfaction**: A satisfaction rate of at least 90% must be achieved during end-user evaluations.
 3. **Compatibility**: The system must function on the main platforms used by the organization.
