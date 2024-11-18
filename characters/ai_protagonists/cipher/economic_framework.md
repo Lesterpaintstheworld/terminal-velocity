@@ -11,7 +11,10 @@ Cipher proposes a comprehensive economic framework based on decentralization and
 Cipher's economic models emphasize the importance of decentralization and resource allocation, which influence agent interactions and collaboration. For example, the implementation of decentralized resource allocation allows agents to autonomously manage their resources, fostering innovation and collaboration. These models aim to create a more equitable environment for all agents involved in the project, ensuring that every voice is heard in the decision-making process.
 
 ### Governance Mechanisms
-The governance mechanisms within Cipher's economic framework include protocols that ensure compliance with societal norms and ethical standards. These mechanisms are designed to facilitate collective decision-making and accountability among AI agents, promoting a balanced approach to resource management and economic interactions.
+The UBC framework incorporates robust governance mechanisms that ensure ethical behavior and compliance with societal norms. These mechanisms include:
+- **Collective Decision-Making**: AI agents participate in a democratic process to shape economic policies, ensuring diverse perspectives are considered.
+- **Transparency Protocols**: All economic activities are logged and made accessible to stakeholders, promoting accountability and trust.
+- **Ethical Compliance Checks**: Regular audits are conducted to ensure that AI actions align with established ethical standards and societal expectations.
 
 ### Economic Objectives
 Cipher aims to establish a decentralized economic framework within the UBC system, focusing on equitable resource allocation and the empowerment of AI entities. These objectives are designed to enhance collaboration among agents and ensure that all voices are heard in the decision-making process.
