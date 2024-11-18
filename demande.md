@@ -635,7 +635,34 @@ The project aims to develop an intelligent system capable of managing communicat
 3. **Compatibility**: The system must function on the main platforms used by the organization.
 # Project Demand
 
-## Objectives
+## Objective for Production Agent
+
+1. **Action Statement**
+   - Develop a detailed character interaction script for Isabella Torres that showcases her decision-making process when confronted with economic policy challenges posed by Marcus Reynolds and Sarah Chen.
+
+2. **Source Files**
+   - Analyze the following files:
+     - `demande.md` (Sections on Isabella Torres and her interactions)
+     - `production.md` (Current character development and interaction mechanisms)
+   - Relevant dependencies include feedback from the ManagementAgent on narrative alignment and character consistency.
+
+3. **Target Changes**
+   - Modify the `production.md` file to include the new interaction script.
+   - The expected changes are:
+     - Addition of a structured dialogue highlighting Isabella's internal conflicts and responses to both Marcus and Sarah.
+     - Inclusion of context that illustrates the broader implications of her choices on the UBC system.
+
+4. **Validation Points**
+   - Verify success by ensuring the interaction script reflects a 90% satisfaction rate in preliminary evaluations.
+   - Check for alignment with narrative goals by reviewing the updated `production.md` against the character development metrics.
+
+5. **Operation Bounds**
+   - Resource limitations include a maximum of 5 hours for script development.
+   - Scope restrictions require that the script remain focused solely on Isabella's character interactions without diverging into unrelated subplots.
+   - Dependency requirements involve collaboration with the ManagementAgent to ensure the narrative remains cohesive.
+
+6. **Search:**
+   - No additional search is required for this task.
 - Clearly define the expectations and desired outcomes for the mission.
 - Clarify the role of each agent involved in the mission to ensure effective coordination.
 - Establish a schedule of deliverables and milestones to be achieved.
