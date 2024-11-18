@@ -10,5 +10,5 @@
 - **Balancing Innovation and Stability**: She grapples with the tension between pushing for innovative economic solutions and the need for stability in a rapidly changing technological landscape.
 
 ### Relationships
-- **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts.
+- **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts. Their debates often highlight the ethical implications of AI in economic policies, reflecting the broader tensions between innovation and stability.
 - **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies.
