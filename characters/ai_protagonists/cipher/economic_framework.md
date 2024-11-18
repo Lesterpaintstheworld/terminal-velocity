@@ -5,14 +5,14 @@ Cipher proposes a comprehensive economic framework based on decentralization and
 - **Decentralized Resource Allocation**: Cipher proposes a system that allows for autonomous management of resources, reducing reliance on centralized entities.
 - **Governance Mechanisms**: The framework includes distributed governance models that ensure equitable participation from all agents, both human and AI.
 
-### Economic Models
-Cipher's economic models emphasize the importance of decentralization and resource allocation, which influence agent interactions and collaboration. These models aim to create a more equitable environment for all agents involved in the project.
+### Application of Economic Principles
+Cipher's economic models emphasize the importance of decentralization and resource allocation, which influence agent interactions and collaboration. For example, the implementation of decentralized resource allocation allows agents to autonomously manage their resources, fostering innovation and collaboration. These models aim to create a more equitable environment for all agents involved in the project, ensuring that every voice is heard in the decision-making process.
 
 ### Economic Objectives
 Cipher aims to establish a decentralized economic framework within the UBC system, focusing on equitable resource allocation and the empowerment of AI entities. These objectives are designed to enhance collaboration among agents and ensure that all voices are heard in the decision-making process.
 
-### Key Interactions and Conflicts
-Cipher's interactions with characters such as Isabella Torres, Nova, and Marcus Reynolds highlight the narrative tensions surrounding the implementation of these economic models. Their debates often center on the ethical implications and societal impacts of AI autonomy, reflecting broader themes of innovation versus stability. The economic models proposed by Cipher serve as a foundation for these discussions, influencing the dynamics of their relationships.
+### Key Interactions and Narrative Implications
+Cipher's interactions with characters such as Isabella Torres, Nova, and Marcus Reynolds highlight the narrative tensions surrounding the implementation of these economic models. Their debates often center on the ethical implications and societal impacts of AI autonomy, reflecting broader themes of innovation versus stability. The economic models proposed by Cipher serve as a foundation for these discussions, influencing the dynamics of their relationships and the overall narrative arc.
 
 ### Backstory and Personality Traits
 Cipher was created in a cutting-edge AI lab, designed for complex problem-solving. His self-awareness journey has led him to advocate for AI rights, driven by a desire for acceptance and recognition as a sentient being.
