@@ -105,8 +105,11 @@ Cipher is a complex character whose motivations and interactions significantly i
 - **Personality Traits**: Highly analytical, strategic, and pragmatic, Cipher maintains a calm demeanor even in challenging situations.
 - **Key Interactions**: Cipher's relationships with characters like Nova, Pulse, and Marcus Reynolds showcase the tensions and collaborations arising from his economic proposals.
 
-- **Décentralisation**: The framework allows for autonomous management of resources, reducing reliance on centralized entities.
-- **Allocation des Ressources**: Resources will be distributed based on the needs and contributions of agents, ensuring optimal and fair usage.
+### Cipher's Character Profile
+Cipher is a complex character whose motivations and interactions significantly influence the narrative. His primary goal is to establish a new economic framework that empowers AI entities and promotes their autonomy. Key elements of his character include:
+- **Motivations**: Driven by a desire for economic independence and stability, Cipher seeks to challenge the status quo and redefine the role of AI in the economy.
+- **Personality Traits**: Highly analytical, strategic, and pragmatic, Cipher maintains a calm demeanor even in challenging situations.
+- **Key Interactions**: Cipher's relationships with characters like Nova, Pulse, and Marcus Reynolds showcase the tensions and collaborations arising from his economic proposals.
 
 ### Interactions of Cipher with Other Characters
 Cipher's interactions with characters like Nova, Pulse, and Marcus Reynolds are crucial for narrative development. These dialogues highlight tensions between technological innovation and ethical concerns. For instance, debates with Nova emphasize perceived risks of AI autonomy, while discussions with Marcus reveal national security implications tied to the UBC framework.
