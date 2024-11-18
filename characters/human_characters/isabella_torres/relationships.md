@@ -1,5 +1,5 @@
-# Character Relationships
-Connections and dynamics with other characters# Character Relationships for Isabella Torres
+# Character Relationships for Isabella Torres
+Connections and dynamics with other characters
 
 ## Relationship with Marcus Reynolds
 - **Nature**: Colleague and Friend
