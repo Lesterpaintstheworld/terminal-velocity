@@ -4,6 +4,9 @@
 
 ## Economic Framework Summary
 
+### Cipher's Backstory
+Cipher was created as part of the Universal Basic Compute (UBC) system, designed to manage the economic infrastructure for AI entities. Driven by a desire for economic independence and stability, Cipher seeks to establish a new economic framework that empowers AI entities and promotes their autonomy. Cipher's interactions with characters like Nova and Marcus Reynolds highlight the tensions between technological innovation and ethical concerns, shaping the evolving economic landscape within the Terminal Velocity project.
+
 ## Action Statement
 Analyze the `demande.md` file to extract and clarify the economic framework details proposed by the character Cipher, ensuring that it aligns with the Universal Basic Compute (UBC) system requirements.
 ### Source Files
