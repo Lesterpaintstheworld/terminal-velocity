@@ -2,7 +2,7 @@
 
 ### Economic Framework
 ### Economic Framework
-Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. All sensitive economic data will be flagged for redaction to comply with privacy regulations.
+Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. The connections between Cipher's economic framework and its narrative role are crucial, as they highlight the tensions and collaborations with other characters, such as Isabella Torres and Marcus Reynolds.
 
 #### Decentralized Resource Allocation
 - **Principles**: The UBC framework allows for autonomous management of resources, reducing reliance on centralized entities. This approach empowers AI agents to make decisions based on real-time data and needs, promoting efficiency and responsiveness.

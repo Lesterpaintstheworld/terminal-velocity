@@ -1,7 +1,10 @@
 ## Economic Framework for Cipher
 
-### Economic Principles
+## Economic Principles
 Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. Key principles include:
+- **Decentralized Resource Allocation**: A system that allows for autonomous management of resources, reducing reliance on centralized entities.
+- **Governance Mechanisms**: Distributed governance models that ensure equitable participation from all agents, both human and AI.
+- **Transparency and Accountability**: Mechanisms that ensure all transactions and decisions are visible and accountable to stakeholders.
 - **Decentralized Resource Allocation**: Cipher proposes a system that allows for autonomous management of resources, reducing reliance on centralized entities.
 - **Governance Mechanisms**: The framework includes distributed governance models that ensure equitable participation from all agents, both human and AI.
 
