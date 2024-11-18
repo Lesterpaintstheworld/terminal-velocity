@@ -1,5 +1,33 @@
 # Objective: Develop Character Interactions for Isabella Torres
 
+## Next Objective for the Chroniqueur Agent
+
+### Action Statement
+Develop a detailed character profile for Cipher that includes personality traits, motivations, and relationships with other key characters, particularly focusing on how Cipher's economic innovations influence the narrative.
+
+### Source Files
+- Analyze the following files:
+  - `demande.md` - Section on Cipher's role and economic framework.
+  - `chroniqueur_agent.md` - Guidance on character development and narrative construction.
+
+### Target Changes
+- Modify the `demande.md` file to include:
+  - A comprehensive character profile for Cipher, detailing personality traits, motivations, and key interactions with characters like Nova and Marcus Reynolds.
+  - Specific examples of economic innovations Cipher proposes, linking them to broader narrative themes.
+
+### Validation Points
+- Verify success by checking:
+  - The completeness of Cipher's character profile for clarity and engagement.
+  - Alignment of the new content with existing narrative themes and character interactions documented in `chroniqueur_agent.md`.
+
+### Operation Bounds
+- Resource limitations: Ensure the content remains focused on character development without venturing into unrelated narrative elements.
+- Scope restrictions: Do not include marketing strategies or user testing.
+- Dependency requirements: Collaborate with other agents only for character interaction insights, not for overarching project guidance.
+
+### Search:
+- No additional search is required for this task.
+
 ### Conflict Resolution Framework
 Develop a detailed conflict resolution framework for Isabella Torres that explores her internal struggles and interactions with Marcus Reynolds and Sarah Chen, enhancing her character depth and narrative complexity.
 
