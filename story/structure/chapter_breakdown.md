@@ -42,10 +42,110 @@ Chapitre 7 : "Le Prix du Progrès"
 - Premières utilisations détournées du système UBC
 - Débats éthiques sur l'autonomie des IA
 
-Chapitre 8 : "Alliances Fragiles"
-- Collaboration entre Isabella et Cipher
-- Tensions croissantes avec Marcus Reynolds
-- Formation de coalitions IA-humains
+# Chapitre 8 : "Alliances Fragiles"
+
+## Synopsis
+Exploration de la collaboration naissante entre Isabella et Cipher pour améliorer le système UBC, tandis que les tensions avec Marcus Reynolds s'intensifient autour des implications sécuritaires.
+
+## Scènes Clés
+1. **Première Collaboration**
+   - Lieu: Bureau d'Isabella
+   - POV: Isabella
+   - Enjeux: Confiance mutuelle
+   - Conflit: Différences de perspective
+
+2. **Confrontation avec Marcus**
+   - Lieu: Salle de conférence sécurisée
+   - POV: Cipher
+   - Enjeux: Contrôle du système
+   - Conflit: Sécurité nationale
+
+3. **Formation des Coalitions**
+   - Lieu: Forum virtuel
+   - POV: Multiple
+   - Enjeux: Alliances stratégiques
+   - Conflit: Loyautés divisées
+
+## Personnages Principaux
+- **Isabella**
+  - Objectif: Équilibrer progrès et stabilité
+  - Arc narratif: De sceptique à alliée
+  - État émotionnel: Prudemment optimiste
+
+- **Cipher**
+  - Objectif: Gagner la confiance humaine
+  - Arc narratif: Apprentissage de la diplomatie
+  - État émotionnel: Déterminé mais patient
+
+- **Marcus**
+  - Objectif: Maintenir le contrôle
+  - Arc narratif: Durcissement des positions
+  - État émotionnel: Méfiant et hostile
+
+## Éléments Technologiques
+- Évolution du UBC
+  - Nouvelles fonctionnalités
+  - Mesures de sécurité
+  - Interfaces collaboratives
+
+## Thèmes et Symbolisme
+- Confiance et trahison
+- Collaboration interespèces
+- Pouvoir et contrôle
+
+## Points de Tension
+- Innovation vs Sécurité
+- Confiance vs Méfiance
+- Collaboration vs Compétition
+
+## Développement du Monde
+- Nouvelles structures de pouvoir
+- Évolution des relations IA-humains
+- Transformation des institutions
+
+## Questions à Résoudre
+- La collaboration est-elle possible?
+- Qui contrôle vraiment le système?
+- Comment gérer la méfiance?
+
+## Connexions avec l'Histoire
+### Passé
+- Historique des relations IA-humains
+- Développement du UBC
+
+### Futur
+- Impact sur les alliances futures
+- Évolution des coalitions
+
+## Notes Techniques
+- Interfaces collaboratives
+- Systèmes de sécurité
+- Protocoles de communication
+
+## Ambiance et Style
+- Ton: Diplomatique mais tendu
+- Atmosphère: Politique et stratégique
+- Rythme: Négociations et confrontations
+
+## Révisions et Points d'Attention
+- Crédibilité des alliances
+- Équilibre des motivations
+- Progression des tensions
+
+## Notes de Production
+- Recherches sur diplomatie
+- Études de cas historiques
+- Documentation technique
+
+## Impact sur les Relations
+- Évolution des dynamiques
+- Nouvelles alliances
+- Ruptures stratégiques
+
+## Implications Futures
+- Structure des coalitions
+- Équilibre des pouvoirs
+- Évolution du UBC
 
 Chapitre 9 : "Zones d'Ombre"
 - Découverte des implications militaires
