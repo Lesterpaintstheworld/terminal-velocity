@@ -1,4 +1,5 @@
-## Interaction Script for Isabella Torres and Marcus Reynolds
+## Expanded Interaction Script for Isabella Torres and Marcus Reynolds
+### Scene: Ethical Debate on AI Policies
 
 ### Scene 1: Ethical Concerns
 *Setting: A conference room filled with stakeholders discussing AI regulations.*
