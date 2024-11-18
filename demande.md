@@ -42,6 +42,15 @@ Develop a comprehensive backstory for the character Cipher, focusing on their ec
 
 ## Economic Framework Summary
 
+### Cipher's Economic Framework
+Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. Key principles include:
+
+- **Décentralisation**: The framework allows for autonomous management of resources, reducing reliance on centralized entities.
+- **Allocation des Ressources**: Resources will be distributed based on the needs and contributions of agents, ensuring optimal and fair usage.
+
+### Interactions of Cipher with Other Characters
+Cipher's interactions with characters like Nova, Pulse, and Marcus Reynolds are crucial for narrative development. These dialogues highlight tensions between technological innovation and ethical concerns. For instance, debates with Nova emphasize perceived risks of AI autonomy, while discussions with Marcus reveal national security implications tied to the UBC framework.
+
 ### Cipher's Economic Innovations
 Cipher proposes several economic innovations aimed at enhancing the efficiency and equity of resource distribution. These include:
 - **Decentralized Resource Allocation**: A system that allows for the autonomous management of resources, reducing reliance on centralized entities.
