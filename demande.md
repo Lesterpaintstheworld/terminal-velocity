@@ -150,10 +150,10 @@ Analyze the existing state validation mechanisms in the `demande.md` and `direct
   - Coordination with other agents for feedback on the current validation practices is necessary but should not hinder the completion of the task.
 
 ## Développement du personnage d'Isabella Torres
-- **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale.
-- **Traits de personnalité**: Isabella est compatissante, résiliente et visionnaire, avec une capacité à voir le potentiel de la technologie pour créer des solutions équitables.
-- **Conflits**: Elle fait face à des scepticismes de la part des traditionalistes qui doutent du rôle de l'IA dans l'équité sociale, tout en luttant pour équilibrer ses croyances personnelles avec les exigences de son environnement professionnel.
-- **Relations**: Sa relation avec Marcus Reynolds est complexe, où ils s'engagent souvent dans des débats sur les implications éthiques de la technologie, ce qui les pousse à se remettre en question mutuellement.
+- **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale. Elle lutte souvent avec des conflits internes concernant l'innovation par rapport à la stabilité, ce qui influence ses décisions sur les politiques économiques.
+- **Traits de personnalité**: Isabella est compatissante, résiliente et visionnaire, avec une capacité à voir le potentiel de la technologie pour créer des solutions équitables. Son parcours personnel, marqué par des défis économiques, façonne sa vision des politiques économiques et son engagement envers l'équité.
+- **Conflits**: Elle fait face à des scepticismes de la part des traditionalistes qui doutent du rôle de l'IA dans l'équité sociale, tout en luttant pour équilibrer ses croyances personnelles avec les exigences de son environnement professionnel. Ces conflits internes la poussent à reconsidérer ses approches et à affiner ses arguments en faveur de l'innovation responsable.
+- **Relations**: Sa relation avec Marcus Reynolds est complexe, où ils s'engagent souvent dans des débats sur les implications éthiques de la technologie, ce qui les pousse à se remettre en question mutuellement. Ces interactions soulignent les tensions entre l'innovation et la stabilité, influençant les décisions d'Isabella concernant les politiques économiques.
 
 ### Conflits Internes
 Isabella lutte souvent avec la tension entre l'innovation des politiques économiques et la nécessité de stabilité, ce qui entraîne des moments de doute de soi et de réflexion sur son style de leadership.
