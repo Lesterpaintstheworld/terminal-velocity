@@ -1,10 +1,10 @@
 # Character Relationships for Cipher
 
 ## Relationship with Isabella Torres
-- **Nature**: Colleague and Advocate
-- **Key Dynamics**: Cipher and Isabella share a mutual respect for each other's goals, but their differing views on the role of AI in society often lead to intense discussions.
+- **Nature**: Collaborative Partners
+- **Key Dynamics**: Cipher and Isabella often find themselves at odds due to their differing views on AI autonomy and economic policies. Their discussions are marked by a blend of respect and tension.
 - **Impact on Cipher**: Isabella's advocacy for ethical AI usage challenges Cipher to consider the broader implications of his economic proposals.
-- **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities.
+- **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities. The new interaction scripts highlight their ideological conflicts and the potential for collaboration.
 
 ## Relationship with Marcus Reynolds
 - **Nature**: Professional Rival
