@@ -16,14 +16,14 @@ Conduct a comprehensive review of the `demande.md` file to identify any missing 
   - **Impact on System State**: Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
 ### Validation Points
-- **How to Verify Success**: Review the modified `demande.md` for completeness and clarity.
-- **Output to Check**: Ensure that new sections incorporate specified economic principles and character interactions correctly.
-- **States to Validate**: Confirm that the document aligns with existing project frameworks and other character profiles.
+- **How to Verify Success**: Ensure that all redactions are validated and that no sensitive information is visible in the modified document.
+- **Output to Check**: The redacted version of `demande.md` must be compared against the original to ensure completeness of redactions.
+- **States to Validate**: Confirm that the redaction process has been logged without errors and that the final document passes compliance checks.
 
 ### Operation Bounds
-- **Resource Limitations**: Utilize existing documentation and character profiles without requiring additional resources.
-- **Scope Restrictions**: Focus solely on Cipher’s economic framework, avoiding unrelated character developments or marketing aspects.
-- **Dependency Requirements**: Ensure that changes align with the overall project objectives and do not conflict with existing specifications.
+- **Resource Limitations**: Ensure that the processing time for redaction does not exceed 2 seconds per document.
+- **Scope Restrictions**: This operation is limited to identifying and redacting information; no additional alterations to the narrative structure or content are permitted.
+- **Dependency Requirements**: Must have access to the latest machine learning models for effective pattern recognition of sensitive information.
 
 ## Action Statement
 Analyze the `demande.md` file, specifically focusing on the sections detailing the economic framework and the role of the character Cipher, to extract and define clear specifications that align with the latest project requirements and stakeholder expectations.
