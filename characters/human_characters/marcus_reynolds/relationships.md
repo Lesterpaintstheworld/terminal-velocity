@@ -2,7 +2,7 @@
 
 ## Relationship with Isabella Torres
 - **Background**: Marcus and Isabella share a complex relationship marked by mutual respect and ideological conflict. They often engage in heated debates about the role of AI in society, with Marcus advocating for national security and Isabella emphasizing social equity.
-- **Conflict Points**: Their differing philosophies on technology and its implications for society often lead to tension, but they also find common ground in their desire for progress.
+- **Conflict Points**: Their differing philosophies on technology and its implications for society often lead to tension, but they also find common ground in their desire for progress. This ongoing struggle forces them to confront their values and the impact of their decisions on the communities they serve.
 - **Supportive Moments**: Despite their disagreements, they occasionally collaborate on initiatives that aim to balance security and ethical considerations in AI development.
 
 ## Background
