@@ -40,10 +40,17 @@ Isabella's relationship with Marcus Reynolds is complex; they often clash over t
 - Faces skepticism from traditionalists who doubt the role of AI in social equity.
 - Struggles with balancing her personal beliefs with the demands of her professional environment.
 
-## Development Arc
-### Initial Phase
-- **Motivations**: Sarah begins as a passionate advocate for AI rights, driven by her experiences and a desire for justice.
-- **Beliefs**: Initially believes in a collaborative approach between humans and AIs.
+## Character Profile for Isabella Torres
+
+### Motivations
+- Isabella is motivated by a deep desire to advocate for underrepresented communities and ensure their voices are heard in the AI discourse. She seeks to balance technological innovation with social justice.
+
+### Internal Conflicts
+- Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
+
+### Key Relationships
+- **Marcus Reynolds**: Their relationship is complex; they often clash over their differing views on the role of technology in society. While Marcus sees autonomous systems as necessary for national security, Isabella worries about their implications for social equity and justice.
+- **Sarah Chen**: Shares a strong bond with Sarah, as they both advocate for marginalized voices in the AI community. Their friendship is built on mutual respect and shared goals.
 - **Key Scenarios**: 
   - Faces a choice between implementing a groundbreaking economic policy that could destabilize the current system or maintaining the status quo to ensure stability.
   - Engages in a debate with Marcus Reynolds about the implications of rapid economic changes driven by AI, weighing innovation against potential risks.

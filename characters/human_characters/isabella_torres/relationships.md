@@ -5,7 +5,7 @@ Connections and dynamics with other characters# Character Relationships for Isab
 - **Nature**: Colleague and Friend
 - **Key Dynamics**: Isabella and Marcus share a deep bond forged through their similar backgrounds and experiences in law enforcement. They often engage in discussions about justice, which can lead to both support and conflict due to their differing approaches.
 - **Impact on Isabella**: Marcus's perspective challenges Isabella to consider the complexities of justice, influencing her advocacy work and personal growth.
-- **Evolving Dynamics**: Their relationship evolves as they confront ethical dilemmas posed by AI technology, forcing them to reassess their values and priorities.
+- **Evolving Dynamics**: Their relationship evolves as they confront ethical dilemmas posed by AI technology, forcing them to reassess their values and priorities. This dynamic is further complicated by their differing views on the role of technology in society.
 
 ## Relationship with Sarah Chen
 - **Nature**: Professional Rival
