@@ -1,6 +1,6 @@
 # Isabella Torres - Character Profile
 
-## Character Profile for Isabella Torres
+# Isabella Torres - Character Profile
 
 ## Backstory
 Isabella Torres grew up in a politically active family, where discussions about economics and governance were common. Her early exposure to these topics shaped her understanding of the complexities of societal structures. She pursued a degree in political science, focusing on economic policies and their implications for both humans and AI. A significant event in her life was witnessing the impact of economic policies on marginalized communities, which fueled her desire to advocate for equitable solutions.
