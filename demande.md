@@ -1,31 +1,34 @@
-## Objective for the Redondance Agent
+## Objective for Redaction Agent
 ### Action Statement
-Analyze the `demande.md` file to identify and document inconsistencies in the character interactions and economic frameworks proposed by Cipher, ensuring alignment with the overall project narrative.
+Conduct a comprehensive review of the `demande.md` and `directives.md` files to identify and redact any sensitive information related to the economic framework and character interactions, ensuring compliance with data privacy standards.
+### Source Files
+- Analyze the following file: `demande.md`
+  - Relevant sections: 
 
 ### Source Files
 - **File to Analyze**: `demande.md`
-- **Relevant Sections**: 
-  - Character interactions (specifically Cipher's interactions with Nova, Pulse, and Marcus Reynolds).
-  - Economic frameworks and innovations described under Cipher's role.
-- **Dependencies**: 
-  - Cross-reference with `directives.md` to ensure compliance with project requirements.
+  - Relevant sections: 
+    - Economic framework details
+    - Cipher's role and innovations
+    - Interactions with key characters (e.g., Nova, Marcus Reynolds)
+  - **Dependencies**: Ensure consistency with `directives.md` and other project-related documentation.
 
 ### Target Changes
 - **Files to Modify**: 
   - `demande.md`
 - **Nature of Expected Changes**: 
-  - Add a section that outlines any inconsistencies found in character interactions and economic principles proposed by Cipher.
-  - Enhance clarity on how Cipher's proposals impact the narrative and relationships with other characters.
+  - Add detailed descriptions of Cipher's economic framework, including principles of decentralization, equitable resource allocation, and innovative governance models.
+  - Clarify Cipher’s interactions with other characters (e.g., Nova, Marcus Reynolds) and the impact of these interactions on the overall narrative.
 - **Impact on System State**: 
-  - Improved coherence and depth in the project narrative, ensuring all character interactions reflect their motivations and the economic themes of the story.
+  - Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
 ### Validation Points
 - **How to Verify Success**: 
-  - Ensure the new section in `demande.md` includes at least three documented inconsistencies with explanations.
-- **What Output to Check**: 
-  - Review the updated `demande.md` for clarity and completeness.
-- **Which States to Validate**: 
-  - Confirm that all character motivations and proposals align logically, and that the overall narrative flow is maintained.
+  - Ensure that all redactions are validated and that no sensitive information is visible in the modified document.
+- **Output to Check**: 
+  - The redacted version of `demande.md` must be compared against the original to ensure completeness of redactions.
+- **States to Validate**: 
+  - Confirm that the redaction process has been logged without errors and that the final document passes compliance checks.
 
 ### Operation Bounds
 - **Resource Limitations**: 
