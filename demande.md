@@ -1,4 +1,4 @@
-## Objective for Specification Agent
+## Objective for the Redondance Agent
 
 ## Action Statement
 Analyze the `demande.md` file to extract and clarify the economic framework details proposed by the character Cipher, ensuring that it aligns with the Universal Basic Compute (UBC) system requirements.
@@ -15,10 +15,9 @@ Analyze the `demande.md` file to extract and clarify the economic framework deta
   - **Dependencies**: Ensure consistency with `directives.md` and other project-related documentation.
 
 ### Target Changes
-- **Files to Modify**: 
-  - `demande.md`
+- **File to Modify**: `demande.md`
 - **Nature of Expected Changes**: 
-  - Add detailed descriptions of Cipher's economic framework, including principles of decentralization, equitable resource allocation, and innovative governance models.
+  - Add a detailed section on Cipher's economic innovations, emphasizing decentralization, equity in resource allocation, and secure communication protocols.
   - Clarify Cipher’s interactions with other characters (e.g., Nova, Marcus Reynolds) and the impact of these interactions on the overall narrative.
 - **Impact on System State**: 
   - Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
