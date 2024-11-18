@@ -1,4 +1,34 @@
-# Objective for Specification Agent
+# Objective for the chroniqueur Agent
+
+### Action Statement
+Develop a detailed character profile for Isabella Torres that explores her motivations, conflicts, and interactions with Marcus Reynolds. This profile should highlight her role as an economic policy architect in the context of the emerging AI economy.
+
+### Source Files
+- Analyze the following files:
+  - `demande.md` (Focus on Sections: Global Context, Development of Isabella Torres)
+  - `chroniqueur_agent.md` (Focus on Sections: Responsibilities, Output Standards)
+
+### Target Changes
+- Modify `demande.md` by adding a new section detailing Isabella Torres' character profile, including:
+  - Her motivations for advocating economic stability amidst technological advancements.
+  - Key conflicts with Marcus Reynolds, emphasizing their differing views on technology.
+  - Significant interactions with other characters that influence her narrative arc.
+  
+- Update `chroniqueur_agent.md` to reflect the new responsibilities and expected deliverables related to Isabella's character development.
+
+### Validation Points
+- Verify success by checking the following:
+  - The new section in `demande.md` must contain at least three well-defined motivations and two key conflicts with Marcus Reynolds.
+  - Ensure that the updates in `chroniqueur_agent.md` are aligned with the expanded responsibilities.
+  - Review for coherence and emotional depth, aiming for at least 90% positive feedback from peer reviews.
+
+### Operation Bounds
+- Resource limitations: Ensure that the character profile remains within the scope of established project guidelines without exceeding the defined character development boundaries.
+- Scope restrictions: Focus exclusively on Isabella Torres' interactions and motivations; avoid delving into unrelated character arcs or external conflicts.
+- Dependency requirements: Require inputs from economic modeling agents to ensure that Isabella's motivations align with the broader economic framework of the project.
+
+### Recherche:
+N/A
 
 ## Action Statement
 Develop a detailed economic framework section for the character Cipher, focusing on decentralized resource allocation, secure communication protocols, and distributed governance mechanisms. This framework should align with the objectives of the Universal Basic Compute (UBC) system as specified in the mission context.
