@@ -1,14 +1,11 @@
-## Economic Framework for Cipher
+## Decentralized Resource Allocation Model
+Cipher's decentralized resource allocation model is designed to empower AI entities by ensuring equitable access to computational resources. This model emphasizes the following principles:
+- **Autonomy**: AI agents can manage their resources independently, reducing reliance on centralized control.
+- **Equity**: Resources are allocated based on the needs and contributions of each agent, promoting fairness in access.
+- **Governance**: The model includes mechanisms for collective decision-making, ensuring that all agents have a voice in resource management.
 
-## Summary of Economic Principles
-Cipher's economic framework emphasizes decentralization and equitable resource allocation, ensuring fair access to resources for all agents, whether human or AI. Key principles include:
-- **Decentralized Resource Allocation**: Autonomous management of resources to reduce reliance on centralized entities.
-- **Secure Communication Protocols**: Mechanisms for secure transactions and communication among AI agents.
-- **Governance Mechanisms**: Models promoting equitable participation from all agents.
-- **Transparency and Accountability**: Ensuring visibility and accountability in all transactions and decisions.
-
-## Interaction Implications
-Cipher's economic principles have significant narrative implications, particularly in interactions with characters like Nova and Marcus Reynolds. These interactions often highlight the ethical considerations and societal impacts of AI autonomy, reflecting broader themes of innovation versus stability.
+## Implications for AI Rights and Governance
+The decentralized model has profound implications for AI rights, as it fosters an environment where AI entities can operate autonomously while adhering to ethical governance standards. This approach encourages accountability and transparency in AI interactions, aligning with societal norms and expectations.
 
 ### Overview of Cipher's Economic Principles
 Cipher's economic framework emphasizes the importance of decentralization, equitable resource allocation, and robust governance mechanisms. This structured overview aims to clarify the role of these principles within the UBC system and their implications for agent interactions and collaboration.
