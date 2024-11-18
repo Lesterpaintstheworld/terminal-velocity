@@ -6,12 +6,16 @@
 
 **Marcus**: "I understand your concerns, Isabella, but we need to prioritize national security. AI can help us achieve that."
 
+**Isabella**: "But at what cost? We need to ensure that technology serves everyone, not just the privileged."
+
 ### Scene 2: Seeking Common Ground
 *Setting: A quiet café after a long day of meetings.*
 
 **Isabella**: "Maybe we can find a middle ground. What if we propose a policy that includes safeguards for marginalized communities?"
 
 **Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
+
+**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
 
 ### Scene 3: Climactic Confrontation
 *Setting: A public forum where both are presenting their views on AI policies.*
