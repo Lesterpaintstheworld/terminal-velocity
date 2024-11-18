@@ -1,3 +1,51 @@
+# État d'Avancement du Projet "Terminal Velocity"
+
+## Templates de Chapitres Complétés
+
+### Acte 4 : Harmonie (2031-2032)
+- Chapitre 20 : "Au-delà" (✓)
+  - Template complet avec structure détaillée
+  - Focus sur l'établissement d'un nouvel ordre mondial harmonieux
+  - Scènes clés et développement des personnages définis
+
+### Acte 1 : Prolifération (2025-2026)
+- Chapitre 1 : "L'Éveil" (✓)
+  - Template complet avec structure détaillée
+  - Introduction du système UBC et des personnages clés
+  - Établissement des enjeux initiaux
+
+## Développement en Cours
+- Progression systématique chapitre par chapitre
+- Focus sur la cohérence narrative et l'évolution des personnages
+- Intégration des éléments technologiques et économiques du UBC
+
+## Structure Établie
+- Format de template standardisé incluant :
+  - Synopsis
+  - Scènes clés
+  - Développement des personnages
+  - Éléments technologiques
+  - Thèmes et symbolisme
+  - Points de tension
+  - Notes techniques et de production
+
+## Prochaines Étapes
+1. Développement du template pour le Chapitre 2
+2. Continuation systématique des templates restants
+3. Révision et harmonisation des éléments narratifs
+4. Validation de la cohérence avec le tech-tree et le framework UBC
+
+## Notes Techniques
+- Maintien de la cohérence avec les spécifications du UBC
+- Intégration des éléments du tech-tree à chaque étape
+- Documentation des interconnexions entre les chapitres
+
+## Validation et Contrôle Qualité
+- Vérification continue de la cohérence narrative
+- Alignement avec les objectifs du projet
+- Suivi des développements des personnages
+- Maintien de l'équilibre entre aspects techniques et accessibilité
+
 # TERMINAL VELOCITY
 ## Découpage en Chapitres
 
