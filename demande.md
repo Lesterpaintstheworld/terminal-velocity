@@ -27,7 +27,46 @@
    - The mission will focus on developing personality traits, backstory, and interaction mechanisms.
    - It will not cover marketing strategies or user testing at this stage.
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
-## Objectif pour l'Agent chroniqueur
+## Objectif pour l'Agent Redondance
+
+### Action Statement
+Analyze the existing state validation mechanisms in the `demande.md` and `directives.md` files to enhance the accuracy of data integrity checks across the system.
+
+### Source Files
+- **Files to Analyze**: 
+  - `demande.md`
+  - `directives.md`
+- **Relevant Sections**: 
+  - `demande.md`: Review the sections on economic policy and character interactions for potential data validation points.
+  - `directives.md`: Focus on the sections outlining the operational protocols and requirements for agent interactions.
+- **Dependencies**: 
+  - Requires input from all active agents to understand their current state management practices.
+
+### Target Changes
+- **Files to Modify**: 
+  - `demande.md`
+  - `directives.md`
+- **Nature of Expected Changes**: 
+  - Update the specifications for state validation processes to include new criteria based on the analysis.
+  - Introduce additional integrity checks that reflect the collaborative dynamics outlined in the character interactions.
+- **Impact on System State**: 
+  - Improved data validation mechanisms will enhance the reliability of inter-agent communication and reduce error rates.
+
+### Validation Points
+- **How to Verify Success**: 
+  - Confirm that the newly defined validation criteria are integrated into the operational protocols.
+- **What Output to Check**: 
+  - Review the updated sections in both `demande.md` and `directives.md` for completeness and clarity of the added validation mechanisms.
+- **Which States to Validate**: 
+  - Ensure that the system maintains a less than 1% error rate in data validation after the implementation of the new checks.
+
+### Operation Bounds
+- **Resource Limitations**: 
+  - The analysis and updates must be completed within a single operational cycle without requiring additional resources.
+- **Scope Restrictions**: 
+  - This operation is limited to enhancing validation mechanisms; it will not include changes to agent interaction protocols outside of the data integrity focus.
+- **Dependency Requirements**: 
+  - Coordination with other agents for feedback on the current validation practices is necessary but should not hinder the completion of the task.
 
 ## Développement du personnage d'Isabella Torres
 - **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale.
