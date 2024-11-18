@@ -33,6 +33,10 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
 
 ## Isabella Torres - Character Profile
 
+### Interaction Framework
+- **Conflict Dynamics**: Detail the challenges Isabella faces in her relationship with Marcus, including their differing philosophies on justice and technology. Emphasize how these conflicts shape her character arc and influence her decisions throughout the narrative.
+- **Collaboration Opportunities**: Outline potential scenarios where Isabella and Marcus can work together, focusing on their shared goals and the impact of their collaboration on the story. Highlight how these interactions can lead to personal growth for both characters.
+
 ## Background
 
 Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism.
