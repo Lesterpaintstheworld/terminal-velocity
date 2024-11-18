@@ -1,11 +1,6 @@
 ## Objective for Redaction Agent
 1. **Action Statement**
-   - Review and redact sensitive information in the `research/redaction_report.md` file to ensure compliance with privacy regulations and maintain document integrity.
-
-## Objective for Redaction Agent
-
-### Action Statement
-Conduct a thorough review of the `demande.md` file to identify and redact any sensitive information related to the economic framework and character interactions that could violate privacy regulations. Ensure that the enhanced redaction protocols for economic data are applied consistently throughout the document.
+   - Analyze the `demande.md` file to identify and redact any sensitive information related to economic frameworks and character interactions, ensuring compliance with privacy regulations.
 
 ### Source Files
 - **File to Analyze**: `demande.md`
@@ -13,22 +8,23 @@ Conduct a thorough review of the `demande.md` file to identify and redact any se
 - **Dependencies**: Ensure access to the database of sensitive data types for reference during the redaction process.
 
 2. **Source Files**
-   - Analyze the `research/redaction_report.md` file.
-   - Relevant sections include the entire document as it outlines sensitive information that may need redaction.
+   - **File to Analyze**: `demande.md`
+   - **Relevant Sections**: All sections, with particular attention to any mentions of personal identifiable information (PII) or confidential business information, especially regarding the economic framework and character interactions.
 
 3. **Target Changes**
-   - Modify the `research/redaction_report.md` file by redacting any sensitive economic data and character interaction details.
-   - The expected changes should clear out any confidential information while maintaining the overall structure and purpose of the document.
-- **Impact on System State**: The document should be compliant with privacy regulations, ensuring that all sensitive data is securely handled and removed.
+   - **File to Modify**: `demande.md`
+   - **Nature of Expected Changes**: Execute redaction processes on identified sensitive data types and generate a redacted version of the document, ensuring all sensitive information is adequately removed or concealed.
+   - **Impact on System State**: The `demande.md` file will be updated to a redacted version, ensuring compliance with organizational policies regarding sensitive information.
 
 4. **Validation Points**
-   - Verify success by ensuring no sensitive information remains visible in the `research/redaction_report.md` file.
-   - Check that the redacted document maintains its integrity and clarity for future use.
+   - **How to Verify Success**: Check the redacted version of `demande.md` for completeness and accuracy in redaction.
+   - **What Output to Check**: Ensure that no sensitive information remains visible in the redacted document and that the format remains consistent with the original.
+   - **Which States to Validate**: Confirm that the redaction process logs show no errors and that the output meets the defined quality standards.
 
 5. **Operation Bounds**
-   - Resource limitations: Ensure the redaction process is completed within 2 hours due to potential time constraints for document usage.
-   - Scope restrictions: Focus solely on redaction; no alterations to document structure or additional content creation.
-   - Dependency requirements: The operation requires access to the sensitive data types database to effectively identify what needs to be redacted.
+   - **Resource Limitations**: Ensure that the operation is completed within the current processing time of under 5 seconds.
+   - **Scope Restrictions**: Focus solely on redaction without altering the structural or content integrity of the document.
+   - **Dependency Requirements**: Utilize the database of sensitive data types for reference during the redaction process.
 
-6. **Search:** 
-   - Search: "sensitive economic data" in `research/redaction_report.md` to identify specific sections requiring redaction.
+6. **Search**
+   - No search required.
