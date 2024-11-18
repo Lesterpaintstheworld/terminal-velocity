@@ -1,4 +1,6 @@
 ## Economic Framework for Cipher
+### Action Statement
+Develop a detailed character profile for Cipher, focusing on their economic innovation goals, interactions with other key characters, and how these elements influence the narrative.
 
 ### Action Statement
 Develop a detailed character profile for Cipher, focusing on their economic innovation goals, interactions with other key characters, and how these elements influence the narrative.
