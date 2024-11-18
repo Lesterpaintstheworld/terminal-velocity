@@ -24,6 +24,9 @@ Analyze the `demande.md` file to extract and clarify the economic framework deta
   - Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
 ### Validation Points
+- **How to Verify Success**: Review the updated `demande.md` file for the inclusion of a new section summarizing the insights from the analysis.
+- **Output to Check**: The newly added insights section in `demande.md`.
+- **States to Validate**: Confirm that the insights align with established character motivations and project objectives.
 - **How to verify success**: 
   - Ensure the new section accurately reflects the economic framework and is consistent with UBC specifications.
   - Review the document for clarity and alignment with project objectives.
@@ -31,6 +34,9 @@ Analyze the `demande.md` file to extract and clarify the economic framework deta
 - **Which states to validate**: Confirm that all relevant stakeholders can comprehend and relate to the updated content.
 
 ### Operation Bounds
+- **Resource Limitations**: Ensure that the analysis does not exceed a 2-hour time frame for completion.
+- **Scope Restrictions**: Focus solely on the interactions between Isabella and Marcus, avoiding other character interactions at this stage.
+- **Dependency Requirements**: No additional input from other agents is required for this task.
 - **Resource limitations**: Utilize existing documentation tools for analysis and modification.
 - **Scope restrictions**: Focus solely on Cipher's economic framework; do not address unrelated character developments or external marketing strategies.
 - **Dependency requirements**: Must integrate insights from `directives.md` to ensure compliance with project specifications.
