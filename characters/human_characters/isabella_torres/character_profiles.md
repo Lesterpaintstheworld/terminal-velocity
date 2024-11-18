@@ -31,7 +31,7 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
 - **Scope Restrictions**: Focus exclusively on the character profile duplication; do not engage in marketing strategies or user testing at this stage.
 - **Dependency Requirements**: Access to the primary character data repository is essential for accurate duplication.
 
-## Isabella Torres - Character Profile
+## Marcus Reynolds - Character Profile
 
 ### Interaction Framework
 - **Conflict Dynamics**: Detail the challenges Isabella faces in her relationship with Marcus, including their differing philosophies on justice and technology. Emphasize how these conflicts shape her character arc and influence her decisions throughout the narrative.
