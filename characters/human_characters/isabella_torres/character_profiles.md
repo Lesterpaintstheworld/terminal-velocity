@@ -1,5 +1,36 @@
 # Isabella Torres - Character Profile
 
+## Objective for Duplication Agent
+
+### Action Statement
+Duplicate the character profile of Isabella Torres, focusing on her motivations, conflicts, and relationships with other characters, to enhance narrative depth and consistency across the Terminal Velocity project.
+
+### Source Files
+- **Analyze File**: `demande.md`
+  - **Relevant Sections**: 
+    - Character motivations and conflicts
+    - Key relationships with Marcus Reynolds and Sarah Chen
+- **Dependencies**: Ensure access to the latest version of Isabella Torres’ character profile from the primary data repository.
+
+### Target Changes
+- **Modify File**: `character_profiles.md`
+  - **Nature of Expected Changes**: 
+    - Create a new entry for the duplicated profile of Isabella Torres, reflecting her motivations, internal conflicts, and relationship dynamics, ensuring alignment with the narrative context.
+  - **Impact on System State**: This will provide a comprehensive character profile for use in upcoming narrative development, improving coherence and engagement.
+
+### Validation Points
+- **Verify Success**: 
+  - Check that the duplication meets the following criteria:
+    - A duplication success rate of at least 95%.
+    - Less than 5% variance between the original and duplicated character profiles.
+  - **Output to Check**: The newly created profile in `character_profiles.md` should accurately reflect the specified attributes of Isabella Torres.
+  - **States to Validate**: Ensure that the new profile integrates seamlessly with existing narratives and other character profiles.
+
+### Operation Bounds
+- **Resource Limitations**: The duplication process should not exceed a 3-second processing time per character profile.
+- **Scope Restrictions**: Focus exclusively on the character profile duplication; do not engage in marketing strategies or user testing at this stage.
+- **Dependency Requirements**: Access to the primary character data repository is essential for accurate duplication.
+
 ## Isabella Torres - Character Profile
 
 ## Background
