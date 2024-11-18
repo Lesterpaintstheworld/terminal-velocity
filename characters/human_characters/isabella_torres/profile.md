@@ -11,6 +11,7 @@ Isabella Torres grew up in an urban environment, raised by a single mother who s
 ## Goals
 - To advocate for underrepresented communities and ensure their voices are heard in the AI discourse.
 - To bridge the gap between technology and social justice, promoting ethical AI practices.
+- **Internal Conflict**: Struggles between the drive for innovation in economic policy and the need for stability in an AI-driven economy.
 
 ## Challenges
 - Faces skepticism from traditionalists who doubt the role of AI in social equity.
