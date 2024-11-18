@@ -29,10 +29,11 @@
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
 ## Développement du personnage d'Isabella Torres
 
-## Motivations de Marcus Reynolds
-- **Protection Nationale**: Marcus est motivé par un profond désir de protéger son pays et ses citoyens, croyant que le développement de systèmes autonomes avancés est essentiel pour maintenir une forte capacité militaire.
-- **Innovation Technologique**: Il est animé par la volonté de repousser les limites de la technologie pour résoudre des problèmes complexes, tout en étant conscient des critiques concernant les implications éthiques de ses travaux.
-- **Conflits Internes**: Marcus lutte avec la tension entre ses ambitions technologiques et les préoccupations éthiques soulevées par d'autres personnages, notamment Isabella Torres.
+## Développement du personnage d'Isabella Torres
+- **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale.
+- **Traits de personnalité**: Isabella est compatissante, résiliente et visionnaire, avec une capacité à voir le potentiel de la technologie pour créer des solutions équitables.
+- **Conflits**: Elle fait face à des scepticismes de la part des traditionalistes qui doutent du rôle de l'IA dans l'équité sociale, tout en luttant pour équilibrer ses croyances personnelles avec les exigences de son environnement professionnel.
+- **Relations**: Sa relation avec Marcus Reynolds est complexe, où ils s'engagent souvent dans des débats sur les implications éthiques de la technologie, ce qui les pousse à se remettre en question mutuellement.
 
 ### Conflits Internes
 Isabella lutte souvent avec la tension entre l'innovation des politiques économiques et la nécessité de stabilité, ce qui entraîne des moments de doute de soi et de réflexion sur son style de leadership.
