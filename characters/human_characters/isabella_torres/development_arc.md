@@ -2,6 +2,29 @@
 
 ## Objective for chroniqueur Agent
 
+1. **Action Statement**
+   - Develop a detailed backstory and character profile for Cipher, focusing on their goals related to the UBC system and interactions with Isabella Torres, to enhance the narrative complexity of the Terminal Velocity project.
+
+2. **Source Files**
+   - Analyze the `demande.md` file, specifically the sections detailing Cipher's role and objectives in relation to the UBC system and the character interactions.
+   - Review the `chroniqueur agent configuration` for alignment with the narrative guidelines.
+
+3. **Target Changes**
+   - Modify the `demande.md` file to include a comprehensive backstory for Cipher that outlines their motivations, innovative economic models, and key interactions with other characters, particularly Isabella Torres.
+   - Ensure the narrative reflects the overarching themes of the project and the dynamics of the human-AI relationships.
+
+4. **Validation Points**
+   - Verify success by ensuring the new backstory is coherent and engaging, achieving at least 90% positive feedback from peer reviews.
+   - Check the updated sections of `demande.md` for alignment with the established project objectives and character arcs.
+
+5. **Operation Bounds**
+   - The task must be completed within a one-week timeframe.
+   - Scope limited to the development of Cipher’s character profile and backstory; no alterations to other characters or plotlines should be included.
+   - Dependencies include existing character profiles and project objectives outlined in `demande.md`.
+
+6. **Search:**
+   - Search for "Cipher" across project documents to gather existing context and ensure consistency in the new profile development.
+
 ### Action Statement
 Develop a comprehensive character profile for Isabella Torres, focusing on her motivations and internal conflicts regarding AI innovation and economic stability.
 
