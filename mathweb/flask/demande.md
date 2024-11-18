@@ -4,7 +4,7 @@
 Develop a detailed economic framework section for the character Cipher, focusing on decentralized resource allocation, secure communication protocols, and distributed governance mechanisms. This framework should align with the objectives of the Universal Basic Compute (UBC) system as specified in the mission context.
 
 ## Action Statement
-Develop a comprehensive character profile for Isabella Torres, focusing on her political expertise, motivations, and internal conflicts, to enhance the narrative depth of the Terminal Velocity project.
+Develop a comprehensive character profile for Isabella Torres that includes detailed motivations, personality traits, and interaction mechanisms with other key characters in the Terminal Velocity project.
 
 ## Source Files
 - **File to Analyze**: `demande.md`
