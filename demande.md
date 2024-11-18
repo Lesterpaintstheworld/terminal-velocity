@@ -1,4 +1,40 @@
-# Demande de Projet
+# Objective for Specification Agent
+
+## Action Statement
+Analyze the `demande.md` file, specifically focusing on the sections detailing the economic framework and the role of the character Cipher, to extract and define clear specifications that align with the latest project requirements and stakeholder expectations.
+
+## Source Files
+- **File to Analyze**: `demande.md`
+  - **Relevant Sections**: 
+    - Economic framework details
+    - Objectives and innovations proposed by Cipher
+- **Dependencies**:
+  - Previous specifications related to the UBC system and character interactions.
+
+## Target Changes
+- **Files to Modify**:
+  - `demande.md`
+- **Nature of Expected Changes**:
+  - Add a detailed section on Cipher's economic innovations, emphasizing decentralization, equity in resource allocation, and secure communication protocols.
+  - Clarify Cipher’s interactions with other characters (e.g., Nova, Marcus Reynolds) and the impact of these interactions on the overall narrative.
+- **Impact on System State**:
+  - Improved coherence and clarity in project documentation, facilitating better understanding among all agents.
+
+## Validation Points
+- **How to Verify Success**:
+  - Ensure the new section on Cipher and the economic framework is coherent and aligns with project goals.
+- **What Output to Check**:
+  - Review the updated `demande.md` for clarity, completeness, and alignment with stakeholder expectations.
+- **Which States to Validate**:
+  - Confirm that all relevant agents are aware of the updated specifications and that they align with ongoing project tasks.
+
+## Operation Bounds
+- **Resource Limitations**:
+  - Time allocated for this analysis should not exceed 3 hours.
+- **Scope Restrictions**:
+  - Do not include marketing strategies or user testing in this analysis; strictly focus on economic framework and character interactions.
+- **Dependency Requirements**:
+  - Gather input from recent feedback from stakeholders to ensure that the specifications are relevant and aligned with project objectives.
 
 # Validation Metrics
 
