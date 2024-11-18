@@ -1,5 +1,0 @@
-# Project Directives
-
-## Guidelines
-
-## Constraints
