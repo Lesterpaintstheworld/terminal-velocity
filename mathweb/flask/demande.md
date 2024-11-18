@@ -44,6 +44,10 @@ Develop a comprehensive character profile for Isabella Torres that includes deta
 - Review `Marcus Reynolds - Character Profile` for insights on relationship dynamics.
 
 ## Target Changes
+- **Files to Modify**: 
+  - `demande.md`
+- **Nature of Expected Changes**: 
+  - Add a detailed section outlining Isabella Torres's backstory, emphasizing her motivations, fears of exploitation, and her vision for human-AI relations.
 - **Files to Modify**: `demande.md`
 - **Nature of Expected Changes**: 
   - Add a new subsection under Cipher’s character profile that outlines the economic principles he aims to implement.
@@ -59,12 +63,21 @@ Develop a comprehensive character profile for Isabella Torres that includes deta
 
 ## Validation Points
 - **How to Verify Success**: 
+  - Review the updated `demande.md` to ensure the backstory is comprehensive and aligns with project objectives.
+- **What Output to Check**: 
+  - The new section on Isabella's backstory in `demande.md`.
+- **Which States to Validate**: 
+  - Ensure that the backstory boosts character relatability metrics by at least 20% as per narrative engagement standards.
+- **How to Verify Success**: 
   - Review the updated `demande.md` to ensure the new economic framework section has been added.
   - Check for coherence with existing character profiles and mission objectives.
 - **Output to Check**: The newly added section in `demande.md`.
 - **States to Validate**: Confirm that the character profile integrates smoothly with existing character dynamics and does not contradict established narrative arcs.
 
 ## Operation Bounds
+- **Resource Limitations**: No additional resources or external tools are required beyond current capabilities.
+- **Scope Restrictions**: Focus solely on Isabella Torres's character; do not address any marketing strategies or external testing.
+- **Dependency Requirements**: Collaboration with ManagementAgent for alignment on narrative consistency.
 - **Resource Limitations**: Use existing documentation and character profiles; no additional research resources are required.
 - **Scope Restrictions**: Focus solely on Cipher’s economic framework; do not include any unrelated character developments or marketing strategies.
 - **Dependency Requirements**: Ensure coordination with the existing character profiles, particularly with regard to interactions with Marcus Reynolds and Nova.
