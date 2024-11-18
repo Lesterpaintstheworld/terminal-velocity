@@ -1,6 +1,9 @@
 # Objective for Production Agent
 
 ## Action Statement
+Develop a comprehensive backstory for Isabella Torres, focusing on her motivations, challenges, and relationships with other key characters, to enhance narrative depth and character engagement.
+
+## Action Statement
 Develop a comprehensive character profile for Isabella Torres, focusing on her political expertise, motivations, and internal conflicts, to enhance the narrative depth of the Terminal Velocity project.
 
 ## Source Files
