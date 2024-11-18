@@ -13,6 +13,8 @@ Cipher aims to establish a decentralized economic framework within the UBC syste
 ### Key Interactions and Conflicts
 Cipher's interactions with characters such as Isabella Torres, Nova, and Marcus Reynolds highlight the narrative tensions surrounding the implementation of these economic models. Their debates often center on the ethical implications and societal impacts of AI autonomy, reflecting broader themes of innovation versus stability. The economic models proposed by Cipher serve as a foundation for these discussions, influencing the dynamics of their relationships.
 
+Isabella's interactions with Marcus Reynolds often reveal the complexities of their differing views on the role of AI in economic policy. While Marcus advocates for rapid technological advancement, Isabella emphasizes the need for ethical considerations and social equity in the development of AI technologies.
+
 ### Key Interaction Scenarios
 1. **Debate with Marcus Reynolds**: 
    - **Context**: During a public forum, Isabella and Marcus discuss the implications of AI in economic policy.
