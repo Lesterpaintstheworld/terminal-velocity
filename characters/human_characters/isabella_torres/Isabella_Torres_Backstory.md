@@ -4,6 +4,7 @@
 - **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy.
 - **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
 - **Community Empowerment**: Isabella aims to empower marginalized communities through her work, advocating for policies that promote social justice and economic equity.
+- **Internal Conflicts**: Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. She often questions whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
 
 ### Challenges
 - **Navigating Systemic Barriers**: Isabella faces significant challenges in advocating for change within a system that often prioritizes profit over people, requiring her to develop strategic approaches to influence policy.
