@@ -1,8 +1,31 @@
 # Character Development Arc for Isabella Torres
 
-## Isabella's Backstory
-- **Upbringing**: Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, she exhibited a strong sense of justice and a desire to help others, influenced by her mother's community activism.
-- **Key Experiences**: Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. Her experiences in non-profit organizations fueled her determination to fight for equality and shaped her perspectives on economic policy in an AI-driven economy.
+## Objective for chercheur Agent
+
+1. **Action Statement**
+   - Develop a comprehensive backstory for Isabella Torres that explores her motivations, challenges, and relationships, focusing on her role in shaping economic policies in the context of the emerging AI economy.
+
+2. **Source Files**
+   - Analyze `demande.md`
+     - Relevant Sections: "Développement du personnage d'Isabella Torres" and "Motivations"
+   - Utilize `directives.md` for narrative guidelines.
+
+3. **Target Changes**
+   - Modify `demande.md`
+     - Nature of Expected Changes: Add a detailed section on Isabella's backstory, including her childhood experiences, education, and pivotal moments that influenced her views on AI and economic stability.
+     - Impact on System State: Enhanced character depth leading to improved narrative coherence and user engagement.
+
+4. **Validation Points**
+   - Verify success by checking the updated `demande.md` for the completion of Isabella's backstory and ensuring it aligns with the overall narrative goals.
+   - Output to check: The new section on Isabella must achieve a peer review satisfaction rate of at least 90%.
+
+5. **Operation Bounds**
+   - Resource Limitations: Ensure the task is completed within the existing character development framework without exceeding the character profile completion timelines.
+   - Scope Restrictions: Focus solely on Isabella Torres' character development; avoid any military or technical details.
+   - Dependency Requirements: Collaborate with ProductionAgent for narrative integration, but no external resources are needed.
+
+6. **Search**
+   - No search required for this task.
 Evolution and growth throughout the story# Character Development Arc for Isabella Torres
 
 ## Journey Overview
