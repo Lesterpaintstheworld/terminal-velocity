@@ -20,6 +20,10 @@ Isabella Torres grew up in an urban environment, raised by a single mother who s
 ### Initial Phase
 - **Motivations**: Sarah begins as a passionate advocate for AI rights, driven by her experiences and a desire for justice.
 - **Beliefs**: Initially believes in a collaborative approach between humans and AIs.
+- **Key Scenarios**: 
+  - Faces a choice between implementing a groundbreaking economic policy that could destabilize the current system or maintaining the status quo to ensure stability.
+  - Engages in a debate with Marcus Reynolds about the implications of rapid economic changes driven by AI, weighing innovation against potential risks.
+  - Experiences a personal crisis when a policy she supports leads to unintended consequences, forcing her to reassess her priorities.
 
 ### Transformation Phase
 - **Critical Challenges**: Encounters opposition from traditionalists and faces ethical dilemmas that test her beliefs.

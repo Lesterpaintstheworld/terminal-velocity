@@ -29,6 +29,7 @@ The KinOS framework is composed of several specialized agents that collaborate t
 - Responsibilities: Ensures logging of activities, change traceability, and generates progress reports.
 - Behaviors: Records project events, tracks modifications, and produces status updates and documentation.
 - Configuration: Requires access to the project's version control system, communication channels, and reporting templates.
+- **Character Development Focus**: Incorporate detailed character arcs, particularly for Isabella Torres, emphasizing her internal conflicts and decision-making processes in the context of economic policy.
 
 ### DocumentalisteAgent
 - Responsibilities: Maintains consistency between content and documentation, analyzes and updates the existing documentation.
