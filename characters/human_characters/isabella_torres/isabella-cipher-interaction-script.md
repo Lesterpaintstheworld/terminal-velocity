@@ -1,7 +1,7 @@
 ## Objective for Chroniqueur Agent
 
 1. **Action Statement**
-   - Develop a detailed interaction script for Isabella Torres and Cipher that highlights their ideological conflicts regarding AI autonomy and economic policy.
+   - Develop a detailed interaction script for Isabella Torres and Cipher that highlights their ideological conflicts regarding AI autonomy and economic policy, emphasizing how Isabella's advocacy for ethical AI influences her stance on Cipher's proposals.
 
 2. **Source Files**
    - **Files to Analyze**:
