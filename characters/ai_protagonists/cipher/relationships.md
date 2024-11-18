@@ -1,2 +1,1 @@
-# Character Relationships
-Connections and dynamics with other characters
+# Character Relationships for Isabella Torres
