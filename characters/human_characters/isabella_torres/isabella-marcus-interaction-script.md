@@ -38,3 +38,27 @@ Develop a detailed interaction script for Isabella Torres that explores her rela
   - Focus exclusively on the interaction between Isabella and Marcus; do not include other character interactions or broader narrative elements.
 - **Dependency Requirements**: 
   - Must utilize insights from `demande.md` and `chroniqueur-agent-development.md` to maintain narrative coherence.
+# Isabella and Marcus Interaction Script
+
+## Scene 1: Initial Conflict
+*Setting: A conference room during a heated debate on AI policy.*
+
+**Isabella**: "We can't ignore the ethical implications of AI in our economic systems, Marcus. It's not just about efficiency; it's about the people affected."
+
+**Marcus**: "I understand your concerns, Isabella, but we need to prioritize national security. AI can help us achieve that."
+
+## Scene 2: Collaborative Moment
+*Setting: A quiet café after a long day of meetings.*
+
+**Isabella**: "Maybe we can find a middle ground. What if we propose a policy that includes safeguards for marginalized communities?"
+
+**Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
+
+## Scene 3: Climactic Confrontation
+*Setting: A public forum where both are presenting their views.*
+
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+
+**Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
+
+*Both characters reflect on their motivations, realizing that their goals, while different, stem from a shared desire to create a better future.*
