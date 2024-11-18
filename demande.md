@@ -33,6 +33,10 @@
   - Scene 1: Initial conflict over AI's role in economic policy during a public debate.
   - Scene 2: A collaborative moment where they find common ground on a specific policy proposal.
   - Scene 3: A climactic confrontation that tests their beliefs and relationship.
+- **Key Scenes**:
+  - Scene 1: Initial conflict over AI's role in economic policy during a public debate.
+  - Scene 2: A collaborative moment where they find common ground on a specific policy proposal.
+  - Scene 3: A climactic confrontation that tests their beliefs and relationship.
 
 ### Action Statement
 Analyze the `demande.md` file to identify and document any missing elements or inconsistencies related to the economic framework and innovations proposed by the character Cipher. Ensure that the updates align with the project’s objectives and enhance the clarity of the narrative.
