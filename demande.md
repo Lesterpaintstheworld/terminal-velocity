@@ -27,7 +27,35 @@
    - The mission will focus on developing personality traits, backstory, and interaction mechanisms.
    - It will not cover marketing strategies or user testing at this stage.
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
-## Narrative Arc for Isabella Torres
+## Objective for Management Agent
+
+### Action Statement
+Analyze the `demande.md` file to extract and clearly define the economic policy proposals put forth by the character Cipher, ensuring alignment with the existing narrative surrounding the UBC (Universal Basic Compute) system.
+
+### Source Files
+- Analyze the following file: `demande.md`
+  - Relevant sections: 
+    - Economic framework details
+    - Cipher's role and innovations
+    - Interactions with key characters (e.g., Nova, Marcus Reynolds)
+  - Dependencies: Current project objectives and character profiles for consistency.
+
+### Target Changes
+- Modify the `demande.md` file to include:
+  - A detailed section on Cipher's economic proposals, emphasizing decentralization and resource allocation strategies.
+  - Clarification of Cipher's interactions with other characters and how these influence the overall narrative.
+- Expected impact: Enhanced clarity and coherence of the economic framework within the narrative context.
+
+### Validation Points
+- Verify success by checking:
+  - The inclusion of a new section on Cipher's economic proposals in `demande.md`.
+  - Consistency with existing narrative elements, particularly the UBC framework.
+  - Ensure that stakeholder expectations regarding economic policy development are met.
+
+### Operation Bounds
+- Resource limitations: No additional tools or external resources are required.
+- Scope restrictions: Focus exclusively on economic proposals and related character interactions; avoid unrelated personal conflicts or marketing strategies.
+- Dependency requirements: Ensure that the changes align with current character developments and project objectives.
 - **Objective**: Develop a detailed narrative outline for Isabella Torres that highlights her interactions with Marcus Reynolds, focusing on their conflicting motivations regarding the integration of AI in economic policies.
 - **Key Scenes**:
   - Scene 1: Initial conflict over AI's role in economic policy during a public debate.
@@ -105,7 +133,14 @@ Analyze the `demande.md` file to identify and document any missing elements or i
 - **Scope Restrictions**: Focus solely on the economic aspects related to Cipher; do not delve into unrelated character arcs or marketing strategies.
 - **Dependency Requirements**: Ensure that changes are compatible with the overall project framework and respect the established guidelines in `directives.md`.
 
-### Cipher's Economic Framework
+### Cipher's Economic Proposals
+Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. Key principles include:
+
+- **Décentralisation**: The framework allows for autonomous management of resources, reducing reliance on centralized entities.
+- **Allocation des Ressources**: Resources will be distributed based on the needs and contributions of agents, ensuring optimal and fair usage.
+
+### Interactions of Cipher with Other Characters
+Cipher's interactions with characters like Nova and Marcus Reynolds are crucial for narrative development. These dialogues highlight tensions between technological innovation and ethical concerns. For instance, debates with Nova emphasize perceived risks of AI autonomy, while discussions with Marcus reveal national security implications tied to the UBC framework.
 Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. Key principles include:
 
 - **Décentralisation**: The framework allows for autonomous management of resources, reducing reliance on centralized entities.
