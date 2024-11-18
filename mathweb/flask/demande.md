@@ -13,6 +13,10 @@ Develop a comprehensive backstory for Isabella Torres, focusing on her motivatio
 
 ### Target Changes
 - **File to Modify**: `demande.md`
+- **Nature of Expected Changes**: 
+- Add a detailed backstory for Isabella Torres, incorporating her motivations, internal conflicts, and key interactions with other characters. 
+- Ensure the backstory aligns with the established project guidelines.
+- **File to Modify**: `demande.md`
   - **Nature of Expected Changes**: 
     - Add a detailed backstory for Isabella Torres, incorporating her motivations, internal conflicts, and key interactions with other characters. 
     - Ensure the backstory aligns with the established project guidelines.
