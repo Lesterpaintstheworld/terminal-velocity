@@ -1,17 +1,22 @@
-## Objective for Production Agent
+## Objective: Develop Interaction Scripts for Isabella Torres
 
 1. **Action Statement**
-   - Develop a comprehensive character interaction script for Isabella Torres that highlights her decision-making process when faced with ethical dilemmas regarding AI integration in economic policies.
+   - Create and enhance detailed interaction scripts for Isabella Torres to deepen her character's engagement with key characters, particularly Marcus Reynolds and Sarah Chen.
 
 2. **Source Files**
    - Analyze the following files:
-     - `demande.md` - Focus on the sections outlining Isabella's motivations and conflicts with other characters.
-     - `production_agent.md` - Review the responsibilities and processing rules related to character interactions.
+     - `characters/human_characters/isabella_torres/character_interaction_scripts.md`
+       - Relevant sections: Existing interaction scripts for Isabella Torres.
+     - `characters/human_characters/isabella_torres/relationships.md`
+       - Relevant sections: Dynamics and influences on Isabella's character.
+     - `characters/human_characters/marcus_reynolds/isabella-marcus-interaction-script.md`
+       - Relevant sections: Explore ideological conflicts between Isabella and Marcus.
 
 3. **Target Changes**
    - Modify `character_interaction_scripts.md` to include:
-     - A new section detailing Isabella's responses during critical discussions with Marcus Reynolds and Sarah Chen.
-     - The inclusion of decision pathways that reflect her internal conflicts and motivations.
+     - New scenes illustrating deeper emotional conflicts and dialogues between Isabella and Marcus.
+     - Additional interactions with Sarah Chen that highlight their differing perspectives on AI rights.
+   - Update `relationships.md` to reflect any changes in character dynamics resulting from the new interaction scripts.
 
 4. **Validation Points**
    - Verify success by:
