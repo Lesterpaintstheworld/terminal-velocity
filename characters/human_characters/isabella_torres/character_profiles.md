@@ -16,10 +16,9 @@ Despite facing numerous challenges, including financial instability and the abse
 - **With Marcus Reynolds**: Their relationship is marked by tension and collaboration, as they often debate the ethical implications of AI in economic policies.
 - **With Sarah Chen**: Isabella collaborates with Sarah on advocacy efforts, influencing her views on social justice and AI rights.
 
-## Internal Conflict
-Isabella Torres often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
-
-## Objective for Duplication Agent
+## Challenges
+- Faces skepticism from traditionalists who doubt the role of AI in social equity.
+- Struggles with balancing her personal beliefs with the demands of her professional environment.
 
 1. **Action Statement**
    - Duplicate the character profile of Isabella Torres, ensuring that her backstory and interaction mechanisms are accurately replicated for integration into the narrative system.
