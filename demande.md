@@ -27,7 +27,12 @@
    - The mission will focus on developing personality traits, backstory, and interaction mechanisms.
    - It will not cover marketing strategies or user testing at this stage.
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
-## Objectif pour l'Agent Redondance
+## Narrative Arc for Isabella Torres
+- **Objective**: Develop a detailed narrative outline for Isabella Torres that highlights her interactions with Marcus Reynolds, focusing on their conflicting motivations regarding the integration of AI in economic policies.
+- **Key Scenes**:
+  - Scene 1: Initial conflict over AI's role in economic policy during a public debate.
+  - Scene 2: A collaborative moment where they find common ground on a specific policy proposal.
+  - Scene 3: A climactic confrontation that tests their beliefs and relationship.
 
 ### Action Statement
 Analyze the `demande.md` file to identify and document any missing elements or inconsistencies related to the economic framework and innovations proposed by the character Cipher. Ensure that the updates align with the project’s objectives and enhance the clarity of the narrative.
