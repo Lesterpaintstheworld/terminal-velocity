@@ -72,7 +72,7 @@ Isabella Torres grew up in a diverse urban environment, where she was exposed to
 - **Visionary**: Sees the potential for technology to create equitable solutions.
 
 ### Motivations
-- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy.
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her understanding of Cipher's economic principles, such as decentralized resource allocation, informs her approach to policy-making.
 - **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
 - **Community Empowerment**: Isabella aims to empower marginalized communities through her work, advocating for policies that promote social justice and economic equity.
 
