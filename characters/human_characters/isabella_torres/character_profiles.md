@@ -105,7 +105,14 @@ Isabella Torres possesses a deep understanding of political dynamics and the int
 ### Internal Conflicts
 Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
 
-## Summary
+## Socio-Economic Implications
+Isabella Torres's character embodies the complex interplay between economic policy and AI rights within the Terminal Velocity narrative. Her motivations are deeply rooted in her advocacy for marginalized communities, which drives her to seek economic stability through equitable policies. 
+
+Isabella's relationships with key characters, particularly Marcus Reynolds and Sarah Chen, further illuminate her stance on these issues. With Marcus, she often finds herself at odds over the implications of AI technologies on social equity. Their debates highlight the ethical dilemmas surrounding the deployment of autonomous systems, as Isabella strives to ensure that technological advancements do not exacerbate existing inequalities.
+
+Conversely, her collaboration with Sarah emphasizes the importance of legal frameworks in protecting AI rights. Together, they advocate for policies that recognize AI as entities deserving of rights and protections, reflecting Isabella's commitment to social justice. This partnership not only strengthens her resolve but also enriches the narrative by showcasing the necessity of interdisciplinary approaches to address the socio-economic challenges posed by AI integration.
+
+Through her journey, Isabella Torres serves as a catalyst for discussions on the ethical implications of technology, advocating for a future where economic policies and AI rights coexist harmoniously.
 - **Motivations**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements.
 - **Internal Conflicts**: Isabella often struggles with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is particularly evident in her interactions with Marcus Reynolds, where their differing views on the role of AI in society lead to intense discussions.
 - **Relationships**: 
