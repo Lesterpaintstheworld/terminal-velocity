@@ -1,4 +1,4 @@
-## Objective for Specification Agent
+## Objective for the Management Agent
 
 ### Action Statement
 Develop a comprehensive backstory for Isabella Torres, focusing on her motivations, challenges faced during the transition to an AI-driven economy, and her interactions with key characters. This should enhance her depth and relevance to the overarching narrative.
