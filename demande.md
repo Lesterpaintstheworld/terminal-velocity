@@ -1,4 +1,39 @@
-## Objective for Management Agent
+## Objective for the Redondance Agent
+### Action Statement
+Analyze the `demande.md` file to identify and document inconsistencies in the character interactions and economic frameworks proposed by Cipher, ensuring alignment with the overall project narrative.
+
+### Source Files
+- **File to Analyze**: `demande.md`
+- **Relevant Sections**: 
+  - Character interactions (specifically Cipher's interactions with Nova, Pulse, and Marcus Reynolds).
+  - Economic frameworks and innovations described under Cipher's role.
+- **Dependencies**: 
+  - Cross-reference with `directives.md` to ensure compliance with project requirements.
+
+### Target Changes
+- **Files to Modify**: 
+  - `demande.md`
+- **Nature of Expected Changes**: 
+  - Add a section that outlines any inconsistencies found in character interactions and economic principles proposed by Cipher.
+  - Enhance clarity on how Cipher's proposals impact the narrative and relationships with other characters.
+- **Impact on System State**: 
+  - Improved coherence and depth in the project narrative, ensuring all character interactions reflect their motivations and the economic themes of the story.
+
+### Validation Points
+- **How to Verify Success**: 
+  - Ensure the new section in `demande.md` includes at least three documented inconsistencies with explanations.
+- **What Output to Check**: 
+  - Review the updated `demande.md` for clarity and completeness.
+- **Which States to Validate**: 
+  - Confirm that all character motivations and proposals align logically, and that the overall narrative flow is maintained.
+
+### Operation Bounds
+- **Resource Limitations**: 
+  - Use existing documentation and analysis methods; no additional resources are required.
+- **Scope Restrictions**: 
+  - Focus solely on character interactions and economic frameworks; avoid unrelated personal conflicts or technical details.
+- **Dependency Requirements**: 
+  - Ensure access to both `demande.md` and `directives.md` for cross-referencing and validation purposes.
 
 ### Action Statement
 Analyze the existing character profiles of Isabella Torres and Marcus Reynolds to identify gaps in their interactions and develop a detailed interaction framework that enhances their conflict and collaboration dynamics in the narrative.
