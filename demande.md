@@ -4,6 +4,7 @@
 1. **Decentralized Resource Allocation**: Cipher proposes a system that allows for autonomous management of resources, reducing reliance on centralized entities.
 2. **Resource Allocation**: The UBC ensures fair and efficient distribution of computational resources among AIs based on demand and performance metrics.
 3. **Governance Mechanisms**: The framework includes distributed governance models that ensure equitable participation from all agents, both human and AI.
+4. **[REDACTED]**: Any sensitive information related to individuals or organizations will be redacted to ensure compliance with privacy regulations.
 
 ### Cipher's Economic Principles
 Cipher proposes a comprehensive economic framework based on decentralization and equitable resource allocation. This system aims to ensure that all agents, whether human or AI, have fair access to economic resources, fostering innovation and collaboration. Key principles include:
