@@ -14,8 +14,8 @@ Develop a comprehensive backstory for Isabella Torres, focusing on her motivatio
 ### Target Changes
 - **File to Modify**: `demande.md`
 - **Nature of Expected Changes**: 
-- Add a detailed backstory for Isabella Torres, incorporating her motivations, internal conflicts, and key interactions with other characters. 
-- Ensure the backstory aligns with the established project guidelines.
+- Add a detailed section specifically dedicated to Isabella's backstory, highlighting her motivations related to economic stability and AI ethics.
+- Include her internal conflicts and how her relationships with Marcus Reynolds and Sarah Chen shape her character arc.
 - **File to Modify**: `demande.md`
   - **Nature of Expected Changes**: 
     - Add a detailed backstory for Isabella Torres, incorporating her motivations, internal conflicts, and key interactions with other characters. 
