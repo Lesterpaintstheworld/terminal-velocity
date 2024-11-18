@@ -21,7 +21,9 @@
 - **New Criteria**: Introduce additional integrity checks based on the analysis of character interactions and economic policies.
 - **Collaborative Dynamics**: Ensure that validation mechanisms reflect the collaborative nature of agent interactions, enhancing data integrity across the system.
 
-## Objective for the Redondance Agent
+## Objective for Deduplication Agent
+1. **Action Statement**
+   - Analyze the current dataset in `demande.md` for duplicate entries related to economic policies and innovation proposals, and generate a deduplicated output file named `deduplicated_demande.md`.
 
 ### Action Statement
 Conduct an analysis of the `demande.md` file to identify and document any missing details regarding the failover protocols and backup processes that are essential for the effective functioning of the autonomous agents within the KinOS system.

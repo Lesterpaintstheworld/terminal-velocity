@@ -14,28 +14,27 @@ Analyze the `demande.md` file to extract and clarify the economic framework deta
     - Interactions with key characters (e.g., Nova, Marcus Reynolds)
   - **Dependencies**: Ensure consistency with `directives.md` and other project-related documentation.
 
-### Target Changes
-- **File to Modify**: `demande.md`
-- **Nature of Expected Changes**: 
-  - Add a detailed section on Cipher's economic innovations, emphasizing decentralization, equity in resource allocation, and secure communication protocols.
-  - Clarify Cipher’s interactions with other characters (e.g., Nova, Marcus Reynolds) and the impact of these interactions on the overall narrative.
+3. **Target Changes**
+   - Modify the file: `deduplicated_demande.md`
+   - Nature of expected changes: Remove or merge duplicate entries while maintaining the integrity of the information related to economic policies and innovation proposals.
+   - Impact on system state: Improved clarity and efficiency of the dataset for further processing by other agents.
 - **Impact on System State**: 
   - Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
-### Validation Points
-- **How to Verify Success**: Review the updated `demande.md` file for the inclusion of a new section summarizing the insights from the analysis.
-- **Output to Check**: The newly added insights section in `demande.md`.
-- **States to Validate**: Confirm that the insights align with established character motivations and project objectives.
+4. **Validation Points**
+   - Verify success by checking the output file `deduplicated_demande.md` for less than 1% residual duplicates.
+   - Output to check: The number of unique entries related to economic policies and innovations.
+   - Validate state: Ensure that all relevant non-duplicate entries are retained and correctly formatted.
 - **How to verify success**: 
   - Ensure the new section accurately reflects the economic framework and is consistent with UBC specifications.
   - Review the document for clarity and alignment with project objectives.
 - **What output to check**: Updated `demande.md` file with the new economic framework section.
 - **Which states to validate**: Confirm that all relevant stakeholders can comprehend and relate to the updated content.
 
-### Operation Bounds
-- **Resource Limitations**: Ensure that the analysis does not exceed a 2-hour time frame for completion.
-- **Scope Restrictions**: Focus solely on the interactions between Isabella and Marcus, avoiding other character interactions at this stage.
-- **Dependency Requirements**: No additional input from other agents is required for this task.
+5. **Operation Bounds**
+   - Resource limitations: Ensure that the deduplication process operates within a maximum processing time of 3 seconds for up to 10,000 entries.
+   - Scope restrictions: Focus solely on economic policy and innovation data; do not include unrelated content.
+   - Dependency requirements: Confirm successful execution of input agents to deliver clean and formatted data.
 - **Resource limitations**: Utilize existing documentation tools for analysis and modification.
 - **Scope restrictions**: Focus solely on Cipher's economic framework; do not address unrelated character developments or external marketing strategies.
 - **Dependency requirements**: Must integrate insights from `directives.md` to ensure compliance with project specifications.
@@ -184,8 +183,10 @@ Cipher's interactions with characters like Nova and Marcus Reynolds are crucial 
    - Military aspects, technical details, artistic questions, and unrelated personal conflicts are out of scope.
 ## Objective for Evaluation Agent
 
-### Action Statement
-Conduct a performance evaluation of the interaction mechanisms between the autonomous agents, specifically focusing on the effectiveness of the communication protocols established in the project.
+2. **Source Files**
+   - Analyze the file: `demande.md`
+   - Relevant sections to focus on: Economic framework, innovation objectives, interactions of character Cipher.
+   - Dependencies: Ensure input data is formatted correctly with a schema that includes sections on economic policies and innovations.
 
 ### Source Files
 - **Files to Analyze**: 
@@ -221,8 +222,8 @@ Conduct a performance evaluation of the interaction mechanisms between the auton
 - **Dependency Requirements**: 
   - Access to real-time communication data from agents is necessary for accurate evaluation.
 
-### Recherche:
-- Aucune recherche nécessaire pour cette tâche.
+6. **Search:**
+   - Not applicable for this task.
 
 ### Source Files
 - Analyze the following file: `demande.md`
