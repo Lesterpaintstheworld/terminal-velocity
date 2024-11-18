@@ -2,7 +2,6 @@
 
 ## Relationships
 - **Isabella Torres**: Shares a strong bond with Isabella, as they both advocate for marginalized voices in the AI community. Their friendship is built on mutual respect and shared goals.
-- **Marcus Reynolds**: Has a complex relationship with Marcus, where they often engage in debates about the ethical implications of technology. Their differing views challenge each other to grow and reconsider their positions.
 
 ## Core Traits
 - **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI.
