@@ -1,5 +1,8 @@
 # Objective for the chroniqueur Agent
 
+### Conflict Resolution Framework
+Develop a detailed conflict resolution framework for Isabella Torres that explores her internal struggles and interactions with Marcus Reynolds and Sarah Chen, enhancing her character depth and narrative complexity.
+
 ## Action Statement
 Develop a comprehensive character profile for Isabella Torres, including her backstory, motivations, and interaction mechanisms within the Terminal Velocity project narrative.
 
