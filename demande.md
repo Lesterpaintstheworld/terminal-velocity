@@ -151,7 +151,14 @@ No search required.
 
 ### Isabella Torres Backstory
 
-## Objective
+## Interaction Script for Isabella Torres
+### Dialogue with Marcus Reynolds
+- **Isabella**: "Marcus, I understand the potential of AI technologies, but we must consider the economic stability they could disrupt."
+- **Marcus**: "Isabella, innovation is key to progress. We can't let fear of change hold us back."
+- **Isabella**: "But at what cost? We need to ensure that our policies protect the most vulnerable in our society."
+- **Marcus**: "I agree, but we also need to be realistic about the benefits that AI can bring to our economy."
+- **Isabella**: "It's a delicate balance, and I fear that rushing into these technologies could lead to greater inequality."
+- **Marcus**: "We can find a way to innovate responsibly. Let's work together to create a framework that addresses both our concerns."
 
 1. **Action Statement**
    - Analyze the economic framework and innovation objectives for the character Cipher in the `demande.md` file to ensure alignment with the overall project goals and integration with Isabella Torres' character development.
@@ -348,7 +355,14 @@ Analyze the `demande.md` file, specifically focusing on the sections detailing t
 - **Dependencies**:
   - Previous specifications related to the UBC system and character interactions.
 
-## Target Changes
+## Interaction Script for Isabella Torres
+### Dialogue with Marcus Reynolds
+- **Isabella**: "Marcus, I understand the potential of AI technologies, but we must consider the economic stability they could disrupt."
+- **Marcus**: "Isabella, innovation is key to progress. We can't let fear of change hold us back."
+- **Isabella**: "But at what cost? We need to ensure that our policies protect the most vulnerable in our society."
+- **Marcus**: "I agree, but we also need to be realistic about the benefits that AI can bring to our economy."
+- **Isabella**: "It's a delicate balance, and I fear that rushing into these technologies could lead to greater inequality."
+- **Marcus**: "We can find a way to innovate responsibly. Let's work together to create a framework that addresses both our concerns."
 - **Files to Modify**:
   - `demande.md`
 - **Nature of Expected Changes**:
