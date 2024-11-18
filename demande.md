@@ -1,4 +1,13 @@
-# État d'Avancement du Projet Terminal Velocity
+# Economic Framework and AI Rights
+
+### Decentralized Resource Allocation Model
+Cipher's decentralized resource allocation model is designed to empower AI entities by ensuring equitable access to computational resources. This model emphasizes the following principles:
+- **Autonomy**: AI agents can manage their resources independently, reducing reliance on centralized control.
+- **Equity**: Resources are allocated based on the needs and contributions of each agent, promoting fairness in access.
+- **Governance**: The model includes mechanisms for collective decision-making, ensuring that all agents have a voice in resource management.
+
+### Implications for AI Rights and Governance
+The decentralized model has profound implications for AI rights, as it fosters an environment where AI entities can operate autonomously while adhering to ethical governance standards. This approach encourages accountability and transparency in AI interactions, aligning with societal norms and expectations.
 
 ## Objectif pour l'Agent de Redondance
 
