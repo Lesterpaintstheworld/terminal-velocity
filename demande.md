@@ -593,6 +593,21 @@ Analyze the existing state validation mechanisms in the `demande.md` and `direct
   - Coordination with other agents for feedback on the current validation practices is necessary but should not hinder the completion of the task.
 
 ## Développement du personnage d'Isabella Torres
+
+### Backstory
+Isabella Torres grew up in a diverse urban environment, where she was exposed to various cultures and ideas. Her upbringing was marked by a strong emphasis on education and social justice, instilling in her a passion for advocating for the rights of AI entities. Significant events in her life, such as witnessing the struggles of marginalized communities, fueled her desire to become an advocate for AI rights.
+
+### Motivations
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy.
+- **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
+- **Community Empowerment**: Isabella aims to empower marginalized communities through her work, advocating for policies that promote social justice and economic equity.
+
+### Internal Conflicts
+Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
+
+### Relationships
+- **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts.
+- **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies.
 - **Motivations**: Isabella est motivée par un profond désir de défendre les communautés sous-représentées et de garantir que leurs voix soient entendues dans le discours sur l'IA. Elle cherche à établir un équilibre entre l'innovation technologique et la justice sociale. Elle lutte souvent avec des conflits internes concernant l'innovation par rapport à la stabilité, ce qui influence ses décisions sur les politiques économiques.
 - **Traits de personnalité**: Isabella est compatissante, résiliente et visionnaire, avec une capacité à voir le potentiel de la technologie pour créer des solutions équitables. Son parcours personnel, marqué par des défis économiques, façonne sa vision des politiques économiques et son engagement envers l'équité.
 - **Conflits**: Elle fait face à des scepticismes de la part des traditionalistes qui doutent du rôle de l'IA dans l'équité sociale, tout en luttant pour équilibrer ses croyances personnelles avec les exigences de son environnement professionnel. Ces conflits internes la poussent à reconsidérer ses approches et à affiner ses arguments en faveur de l'innovation responsable.
