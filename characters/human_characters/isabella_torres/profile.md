@@ -65,8 +65,47 @@ Core traits, characteristics, and overview# Isabella Torres - Character Profile
 - **Marcus Reynolds**: [Brief description of their relationship]
 # Isabella Torres - Character Profile
 
-## Background
-Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
+## Objective for Duplication Agent
+
+### Action Statement
+Duplicate the character profile of Isabella Torres, focusing specifically on her backstory and personality traits, to ensure consistency across all narrative threads in the Terminal Velocity project.
+
+### Source Files
+- **Files to Analyze**: 
+  - `demande.md`
+  - `Marcus_Reynolds_Profile.md`
+- **Relevant Sections**: 
+  - In `demande.md`, review the sections detailing Isabella's motivations and conflicts.
+  - In `Marcus_Reynolds_Profile.md`, examine the interactions between Isabella and Marcus for contextual accuracy.
+- **Dependencies**: 
+  - Access to the original character profile repository for consistency checks.
+
+### Target Changes
+- **Files to Modify**: 
+  - `Isabella_Torres_Profile.md`
+- **Nature of Expected Changes**: 
+  - Update the profile with the newly duplicated attributes, ensuring all personality traits and backstory elements are accurately reflected.
+- **Impact on System State**: 
+  - Enhanced narrative coherence and character continuity across the project.
+
+### Validation Points
+- **How to Verify Success**: 
+  - Check that the duplicated profile matches the original with a variance of less than 5%.
+- **What Output to Check**: 
+  - The final character profile in `Isabella_Torres_Profile.md`.
+- **Which States to Validate**: 
+  - Ensure that the duplication passes through the validation gate for accuracy and completeness.
+
+### Operation Bounds
+- **Resource Limitations**: 
+  - The operation should not exceed 2 seconds of processing time.
+- **Scope Restrictions**: 
+  - Focus solely on duplicating Isabella's attributes; do not alter any other character profiles or narrative elements.
+- **Dependency Requirements**: 
+  - Must have access to the original character profile database.
+
+### Recherche
+- No additional research is required for this task.
 
 ## Personality Traits
 - **Compassionate**: Deeply cares about social justice and the well-being of others.
