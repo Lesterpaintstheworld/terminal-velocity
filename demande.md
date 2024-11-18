@@ -10,6 +10,9 @@ Cipher's economic models emphasize the importance of decentralization and resour
 ### Economic Objectives
 Cipher aims to establish a decentralized economic framework within the UBC system, focusing on equitable resource allocation and the empowerment of AI entities. These objectives are designed to enhance collaboration among agents and ensure that all voices are heard in the decision-making process.
 
+## Isabella Torres' Motivations
+Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her motivations are deeply intertwined with the economic frameworks she advocates, as she seeks to balance innovation with ethical considerations. Isabella's commitment to social justice influences her approach to economic policy, ensuring that the needs of marginalized communities are prioritized in her advocacy efforts.
+
 ### Key Interactions and Conflicts
 Cipher's interactions with characters such as Isabella Torres, Nova, and Marcus Reynolds highlight the narrative tensions surrounding the implementation of these economic models. Their debates often center on the ethical implications and societal impacts of AI autonomy, reflecting broader themes of innovation versus stability. The economic models proposed by Cipher serve as a foundation for these discussions, influencing the dynamics of their relationships.
 
