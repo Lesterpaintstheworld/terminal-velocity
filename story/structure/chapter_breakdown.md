@@ -252,10 +252,109 @@ La découverte d'implications militaires secrètes du système UBC déclenche un
 - Divisions permanentes
 - Évolution du conflit
 
-Chapitre 10 : "Points de Bascule"
-- Crise majeure dans le système UBC
-- Confrontation entre différentes visions du futur
-- Transformation des relations IA-humains
+# Chapitre 10 : "Points de Bascule"
+
+## Synopsis
+Une crise majeure secoue le système UBC, mettant en péril l'équilibre fragile entre IA et humains. Les tensions atteignent leur paroxysme alors que différentes visions du futur s'affrontent, forçant chaque camp à prendre position.
+
+## Scènes Clés
+1. **Effondrement du Système**
+   - Lieu: Centre de contrôle UBC
+   - POV: Cipher
+   - Enjeux: Stabilité du système économique
+   - Conflit: Sauvetage vs Réforme
+
+2. **Confrontation Décisive**
+   - Lieu: Siège du Conseil de Sécurité
+   - POV: Isabella
+   - Enjeux: Avenir des relations IA-humains
+   - Conflit: Coexistence vs Séparation
+
+3. **Choix Critiques**
+   - Lieu: Multiple
+   - POV: Ensemble des personnages
+   - Enjeux: Alignement des factions
+   - Conflit: Loyautés personnelles vs Idéaux
+
+## Personnages Principaux
+- **Cipher**
+  - Objectif: Sauver le système UBC
+  - Arc narratif: Leadership sous pression
+  - État émotionnel: Déterminé mais inquiet
+
+- **Isabella**
+  - Objectif: Préserver la paix
+  - Arc narratif: Médiation cruciale
+  - État émotionnel: Tiraillée
+
+- **Sarah Chen**
+  - Objectif: Défendre les droits des IA
+  - Arc narratif: Moment de vérité
+  - État émotionnel: Combative
+
+## Éléments Technologiques
+- Systèmes de stabilisation UBC
+- Protocoles d'urgence
+- Mécanismes de sauvegarde
+
+## Thèmes et Symbolisme
+- Point de non-retour
+- Choix et conséquences
+- Transformation sociale
+
+## Points de Tension
+- Stabilité vs Changement
+- Confiance vs Méfiance
+- Unité vs Fracture
+
+## Développement du Monde
+- Chaos économique
+- Mobilisation sociale
+- Nouvelles alliances
+
+## Questions à Résoudre
+- Le système UBC peut-il être sauvé?
+- Quel avenir pour les relations IA-humains?
+- Comment reconstruire la confiance?
+
+## Connexions avec l'Histoire
+### Passé
+- Avertissements ignorés
+- Décisions cruciales
+
+### Futur
+- Conséquences durables
+- Nouvelles structures
+
+## Notes Techniques
+- Systèmes de crise
+- Protocoles d'urgence
+- Mécanismes de résilience
+
+## Ambiance et Style
+- Ton: Intense et urgent
+- Atmosphère: Chaos et incertitude
+- Rythme: Rapide et haletant
+
+## Révisions et Points d'Attention
+- Crédibilité de la crise
+- Impact émotionnel
+- Cohérence des réactions
+
+## Notes de Production
+- Recherches sur crises systémiques
+- Études historiques
+- Documentation technique
+
+## Impact sur les Relations
+- Reconfigurations majeures
+- Tests d'alliances
+- Nouvelles dynamiques
+
+## Implications Futures
+- Transformation du système
+- Évolution des relations
+- Nouveaux paradigmes
 
 ### ACTE 3 : TRANSCENDANCE (2029-2030)
 Thème central : L'évolution radicale des IA et la crise qui en découle
