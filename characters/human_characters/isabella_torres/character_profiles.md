@@ -3,6 +3,35 @@
 ## Objective for Specification Agent
 
 1. **Action Statement**
+   - Develop a detailed character profile for Isabella Torres, focusing on her motivations, conflicts, and relationships with other characters in the Terminal Velocity project. This profile should enhance the narrative engagement and ensure coherence with the overarching story.
+
+2. **Source Files**
+   - Analyze the following files:
+     - `demande.md` - focus on sections detailing Isabella Torres and her interactions with other characters.
+     - `specification Agent Configuration.md` - review sections related to character specifications and narrative coherence.
+
+3. **Target Changes**
+   - Modify `demande.md` by adding a comprehensive character profile for Isabella Torres, including:
+     - Detailed motivations related to the economic policies she advocates.
+     - Key internal conflicts she faces regarding innovation vs. stability.
+     - Clarified relationships with Sarah Chen and Marcus Reynolds, highlighting tensions and collaborations.
+   - Ensure that the updated profile aligns with the narrative goals outlined in the project specifications.
+
+4. **Validation Points**
+   - Verify success by checking the following:
+     - The new character profile is integrated into `demande.md` and includes all required elements.
+     - Audience feedback on Isabella's character is collected, aiming for a satisfaction rate of at least 90% during evaluations.
+     - Ensure that the profile is consistent with existing narratives and does not introduce contradictions.
+
+5. **Operation Bounds**
+   - Resource limitations include a maximum of 2 hours for research and writing.
+   - Scope restricted to character development; no marketing strategies or unrelated conflicts should be included.
+   - Dependencies require insights from other character profiles to ensure coherence.
+
+6. **Search:**
+   - Search: "Isabella Torres motivations" to gather additional context for her character development.
+
+1. **Action Statement**
    - Develop a comprehensive character profile for Isabella Torres, focusing on her motivations, conflicts, and relationships with Marcus Reynolds and Sarah Chen to deepen narrative engagement.
 
 ### Source Files
