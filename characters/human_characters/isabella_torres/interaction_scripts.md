@@ -31,7 +31,7 @@
 ### Scene 1: Ethical Concerns
 *Setting: A conference room filled with stakeholders discussing AI regulations.*
 
-**Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past."
+**Isabella**: "We must prioritize ethical considerations in our AI policies. If we ignore the potential for exploitation, we risk repeating the mistakes of the past. I worry that in our pursuit of efficiency, we might overlook the very communities we aim to protect."
 
 **Marcus**: "I understand your concerns, Isabella, but we need to focus on the benefits AI can bring to our economy. Security and efficiency should come first. We can't let fear dictate our progress."
 
