@@ -13,18 +13,18 @@
 
 3. **Target Changes**
    - **File to Modify**: `demande.md`
-   - **Nature of Expected Changes**: Execute redaction processes on identified sensitive data types and generate a redacted version of the document, ensuring all sensitive information is adequately removed or concealed.
-   - **Impact on System State**: The `demande.md` file will be updated to a redacted version, ensuring compliance with organizational policies regarding sensitive information.
+   - **Nature of Expected Changes**: Redact sensitive personal information and confidential economic policy details while preserving the integrity of the document.
+   - **Impact on System State**: The document will be compliant with privacy regulations and organizational policies post-redaction.
 
 4. **Validation Points**
-   - **How to Verify Success**: Check the redacted version of `demande.md` for completeness and accuracy in redaction.
-   - **What Output to Check**: Ensure that no sensitive information remains visible in the redacted document and that the format remains consistent with the original.
+   - **How to Verify Success**: Review the final output to confirm no residual sensitive information is visible.
+   - **What Output to Check**: Ensure the redacted version of `demande.md` is compared against the original to ensure completeness of redactions.
    - **Which States to Validate**: Confirm that the redaction process logs show no errors and that the output meets the defined quality standards.
 
 5. **Operation Bounds**
-   - **Resource Limitations**: Ensure that the operation is completed within the current processing time of under 5 seconds.
-   - **Scope Restrictions**: Focus solely on redaction without altering the structural or content integrity of the document.
-   - **Dependency Requirements**: Utilize the database of sensitive data types for reference during the redaction process.
+   - **Resource Limitations**: The process should not exceed a 5-second completion time for redaction.
+   - **Scope Restrictions**: Focus solely on redaction; do not engage in marketing strategies or user testing.
+   - **Dependency Requirements**: Ensure access to the secure storage for original and redacted documents.
 
 6. **Search**
    - No search required.
