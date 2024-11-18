@@ -1,6 +1,7 @@
-## Objective for Redaction Agent
-### Action Statement
-Conduct a comprehensive review of the `demande.md` and `directives.md` files to identify and redact any sensitive information related to the economic framework and character interactions, ensuring compliance with data privacy standards.
+## Objective for Specification Agent
+
+## Action Statement
+Analyze the `demande.md` file to extract and clarify the economic framework details proposed by the character Cipher, ensuring that it aligns with the Universal Basic Compute (UBC) system requirements.
 ### Source Files
 - Analyze the following file: `demande.md`
   - Relevant sections: 
@@ -23,20 +24,16 @@ Conduct a comprehensive review of the `demande.md` and `directives.md` files to 
   - Improved clarity and depth of the narrative, enhancing character interactions and overall project coherence.
 
 ### Validation Points
-- **How to Verify Success**: 
-  - Ensure that all redactions are validated and that no sensitive information is visible in the modified document.
-- **Output to Check**: 
-  - The redacted version of `demande.md` must be compared against the original to ensure completeness of redactions.
-- **States to Validate**: 
-  - Confirm that the redaction process has been logged without errors and that the final document passes compliance checks.
+- **How to verify success**: 
+  - Ensure the new section accurately reflects the economic framework and is consistent with UBC specifications.
+  - Review the document for clarity and alignment with project objectives.
+- **What output to check**: Updated `demande.md` file with the new economic framework section.
+- **Which states to validate**: Confirm that all relevant stakeholders can comprehend and relate to the updated content.
 
 ### Operation Bounds
-- **Resource Limitations**: 
-  - Use existing documentation and analysis methods; no additional resources are required.
-- **Scope Restrictions**: 
-  - Focus solely on character interactions and economic frameworks; avoid unrelated personal conflicts or technical details.
-- **Dependency Requirements**: 
-  - Ensure access to both `demande.md` and `directives.md` for cross-referencing and validation purposes.
+- **Resource limitations**: Utilize existing documentation tools for analysis and modification.
+- **Scope restrictions**: Focus solely on Cipher's economic framework; do not address unrelated character developments or external marketing strategies.
+- **Dependency requirements**: Must integrate insights from `directives.md` to ensure compliance with project specifications.
 
 ### Action Statement
 Analyze the existing character profiles of Isabella Torres and Marcus Reynolds to identify gaps in their interactions and develop a detailed interaction framework that enhances their conflict and collaboration dynamics in the narrative.
