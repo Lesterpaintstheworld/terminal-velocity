@@ -1,4 +1,9 @@
-# Character Relationships: Marcus Reynolds and Sarah Chen
+# Character Relationships: Marcus Reynolds
+
+## Relationship with Isabella Torres
+- **Background**: Marcus and Isabella share a complex relationship marked by mutual respect and ideological conflict. They often engage in heated debates about the role of AI in society, with Marcus advocating for national security and Isabella emphasizing social equity.
+- **Conflict Points**: Their differing philosophies on technology and its implications for society often lead to tension, but they also find common ground in their desire for progress.
+- **Supportive Moments**: Despite their disagreements, they occasionally collaborate on initiatives that aim to balance security and ethical considerations in AI development.
 
 ## Background
 - Marcus and Sarah share a history rooted in their experiences as officers, both having faced personal traumas that shape their views on justice and morality.
