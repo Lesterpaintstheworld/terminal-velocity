@@ -20,7 +20,7 @@ Analyze the `demande.md` file, specifically focusing on the sections detailing t
 - **Impact on System State**:
   - Improved coherence and clarity in project documentation, facilitating better understanding among all agents.
 
-## Validation Points
+## Validation Metrics
 - **How to Verify Success**:
   - Ensure the new section on Cipher and the economic framework is coherent and aligns with project goals.
 - **What Output to Check**:
