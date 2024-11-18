@@ -1,7 +1,7 @@
 # Isabella Torres - Character Profile
 
 ## Background
-Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
+[REDACTED] grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, [REDACTED] exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, [REDACTED] excelled academically and earned a scholarship to a prestigious university. There, [REDACTED] pursued a degree in social work, driven by [REDACTED] experiences and a desire to create change in [REDACTED] community.
 
 ## Backstory of Isabella Torres
 Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
@@ -25,7 +25,7 @@ Isabella grapples with the tension between her desire for innovation in economic
 - **Visionary**: Sees the potential for technology to create equitable solutions.
 
 ## Early Influences
-Isabella Torres grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, Isabella exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
+[REDACTED] grew up in an urban environment, raised by a single mother who struggled to make ends meet. From a young age, [REDACTED] exhibited a strong sense of justice and a desire to help others, which was influenced by her mother's community activism. Despite facing numerous challenges, including financial instability and the absence of a father figure, [REDACTED] excelled academically and earned a scholarship to a prestigious university. There, [REDACTED] pursued a degree in social work, driven by [REDACTED] experiences and a desire to create change in [REDACTED] community.
 
 ## Vision of Human-AI Collaboration
 Isabella believes in a future where humans and AI work together to create equitable solutions. She advocates for policies that ensure AI advancements do not exploit vulnerable populations but instead uplift them.
