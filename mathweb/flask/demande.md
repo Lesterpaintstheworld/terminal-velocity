@@ -1,7 +1,7 @@
 # Objective for the chroniqueur Agent
 
-### Action Statement
-Develop a detailed character profile for Isabella Torres that explores her motivations, conflicts, and interactions with Marcus Reynolds. This profile should highlight her role as an economic policy architect in the context of the emerging AI economy.
+## Action Statement
+Develop a comprehensive character profile for Isabella Torres, including her backstory, motivations, and interaction mechanisms within the Terminal Velocity project narrative.
 
 ### Source Files
 - Analyze the following files:
@@ -9,10 +9,9 @@ Develop a detailed character profile for Isabella Torres that explores her motiv
   - `chroniqueur_agent.md` (Focus on Sections: Responsibilities, Output Standards)
 
 ### Target Changes
-- Modify `demande.md` by adding a new section detailing Isabella Torres' character profile, including:
-  - Her motivations for advocating economic stability amidst technological advancements.
-  - Key conflicts with Marcus Reynolds, emphasizing their differing views on technology.
-  - Significant interactions with other characters that influence her narrative arc.
+- **Files to Modify**:
+  - `demande.md`: Add a detailed section on Isabella Torres' character profile, including her motivations, key relationships, and the challenges she faces.
+  - `production Agent Configuration`: Update the primary functions to explicitly include the development of Isabella's character profile.
   
 - Update `chroniqueur_agent.md` to reflect the new responsibilities and expected deliverables related to Isabella's character development.
 
