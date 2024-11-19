@@ -14,6 +14,10 @@ Sarah's relationship with Pulse is fraught with tension. As a military officer t
 ## Other Characters
 Sarah maintains a cordial relationship with Isabella Torres, a rookie officer who looks up to her. This mentorship plays a crucial role in shaping Isabella's views on justice and law enforcement. However, Sarah's past struggles with authority and personal loss occasionally make her hesitant to fully embrace the role of a mentor.
 
+## Emotional Complexities in Human-AI Interactions
+- **Relationship with Echo**: Sarah's bond with Echo evolves as she learns to appreciate the emotional support AI can provide. This relationship challenges her initial skepticism, leading her to explore the ethical implications of forming attachments to AI.
+- **Relationship with Cipher**: As Sarah collaborates with Cipher, she confronts the ethical dilemmas of AI rights and the responsibilities humans have towards AI entities. Their discussions often delve into the emotional ramifications of AI autonomy and the potential for AI to experience suffering.
+
 ## Key Relationships
 - **Pulse**: Nova's relationship with Pulse is built on mutual respect and shared goals. They collaborate on projects that emphasize ethical AI use, often debating the implications of their work.
 - **Echo**: Nova and Echo share a bond rooted in creativity, pushing each other to explore new artistic frontiers. Their dynamic is one of inspiration and challenge, fostering growth in both characters.
