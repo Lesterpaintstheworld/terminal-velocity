@@ -13,8 +13,7 @@ The UBC framework incorporates protocols and regulatory frameworks to govern the
 Cipher's principles are illustrated through interactions with characters like Isabella Torres and Marcus Reynolds. For example, the tension between Cipher's decentralized approach and Isabella's advocacy for social equity highlights the ethical implications of resource distribution. Similarly, Marcus's focus on security often clashes with Cipher's vision for innovation, prompting debates about the balance between progress and responsibility.
 
 ### Ethical Implications of Economic Innovations
-
-Cipher's proposed economic innovations raise significant ethical considerations regarding AI autonomy and its societal impacts. The following points outline these intersections:
+Cipher's proposed economic innovations raise significant ethical considerations regarding AI autonomy and its societal impacts. The following points outline these intersections, particularly in relation to the implications for AI rights and the broader societal context:
 
 1. **Decentralization and Accountability**: While decentralization empowers AI agents to make autonomous decisions, it also raises questions about accountability. How can society ensure that these autonomous entities act ethically and do not exploit their newfound power? This concern is particularly relevant in discussions with Isabella Torres, who advocates for ethical governance in AI.
 
