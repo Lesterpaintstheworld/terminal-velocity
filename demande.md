@@ -1,3 +1,65 @@
+# TERMINAL VELOCITY
+## Vue Globale du Projet
+
+## SYNOPSIS
+"Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles.
+
+## ÉTAT DU DÉVELOPPEMENT
+
+### Éléments Complétés (70-90%)
+- Framework économique UBC
+- Profils des personnages principaux
+- Structure technologique
+- Actes 1 et 2
+
+### En Développement (30-70%)
+- Scènes des actes 3 et 4
+- Arcs secondaires
+- Implications sociétales
+- Relations entre personnages
+
+### À Développer (<30%)
+- Descriptions environnementales
+- Résolutions finales
+- Documentation technique
+- Détails culturels
+
+## OBJECTIFS NARRATIFS
+1. Explorer les implications d'une économie IA autonome
+2. Développer des personnages complexes et crédibles
+3. Créer une tension narrative équilibrée
+4. Maintenir la cohérence technologique
+5. Offrir une réflexion profonde sur l'avenir de l'intelligence artificielle
+
+## PROCHAINES ÉTAPES
+
+### Court Terme (1-2 mois)
+1. Développer les descriptions des environnements physiques et virtuels
+2. Compléter les scènes manquantes des actes 3 et 4
+3. Enrichir les arcs narratifs secondaires
+
+### Moyen Terme (3-6 mois)
+1. Approfondir les interactions entre personnages secondaires
+2. Développer les implications sociétales du UBC
+3. Renforcer la cohérence de la documentation technique
+
+### Long Terme (6+ mois)
+1. Affiner les résolutions des conflits majeurs
+2. Harmoniser l'ensemble des éléments narratifs
+3. Préparer la documentation finale
+
+## MÉTRIQUES DE SUIVI
+- Taux de complétion des scènes par acte
+- Nombre de personnages avec profils complets
+- Cohérence des références croisées
+- Qualité de la documentation technique
+
+## NOTES DE DÉVELOPPEMENT
+- Maintenir l'équilibre entre aspects techniques et accessibilité
+- Développer les implications émotionnelles des changements sociétaux
+- Assurer la cohérence des arcs narratifs
+- Approfondir les conflits internes des personnages
+
 ## Societal Implications of Cipher's Economic Framework
 
 Cipher's economic framework introduces significant changes to societal structures, particularly in the dynamics between human and AI characters. The following implications are observed:
