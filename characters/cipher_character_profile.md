@@ -6,7 +6,12 @@
 - Weaknesses: [List weaknesses]
 - Emotional Responses: [Describe emotional responses and triggers]
 
-### Evolution
+### Biases
+- **Identified Biases**: Cipher exhibits a tendency to prioritize technological advancement over ethical considerations, which can lead to conflicts with characters advocating for social equity, such as Isabella Torres.
+- **Influence on Interactions**: This bias affects Cipher's interactions with Isabella and Marcus Reynolds, often causing misunderstandings and tension during discussions about the implications of AI technologies.
+- **Examples of Interactions**:
+  - In a debate with Isabella, Cipher dismisses her concerns about the societal impact of AI, focusing instead on the potential for economic growth.
+  - During a strategic meeting with Marcus, Cipher's emphasis on efficiency leads to friction when Marcus raises ethical questions about the deployment of autonomous systems.
 - Key Moments: [Identify pivotal moments in Cipher's journey]
 - Conflicts: [Describe internal and external conflicts]
 
