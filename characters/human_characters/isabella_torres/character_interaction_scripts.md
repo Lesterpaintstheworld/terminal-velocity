@@ -54,7 +54,7 @@
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable. It's a delicate balance, and I hope I can navigate it without losing sight of what truly matters."
 
 ### Identified Gaps
 - The current interaction scripts between Isabella and Marcus lack emotional depth, particularly in their debates about AI policies. Their discussions often feel one-dimensional and do not fully explore the stakes involved for both characters.
@@ -236,11 +236,11 @@
 ### Scene 3: Tension Peaks with Marcus Reynolds
 *Setting: A public forum where both are presenting their views on AI policies.*
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
 **Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
