@@ -4,10 +4,10 @@
 Isabella Torres grew up in a politically active family, where discussions about economics and governance were common. Her early exposure to these topics shaped her understanding of societal structures. She pursued a degree in political science, focusing on economic policies and their implications for both humans and AI. A significant event in her life was witnessing the impact of economic policies on marginalized communities, which fueled her desire to advocate for equitable solutions.
 
 ## Core Motivations
-- Deep commitment to advocating for underrepresented communities
-- Desire to balance technological innovation with social justice
-- Drive to create stable economic policies that ensure equitable access to resources
-- Focus on ethical implementation of AI technologies
+- Deep commitment to advocating for underrepresented communities, driven by her experiences witnessing systemic injustice.
+- Desire to balance technological innovation with social justice, often grappling with the fear that rapid advancements could harm vulnerable populations.
+- Drive to create stable economic policies that ensure equitable access to resources, particularly in the context of the emerging AI economy.
+- Focus on ethical implementation of AI technologies, ensuring that advancements do not exacerbate existing inequalities.
 
 ## Internal Conflicts
 - Tension between innovation and stability in economic policies
