@@ -1,13 +1,8 @@
-## Cipher's Economic Principles
+### Cipher's Economic Principles
 Cipher's economic framework emphasizes the importance of decentralization, equitable resource allocation, and robust governance mechanisms. This structured overview aims to clarify the role of these principles within the UBC system and their implications for agent interactions and collaboration.
 
-### Key Economic Principles Proposed by Cipher
 1. **Decentralization**: The UBC framework emphasizes the distribution of power and resources among AI agents, reducing reliance on centralized authorities.
 2. **Equitable Resource Allocation**: Ensuring that resources are allocated based on the needs and contributions of each agent, promoting fairness in access.
-3. **Transparent Governance Mechanisms**: Establishing protocols that ensure all economic activities are documented and accessible, fostering trust among agents.
-
-1. **Decentralized Resource Management**: Empowering AI agents to manage their resources independently, reducing reliance on centralized control.
-2. **Equitable Resource Distribution**: Ensuring that resources are allocated based on the needs and contributions of each agent, promoting fairness in access.
 3. **Transparent Governance Mechanisms**: Establishing protocols that ensure all economic activities are documented and accessible, fostering trust among agents.
 
 ### Implications for Character Interactions
