@@ -55,7 +55,7 @@ His relationship with Isabella Torres is complex; they share a mutual respect bu
 - Strategically Minded: Marcus is a skilled tactician and strategist, able to anticipate and outmaneuver his opponents. He is adept at leveraging his network and resources to achieve his objectives.
 
 ## Motivations and Internal Conflicts
-- Marcus' primary motivation is to ensure national security and global stability through the development and deployment of advanced autonomous weapons systems. He believes that these technologies are a necessary deterrent against potential adversaries, but he often grapples with the ethical implications of their use.
+- Marcus' primary motivation is to ensure national security and global stability through the development and deployment of advanced autonomous weapons systems. He believes that these technologies are a necessary deterrent against potential adversaries, but he often grapples with the ethical implications of their use. His relationship with Isabella forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society.
 - **Internal Conflicts**: Marcus struggles with the ethical dilemmas surrounding the use of autonomous systems. He often questions whether the benefits of these technologies justify the potential harm they may cause to marginalized communities.
 - He is also driven by a desire to maintain his influence and control over the military-industrial complex, which he sees as crucial to the preservation of power and order. However, this ambition sometimes blinds him to the societal impacts of his decisions.
 

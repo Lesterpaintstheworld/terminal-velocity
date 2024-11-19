@@ -4,13 +4,13 @@
 Isabella Torres grew up in a politically active family, where discussions about economics and governance were common. Her early exposure to these topics shaped her understanding of societal structures. She pursued a degree in political science, focusing on economic policies and their implications for both humans and AI. A significant event in her life was witnessing the impact of economic policies on marginalized communities, which fueled her desire to advocate for equitable solutions.
 
 ## Core Motivations
-- Deep commitment to advocating for underrepresented communities, driven by her experiences witnessing systemic injustice and the emotional toll it takes on her. Isabella often grapples with the fear that her push for innovation may inadvertently harm those she aims to protect, leading to moments of self-doubt.
+- Deep commitment to advocating for underrepresented communities, driven by her experiences witnessing systemic injustice and the emotional toll it takes on her. Isabella often grapples with the fear that her push for innovation may inadvertently harm those she aims to protect, leading to moments of self-doubt. This internal conflict is particularly pronounced in her discussions with Marcus, where she feels the weight of their differing views on the role of AI in society.
 - Desire to balance technological innovation with social justice, often grappling with the fear that rapid advancements could harm vulnerable populations, leading to moments of self-doubt.
 - Drive to create stable economic policies that ensure equitable access to resources, particularly in the context of the emerging AI economy, while feeling the weight of responsibility for those affected.
 - Focus on ethical implementation of AI technologies, ensuring that advancements do not exacerbate existing inequalities, which often leads her to question her own ideals.
 
 ## Internal Conflicts
-- Tension between innovation and stability in economic policies, often leading to moments of self-doubt.
+- Tension between innovation and stability in economic policies, often leading to moments of self-doubt. Isabella struggles with the emotional burden of advocating for marginalized communities while navigating the complexities of AI integration. Her relationship with Marcus adds to this tension, as their debates force her to confront her own beliefs and the potential consequences of their policies.
 - Fear that rapid technological advancement could harm vulnerable populations, which weighs heavily on her conscience.
 - Struggle between personal ideals and professional responsibilities, particularly when faced with ethical dilemmas.
 - Concern about the implications of AI autonomy on social equity, prompting her to advocate for inclusive policies.
