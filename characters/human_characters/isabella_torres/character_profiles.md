@@ -2,8 +2,8 @@
 
 ## Objective for Specification Agent
 
-## Motivations and Internal Conflicts
-Isabella Torres is motivated by a deep desire to advocate for underrepresented communities and ensure their voices are heard in the AI discourse. She seeks to balance technological innovation with social justice. However, she grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
+## Motivations
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her motivations are often tested in her interactions with Marcus and Cipher, as she navigates the tension between innovation and ethical responsibility. She is also deeply committed to advocating for underrepresented communities, ensuring their voices are heard in the AI discourse. This dual focus on stability and advocacy shapes her decisions and actions throughout the narrative.
 
 ### Scene 1: Ideological Conflict
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies. Isabella expresses her concerns about the ethical implications of AI advancements, questioning whether her push for innovation might inadvertently harm marginalized communities.*
