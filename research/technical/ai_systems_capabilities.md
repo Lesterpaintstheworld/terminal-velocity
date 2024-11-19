@@ -11,11 +11,11 @@ The AI agents operating within the Terminal Velocity universe possess a range of
   - **AI in Education**: Personalized learning experiences are created through AI analysis of student performance, allowing for tailored educational approaches that enhance learning outcomes.
 
 ## Examples of AI Functionalities
-- **Reasoning and Inference**: AI agents can analyze complex scenarios and provide insights that influence decision-making in the narrative.
-- **Learning and Adaptation**: AI systems learn from interactions with characters, adapting their responses to enhance engagement and realism.
-- **Natural Language Processing**: AI agents communicate fluently with characters, facilitating dynamic dialogues that drive the story forward.
-- **Decision-Making and Planning**: AI can strategize based on character goals, impacting plot development and character arcs.
-- **Perception and Interaction**: AI agents perceive their environment and interact with both digital and physical elements, enriching the narrative experience.
+- **Reasoning and Inference**: AI agents can analyze complex scenarios and provide insights that influence decision-making in the narrative. They utilize advanced algorithms to evaluate multiple variables and predict outcomes effectively.
+- **Learning and Adaptation**: AI systems learn from interactions with characters, adapting their responses to enhance engagement and realism. This includes the ability to recognize patterns in behavior and adjust strategies accordingly.
+- **Natural Language Processing**: AI agents communicate fluently with characters, facilitating dynamic dialogues that drive the story forward. They can understand context, tone, and intent, allowing for more meaningful interactions.
+- **Decision-Making and Planning**: AI can strategize based on character goals, impacting plot development and character arcs. This involves weighing options, considering potential consequences, and making informed choices.
+- **Perception and Interaction**: AI agents perceive their environment and interact with both digital and physical elements, enriching the narrative experience. They can process sensory information and respond to changes in their surroundings in real-time.
 
 ## Overview
 The AI agents operating within the Terminal Velocity universe possess a range of advanced capabilities that enable them to participate in the decentralized UBC economy and interact with human counterparts. These include:

@@ -2,6 +2,8 @@
 
 ## Overview of Ethical Considerations
 The deployment of AI systems within the UBC framework raises important ethical questions that must be addressed to ensure responsible implementation. These include:
+- **Ethical Frameworks**: Establishing clear ethical guidelines for AI behavior and decision-making processes is essential to ensure accountability and transparency.
+- **Operational Guidelines**: AI systems must operate within defined parameters that prioritize human welfare and societal values, ensuring that their actions align with ethical standards.
 
 ## Overview of Ethical Considerations
 The deployment of AI systems within the UBC framework raises important ethical questions that must be addressed to ensure responsible implementation. These include:
