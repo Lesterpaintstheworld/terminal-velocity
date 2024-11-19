@@ -35,6 +35,7 @@
 ## Relationship with Isabella Torres
 - **Nature**: Colleague and Advocate
 - **Key Dynamics**: Isabella and Marcus share a mutual respect for each other's goals, but their differing views on the role of AI in society often lead to intense discussions. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." However, they also find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
+- **Emotional Stakes**: Add dialogue that reflects Marcus's internal struggles and motivations during key interactions, particularly when discussing AI policies. For example, during a pivotal moment, he could express, "I want to protect our future, but I fear the consequences of our decisions on those who are already vulnerable."
 
 ## Identified Gaps in Relationship Dynamics
 1. **Lack of Emotional Depth**: Current interactions do not fully explore the emotional stakes involved in their discussions. Enhancing these moments can create a more engaging narrative.
