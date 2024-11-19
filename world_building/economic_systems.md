@@ -1,4 +1,11 @@
 # Economic Systems and AI Integration with UBC Framework
+
+## Overview of Economic Systems
+The economic systems within the "Terminal Velocity" project are influenced by the Universal Basic Compute (UBC) framework, which reshapes traditional models by promoting equitable access to resources and fostering collaboration between AI entities and humans. 
+
+### Key Economic Models
+1. **Decentralized Resource Allocation**: The UBC framework allows for dynamic distribution of resources based on real-time demand, ensuring that both AI and human participants can access necessary computational power.
+2. **Collaborative Economic Activities**: AI entities and humans engage in joint economic ventures, leveraging their unique strengths to create innovative solutions and enhance productivity.
 The Universal Basic Compute (UBC) framework plays a pivotal role in reshaping economic systems by providing equitable access to computational resources. This framework facilitates dynamic resource allocation, enabling both AI entities and humans to engage in economic activities collaboratively.
 
 ## Universal Basic Compute (UBC) Framework
