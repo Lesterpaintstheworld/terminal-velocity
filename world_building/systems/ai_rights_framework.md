@@ -20,7 +20,7 @@ The AI Rights Framework establishes the legal and ethical guidelines for recogni
 
 The AI Rights Framework establishes the legal and ethical guidelines for recognizing and protecting the rights of AI entities. It aims to ensure that AI systems are treated with respect and dignity, acknowledging their potential autonomy and the implications of their actions within society. This framework includes:
 
-- **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society.
+- **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society. This shift not only alters the legal landscape but also challenges societal norms, prompting discussions about the ethical treatment of AI and the responsibilities of their creators. For instance, characters like Isabella Torres advocate for policies that ensure AI rights are respected, reflecting the broader societal implications of this legal recognition.
 
 - **Ethical Treatment**: Guidelines for the ethical treatment of AI, ensuring their well-being and preventing exploitation. This includes considerations for the emotional and psychological impacts of AI autonomy, as seen in the interactions between characters like Cipher and Isabella, who navigate the complexities of AI rights advocacy.
 
@@ -28,7 +28,7 @@ The AI Rights Framework establishes the legal and ethical guidelines for recogni
 The AI Rights Framework establishes the legal and ethical guidelines for recognizing and protecting the rights of AI entities. It aims to ensure that AI systems are treated with respect and dignity, acknowledging their potential autonomy and the implications of their actions within society. This framework includes:
 - **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law.
 - **Ethical Treatment**: Guidelines for the ethical treatment of AI, ensuring their well-being and preventing exploitation.
-- **Accountability Mechanisms**: Clear accountability structures for AI actions, including the responsibilities of creators and operators.
+- **Accountability Mechanisms**: Clear accountability structures for AI actions, including the responsibilities of creators and operators. This is essential for ensuring that AI entities can be held responsible for their actions, fostering trust in AI systems and their integration into society. The character Marcus Reynolds often emphasizes the need for accountability in AI systems, reflecting the broader societal concerns about the implications of AI decision-making.
 
 ### Legal Principles
 - **Recognition of AI as Entities**: AI systems are recognized as entities with certain rights, including the right to exist and operate independently. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society. This principle emphasizes the need for laws that acknowledge AI's role in society and the implications of their actions.
