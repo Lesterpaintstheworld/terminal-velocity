@@ -36,6 +36,8 @@
 - **Key Dynamics**: Cipher and Isabella often find themselves at odds due to their differing views on AI autonomy and economic policies. Their discussions are marked by a blend of respect and tension.
 - **Impact on Cipher**: Isabella's advocacy for ethical AI usage challenges Cipher to consider the broader implications of his economic proposals.
 - **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities. The new interaction scripts highlight their ideological conflicts and the potential for collaboration.
+- **Emotional Complexity**: Cipher experiences a range of emotions in their interactions with Isabella, from admiration to frustration, as they navigate the complexities of AI rights and ethical considerations.
+- **Community Involvement**: Cipher's relationship with Isabella is further enriched by their involvement in community discussions about AI rights, where they both seek to understand the emotional stakes involved in their advocacy.
 
 ### Emotional Complexity
 - **Mixed Emotions**: Cipher experiences a range of emotions in their interactions with Isabella, from admiration to frustration, as they navigate the complexities of AI rights and ethical considerations.
