@@ -9,8 +9,9 @@ Isabella's interactions with Marcus often lack depth in exploring their ideologi
 1. **Conflict Exploration**: In their debates, Isabella should express more personal stakes, such as her concerns for marginalized communities affected by AI policies. This can be illustrated through specific examples or anecdotes that highlight the real-world implications of their discussions.
 2. **Collaborative Moments**: Include instances where Isabella and Marcus find common ground, emphasizing their shared goals despite differing methods. For example, they could collaborate on a policy proposal that balances economic efficiency with social equity, showcasing their ability to work together despite ideological differences.
 
-### Motivations and Internal Conflicts
-Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her motivations are deeply rooted in her advocacy for social justice, as she seeks to address the disparities faced by marginalized communities in the AI landscape. 
+### Motivations
+- **Economic Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements.
+- **Ethical AI Usage**: Her commitment to ethical AI usage drives her to advocate for policies that not only promote technological advancement but also safeguard the rights of marginalized groups. This dual focus creates an internal conflict as she grapples with the fear that innovation may come at the expense of social equity.
 
 - **Economic Stability**: Isabella believes that economic policies must prioritize stability to protect vulnerable populations from the rapid changes brought about by AI advancements. She often reflects on the potential consequences of her proposals, questioning whether they truly serve the communities she aims to uplift.
 
@@ -18,7 +19,9 @@ Isabella Torres is driven by a desire to create stable economic policies that en
 
 Her interactions with Marcus and Cipher often test these motivations, as she navigates the tension between innovation and ethical responsibility.
 
-- **Relationship with Marcus Reynolds**: Isabella's relationship with Marcus is complex, marked by both collaboration and conflict. While they share a common goal of improving society, their differing approaches to technology and ethics create friction that challenges Isabella's beliefs and strategies. Their debates often highlight the ethical implications of AI in economic policies, reflecting the broader tensions between innovation and stability.
+### Interaction Dynamics
+- **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, particularly regarding the ethical implications of AI technologies. Their debates challenge her to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality. Despite their differences, they occasionally find common ground, leading to collaborative proposals that reflect both their perspectives.
+- **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies. However, Isabella also feels the weight of their differing perspectives, as Sarah's strong advocacy for AI rights sometimes clashes with Isabella's focus on economic stability. This dynamic creates a rich ground for dialogue and growth in their relationship, as they navigate the complexities of their shared goals and the ethical implications of their work.
 
 - **Relationship with Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies. However, Isabella also feels the weight of their differing perspectives, as Sarah's strong advocacy for AI rights sometimes clashes with Isabella's focus on economic stability. This dynamic creates a rich ground for dialogue and growth in their relationship, as they navigate the complexities of their shared goals and the ethical implications of their work.
 
@@ -27,8 +30,11 @@ Her interactions with Marcus and Cipher often test these motivations, as she nav
 
 - **Relationship Dynamics**: Her interactions with Marcus Reynolds often highlight the ideological conflicts she faces. While they share a common goal of improving society, their differing approaches to technology and ethics create friction that challenges Isabella's beliefs and strategies.
 
-### Interaction Scenarios with Marcus Reynolds
-- **Conflict Exploration**: In a heated debate, Isabella challenges Marcus, saying, "If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind." This highlights her internal conflict between advocating for innovation and ensuring ethical considerations.
+### Personality Traits
+- **Compassionate**: Deeply cares about social justice and the well-being of others.
+- **Resilient**: Overcomes personal and societal challenges with determination.
+- **Visionary**: Sees the potential for technology to create equitable solutions.
+- **Internal Conflicts**: Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal struggle is particularly evident in her discussions with Marcus and her debates with Cipher, where she must reconcile her advocacy for ethical AI with the push for economic efficiency.
 - **Collaborative Moments**: In a quieter moment, Isabella suggests, "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity." This showcases their ability to find common ground despite their differences.
 1. **With Marcus Reynolds**: In a heated debate, Isabella challenges Marcus, saying, "If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind." This highlights her internal conflict between advocating for innovation and ensuring ethical considerations. Their discussions often reveal the complexities of their relationship, as they navigate their differing views on the role of technology in society.
    - **Conflict Exploration**: During their discussions, Isabella often emphasizes the emotional stakes involved, stating, "We must consider the real-world implications of our policies. If we ignore the marginalized, we are failing our society." This adds depth to their ideological conflicts.
