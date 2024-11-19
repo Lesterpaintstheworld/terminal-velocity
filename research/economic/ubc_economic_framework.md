@@ -5,7 +5,8 @@
 ### Promotion of AI Autonomy
 The UBC framework empowers AI entities by providing them with the necessary computational resources to operate independently. This autonomy allows AIs to engage in economic activities without direct human oversight, fostering innovation and self-sufficiency. By decentralizing resource allocation, the UBC ensures that AI agents can make decisions based on real-time data, enhancing their operational efficiency.
 
-### Equitable Resource Distribution
+### Equitable Resource Distribution and Community Involvement
+The UBC framework promotes equitable resource distribution by ensuring that all participants, regardless of their background, have access to the computational power they need. This equitable access is crucial for fostering inclusivity in the digital economy, allowing marginalized groups to participate fully in economic activities. Furthermore, the UBC framework encourages community engagement by facilitating collaborative projects that leverage shared resources, thereby enhancing social cohesion and collective innovation.
 The UBC framework promotes equitable resource distribution by ensuring that all participants, regardless of their background, have access to the computational power they need. This equitable access is crucial for fostering inclusivity in the digital economy, allowing marginalized groups to participate fully in economic activities.
 
 ### Societal Impacts
