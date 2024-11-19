@@ -1,6 +1,6 @@
 ## Technical Specifications Supporting UBC Economic Interactions
 
-The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance.
+The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance. By implementing robust governance protocols, the UBC framework promotes transparency and accountability, which are essential for fostering trust among participants.
 
 ### Key Specifications
 
