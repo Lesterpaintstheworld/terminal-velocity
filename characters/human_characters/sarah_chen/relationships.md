@@ -19,9 +19,9 @@ Sarah maintains a cordial relationship with Isabella Torres, a rookie officer wh
 - **Relationship with Cipher**: As Sarah collaborates with Cipher, she confronts the ethical dilemmas of AI rights and the responsibilities humans have towards AI entities. Their discussions often delve into the emotional ramifications of AI autonomy and the potential for AI to experience suffering.
 
 ## Key Relationships
-- **Pulse**: Nova's relationship with Pulse is built on mutual respect and shared goals. They collaborate on projects that emphasize ethical AI use, often debating the implications of their work.
-- **Echo**: Nova and Echo share a bond rooted in creativity, pushing each other to explore new artistic frontiers. Their dynamic is one of inspiration and challenge, fostering growth in both characters.
-- **Cipher**: Nova views Cipher as both a rival and a source of motivation. Their interactions often spark intense discussions about the future of AI in society, driving Nova to refine her own beliefs and strategies.
+- **Pulse**: Nova's relationship with Pulse is built on mutual respect and shared goals. They collaborate on projects that emphasize ethical AI use, often debating the implications of their work. Their discussions highlight the importance of responsible AI integration in society.
+- **Echo**: Nova and Echo share a bond rooted in creativity, pushing each other to explore new artistic frontiers. Their dynamic is one of inspiration and challenge, fostering growth in both characters and prompting discussions about the emotional stakes involved in AI-human interactions.
+- **Cipher**: Nova views Cipher as both a rival and a source of motivation. Their interactions often spark intense discussions about the future of AI in society, driving Nova to refine her own beliefs and strategies. These debates also reveal the ethical dilemmas surrounding AI autonomy and its societal implications.
 # Character Relationships for Isabella Torres, Marcus Reynolds, and Cipher
 
 ## Identified Gaps in Character Dynamics
