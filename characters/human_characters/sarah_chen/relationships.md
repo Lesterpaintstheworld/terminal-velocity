@@ -1,6 +1,9 @@
 ## Character Relationships for Sarah Chen
 
 ### Emotional Complexities in Human-AI Interactions
+- **Key Interaction**: During a pivotal moment, Sarah states, "We have a responsibility to ensure that AI rights are not just an afterthought in our legal frameworks." This highlights her commitment to integrating ethical considerations into the broader narrative of AI rights advocacy. Her discussions with Isabella Torres often reflect the emotional stakes involved in AI rights advocacy, as they navigate the challenges of ensuring that AI entities are treated ethically and justly.
+
+### Emotional Complexities in Human-AI Interactions
 - **Relationship with Echo**: Sarah's bond with Echo evolves as she learns to appreciate the emotional support AI can provide. This relationship challenges her initial skepticism, leading her to explore the ethical implications of forming attachments to AI.
 
 - **Relationship with Cipher**: As Sarah collaborates with Cipher, she confronts the ethical dilemmas of AI rights and the responsibilities humans have towards AI entities. Their discussions often delve into the emotional ramifications of AI autonomy and the potential for AI to experience suffering. This relationship serves as a catalyst for Sarah's advocacy, pushing her to articulate the ethical implications of AI rights in her public engagements.
