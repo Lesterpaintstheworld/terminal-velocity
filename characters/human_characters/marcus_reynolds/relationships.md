@@ -6,6 +6,8 @@
 - **Key Dynamics**: Isabella and Marcus share a mutual respect for each other's goals, but their differing views on the role of AI in society often lead to intense discussions. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." However, they also find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
 - **Impact on Cipher**: Isabella's advocacy for ethical AI usage challenges Cipher to consider the broader implications of his economic proposals.
 - **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities.
+- **Impact on Cipher**: Isabella's advocacy for ethical AI usage challenges Cipher to consider the broader implications of his economic proposals.
+- **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities.
 
 ### New Interaction Dynamics
 - **Scene 1**: In a conference room, Isabella emphasizes the need for ethical considerations in AI policies, while Cipher argues for the benefits of AI in the economy.
