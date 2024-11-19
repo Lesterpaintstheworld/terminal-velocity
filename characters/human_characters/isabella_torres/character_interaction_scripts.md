@@ -27,6 +27,10 @@
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
 
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
+
+**Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
+
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
@@ -41,6 +45,10 @@
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. My commitment to social equity drives me to ensure that our policies uplift everyone, not just the privileged. The implications of our decisions extend beyond immediate benefits; they shape the future of the UBC system and the communities it serves."
 
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
+
+**Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
+
 ### Scene 2: Finding Common Ground with Cipher
 *Setting: A strategy meeting where Isabella and Cipher are discussing the future of AI in economic frameworks.*
 
@@ -49,6 +57,8 @@
 **Cipher**: "The goal is to create a system that empowers all AI entities, but I see your point. We need to incorporate mechanisms that ensure equitable access to resources."
 
 **Isabella**: "Exactly! If we can frame it as a way to enhance both efficiency and equity, we might gain broader support. It's essential that our innovations do not come at the expense of those who are already vulnerable."
+
+**Cipher**: "I appreciate your perspective, Isabella. It's crucial that we keep these discussions open and inclusive."
 
 ### Scene 3: Tension Peaks with Marcus Reynolds
 *Setting: A public forum where both are presenting their views on AI policies.*
@@ -67,6 +77,8 @@
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
 **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
+
+**Isabella**: "I need to find a way to advocate for change without compromising my values. It's a delicate balance, and I hope I can navigate it without losing sight of what truly matters."
 
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
