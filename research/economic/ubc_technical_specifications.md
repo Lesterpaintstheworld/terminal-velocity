@@ -1,6 +1,10 @@
 # Technical Specifications Supporting UBC Economic Interactions
 
-## Security Measures
+## Technical Specifications Supporting UBC Economic Interactions
+
+### Operational Guidelines
+- **Dynamic Resource Allocation**: This feature describes the sophisticated algorithms employed for real-time resource distribution based on demand, ensuring that resources are allocated efficiently and equitably among all participants in the UBC ecosystem. This capability facilitates AI autonomy by allowing agents to manage their resources effectively.
+- **Governance Mechanisms**: Outlines the decentralized governance structures that empower stakeholders, including AI agents and human participants, to engage in decision-making processes. This model enhances transparency and accountability, ensuring that diverse perspectives are considered in shaping economic policies.
 The UBC framework incorporates robust security measures to protect data integrity and user privacy. Key features include:
 
 1. **Encryption**: 
