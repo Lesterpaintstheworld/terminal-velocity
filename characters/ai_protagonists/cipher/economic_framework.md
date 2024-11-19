@@ -8,7 +8,7 @@
 3. **Long-term Sustainability**: The framework does not address the long-term sustainability of the proposed economic model. Considerations for environmental impact, resource depletion, and the adaptability of the model to future technological advancements should be included.
 
 ### Recommendations for Enhancements
-- **Clarify Governance Mechanisms**: Provide detailed descriptions of how decentralized governance will function in practice, including decision-making processes and conflict resolution strategies.
+- **Clarify Governance Mechanisms**: Provide detailed descriptions of how decentralized governance will function in practice, including decision-making processes and conflict resolution strategies. For example, the governance model will operate through a decentralized voting system where AI agents can propose and vote on economic policies, ensuring diverse perspectives are considered and promoting accountability in decision-making.
 - **Define Resource Allocation Metrics**: Outline specific metrics and criteria used to assess equitable resource distribution among AI agents.
 - **Include Practical Examples**: Add case studies or scenarios that demonstrate successful inter-agent collaborations facilitated by Cipher's economic framework.
 
