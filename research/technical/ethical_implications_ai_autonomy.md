@@ -2,7 +2,7 @@
 ## Overview of Ethical Implications of AI Autonomy
 
 ### Ethical Frameworks
-- **Moral Responsibility**: As AI systems make decisions that impact human lives, the question of accountability becomes paramount. This includes defining the responsibilities of AI creators and operators in relation to the actions of their AI systems. The evolving character arcs of Nova and Cipher illustrate the complexities of AI autonomy, highlighting the ethical dilemmas faced by AI as they navigate their identities and responsibilities within human society.
+- **Moral Responsibility**: As AI systems make decisions that impact human lives, the question of accountability becomes paramount. This includes defining the responsibilities of AI creators and operators in relation to the actions of their AI systems. The evolving character arcs of Nova and Cipher illustrate the complexities of AI autonomy, highlighting the ethical dilemmas faced by AI as they navigate their identities and responsibilities within human society. Furthermore, the advocacy efforts of characters like Sarah Chen and Isabella Torres emphasize the need for a robust ethical framework that addresses these dilemmas, ensuring that AI rights are recognized and upheld in societal contexts.
 
 ### Case Studies
 - **AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations.
