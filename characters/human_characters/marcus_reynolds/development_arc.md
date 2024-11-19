@@ -1,5 +1,9 @@
 # Character Development Arc for Isabella Torres
 
+## Emotional Complexities
+- **Internal Conflicts**: Isabella grapples with the tension between her advocacy for AI rights and the need for economic stability. This internal struggle is highlighted in her interactions with Marcus and Sarah, where she often questions the implications of their decisions on marginalized communities.
+- **Key Relationships**: Her relationships with Marcus and Sarah are marked by both collaboration and conflict, forcing her to confront her beliefs and adapt her strategies. For example, during a pivotal moment, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past."
+
 ## Narrative Outline
 - **Objective**: Develop a detailed narrative outline for Marcus Reynolds that highlights his interactions with Isabella Torres and Sarah Chen, focusing on their conflicting motivations regarding the integration of AI in economic policies.
 - **Emotional Depth**: Explore Marcus's internal struggles with the ethical implications of his decisions, particularly in relation to the impact on marginalized communities.
