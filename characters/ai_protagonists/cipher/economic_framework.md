@@ -1,4 +1,5 @@
-## Expanded Economic Framework
+## Economic Framework
+### Principles of Decentralization
 
 ### Implications for Collaboration
 ### Principles of Decentralization
