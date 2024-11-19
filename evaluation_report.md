@@ -3,6 +3,9 @@
 ## Objective for Evaluation Agent
 
 ## Action Statement
+Analyze the `demande.md` file to identify and document potential enhancements in the economic framework proposed by the character Cipher, focusing specifically on areas that could improve the integration of AI rights within the proposed economic models.
+
+## Action Statement
 Analyze the `demande.md` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
 
 ## Source Files
