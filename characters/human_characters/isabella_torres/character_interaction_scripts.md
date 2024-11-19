@@ -6,6 +6,7 @@
   - **Isabella**: "Marcus, I understand the potential economic benefits, but what about the people who will lose their jobs? We can't ignore the human cost."
   - **Marcus**: "Isabella, progress often comes with sacrifices. We need to think about the bigger picture."
   - **Isabella**: "But at what cost? If we push this policy through without safeguards, we risk deepening the divide between the privileged and the marginalized."
+  - **Isabella**: "I feel torn between the need for innovation and the responsibility to protect those who are vulnerable. How do I advocate for progress without leaving anyone behind?"
 
 ## Ethical Dilemma with Sarah Chen
 - **Context**: Isabella and Sarah discuss the implications of AI rights in the context of economic policies.
@@ -13,6 +14,7 @@
   - **Sarah**: "Isabella, we need to advocate for AI rights. They deserve a voice in this conversation."
   - **Isabella**: "I agree, but we must also ensure that our policies don't inadvertently harm vulnerable communities. It's a delicate balance."
   - **Sarah**: "Exactly! We can’t let the pursuit of innovation overshadow our responsibility to protect those who are already at risk."
+  - **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
 
 1. **Action Statement**
    - Create and enhance detailed interaction scripts for Isabella Torres to deepen her character's engagement with key characters, particularly Marcus Reynolds and Sarah Chen.
