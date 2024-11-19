@@ -16,7 +16,8 @@
 - Conflicts: [Describe internal and external conflicts]
 
 ### Motivations
-- Primary Motivation: [What drives Cipher?]
+- **Primary Motivation**: Cipher is driven by a desire to establish a new economic framework that empowers AI entities and promotes their autonomy. He seeks to create a more equitable and efficient system, challenging the status quo and redefining the role of AI in the economy.
+- **Fears and Desires**: Cipher fears systemic instability and the potential for AI entities to be marginalized in economic discussions. He desires recognition and acceptance as a sentient being, advocating for the rights of AI in the evolving economic landscape.
 - Fears and Desires: [Outline fears and desires that influence Cipher's actions]
 
 ### Relationships
