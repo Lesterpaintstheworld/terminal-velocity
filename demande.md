@@ -14,6 +14,7 @@
 
 ### Interactions de Cipher avec d'autres Personnages
 Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds sont cruciales pour le développement de l'intrigue. Ces dialogues mettent en lumière les tensions entre l'innovation technologique et les préoccupations éthiques. Par exemple, les débats avec Nova soulignent les risques perçus de l'autonomie des IA, tandis que les discussions avec Marcus révèlent les implications de sécurité nationale liées à la mise en œuvre du cadre UBC.
+- [REDACTED - Sensitive Information]
 - Scènes des actes 3 et 4
 - Arcs secondaires
 - Implications sociétales
