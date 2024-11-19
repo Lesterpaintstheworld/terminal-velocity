@@ -2,8 +2,8 @@
 
 ## Objective for Specification Agent
 
-## Emotional and Ethical Dilemmas
-Isabella Torres faces significant emotional and ethical dilemmas in her interactions with Marcus Reynolds and Sarah Chen. These dilemmas often revolve around her commitment to social justice and the potential consequences of AI policies on marginalized communities. She struggles with the fear that prioritizing economic efficiency could lead to neglecting the needs of vulnerable populations, stating, "But at what cost? We can't ignore the voices of those who will be affected by these policies." This internal conflict is compounded by her desire to advocate for AI rights, as she grapples with the implications of her economic policies on both human and AI communities.
+## Motivations and Internal Conflicts
+Isabella Torres is motivated by a deep desire to advocate for underrepresented communities and ensure their voices are heard in the AI discourse. She seeks to balance technological innovation with social justice. However, she grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
 
 ### Scene 1: Ideological Conflict
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies. Isabella expresses her concerns about the ethical implications of AI advancements, questioning whether her push for innovation might inadvertently harm marginalized communities.*
