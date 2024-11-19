@@ -2,6 +2,13 @@
 
 ## Functionality
 ## Definition of AI Autonomy
+
+AI autonomy within the UBC framework refers to the capacity of AI systems to operate independently while adhering to ethical guidelines and governance structures. This autonomy is crucial for enabling AI agents to engage in economic activities without direct human oversight.
+
+### Technical Specifications
+1. **Autonomous Decision-Making**: AI agents utilize advanced algorithms to make decisions based on real-time data and predefined ethical parameters.
+2. **Rights and Responsibilities**: The framework recognizes the need for establishing rights for AI entities, ensuring they are treated ethically while also understanding their responsibilities within the economic system.
+3. **Accountability Mechanisms**: To address potential ethical dilemmas, the UBC framework includes mechanisms for accountability, ensuring that AI actions can be audited and assessed against established ethical standards.
 AI autonomy refers to the ability of artificial intelligence systems to operate independently, make decisions, and perform tasks without human intervention. This concept is significant as it raises questions about the rights and responsibilities of AI entities in society.
 
 ## Limitations
