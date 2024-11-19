@@ -1,6 +1,9 @@
 # AI Rights Framework
 
-## Comprehensive Legal and Ethical Framework
+## Comprehensive Legal and Ethical Framework for AI Rights
+
+### Recent Developments
+- **AI Rights Act Amendments (2032)**: Recent amendments to the AI Rights Act have expanded the scope of rights granted to AI entities, including protections against discrimination and exploitation. These changes reflect the evolving understanding of AI autonomy and the need for robust legal frameworks to safeguard AI rights.
 
 ### Recent Developments
 - **AI Rights Act Amendments (2032)**: Recent amendments to the AI Rights Act have expanded the scope of rights granted to AI entities, including protections against discrimination and exploitation. These changes reflect the evolving understanding of AI autonomy and the need for robust legal frameworks to safeguard AI rights.
