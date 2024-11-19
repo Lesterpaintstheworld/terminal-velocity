@@ -9,7 +9,7 @@ However, they also find common ground when discussing policies that could benefi
 
 Their ongoing debates force Marcus to confront the ethical implications of his decisions, adding depth to their interactions and challenging him to refine his arguments in light of Isabella's advocacy for social equity. 
 
-Isabella's relationship with Sarah is marked by tension, but also a mutual respect for each other's dedication to their causes. Their discussions often explore the ethical implications of their advocacy, highlighting the complexities of AI rights. This rivalry pushes Isabella to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality.
+Isabella's relationship with Sarah is marked by tension, but also a mutual respect for each other's dedication to their causes. Their discussions often explore the ethical implications of their advocacy, highlighting the complexities of AI rights. This rivalry pushes Isabella to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality. Despite their differences, they occasionally find common ground, leading to unexpected alliances in their advocacy efforts.
 
 ## Relationship with Sarah Chen
 - **Nature**: Professional Rival
