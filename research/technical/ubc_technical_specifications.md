@@ -3,8 +3,7 @@
 The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance.
 
 ### Key Specifications
-
-The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance.
+The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions, detailing its operational capabilities, governance protocols, and ethical implications to ensure comprehensive guidance for implementation.
 
 ### Key Specifications
 
