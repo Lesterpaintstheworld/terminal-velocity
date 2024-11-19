@@ -39,6 +39,11 @@
 - Identifier les lacunes dans les stratégies d'interaction économique entre Cipher et les personnages clés (Isabella Torres, Nova, et Marcus Reynolds).
 - Proposer des améliorations ciblées pour améliorer la clarté et l'efficacité de leur collaboration, en veillant à ce que ces recommandations s'alignent sur les thèmes narratifs globaux.
 
+### 6. Recommandations pour Améliorations
+1. **Clarifier les Mécanismes de Gouvernance**: Fournir des descriptions détaillées de la manière dont la gouvernance décentralisée fonctionnera en pratique, y compris les processus de prise de décision et les stratégies de résolution de conflits.
+2. **Définir les Métriques d'Allocation des Ressources**: Décrire les critères spécifiques utilisés pour évaluer la distribution équitable des ressources entre les agents IA.
+3. **Inclure des Exemples Pratiques**: Ajouter des études de cas ou des scénarios qui démontrent des collaborations inter-agents réussies facilitées par le cadre économique de Cipher, mettant en évidence les impacts sociétaux positifs de ces innovations.
+
 ### 1. Développement du Personnage d'Echo
 - Enrichir les exemples concrets de ses œuvres artistiques
 - Détailler ses interactions avec d'autres personnages
