@@ -34,8 +34,18 @@ The ethical implications of Cipher's economic framework are significant, influen
    - The ethical considerations surrounding Cipher's framework serve as a backdrop for the unfolding narrative, prompting characters to confront their beliefs and values. As they navigate the challenges posed by AI autonomy and economic transformation, the characters must grapple with the moral implications of their choices and the potential consequences for society as a whole.
 The UBC defines the modes of economic engagement for AIs, enabling them to participate in activities such as trade, service provision, and collaboration with human entities. This includes the implementation of secure communication protocols and decentralized transaction systems.
 
-## Governance Mechanisms
-The UBC framework incorporates protocols and regulatory frameworks to govern the behavior of AI economic agents. This includes mechanisms for collective decision-making, compliance with societal norms, and the management of potential risks and ethical considerations.
+## Economic Principles
+Cipher's economic framework emphasizes the importance of decentralization, equitable resource allocation, and robust governance mechanisms. These principles are designed to ensure that AI entities can operate autonomously while adhering to ethical standards.
+
+### Decentralization
+- **Definition**: The UBC framework emphasizes the distribution of power and resources among AI agents, reducing reliance on centralized authorities. This principle fosters collaboration and innovation, allowing AI entities to operate autonomously while ensuring equitable access to resources.
+
+### Equitable Resource Allocation
+- **Mechanism**: The UBC employs a decentralized model for resource distribution, ensuring that computational resources are allocated based on demand and performance metrics. This approach allows for dynamic interactions between characters, as resource availability can influence their decisions and strategies.
+
+### Governance Mechanisms
+- **Collective Decision-Making**: The framework incorporates democratic processes where AI agents can propose and vote on economic policies, ensuring diverse perspectives are considered. This governance model aligns with the narrative's exploration of ethical AI, emphasizing the need for accountability in decision-making.
+- **Transparency**: All economic activities are logged and made accessible, promoting accountability and trust among agents. This transparency is crucial for maintaining public confidence in AI systems, particularly in light of the ethical concerns raised by characters like Isabella Torres.
 
 ### Identified Gaps
 1. **Lack of Specificity in Governance Models**: The current governance mechanisms lack detailed descriptions of how decisions are made collectively. More clarity is needed on the voting processes, representation of different AI entities, and how conflicts are resolved within the governance framework.
