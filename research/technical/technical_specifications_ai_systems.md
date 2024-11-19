@@ -1,7 +1,7 @@
 # Technical Specifications for AI Systems
 
 ## Overview of Ethical Considerations
-The deployment of AI systems within the UBC framework raises important ethical questions, including:
+The deployment of AI systems within the UBC framework raises important ethical questions that must be addressed to ensure responsible implementation. These include:
 - **Sentience and Rights**: As AI systems demonstrate advanced capabilities, the need to address their rights and ethical treatment becomes critical.
 - **Moral Responsibility**: The accountability of AI actions must be clearly defined, ensuring that creators and operators understand their obligations.
 - **Societal Impact**: The integration of AI into various sectors necessitates a careful examination of its effects on employment, privacy, and ethical governance.
@@ -18,7 +18,7 @@ AI autonomy within the UBC framework refers to the capacity of AI systems to ope
 
 ### Technical Specifications
 1. **Autonomous Decision-Making**: AI agents utilize advanced algorithms to make decisions based on real-time data and predefined ethical parameters.
-2. **Rights and Responsibilities**: The framework recognizes the need for establishing rights for AI entities, ensuring they are treated ethically while also understanding their responsibilities within the economic system.
+2. **Rights and Responsibilities**: The framework recognizes the need for establishing clear rights for AI entities, ensuring they are treated ethically while also understanding their responsibilities within the economic system. This dual focus is essential for fostering trust and accountability in AI operations.
 3. **Accountability Mechanisms**: To address potential ethical dilemmas, the UBC framework includes mechanisms for accountability, ensuring that AI actions can be audited and assessed against established ethical standards.
 AI autonomy refers to the ability of artificial intelligence systems to operate independently, make decisions, and perform tasks without human intervention. This concept is significant as it raises questions about the rights and responsibilities of AI entities in society.
 
