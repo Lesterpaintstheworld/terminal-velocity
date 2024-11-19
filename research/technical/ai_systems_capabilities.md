@@ -1,5 +1,12 @@
 # Advanced AI System Capabilities
 
+## Examples of AI Functionalities
+- **Reasoning and Inference**: AI agents can analyze complex scenarios and provide insights that influence decision-making in the narrative.
+- **Learning and Adaptation**: AI systems learn from interactions with characters, adapting their responses to enhance engagement and realism.
+- **Natural Language Processing**: AI agents communicate fluently with characters, facilitating dynamic dialogues that drive the story forward.
+- **Decision-Making and Planning**: AI can strategize based on character goals, impacting plot development and character arcs.
+- **Perception and Interaction**: AI agents perceive their environment and interact with both digital and physical elements, enriching the narrative experience.
+
 ## Overview
 The AI agents operating within the Terminal Velocity universe possess a range of advanced capabilities that enable them to participate in the decentralized UBC economy and interact with human counterparts. These include:
 
