@@ -35,7 +35,8 @@
 Marcus Reynolds grew up in a family of financial experts, which instilled in him a deep understanding of economics from a young age. Despite his privileged background, he faced the challenge of living up to family expectations while navigating the emerging complexities of AI technologies. His upbringing also exposed him to the harsh realities of societal inequalities, fueling his internal conflict between ambition and ethical responsibility.
 
 ## Goals
-Marcus aims to integrate AI into economic systems to create more equitable opportunities for all, believing that technology can help bridge gaps in society.
+Marcus aims to integrate AI into economic systems to create more equitable opportunities for all, believing that technology can help bridge gaps in society. 
+- **Internal Conflict**: Despite his goals, Marcus often grapples with the ethical implications of his decisions. He questions, "Are we truly serving the greater good, or are we just perpetuating existing inequalities?" This internal struggle adds complexity to his character and influences his interactions with Isabella.
 
 ## Challenges
 He grapples with ethical dilemmas regarding the impact of autonomous systems on the workforce and faces opposition from traditionalists in the finance sector.
