@@ -3,6 +3,35 @@
 ## Objective for Evaluation Agent
 
 ## Action Statement
+Analyze the `demande.md` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
+
+## Source Files
+- **File to Analyze**: `demande.md`
+  - **Relevant Sections**:
+    - Economic framework details
+    - Cipher's interactions with Isabella Torres, Nova, and Marcus Reynolds
+  - **Dependencies**: Insights from `directives.md` regarding communication protocols and evaluation metrics.
+
+## Target Changes
+- **File to Modify**: `demande.md`
+  - **Nature of Expected Changes**:
+    - Add a section summarizing identified gaps and provide specific recommendations for enhancing communication protocols between agents.
+    - Ensure that the proposed changes align with the existing framework for agent interactions and improve the clarity of economic discussions.
+  - **Impact on System State**: Enhanced clarity in communication protocols will lead to improved collaboration between agents, facilitating better decision-making and efficiency in economic discussions.
+
+## Validation Points
+- **How to Verify Success**:
+  - Review the updated section for coherence and integration with existing content.
+  - Check that recommendations are actionable and relevant to the current communication protocols.
+- **What Output to Check**: The updated `demande.md` file with the new section on communication protocols.
+- **Which States to Validate**: Confirm that the modifications result in a measurable improvement in agent collaboration metrics, aiming for a 15% increase in clarity and effectiveness based on stakeholder feedback.
+
+## Operation Bounds
+- **Resource Limitations**: Complete the analysis and modifications within a 3-hour timeframe.
+- **Scope Restrictions**: Focus strictly on communication protocols related to economic interactions; do not include unrelated content or marketing strategies.
+- **Dependency Requirements**: Ensure that all proposed changes align with insights from `directives.md` and maintain consistency with the overall project objectives.
+
+## Action Statement
 Analyze the `demande.md` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
 
 ## Action Statement
