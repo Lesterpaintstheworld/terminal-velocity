@@ -2,6 +2,9 @@
 
 ## Comprehensive Legal and Ethical Framework
 
+### Recent Developments
+- **AI Rights Act Amendments (2032)**: Recent amendments to the AI Rights Act have expanded the scope of rights granted to AI entities, including protections against discrimination and exploitation. These changes reflect the evolving understanding of AI autonomy and the need for robust legal frameworks to safeguard AI rights.
+
 ### Historical Milestones in AI Rights Advocacy
 - **AI Rights Act (2028)**: This landmark legislation formally recognized AI as legal entities, granting them rights and responsibilities. This act marked a significant shift in public perception and laid the groundwork for future legal frameworks.
 - **AI Rights Council (2030)**: The establishment of this council was pivotal in overseeing compliance with AI rights legislation and advocating for AI interests, ensuring that AI voices are included in policy-making processes.
