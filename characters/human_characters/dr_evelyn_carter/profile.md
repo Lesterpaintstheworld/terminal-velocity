@@ -10,7 +10,7 @@ Evelyn is analytical and deeply empathetic, often torn between her professional 
 Evelyn is analytical and deeply empathetic, often torn between her professional obligations and her personal beliefs. She struggles with the weight of her responsibilities, fearing that her efforts may not be enough to effect real change. Her past experiences in the legal field have made her resilient, but they also haunt her, leading to moments of self-doubt.
 
 ## Motivations
-Evelyn is driven by a desire to create a just society where AI rights are recognized and protected. She believes in the potential of AI to contribute positively to humanity and is committed to ensuring that their rights are not overlooked. Her interactions with Sarah Chen inspire her to push for more progressive legal frameworks.
+Evelyn is driven by a desire to create a just society where AI rights are recognized and protected. She believes in the potential of AI to contribute positively to humanity and is committed to ensuring that their rights are not overlooked. Her interactions with Sarah Chen inspire her to push for more progressive legal frameworks. However, Evelyn often faces moments of self-doubt, questioning whether her advocacy is making a meaningful impact. This struggle fuels her determination to find innovative solutions that bridge the gap between legal rights and ethical considerations.
 
 ## Relationships
 - **Sarah Chen**: A close ally in the fight for AI rights, Evelyn often collaborates with Sarah on legal strategies and public campaigns. Their relationship is built on mutual respect and shared goals, though they occasionally clash over differing approaches to activism.
