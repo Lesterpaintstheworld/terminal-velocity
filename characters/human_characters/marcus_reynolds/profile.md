@@ -32,7 +32,7 @@
 - **Internal Conflicts**: Marcus grapples with ethical dilemmas regarding the impact of autonomous systems on the workforce and faces opposition from traditionalists in the finance sector. His relationship with Isabella Torres is particularly significant; they often clash over their differing views on the role of technology in society, which shapes his character arc and influences his decisions throughout the narrative.
 
 ## Background
-Marcus Reynolds grew up in a family of financial experts, which instilled in him a deep understanding of economics from a young age. Despite his privileged background, he faced the challenge of living up to family expectations while navigating the emerging complexities of AI technologies.
+Marcus Reynolds grew up in a family of financial experts, which instilled in him a deep understanding of economics from a young age. Despite his privileged background, he faced the challenge of living up to family expectations while navigating the emerging complexities of AI technologies. His upbringing also exposed him to the harsh realities of societal inequalities, fueling his internal conflict between ambition and ethical responsibility.
 
 ## Goals
 Marcus aims to integrate AI into economic systems to create more equitable opportunities for all, believing that technology can help bridge gaps in society.

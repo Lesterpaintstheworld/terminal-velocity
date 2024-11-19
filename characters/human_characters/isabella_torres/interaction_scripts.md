@@ -2294,7 +2294,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
-**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 
