@@ -1,6 +1,9 @@
 # TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
-## BESOINS PRIORITAIRES IDENTIFIÉS
+## Gaps in Integration Strategies
+1. **Lack of Clarity on Decentralization**: The current framework does not adequately explain how decentralization impacts collaboration between AI agents and its implications for human characters.
+2. **Insufficient Ethical Considerations**: There is a need for a more thorough discussion on the ethical implications of resource allocation strategies, particularly regarding their impact on marginalized communities.
+3. **Underdeveloped Governance Mechanisms**: The framework does not adequately address how governance structures will facilitate collaboration between AI and human characters.
 
 ### Gaps in Character Arcs
 1. **Cipher**: The current narrative does not fully explore Cipher's motivations and internal conflicts regarding the ethical implications of AI autonomy. Enhancing these aspects can create a more engaging character arc.
@@ -1740,31 +1743,31 @@ Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds so
 - Amélioration de la qualité du contenu produit par 20%.
 # Vision d'Ensemble du Projet "Terminal Velocity"
 
-## État Actuel du Développement
+## Current State of Development
 
-### 1. Fondations Narratives Établies
+### 1. Established Narrative Foundations
 - **Cadre Économique UBC**: Système fondamental bien développé, documenté et intégré à l'histoire
 - **Univers Technologique**: Tech-tree détaillé couvrant 4 phases d'évolution (Prolifération, Organisation, Transcendance, Harmonie)
 - **Structure Narrative**: Architecture en 4 actes avec timelines et matrices de scènes
 
-### 2. Personnages Principaux
-#### Bien Développés
+### 2. Main Characters
+#### Well Developed
 - **Cipher**: Protagoniste AI avec arc narratif complet, motivations économiques et relations établies
 - **Nova & Pulse**: Caractérisation approfondie, philosophies et conflits définis
 - **Isabella Torres & Marcus Reynolds**: Dynamique humain-AI explorée, tensions narratives établies
 
-#### Nécessitant Développement
+#### Needing Development
 - Personnages secondaires
 - Approfondissement des relations interpersonnelles dans les actes 3 et 4
 
-### 3. Éléments Techniques
-#### Solidement Établis
+### 3. Technical Elements
+#### Solidly Established
 - Framework UBC (Universal Basic Compute)
 - Systèmes d'IA et protocoles
 - Implications des armes autonomes
 - Modèles économiques décentralisés
 
-#### À Développer
+#### To Develop
 - Détails des environnements virtuels
 - Spécifications des interfaces humain-AI
 - Mécanismes de gouvernance collective
