@@ -43,9 +43,9 @@
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
 
-**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
+**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I can't stand by and watch as technology becomes a tool for oppression."
 
-**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
+**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. But I also see the risks; we must find a way to ensure that progress doesn't come at the expense of those who are already struggling."
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. We have a responsibility to ensure that our advancements uplift everyone, not just the privileged."
 
@@ -89,7 +89,7 @@
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. The benefits could outweigh the risks if managed correctly."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we don't, we risk repeating the mistakes of the past, and I refuse to let that happen."
 
 ### Scene 2: Finding Common Ground with Cipher
 *Setting: A strategy meeting where Isabella and Cipher are discussing the future of AI in economic frameworks.*
