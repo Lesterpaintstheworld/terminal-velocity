@@ -217,7 +217,7 @@
 
 **Isabella**: "Maybe we can find a middle ground. What if we propose a policy that includes safeguards for marginalized communities? We can't afford to let technology deepen existing inequalities. It’s crucial that we advocate for those who have no voice."
 
-**Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction. But we must be careful not to dilute our mission in the process. We need to show that security and equity can coexist."
+**Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction. But we must be careful not to dilute our mission in the process. We need to show that security and equity can coexist. Perhaps we can also highlight the economic benefits of including these safeguards."
 
 ### Scene 3: Climactic Confrontation
 *Setting: A public forum where both are presenting their views.*
@@ -1381,7 +1381,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but we need to prioritize national security. AI can help us achieve that, but we must also consider the economic benefits it brings."
 
-**Isabella**: "But at what cost? We need to ensure that technology serves everyone, not just the privileged. If we ignore the marginalized, we are failing our society."
+**Isabella**: "But at what cost? We need to ensure that technology serves everyone, not just the privileged. If we ignore the marginalized, we are failing our society. We must advocate for policies that uplift those who are often overlooked."
 
 ### Scene 2: Collaborative Moment
 *Setting: A quiet café after a long day of meetings.*
