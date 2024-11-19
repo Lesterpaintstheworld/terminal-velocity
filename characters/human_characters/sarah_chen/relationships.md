@@ -6,7 +6,9 @@
 - **Relationship with Cipher**: As Sarah collaborates with Cipher, she confronts the ethical dilemmas of AI rights and the responsibilities humans have towards AI entities. Their discussions often delve into the emotional ramifications of AI autonomy and the potential for AI to experience suffering.
 
 ## Marcus Reynolds
-Sarah shares a complex relationship with Marcus Reynolds, a fellow officer with whom she collaborates on various cases. Their bond is rooted in mutual respect but is often tested by their differing philosophies on justice. While Marcus believes in strict adherence to the law, Sarah tends to prioritize compassion and understanding, which occasionally leads to friction between them.
+Sarah shares a complex relationship with Marcus Reynolds, a fellow officer with whom she collaborates on various cases. Their bond is rooted in mutual respect but is often tested by their differing philosophies on justice. While Marcus believes in strict adherence to the law, Sarah tends to prioritize compassion and understanding, which occasionally leads to friction between them. 
+
+Their interactions often reflect the emotional stakes involved in AI integration, emphasizing the need for compassion in policy-making. This dynamic challenges both characters to confront their beliefs and adapt their approaches to advocacy, ultimately shaping their development throughout the narrative.
 
 ## Pulse
 Sarah's relationship with Pulse is fraught with tension. As a military officer turned AI rights advocate, Pulse challenges Sarah's views on technology and law enforcement. Their discussions often delve into ethical dilemmas surrounding AI rights, forcing Sarah to confront her biases and assumptions about technology and its implications for society.
