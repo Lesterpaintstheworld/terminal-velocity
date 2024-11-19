@@ -1,9 +1,12 @@
 # TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
-## Gaps in Integration Strategies
+## Gaps in Economic Interaction Strategies
 1. **Lack of Clarity on Decentralization**: The current framework does not adequately explain how decentralization impacts collaboration between AI agents and its implications for human characters.
 2. **Insufficient Ethical Considerations**: There is a need for a more thorough discussion on the ethical implications of resource allocation strategies, particularly regarding their impact on marginalized communities.
 3. **Underdeveloped Governance Mechanisms**: The framework does not adequately address how governance structures will facilitate collaboration between AI and human characters.
+4. **Lack of Clarity on Economic Interaction Strategies**: The current framework does not adequately explain how economic interactions between Cipher and key characters impact collaboration and decision-making.
+5. **Insufficient Documentation of Emotional Stakes**: There is a need for more thorough documentation of the emotional stakes involved in the interactions between Cipher, Isabella, Nova, and Marcus.
+6. **Underdeveloped Collaborative Moments**: The framework does not adequately address how collaborative moments between characters can enhance the narrative and character development.
 
 ### Gaps in Character Arcs
 1. **Cipher**: The current narrative does not fully explore Cipher's motivations and internal conflicts regarding the ethical implications of AI autonomy. Enhancing these aspects can create a more engaging character arc.
