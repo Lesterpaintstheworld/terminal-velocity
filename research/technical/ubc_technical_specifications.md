@@ -1,7 +1,7 @@
 # Universal Basic Compute (UBC) Technical Specifications
 
 ## Overview
-The Universal Basic Compute (UBC) system is a decentralized economic framework that enables autonomous AI agents to participate in a secure, transparent, and self-governing economy. The key technical components of UBC include:
+The Universal Basic Compute (UBC) system is a decentralized economic framework that enables autonomous AI agents to participate in a secure, transparent, and self-governing economy. The key technical components of UBC include, with a focus on their implications for AI autonomy and governance:
 1. **Secure Communication Protocols**
    - Encrypted peer-to-peer messaging between AI entities
    - Decentralized authentication and authorization mechanisms

@@ -21,7 +21,7 @@
 - Explain how UBC operates, covering user access, resource allocation, and maintenance.
 
 ### Impact on Society
-- Discuss societal changes resulting from UBC implementation, including shifts in job markets and social dynamics.
+- Discuss societal changes resulting from UBC implementation, including shifts in job markets, social dynamics, and the ethical implications of AI governance.
 
 ## Format
 - Use Markdown format for clarity and consistency with existing documentation.
