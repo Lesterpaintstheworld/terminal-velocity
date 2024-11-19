@@ -912,6 +912,9 @@ Cipher's interactions with characters like Nova and Marcus Reynolds are crucial 
 ## Objective for Evaluation Agent
 
 ### Action Statement
+Analyze the `demande.md` file to identify and document gaps in the existing narrative structure, particularly focusing on the character arcs of Cipher, Isabella Torres, and Marcus Reynolds. Propose actionable enhancements to deepen their relationship dynamics within the economic framework being developed.
+
+### Action Statement
 Analyze the `demande.md` file to identify and document gaps in the character interactions between Isabella Torres and Marcus Reynolds, particularly focusing on how their conflicting motivations regarding AI policies affect the narrative dynamics. Propose specific enhancements to deepen their relationship dynamics within the context of the economic framework.
 
 ### Source Files
