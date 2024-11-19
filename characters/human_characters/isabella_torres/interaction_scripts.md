@@ -1996,7 +1996,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus and Sarah.*
@@ -2183,7 +2183,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
 ## Interaction Script: Isabella Torres and Sarah Chen
 
 ### Scene 1: Ethical Dilemma
@@ -2324,7 +2324,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
 
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*
