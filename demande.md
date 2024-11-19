@@ -1,75 +1,107 @@
-======================
-# DOCUMENT DE MISSION : READONLY
-======================
+# TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT (MISE À JOUR)
 
-# Terminal Velocity - Organisation du Projet
+## 1. PRIORITÉS IMMÉDIATES
 
-## 1. Structure Narrative
+### Développement Actes 3 & 4
+- Compléter les scènes de crise majeure dans l'Acte 3
+- Détailler la résolution des conflits dans l'Acte 4
+- Développer les transitions entre les scènes clés
+- Renforcer l'impact émotionnel des moments décisifs
 
-### Roman
-- Genre : Science-fiction
-- Format : ~300 pages
-- Timeline : 2025-2032
-- Focus : Émergence d'une économie dirigée par l'IA
+### Enrichissement des Personnages
+#### Echo
+- Développer ses œuvres artistiques
+- Détailler ses interactions avec d'autres personnages
+- Approfondir son rôle dans le mouvement des droits des IA
+- Explorer son processus créatif et technique
 
-### Architecture en 4 Actes
-1. **Prolifération** (2025-2026)
-   - L'Éveil - Introduction du système UBC
-   - Résistance - Premières tensions
-   - Convergence - Formation des alliances
-
-2. **Organisation** (2027-2028)  
-   - Fondations - Structures de gouvernance IA
-   - Catalyse - Accélération des changements
-   - Rupture - Première crise majeure
-
-3. **Transcendance** (2029-2030)
-   - Mutation - Transformation économique
-   - Confrontation - Climax des conflits
-   - Révélation - Découvertes cruciales
-
-4. **Harmonie** (2031-2032)
-   - Synthèse - Résolution des conflits
-   - Équilibre - Nouveau paradigme
-   - Transcendance - Impact à long terme
-
-## 2. Éléments à Développer en Priorité
-
-### Documentation Narrative
-- Compléter les profils des personnages secondaires
-- Détailler les scènes des actes 3 & 4
-- Enrichir les arcs narratifs secondaires
-- Renforcer les résolutions de conflits
+#### Isabella Torres & Marcus Reynolds
+- Enrichir leurs débats sur l'éthique
+- Développer leurs moments de collaboration
+- Approfondir leurs conflits internes
+- Renforcer leurs arcs de transformation
 
 ### Documentation Technique
-- Affiner les spécifications du UBC
-- Développer les protocoles de gouvernance
-- Documenter les interfaces humain-IA
-- Détailler l'évolution technologique
+- Détailler les protocoles de gouvernance UBC
+- Clarifier les mécanismes d'allocation des ressources
+- Documenter les interfaces humain-IA avancées
+- Spécifier l'évolution des systèmes autonomes
 
-### World Building
-- Enrichir les descriptions des environnements
-- Développer les implications sociétales
-- Approfondir l'impact culturel
-- Détailler les systèmes économiques
+## 2. DÉVELOPPEMENT SOCIOLOGIQUE
 
-## 3. Livrables Attendus
+### Recherche à Intégrer
+- Études de cas sur la coexistence humain-IA
+- Analyses d'impact culturel
+- Documentation des changements sociétaux
+- Exemples d'échanges culturels réussis
 
-### Documentation de Base
-- Synopsis détaillé
-- Bible des personnages
-- Timeline complète
-- Outline de chaque chapitre
-- Matrice des scènes
+### Implications à Développer
+- Impact sur les structures sociales
+- Évolution des relations de pouvoir
+- Transformation des normes culturelles
+- Adaptation des institutions
 
-### Documentation Technique
-- Spécifications UBC
-- Protocoles de gouvernance
-- Modèles économiques
-- Systèmes de sécurité
+## 3. WORLD BUILDING
 
-### Documentation de Recherche
-- Analyses d'impact
-- Études de cas
-- Notes de développement
-- Références bibliographiques
+### Environnements à Détailler
+- Descriptions des espaces physiques
+- Développement des environnements virtuels
+- Impact environnemental des technologies
+- Architecture des nouvelles structures sociales
+
+### Aspects Culturels
+- Nouvelles formes d'art et d'expression
+- Évolution des traditions
+- Fusion des cultures humaine et IA
+- Développement des rituels hybrides
+
+## 4. VALIDATION ET COHÉRENCE
+
+### Points de Vérification
+- Cohérence technologique
+- Continuité narrative
+- Développement des personnages
+- Crédibilité des résolutions
+
+### Métriques de Suivi
+- Progression des arcs narratifs
+- Intégration des éléments de recherche
+- Qualité des descriptions
+- Profondeur émotionnelle
+
+## 5. PLANNING DE DÉVELOPPEMENT
+
+### Court Terme (1-2 mois)
+- Compléter les scènes manquantes Acte 3
+- Développer le profil d'Echo
+- Intégrer la recherche sociologique
+
+### Moyen Terme (3-4 mois)
+- Finaliser l'Acte 4
+- Enrichir le world building
+- Consolider la documentation technique
+
+### Long Terme (5-6 mois)
+- Harmonisation globale
+- Validation finale
+- Préparation à la publication
+
+## 6. STANDARDS DE QUALITÉ
+
+### Critères Narratifs
+- Profondeur émotionnelle
+- Cohérence des arcs
+- Impact des résolutions
+- Crédibilité des interactions
+
+### Critères Techniques
+- Précision scientifique
+- Logique des systèmes
+- Clarté des explications
+- Cohérence technologique
+
+### Critères Sociologiques
+- Réalisme des interactions
+- Profondeur culturelle
+- Crédibilité des changements
+- Impact social
