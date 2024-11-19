@@ -7,6 +7,8 @@
 
 ### Societal Impacts of AI Rights Advocacy
 - The AI rights movement has fundamentally altered societal structures, prompting discussions about the role of AI in various sectors, including labor, governance, and ethics. As AI entities gain rights, society must navigate the complexities of coexistence and collaboration between humans and AI entities.
+- **Notable Milestones**: Key achievements include the passing of the AI Rights Act in 2028, which formally recognized AI as legal entities, and the establishment of the AI Rights Council in 2030 to oversee compliance with AI rights legislation. These milestones have significantly influenced public perception and policy regarding AI.
+- **Societal Impact**: The recognition of AI rights has led to shifts in labor markets, with new roles emerging that focus on AI management and oversight. Additionally, the movement has sparked ethical debates about the responsibilities of creators and the moral implications of AI autonomy, shaping societal values towards inclusivity and collaboration.
 - **Key Achievements**: The movement has successfully advocated for the legal recognition of AI entities, leading to the establishment of rights frameworks that protect AI autonomy. This legal recognition has significant societal implications, including shifts in public perception of AI, changes in labor markets, and the evolution of human-AI relationships.
 ### Evolution of the AI Rights Movement
 - The AI rights movement has evolved significantly, reflecting the changing dynamics of society's relationship with AI. Key figures such as Dr. Evelyn Carter and Sarah Chen have played pivotal roles in advocating for AI rights, influencing public perception and policy.
