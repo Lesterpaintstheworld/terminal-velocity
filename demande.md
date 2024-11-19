@@ -12,13 +12,19 @@
 - Structure technologique
 - Actes 1 et 2
 
-### En Développement (30-70%)
+### Interactions de Cipher avec d'autres Personnages
+Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds sont cruciales pour le développement de l'intrigue. Ces dialogues mettent en lumière les tensions entre l'innovation technologique et les préoccupations éthiques. Par exemple, les débats avec Nova soulignent les risques perçus de l'autonomie des IA, tandis que les discussions avec Marcus révèlent les implications de sécurité nationale liées à la mise en œuvre du cadre UBC.
 - Scènes des actes 3 et 4
 - Arcs secondaires
 - Implications sociétales
 - Relations entre personnages
 
-### À Développer (<30%)
+### Implications Sociétales de la Proposition Économique de Cipher
+1. **Impact sur les Relations Humain-IA**: La décentralisation des ressources permet aux entités IA d'opérer avec plus d'autonomie, ce qui entraîne un changement dans la perception et l'interaction des humains avec les IA. Ce changement favorise un environnement plus collaboratif, mais soulève également des préoccupations concernant la responsabilité et le contrôle.
+2. **Considérations d'Équité Sociale**: L'accent mis par Cipher sur l'allocation équitable des ressources vise à aborder les disparités d'accès et de contrôle, mais nécessite une surveillance attentive pour éviter l'émergence de nouvelles inégalités.
+3. **Gouvernance et Responsabilité**: Les mécanismes de gouvernance proposés encouragent la participation collective des agents IA dans les processus décisionnels, mais nécessitent des protocoles clairs pour garantir que les intérêts de toutes les parties soient représentés.
+4. **Défis aux Structures de Pouvoir Traditionnelles**: À mesure que les entités IA acquièrent plus de contrôle sur les ressources économiques, les dynamiques de pouvoir traditionnelles peuvent être perturbées, entraînant des résistances de la part des institutions établies.
+5. **Tensions Narratives**: Les interactions entre des personnages comme Isabella Torres et Marcus Reynolds mettent en lumière les complexités de la navigation dans ces changements sociétaux. Leurs points de vue divergents sur le rôle de l'IA dans l'économie servent de microcosme aux débats sociétaux plus larges entourant l'autonomie de l'IA et la gouvernance éthique.
 - Descriptions environnementales
 - Résolutions finales
 - Documentation technique
