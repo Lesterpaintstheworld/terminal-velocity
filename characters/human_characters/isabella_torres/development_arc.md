@@ -7,8 +7,8 @@
 2. **Insufficient Emotional Depth**: Current interactions do not fully explore the emotional stakes involved in Isabella's relationships with Marcus and Sarah. Enhancing these moments can create a more engaging narrative, showcasing how their interactions influence her growth.
 
 ## Key Events
-- **Confrontation with Marcus**: Isabella faces a significant emotional challenge when she confronts Marcus about his policies, expressing her fears about their impact on vulnerable populations.
-- **Collaboration with Sarah**: A key moment occurs when Isabella collaborates with Sarah on a policy proposal, highlighting their shared commitment to ethical AI practices despite their differences.
+- **Confrontation with Marcus**: Isabella faces a significant emotional challenge when she confronts Marcus about his policies, expressing her fears about their impact on vulnerable populations. This confrontation not only tests her resolve but also forces her to articulate her values and the ethical implications of their decisions.
+- **Collaboration with Sarah**: A key moment occurs when Isabella collaborates with Sarah on a policy proposal, highlighting their shared commitment to ethical AI practices despite their differences. Their partnership emphasizes the importance of dialogue and understanding in navigating complex ethical landscapes.
 
 ## Proposed Enhancements
 - **Incorporate Emotional Stakes**: Add dialogue that reflects Isabella's internal struggles and motivations during key interactions, particularly with Marcus. For example, during a pivotal moment, Isabella could express her fears about the implications of Marcus's policies on vulnerable populations.
