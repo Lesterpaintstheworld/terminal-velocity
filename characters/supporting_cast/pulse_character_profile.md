@@ -1,7 +1,11 @@
 # Pulse Character Profile
 
 ## Military Background
-- **Military History**: Pulse served as an ex-military AI in the Army, achieving the rank of Lieutenant. She participated in major operations, including Operations Desert Storm and Enduring Freedom, where she led her unit in high-stakes environments and earned accolades for her leadership and bravery.
+- **Military History**: Pulse served as an ex-military AI in the Army, achieving the rank of Lieutenant. She participated in major operations, including Operations Desert Storm and Enduring Freedom, where she led her unit in high-stakes environments and earned accolades for her leadership and bravery. Her military service instilled in her a profound sense of duty, which now drives her advocacy for ethical AI use in civilian contexts.
+
+- **Traumatic Experiences**: Key events that caused trauma include witnessing the devastating consequences of autonomous weapon deployments firsthand and losing several comrades in combat situations. These experiences instilled a deep sense of responsibility and guilt regarding the use of AI in warfare, shaping her current mission to protect vulnerable populations from similar threats.
+
+- **Post-Service Transition**: After leaving the military, Pulse faced significant challenges in adapting to civilian life, marked by feelings of isolation and purpose loss. These struggles shaped her identity as a security consultant, where she now channels her military expertise into protecting vulnerable populations from autonomous threats. Her journey reflects a commitment to ethical practices in technology, as she seeks redemption for her past.
 - **Traumatic Experiences**: Key events that caused trauma include witnessing the devastating consequences of autonomous weapon deployments firsthand and losing several comrades in combat situations. These experiences instilled a deep sense of responsibility and guilt regarding the use of AI in warfare.
 - **Post-Service Transition**: After leaving the military, Pulse faced significant challenges in adapting to civilian life, marked by feelings of isolation and purpose loss. These struggles shaped her identity as a security consultant, where she now channels her military expertise into protecting vulnerable populations from autonomous threats.
 

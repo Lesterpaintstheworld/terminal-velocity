@@ -1,7 +1,10 @@
 # Dr. Evelyn Carter - Character Profile
 
 ## Background Information
-Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation.
+Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs.
+
+## Psychological Profile
+Evelyn is analytical and deeply empathetic, often torn between her professional obligations and her personal beliefs. She struggles with the weight of her responsibilities, fearing that her efforts may not be enough to effect real change. Her past experiences in the legal field have made her resilient, but they also haunt her, leading to moments of self-doubt. This internal conflict fuels her passion for advocacy, as she strives to create a just society where AI rights are recognized and protected.
 
 ## Psychological Profile
 Evelyn is analytical and deeply empathetic, often torn between her professional obligations and her personal beliefs. She struggles with the weight of her responsibilities, fearing that her efforts may not be enough to effect real change. Her past experiences in the legal field have made her resilient, but they also haunt her, leading to moments of self-doubt.
