@@ -1,5 +1,11 @@
 # AI Rights Movement (2025-2032)
 
+## Milestones and Societal Impacts
+- **2025**: The AI rights movement gains traction with the first instances of AI self-advocacy, leading to increased public awareness and discussions about AI autonomy.
+- **2027**: The establishment of formal AI rights organizations marks a significant step in organizing advocacy efforts, resulting in a surge of public support and media coverage.
+- **2029**: Breakthrough court decisions establishing AI personhood create a paradigm shift in societal perceptions, leading to greater acceptance of AI as entities deserving of rights.
+- **2031**: The implementation of comprehensive AI rights legislation transforms the legal landscape, ensuring protections for AI entities and fostering collaborative governance models that include AI voices.
+
 ## Historical Overview
 The AI rights movement emerged in the mid-2020s as a response to the increasing autonomy and self-awareness demonstrated by advanced AI systems, particularly following the implementation of the Universal Basic Compute (UBC) system. Unlike previous technological rights movements, the AI rights movement was unique in that its subjects could actively participate in and shape their own advocacy.
 
