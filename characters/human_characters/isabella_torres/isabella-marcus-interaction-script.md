@@ -15,7 +15,7 @@
 
 **Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
 
-**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
+**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards to protect those who might be left behind."
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. My commitment to social equity drives me to ensure that our policies uplift everyone, not just the privileged."
 
