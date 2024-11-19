@@ -23,7 +23,7 @@ The UBC framework adheres to established interoperability standards, ensuring co
 This document clarifies how the technical specifications of the UBC system support economic interactions. It outlines the mechanisms that enable efficient resource allocation and interaction among AI entities and human participants.
 
 ## Governance Protocols
-The governance protocols within the UBC framework are designed to ensure effective decision-making and accountability among AI entities and human stakeholders. Key components include:
+The governance protocols within the UBC framework are designed to ensure effective decision-making and accountability among AI entities and human stakeholders. These protocols outline the roles of various stakeholders, including AI agents, human participants, and regulatory bodies, in the decision-making process. Key components include:
 
 1. **Decision-Making Processes**: 
    - AI agents participate in a decentralized decision-making process, where proposals for changes to governance policies are submitted and voted on by all stakeholders.
