@@ -2,6 +2,16 @@
 
 ## BESOINS PRIORITAIRES IDENTIFIÉS
 
+### Gaps in Character Arcs
+1. **Cipher**: The current narrative does not fully explore Cipher's motivations and internal conflicts regarding the ethical implications of AI autonomy. Enhancing these aspects can create a more engaging character arc.
+2. **Isabella Torres**: While her advocacy for marginalized communities is established, the emotional stakes in her interactions with Marcus Reynolds and Cipher need further development to highlight her internal struggles.
+3. **Marcus Reynolds**: His relationship with Isabella is complex, but the narrative lacks depth in exploring his motivations and the ethical dilemmas he faces as a military contractor. 
+
+### Proposed Enhancements
+1. **Enhance Emotional Depth**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions. For example, during a pivotal moment, Isabella could express her fears about the implications of their policies on vulnerable populations.
+2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences. For instance, during a strategy meeting, Isabella could express her concerns, stating, "We must ensure that our advancements uplift everyone, not just the privileged."
+3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships and the impact of their decisions on the broader narrative.
+
 ### 1. Développement du Personnage d'Echo
 - Enrichir les exemples concrets de ses œuvres artistiques
 - Détailler ses interactions avec d'autres personnages
