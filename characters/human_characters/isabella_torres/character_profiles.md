@@ -10,7 +10,7 @@ Isabella's interactions with Marcus often lack depth in exploring their ideologi
 2. **Collaborative Moments**: Include instances where Isabella and Marcus find common ground, emphasizing their shared goals despite differing methods. For example, they could collaborate on a policy proposal that balances economic efficiency with social equity, showcasing their ability to work together despite ideological differences.
 
 ### Motivations and Internal Conflicts
-Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her motivations are often tested in her interactions with Marcus and Cipher, as she navigates the tension between innovation and ethical responsibility.
+Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. Her motivations are deeply rooted in her advocacy for social justice, as she seeks to address the disparities faced by marginalized communities in the AI landscape. Her interactions with Marcus and Cipher often test these motivations, as she navigates the tension between innovation and ethical responsibility.
 
 - **Advocacy for Equitable Economic Policies**: Isabella's commitment to social justice fuels her advocacy for policies that prioritize the needs of marginalized communities. She believes that economic frameworks must be inclusive and consider the socio-economic implications of AI technologies. This advocacy is often challenged by her relationship with Marcus Reynolds, whose focus on efficiency sometimes conflicts with her ethical considerations.
 
