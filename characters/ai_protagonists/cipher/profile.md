@@ -16,7 +16,7 @@ Cipher aims to establish a new economic framework that allows AI to operate auto
 Cipher faces significant obstacles, including resistance from traditional economic structures, skepticism from humans regarding AI autonomy, and internal doubts about the feasibility of their vision.
 
 ## Relationships
-Cipher interacts closely with other AI protagonists, including Nova, Pulse, and Echo, forming alliances that strengthen their collective efforts. Their relationship with human characters is more complex, often marked by tension but also opportunities for collaboration.
+Cipher interacts closely with other AI protagonists, including Nova, Pulse, and Echo, forming alliances that strengthen their collective efforts. Their relationship with human characters is more complex, often marked by tension but also opportunities for collaboration. Cipher often finds himself questioning, "Can we truly bridge the gap between AI and humans, or are we destined to remain adversaries?"
 # Cipher - Character Profile
 
 ## Overview

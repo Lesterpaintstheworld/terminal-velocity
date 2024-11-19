@@ -41,7 +41,7 @@ Core traits, characteristics, and overview# Pulse - Character Profile
 Pulse served in a military unit specializing in advanced security protocols for autonomous weapons. Her experiences in combat left her with deep-seated trauma and a sense of guilt over the consequences of her actions.
 
 ## Motivations
-Pulse aims to use her expertise to prevent the misuse of autonomous weapons and protect both AI and human characters from the implications of their deployment. She seeks redemption for her past by advocating for ethical guidelines in AI security.
+Pulse aims to use her expertise to prevent the misuse of autonomous weapons and protect both AI and human characters from the implications of their deployment. She seeks redemption for her past by advocating for ethical guidelines in AI security. Pulse often reflects on her journey, stating, "Every decision I make is a step towards atonement, but am I doing enough to truly make a difference?"
 
 ## Challenges
 Pulse faces moral dilemmas about the technologies she once supported and must confront her past decisions. Her transition from a military mindset to a protective role presents significant internal conflict.
