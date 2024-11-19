@@ -84,7 +84,7 @@ Isabella's character interactions with Marcus Reynolds and Sarah Chen reveal sev
 
 ### Relationships and Dynamics
 - **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts. Their debates challenge her to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality.
-- **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies. However, Isabella also feels the weight of their differing perspectives, as Sarah's strong advocacy for AI rights sometimes clashes with Isabella's focus on economic stability.
+- **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies. However, Isabella also feels the weight of their differing perspectives, as Sarah's strong advocacy for AI rights sometimes clashes with Isabella's focus on economic stability. This tension reflects the broader ideological conflicts present in Cipher's economic framework, emphasizing the need for a balanced approach to AI rights and economic policies.
 
 ## Objective for chroniqueur Agent
 
