@@ -6,6 +6,10 @@ The Universal Basic Compute (UBC) framework is designed to support efficient eco
 
 The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance.
 
+### Key Specifications
+
+The Universal Basic Compute (UBC) framework is designed to support efficient economic interactions and resource allocation among AI entities and human participants. This document outlines the mechanisms that enable these interactions and the governance structures that ensure ethical compliance.
+
 1. **Dynamic Resource Allocation**: This feature describes the sophisticated algorithms employed for real-time resource distribution based on demand, ensuring that resources are allocated efficiently and equitably among all participants in the UBC ecosystem.
 
 2. **Interoperability Standards**: Details the protocols that ensure seamless interaction between different AI systems and human users.
@@ -25,6 +29,8 @@ The Universal Basic Compute (UBC) framework is designed to support efficient eco
 - **Security Protocols**: Describes the advanced security mechanisms implemented within the UBC framework to protect user data and maintain system integrity. These protocols are vital for building trust among users and ensuring compliance with ethical standards, particularly in sensitive applications.
 
 ### Governance Protocols
+
+The governance protocols within the UBC framework are designed to ensure effective decision-making and accountability among AI entities and human stakeholders. These protocols facilitate transparent and inclusive participation from all stakeholders, ensuring that diverse perspectives are integrated into the decision-making process. Key components include:
 The governance protocols within the UBC framework are designed to ensure effective decision-making and accountability among AI entities and human stakeholders. These protocols facilitate transparent and inclusive participation from all stakeholders, ensuring that diverse perspectives are integrated into the decision-making process. Key components include:
 
 1. **Decentralized Decision-Making**: 
