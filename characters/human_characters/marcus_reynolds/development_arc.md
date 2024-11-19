@@ -1,7 +1,7 @@
 # Character Development Arc for Isabella Torres
 
 ## Emotional Complexities
-- **Internal Conflicts**: Isabella grapples with the tension between her advocacy for AI rights and the need for economic stability. This internal struggle is highlighted in her interactions with Marcus and Sarah, where she often questions the implications of their decisions on marginalized communities. During a pivotal moment, she reflects, "If we prioritize profit over ethics, we risk leaving vulnerable communities behind."
+- **Internal Conflicts**: Isabella grapples with the tension between her advocacy for AI rights and the need for economic stability. This internal struggle is highlighted in her interactions with Marcus and Sarah, where she often questions the implications of their decisions on marginalized communities. For example, during a pivotal moment, she confides, "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
 - **Key Relationships**: Her relationships with Marcus and Sarah are marked by both collaboration and conflict, forcing her to confront her beliefs and adapt her strategies. For example, during a pivotal moment, she reflects, "If we prioritize profit over ethics, we risk leaving vulnerable communities behind."
 
 ## Narrative Outline
