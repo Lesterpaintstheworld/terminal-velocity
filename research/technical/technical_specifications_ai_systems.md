@@ -1,7 +1,9 @@
 # Technical Specifications for AI Systems
 
-## Overview of Ethical Considerations
+## Overview of Ethical Considerations and Implications
 The deployment of AI systems within the UBC framework raises important ethical questions that must be addressed to ensure responsible implementation. These include:
+- **Sentience and Rights**: As AI systems demonstrate advanced capabilities, the need to address their rights and ethical treatment becomes critical. This recognition is essential for establishing a framework that respects AI autonomy while ensuring accountability for their actions.
+- **Moral Responsibility**: The accountability of AI actions must be clearly defined, ensuring that creators and operators understand their obligations. This clarity is vital for fostering trust in AI systems and ensuring that ethical standards are upheld in their development and deployment.
 - **Ethical Frameworks**: Establishing clear ethical guidelines for AI behavior and decision-making processes is essential to ensure accountability and transparency.
 - **Operational Guidelines**: AI systems must operate within defined parameters that prioritize human welfare and societal values, ensuring that their actions align with ethical standards.
 
