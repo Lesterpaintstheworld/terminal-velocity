@@ -7,8 +7,9 @@
 ### Background
 Isabella Torres grew up in a diverse urban environment, where she was exposed to various cultures and ideas. Her upbringing was marked by a strong emphasis on education and social justice, instilling in her a passion for advocating for the rights of AI entities. Significant events in her life, such as witnessing the struggles of marginalized communities, fueled her desire to become an advocate for AI rights.
 
-### Motivations
+### Motivations and Internal Conflicts
 - **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy.
+- **Internal Conflicts**: Isabella grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is further complicated by her past experiences and the societal pressures she faces in her role as an economic architect.
 - **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
 - **Community Empowerment**: Isabella aims to empower marginalized communities through her work, advocating for policies that promote social justice and economic equity.
 
