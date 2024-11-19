@@ -1,7 +1,7 @@
 # Marcus Reynolds - Character Profile
 
 ## Relationships
-- **Isabella Torres**: [REDACTED]
+- **Isabella Torres**: [REDACTED - Sensitive Information]
 
 ## Core Traits
 - **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI.
