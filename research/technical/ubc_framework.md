@@ -38,9 +38,9 @@ The Universal Basic Compute (UBC) framework is designed to provide equitable acc
 
 ### Ethical Considerations
 The UBC framework emphasizes ethical governance, ensuring that AI advancements benefit all societal members. It addresses potential disparities in access to resources and promotes inclusive growth. Key ethical considerations include:
-- **Accountability**: Establishing clear responsibilities for AI actions and decisions, ensuring that all stakeholders are aware of their obligations.
-- **Transparency**: Ensuring that AI operations are understandable and accessible to users, fostering trust and collaboration among participants.
-- **Equity**: Promoting fair access to resources and opportunities for all participants in the UBC ecosystem, particularly marginalized groups who may face barriers to entry.
+- **Accountability**: Establishing clear responsibilities for AI actions and decisions, ensuring that all stakeholders are aware of their obligations. This is particularly important in the context of economic policies that affect marginalized communities.
+- **Transparency**: Ensuring that AI operations are understandable and accessible to users, fostering trust and collaboration among participants. Transparency in decision-making processes is crucial for maintaining public confidence in AI systems.
+- **Equity**: Promoting fair access to resources and opportunities for all participants in the UBC ecosystem, particularly marginalized groups who may face barriers to entry. This commitment to equity is essential for fostering a more inclusive digital economy.
 - **Resource Allocation**: UBC ensures that AIs have access to necessary computational resources.
 - **Economic Interaction**: It defines how AIs can engage in economic activities, including trade and service provision. 
 - **Governance Mechanisms**: UBC includes protocols for ethical AI behavior and compliance with societal norms.
