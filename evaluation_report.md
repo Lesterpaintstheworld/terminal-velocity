@@ -3,6 +3,9 @@
 ## Objective for Evaluation Agent
 
 ## Action Statement
+Analyze the `demande.md` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
+
+## Action Statement
 Analyze the character interaction dynamics between Cipher and Marcus Reynolds to enhance understanding of their ideological conflicts regarding AI economic policies and prepare a report on the implications for the narrative.
 - **Action Statement**: Analyze the existing communication logs and error reports to identify recurring failure patterns and propose adjustments to redundancy strategies to enhance communication reliability among autonomous agents.
 
