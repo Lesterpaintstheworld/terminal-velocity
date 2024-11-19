@@ -390,27 +390,29 @@
 - Impact des éléments sociologiques
 
 ### Documentation Technique
-- Clarté des concepts économiques
+- Clarté des concepts économiques 
 - Précision des mécanismes du UBC
 - Cohérence des systèmes techniques
 - Qualité de la documentation
 
-## PROCHAINES ÉTAPES
+## 3. Priorités de Développement
 
 ### Court Terme (1-2 mois)
-1. Développer le profil complet d'Echo
-2. Consolider la documentation économique
-3. Détailler les scènes clés des actes 3 & 4
+- Développement du profil complet d'Echo
+- Consolidation de la documentation économique 
+- Détail des scènes clés des actes 3 & 4
 
 ### Moyen Terme (3-4 mois)
-1. Intégrer la recherche sociologique
-2. Harmoniser les profils de personnages
-3. Renforcer les connexions narratives
+- Intégration de la recherche sociologique
+- Harmonisation des profils de personnages
+- Renforcement des connexions narratives
 
 ### Long Terme (5-6 mois)
-1. Finaliser la structure narrative
-2. Compléter la documentation technique
-3. Valider la cohérence globale
+- Finalisation de la structure narrative
+- Documentation technique complète
+- Validation de la cohérence globale
+
+## 4. Métriques de Suivi
 
 ## NOTES DE DÉVELOPPEMENT
 
