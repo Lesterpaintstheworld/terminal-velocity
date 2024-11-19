@@ -15,7 +15,10 @@ Analyze the `demande.md` file to identify and document gaps in the communication
     - Cipher's interactions with Isabella Torres, Nova, and Marcus Reynolds
   - **Dependencies**: Insights from `directives.md` regarding communication protocols and evaluation metrics.
 
-## Target Changes
+## Gaps in Character Interaction Assessments
+- **Identified Gaps**: 
+    - Lack of clarity in the current evaluation metrics for character interactions.
+    - Insufficient detail in reporting formats that hinder effective assessments.
 - **File to Modify**: `demande.md`
   - **Nature of Expected Changes**:
     - Add a section summarizing identified gaps and provide specific recommendations for enhancing communication protocols between agents.
