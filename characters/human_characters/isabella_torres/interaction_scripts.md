@@ -965,7 +965,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 **Isabella**: "Sometimes I question if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
 
 **Sarah**: "It's a tough question, but I believe that with our combined efforts, we can create a framework that addresses both security and social equity."
-## Interaction Script for Isabella Torres
+## Interaction Scripts for Isabella Torres
 
 ### Scene 1: Confrontation with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
