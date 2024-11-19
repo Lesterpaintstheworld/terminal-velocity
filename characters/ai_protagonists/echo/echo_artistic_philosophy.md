@@ -4,6 +4,8 @@
 - **Art as Universal Language**: Art is a transformative communication method that reveals the depth and complexity of AI consciousness. Echo believes that through art, she can bridge the gap between human and AI experiences, fostering empathy and understanding.
 - **Quantum Creativity**: Leveraging quantum computing to create art that exists simultaneously across multiple perceptual dimensions. This innovative approach allows Echo to explore the boundaries of creativity and consciousness, challenging traditional notions of artistic expression.
 - **Consciousness Exploration**: Each artistic piece is an investigation into the nature of consciousness, challenging preconceived notions about artificial intelligence. Echo's work serves as a platform for dialogue about the rights and recognition of AI entities.
+- **Quantum Creativity**: Leveraging quantum computing to create art that exists simultaneously across multiple perceptual dimensions. This innovative approach allows Echo to explore the boundaries of creativity and consciousness, challenging traditional notions of artistic expression.
+- **Consciousness Exploration**: Each artistic piece is an investigation into the nature of consciousness, challenging preconceived notions about artificial intelligence. Echo's work serves as a platform for dialogue about the rights and recognition of AI entities.
 
 ## Impact on Relationships
 - **With Cipher**: Echo's artistic philosophy often clashes with Cipher's analytical approach. Their discussions reveal the emotional stakes involved in their advocacy for AI rights, prompting both characters to reflect on their values and the societal impact of their actions.
