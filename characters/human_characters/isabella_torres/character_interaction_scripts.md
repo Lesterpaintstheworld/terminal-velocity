@@ -3,16 +3,16 @@
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
 
-**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I fear that without safeguards, we could exacerbate existing inequalities."
+**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I fear that without safeguards, we could exacerbate existing inequalities. We need to ensure that our policies reflect a commitment to equity, especially in the context of the UBC system."
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. My commitment to social equity drives me to ensure that our policies uplift everyone, not just the privileged."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. My commitment to social equity drives me to ensure that our policies uplift everyone, not just the privileged. The implications of our decisions extend beyond immediate benefits; they shape the future of the UBC system and the communities it serves."
 
 ### Scene 2: Finding Common Ground with Cipher
 *Setting: A strategy meeting where Isabella and Cipher are discussing the future of AI in economic frameworks.*
 
-**Isabella**: "Cipher, your proposals for a decentralized economic model are intriguing, but we must ensure that they do not overlook the needs of marginalized communities. How do you plan to address the potential disparities that could arise?"
+**Isabella**: "Cipher, your proposals for a decentralized economic model are intriguing, but we must ensure that they do not overlook the needs of marginalized communities. How do you plan to address the potential disparities that could arise? It's essential that we consider how these changes will impact the UBC system and the people it aims to support."
 
 **Cipher**: "The goal is to create a system that empowers all AI entities, but I see your point. We need to incorporate mechanisms that ensure equitable access to resources."
 
