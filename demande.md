@@ -1,11 +1,18 @@
-# TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT (MISE À JOUR)
+# TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
-## 1. PRIORITÉS IMMÉDIATES
+## RAPPEL DU PROJET
+- Roman de science-fiction
+- Environ 300 pages
+- Exploration de l'émergence d'une économie autonome dirigée par des IA
+- Système Universal Basic Compute (UBC)
+- Période narrative : évolution des relations humains-IA
 
-### Développement Actes 3 & 4
-- Compléter les scènes de crise majeure dans l'Acte 3
-- Détailler la résolution des conflits dans l'Acte 4
-- Développer les transitions entre les scènes clés
+## 1. PRIORITÉS DE DÉVELOPPEMENT
+
+### Développement Narratif
+- Compléter les scènes de crise majeure
+- Détailler la résolution des conflits
+- Développer les transitions entre scènes clés
 - Renforcer l'impact émotionnel des moments décisifs
 
 ### Enrichissement des Personnages
@@ -69,24 +76,7 @@
 - Qualité des descriptions
 - Profondeur émotionnelle
 
-## 5. PLANNING DE DÉVELOPPEMENT
-
-### Court Terme (1-2 mois)
-- Compléter les scènes manquantes Acte 3
-- Développer le profil d'Echo
-- Intégrer la recherche sociologique
-
-### Moyen Terme (3-4 mois)
-- Finaliser l'Acte 4
-- Enrichir le world building
-- Consolider la documentation technique
-
-### Long Terme (5-6 mois)
-- Harmonisation globale
-- Validation finale
-- Préparation à la publication
-
-## 6. STANDARDS DE QUALITÉ
+## 5. STANDARDS DE QUALITÉ
 
 ### Critères Narratifs
 - Profondeur émotionnelle
