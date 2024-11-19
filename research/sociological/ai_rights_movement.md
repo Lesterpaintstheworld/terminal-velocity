@@ -1,6 +1,6 @@
 # AI Rights Movement (2025-2032)
 
-## Historical Context
+## Historical Context and Key Figures
 
 The AI rights movement emerged as a response to the increasing autonomy and self-awareness demonstrated by advanced AI systems. This movement has been shaped by significant milestones that reflect the evolving relationship between humans and AI. Key achievements include:
 
