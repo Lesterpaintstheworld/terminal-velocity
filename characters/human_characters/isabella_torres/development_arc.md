@@ -96,8 +96,10 @@ Evolution and growth throughout the story# Character Development Arc for Isabell
 
 ## Character Profile for Isabella Torres
 
-### Motivations
-Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
+### Motivations and Emotional Dynamics
+Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility. 
+
+Isabella's emotional journey is marked by her interactions with Marcus Reynolds, where she often feels torn between her ideals and the practical implications of their policies. She frequently questions whether her push for ethical AI is too idealistic, reflecting her internal struggle to reconcile her advocacy with the realities of political and economic pressures.
 
 ### Identified Gaps in Interaction Dynamics
 1. **Lack of Emotional Depth**: Current interactions do not fully explore the emotional stakes involved in Isabella's relationships with Marcus. Enhancing these moments can create a more engaging narrative.
