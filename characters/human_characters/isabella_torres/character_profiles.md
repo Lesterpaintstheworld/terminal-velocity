@@ -3,7 +3,7 @@
 ## Objective for Specification Agent
 
 ## Internal Conflicts
-Isabella Torres often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect. 
+Isabella Torres often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. She faces specific internal conflicts regarding her advocacy for AI rights versus economic stability, often questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect. This struggle is particularly evident in her discussions with Marcus, where their differing views on the role of technology in society lead to intense debates.
 
 ### Scene 1: Ideological Conflict
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies. Isabella expresses her concerns about the ethical implications of AI advancements, questioning whether her push for innovation might inadvertently harm marginalized communities.*
