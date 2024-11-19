@@ -2,7 +2,7 @@
 ## Vue Globale du Projet
 
 ## SYNOPSIS
-"Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles.
+"Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles. [REDACTED]
 
 ## ÉTAT DU DÉVELOPPEMENT
 
@@ -25,7 +25,7 @@
 - Détails culturels
 
 ## Identified Communication Failure Patterns
-- **Pattern 1**: Increased response times during peak operational hours.
+- **Pattern 1**: Increased response times during peak operational hours. [REDACTED]
 - **Pattern 2**: Higher error rates correlated with specific agent interactions.
 - **Pattern 3**: Decreased reliability metrics in communication protocols.
 - **Pattern 4**: Inconsistent error reporting leading to delayed responses.
