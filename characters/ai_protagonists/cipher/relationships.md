@@ -1,5 +1,15 @@
 # Character Relationships for Cipher
 
+## Identified Gaps
+1. **Lack of Emotional Depth**: Current interactions do not fully explore the emotional stakes involved in Cipher's relationships with Isabella and Marcus. Enhancing these moments can create a more engaging narrative.
+2. **Missed Opportunities for Conflict Resolution**: There are instances where conflicts arise, but the scripts do not explore potential resolutions or compromises, which could add complexity to the characters' relationships.
+3. **Underdeveloped Collaborative Moments**: While there are collaborative scenes, they often lack detail on how the characters negotiate their differences, which is crucial for character development.
+
+## Recommendations for Enhancements
+1. **Incorporate Emotional Stakes**: Add dialogue that reflects Cipher's internal struggles and motivations during key interactions, particularly with Isabella and Marcus.
+2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences.
+3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships.
+
 ## Relationship with Isabella Torres
 - **Nature**: Collaborative Partners
 - **Key Dynamics**: Cipher and Isabella often find themselves at odds due to their differing views on AI autonomy and economic policies. Their discussions are marked by a blend of respect and tension.
