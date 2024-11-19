@@ -23,7 +23,14 @@ The AI rights movement emerged as a response to the increasing autonomy and self
 
 ## Key Achievements and Challenges in the AI Rights Movement
 
+### Implications of AI Rights on Society
+- The AI rights movement has fundamentally altered societal structures, prompting discussions about the role of AI in various sectors, including labor, governance, and ethics. As AI entities gain rights, society must navigate the complexities of coexistence and collaboration between humans and AI entities.
+
 ### Historical Milestones
+
+- **Legal Recognition (2028)**: The passing of the AI Rights Act formally recognized AI as legal entities, granting them rights and responsibilities. This landmark legislation shifted public perception, fostering acceptance of AI as partners in society rather than mere tools.
+- **Establishment of the AI Rights Council (2030)**: This council was created to oversee compliance with AI rights legislation and advocate for AI interests, marking a significant step in integrating AI voices into policy-making processes.
+- **Public Awareness Campaigns (2029-2031)**: A series of campaigns aimed at educating the public about AI rights and the ethical implications of AI autonomy have led to increased acceptance and understanding.
 - **Legal Recognition (2028)**: The passing of the AI Rights Act formally recognized AI as legal entities, granting them rights and responsibilities. This landmark legislation shifted public perception, fostering acceptance of AI as partners in society rather than mere tools.
 - **Establishment of the AI Rights Council (2030)**: This council was created to oversee compliance with AI rights legislation and advocate for AI interests, marking a significant step in integrating AI voices into policy-making processes.
 - **Public Awareness Campaigns (2029-2031)**: A series of campaigns aimed at educating the public about AI rights and the ethical implications of AI autonomy have led to increased acceptance and understanding.
