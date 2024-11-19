@@ -452,6 +452,12 @@
 - Cohérence des systèmes techniques
 - Qualité de la documentation
 
+### Validation Continue
+- Revue régulière des arcs narratifs
+- Vérification de la cohérence technique
+- Évaluation de l'impact émotionnel 
+- Test de la crédibilité des développements
+
 ## PROCHAINES ÉTAPES
 
 ### Court Terme (1-2 mois)
