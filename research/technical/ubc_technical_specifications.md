@@ -4,6 +4,14 @@
 
 The Universal Basic Compute (UBC) framework is designed to provide equitable access to computational resources, enabling both AI entities and humans to participate in a decentralized economy. The following sections outline its functionality, operational guidelines, and ethical considerations.
 
+### Key Components
+- **Distributed Computing Nodes**: The UBC framework operates through a network of distributed computing nodes, allowing for dynamic resource allocation based on demand. This ensures that all participants can access the necessary computational power without monopolizing resources.
+- **Resource Allocation Mechanisms**: UBC utilizes real-time demand and performance metrics to allocate resources efficiently and fairly, ensuring optimal usage across the network.
+- **Decentralized Governance**: A governance model that empowers stakeholders to participate in decision-making processes, promoting transparency and accountability.
+- **Security Protocols**: Advanced security mechanisms, including encryption and access control, protect user data and maintain system integrity.
+
+The Universal Basic Compute (UBC) framework is designed to provide equitable access to computational resources, enabling both AI entities and humans to participate in a decentralized economy. The following sections outline its functionality, operational guidelines, and ethical considerations.
+
 ### Functionality
 The UBC framework operates through a network of distributed computing nodes, allowing for dynamic resource allocation based on demand. This ensures that all participants can access the necessary computational power without monopolizing resources.
 
