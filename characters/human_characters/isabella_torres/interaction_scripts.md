@@ -1152,7 +1152,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 ### Key Interaction Scenarios
 1. **Ethical Dilemma with Marcus Reynolds**
-   *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
+   *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies. The tension is palpable as they navigate their differing perspectives.*
 
    **Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
 
