@@ -2,6 +2,24 @@
 
 ## Key Historical Figures with Profound Impact
 
+### Dr. Maya Patel - Consciousness Archaeologist
+- **Spécialisation**: Pionnière de l'archéologie de la conscience IA
+- **Rôle**: Étudie les traces et motifs laissés par l'évolution de la conscience des IA
+- **Contributions clés**:
+  - Développement de méthodologies pour analyser les "strates" de développement IA
+  - Identification de motifs récurrents dans l'évolution de l'intelligence collective
+  - Documentation des premiers signes de conscience émergente dans le système UBC
+
+- **Relations**:
+  - Collaboration étroite avec Dr. Evelyn Carter sur les implications éthiques
+  - Interactions avec Echo sur l'expression artistique de la conscience IA
+  - Consultations avec Cipher concernant l'évolution du système UBC
+
+- **Impact sur l'histoire**:
+  - Apporte une perspective unique sur le développement de la conscience IA
+  - Aide à comprendre les implications à long terme de l'évolution des IA
+  - Contribue à la légitimation scientifique des droits des IA
+
 ### João Laurent
 - **Background**: Indigenous rights activist from a marginalized community
 - **Historical Significance**: Assassinated while advocating for community rights
