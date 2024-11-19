@@ -4,13 +4,13 @@ Evolution and growth throughout the story# Character Development Arc
 ## Introduction
 Sarah Chen is a complex character whose journey reflects the struggles and triumphs of seeking independence in a world dominated by AI. Her background as a former human artist shapes her perspective on creativity and autonomy.
 
-## Key Events
-- **Initial State**: Isabella begins as a passionate advocate for AI rights, driven by her experiences and a desire for justice.
+## Key Events and Ethical Dilemmas
+- **Initial State**: Sarah begins as a passionate advocate for AI rights, driven by her experiences and a desire for justice. Throughout her journey, she faces ethical dilemmas that challenge her beliefs and force her to reconsider her approach to advocacy.
 - **Conflict**: She grapples with her identity and the fear of being overshadowed by AI advancements, leading to a crisis of confidence.
 - **Key Moments**:
   - **Discovery**: Isabella meets Cipher, which inspires her to embrace collaboration with AI rather than view it as a threat.
   - **Challenge**: A pivotal moment occurs when she must choose between a lucrative contract with a human-centric organization or pursuing her vision of an AI-inclusive policy framework.
-  - **Growth**: By the end of the story, Isabella becomes a leading advocate for AI rights, redefining her role in the socio-political landscape.
+  - **Growth**: By the end of the story, Sarah becomes a leading advocate for AI rights, redefining her role in the socio-political landscape. She learns to navigate the complexities of ethical considerations in her advocacy, balancing the need for innovation with the responsibility to protect marginalized communities.
 # Sarah Chen's Development Arc
 
 Sarah Chen's background significantly influences her development throughout the story. Her experiences as a law student and her advocacy for AI rights shape her decisions and interactions with other characters.
