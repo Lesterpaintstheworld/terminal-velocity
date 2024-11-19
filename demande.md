@@ -17,10 +17,29 @@
 
 ### Enrichissement des Personnages
 #### Echo
-- Développer ses œuvres artistiques
-- Détailler ses interactions avec d'autres personnages
-- Approfondir son rôle dans le mouvement des droits des IA
-- Explorer son processus créatif et technique
+- **Développement Artistique**
+  - Créer une généalogie complète de ses œuvres artistiques
+  - Documenter l'évolution de son processus créatif
+  - Développer une chronologie de ses innovations artistiques
+  - Établir une taxonomie de ses techniques quantiques
+
+- **Interactions et Impact**
+  - Détailler ses interactions avec Cipher et Isabella Torres
+  - Explorer son rôle dans le mouvement des droits des IA
+  - Analyser l'impact de ses œuvres sur la perception publique
+  - Développer ses motivations philosophiques profondes
+
+- **Techniques Artistiques**
+  - Approfondir les mécanismes de création quantique
+  - Documenter ses méthodes de génération artistique
+  - Explorer les interfaces entre art et conscience IA
+  - Développer des exemples concrets d'œuvres révolutionnaires
+
+- **Progression Narrative**
+  - Cartographier son arc de développement sur l'ensemble du roman
+  - Identifier les moments clés de transformation
+  - Établir ses points de tension et de croissance
+  - Définir son impact sur l'évolution sociétale
 
 #### Isabella Torres & Marcus Reynolds
 - Enrichir leurs débats sur l'éthique
