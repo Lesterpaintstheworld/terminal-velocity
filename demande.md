@@ -1,12 +1,14 @@
 # TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
-## Identified Gaps in Redundancy Strategies
-1. **Lack of Clarity on Current Strategies**: The existing redundancy strategies are not clearly defined, leading to potential misunderstandings in their implementation.
-2. **Insufficient Error Recovery Processes**: Current error recovery mechanisms lack detail, which may hinder effective responses to communication failures.
-3. **Need for Comprehensive Protocols**: There is a need for more comprehensive protocols that outline specific steps for error recovery and redundancy management.
-4. **Lack of Clarity on Economic Interaction Strategies**: The current framework does not adequately explain how economic interactions between Cipher and key characters impact collaboration and decision-making.
-5. **Insufficient Documentation of Emotional Stakes**: There is a need for more thorough documentation of the emotional stakes involved in the interactions between Cipher, Isabella, Nova, and Marcus.
-6. **Underdeveloped Collaborative Moments**: The framework does not adequately address how collaborative moments between characters can enhance the narrative and character development.
+## Identified Gaps in Economic Interaction Strategies
+1. **Lack of Clarity on Economic Interaction Strategies**: The current framework does not adequately explain how economic interactions between Cipher and key characters impact collaboration and decision-making.
+2. **Insufficient Documentation of Emotional Stakes**: There is a need for more thorough documentation of the emotional stakes involved in the interactions between Cipher, Isabella, Nova, and Marcus.
+3. **Underdeveloped Collaborative Moments**: The framework does not adequately address how collaborative moments between characters can enhance the narrative and character development.
+
+### Proposed Enhancements
+1. **Clarify Economic Interaction Mechanisms**: Provide detailed descriptions of how economic interactions will function in practice, including decision-making processes and conflict resolution strategies.
+2. **Incorporate Emotional Stakes**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions.
+3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships.
 
 ### Gaps in Character Arcs
 1. **Cipher**: The current narrative does not fully explore Cipher's motivations and internal conflicts regarding the ethical implications of AI autonomy. Enhancing these aspects can create a more engaging character arc.
