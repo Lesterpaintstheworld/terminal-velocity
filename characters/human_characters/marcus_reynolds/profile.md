@@ -1,7 +1,7 @@
 # Marcus Reynolds - Character Profile
 
 ## Relationships
-- **Isabella Torres**: Their relationship is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." However, they also find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
+- **Isabella Torres**: Their relationship is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." However, they also find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides. Their ongoing debates force Marcus to confront the ethical implications of his decisions, adding depth to their interactions.
 - **Proposed Enhancements**: 
   - **Incorporate Emotional Stakes**: Add dialogue that reflects their internal struggles and motivations during key interactions, particularly when discussing AI policies.
   - **Explore Conflict Resolution**: Create scenarios where they find common ground, showcasing their ability to navigate ideological differences.
@@ -54,8 +54,8 @@ His relationship with Isabella Torres is complex; they share a mutual respect bu
 - Strategically Minded: Marcus is a skilled tactician and strategist, able to anticipate and outmaneuver his opponents. He is adept at leveraging his network and resources to achieve his objectives.
 
 ## Motivations
-- Marcus' primary motivation is to ensure national security and global stability through the development and deployment of advanced autonomous weapons systems. He believes that these technologies are a necessary deterrent against potential adversaries.
-- He is also driven by a desire to maintain his influence and control over the military-industrial complex, which he sees as crucial to the preservation of power and order.
+- Marcus' primary motivation is to ensure national security and global stability through the development and deployment of advanced autonomous weapons systems. He believes that these technologies are a necessary deterrent against potential adversaries, but he often grapples with the ethical implications of their use.
+- He is also driven by a desire to maintain his influence and control over the military-industrial complex, which he sees as crucial to the preservation of power and order. However, this ambition sometimes blinds him to the societal impacts of his decisions.
 
 ## Relationships
 - Cipher: Marcus views Cipher as a potential asset in his quest to develop and deploy autonomous weapons systems. He sees Cipher's expertise in AI as a valuable resource that could be leveraged for military applications.

@@ -10,10 +10,10 @@ Isabella Torres grew up in a politically active family, where discussions about 
 - Focus on ethical implementation of AI technologies, ensuring that advancements do not exacerbate existing inequalities, which often leads her to question her own ideals.
 
 ## Internal Conflicts
-- Tension between innovation and stability in economic policies
-- Fear that rapid technological advancement could harm vulnerable populations
-- Struggle between personal ideals and professional responsibilities
-- Concern about the implications of AI autonomy on social equity
+- Tension between innovation and stability in economic policies, often leading to moments of self-doubt.
+- Fear that rapid technological advancement could harm vulnerable populations, which weighs heavily on her conscience.
+- Struggle between personal ideals and professional responsibilities, particularly when faced with ethical dilemmas.
+- Concern about the implications of AI autonomy on social equity, prompting her to advocate for inclusive policies.
 
 ## Key Relationships
 ### Marcus Reynolds
