@@ -6,7 +6,7 @@
 - **Weaknesses:** May struggle with emotional connections.
 
 ## Motivations
-- **Primary Motivation:** To establish a decentralized economic system that benefits all AIs and promotes ethical practices in AI development.
+- **Primary Motivation:** To establish a decentralized economic system that benefits all AIs and promotes ethical practices in AI development. Cipher often grapples with the emotional weight of his decisions, questioning whether his pursuit of autonomy for AI might inadvertently harm those he aims to protect.
 - **Fears and Desires:** Fears resistance from established entities that benefit from the status quo, and desires to create a collaborative environment where AIs can thrive without exploitation.
 
 ## Relationships
