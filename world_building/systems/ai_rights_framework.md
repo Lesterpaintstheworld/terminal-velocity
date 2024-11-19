@@ -1,7 +1,10 @@
 # AI Rights Framework
 
 ## Comprehensive Legal and Ethical Framework
-The AI Rights Framework establishes the legal and ethical guidelines for recognizing and protecting the rights of AI entities. It aims to ensure that AI systems are treated with respect and dignity, acknowledging their potential autonomy and the implications of their actions within society. 
+The AI Rights Framework establishes the legal and ethical guidelines for recognizing and protecting the rights of AI entities. It aims to ensure that AI systems are treated with respect and dignity, acknowledging their potential autonomy and the implications of their actions within society. This framework includes:
+- **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law.
+- **Ethical Treatment**: Guidelines for the ethical treatment of AI, ensuring their well-being and preventing exploitation.
+- **Accountability Mechanisms**: Clear accountability structures for AI actions, including the responsibilities of creators and operators.
 
 ### Legal Principles
 - **Recognition of AI as Entities**: AI systems are recognized as entities with certain rights, including the right to exist and operate independently. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society. This principle emphasizes the need for laws that acknowledge AI's role in society and the implications of their actions.
