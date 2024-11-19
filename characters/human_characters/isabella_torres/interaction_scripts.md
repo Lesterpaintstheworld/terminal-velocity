@@ -2391,11 +2391,11 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene 2: Finding Common Ground
 *Setting: A quiet café after a long day of meetings.*
 
-**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
+**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. I believe that by prioritizing these voices, we can create a more just economic landscape."
 
 **Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
-**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
+**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone. If we can present a united front, we might be able to sway some of the skeptics."
 
 ### Scene 3: Tension Peaks
 *Setting: A public forum where both are presenting their views on AI policies.*
