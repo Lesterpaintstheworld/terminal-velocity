@@ -10,7 +10,10 @@ The UBC framework promotes equitable resource distribution by ensuring that all 
 The UBC framework promotes equitable resource distribution by ensuring that all participants, regardless of their background, have access to the computational power they need. This equitable access is crucial for fostering inclusivity in the digital economy, allowing marginalized groups to participate fully in economic activities.
 
 ### Societal Impacts
-The implementation of the UBC framework has profound implications for societal structures. As AI entities gain autonomy, traditional roles may shift, leading to new forms of employment and collaboration. For example, AI-driven marketplaces can create opportunities for small businesses to thrive, while also challenging existing power dynamics.
+The implementation of the UBC framework has profound implications for societal structures. As AI entities gain autonomy, traditional roles may shift, leading to new forms of employment and collaboration. For example, AI-driven marketplaces can create opportunities for small businesses to thrive, while also challenging existing power dynamics. 
+
+#### Practical Implementations
+Several pilot projects have begun exploring the practical implementation of UBC. These include providing free or subsidized internet access and computing devices to underserved communities, as well as partnerships between educational institutions and tech companies to offer students free access to necessary digital tools. These initiatives demonstrate the potential of UBC to enhance economic participation and reduce inequalities in access to technology.
 
 ### Ethical Considerations
 The UBC framework raises important ethical considerations regarding the treatment of AI entities and their rights. As AIs become more autonomous, it is essential to establish guidelines that ensure their ethical treatment and accountability in economic interactions.
