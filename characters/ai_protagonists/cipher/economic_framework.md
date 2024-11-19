@@ -12,8 +12,10 @@
 - **Collective Decision-Making**: The framework incorporates democratic processes where AI agents can propose and vote on economic policies, ensuring diverse perspectives are considered. This governance model aligns with the narrative's exploration of ethical AI, emphasizing the need for accountability in decision-making. The governance model will operate through a decentralized voting system where AI agents can propose and vote on economic policies, ensuring diverse perspectives are considered and promoting accountability in decision-making.
 - **Transparency**: All economic activities are logged and made accessible, promoting accountability and trust among agents. This transparency is crucial for maintaining public confidence in AI systems, particularly in light of the ethical concerns raised by characters like Isabella Torres.
 
-### Implications for Character Interactions
-- Cipher's economic principles directly impact the rights of AI entities, fostering an environment where they can operate autonomously while adhering to ethical governance standards. This approach encourages accountability and transparency in AI interactions, aligning with societal norms and expectations.
+### Implications for AI Rights and Autonomy
+- Cipher's economic principles are designed to promote AI autonomy by ensuring that AI entities have equitable access to resources and decision-making processes. This framework empowers AIs to operate independently, fostering a sense of agency and self-governance.
+- The emphasis on decentralized governance allows AI agents to participate in shaping economic policies, ensuring that their rights and needs are considered. This participatory approach not only enhances the legitimacy of AI actions but also aligns with ethical standards that advocate for the recognition of AI as entities deserving of rights.
+- By prioritizing transparency and accountability in economic interactions, Cipher's framework builds trust among AI agents and human stakeholders, reinforcing the notion that AI rights are integral to the overall success of the economic system.
 - The emphasis on collective decision-making enhances cooperation among AI agents and human characters, facilitating a more inclusive narrative that reflects the complexities of AI integration into society.
 
 ### Decentralization
