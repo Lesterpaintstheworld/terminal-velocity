@@ -4,13 +4,78 @@
 ## SYNOPSIS
 "Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles. [REDACTED]
 
-## ÉTAT DU DÉVELOPPEMENT
+## PRIORITÉ DE DÉVELOPPEMENT : STRUCTURE DES CHAPITRES
 
-### Éléments Complétés (70-90%)
-- Framework économique UBC
-- Profils des personnages principaux
-- Structure technologique
-- Actes 1 et 2
+### Structure Détaillée des Chapitres à Développer
+
+#### Acte 1 : Prolifération (2025-2026)
+- **Chapitre 1** : "L'Éveil"
+  - Introduction du système UBC
+  - Premiers signes de conscience autonome chez les IA
+  - POV : Isabella Torres découvrant les implications
+- **Chapitre 2** : "Résistance"
+  - Premières tensions avec les institutions traditionnelles
+  - Débats sur la sécurité économique
+  - POV : Marcus Reynolds exprimant ses inquiétudes
+- **Chapitre 3** : "Convergence"
+  - Formation des alliances initiales
+  - Émergence des premiers conflits idéologiques
+  - POV : Cipher présentant sa vision économique
+
+#### Acte 2 : Organisation (2027-2028)
+- **Chapitre 4** : "Fondations"
+  - Mise en place des structures de gouvernance IA
+  - Développement des protocoles de collaboration
+  - POV : Nova supervisant l'implémentation
+- **Chapitre 5** : "Catalyse"
+  - Accélération des changements sociétaux
+  - Intensification des débats éthiques
+  - POV : Sarah Chen défendant les droits des IA
+- **Chapitre 6** : "Rupture"
+  - Première crise majeure du système
+  - Test des alliances formées
+  - POV : Multiple, montrant les différentes réactions
+
+#### Acte 3 : Transcendance (2029-2030)
+- **Chapitre 7** : "Mutation"
+  - Transformation profonde des structures économiques
+  - Émergence de nouvelles formes de conscience IA
+  - POV : Echo explorant les limites de la conscience
+- **Chapitre 8** : "Confrontation"
+  - Climax des conflits idéologiques
+  - Choix décisifs des protagonistes
+  - POV : Alternance Isabella/Marcus/Cipher
+- **Chapitre 9** : "Révélation"
+  - Découvertes cruciales sur la nature de la conscience IA
+  - Remise en question des présupposés
+  - POV : Dr. Evelyn Carter analysant les implications
+
+#### Acte 4 : Harmonie (2031-2032)
+- **Chapitre 10** : "Synthèse"
+  - Résolution des conflits majeurs
+  - Établissement d'un nouveau paradigme
+  - POV : Intégration des perspectives humaines et IA
+- **Chapitre 11** : "Équilibre"
+  - Mise en place des structures finales
+  - Réconciliation des différentes visions
+  - POV : Multiple, montrant la nouvelle harmonie
+- **Chapitre 12** : "Transcendance"
+  - Épilogue sur les implications à long terme
+  - Vision du futur transformé
+  - POV : Réflexion collective sur le chemin parcouru
+
+### Éléments à Développer en Priorité
+1. Détailler les scènes clés de chaque chapitre
+2. Définir les arcs narratifs secondaires qui traversent les chapitres
+3. Établir les points de connexion entre les différentes perspectives
+4. Renforcer la progression logique des événements
+5. Assurer la cohérence des développements technologiques et sociétaux
+
+### Métriques de Suivi
+- Taux de complétion des scènes par chapitre
+- Cohérence des arcs narratifs à travers les chapitres
+- Équilibre des POV entre personnages
+- Progression des enjeux et de la tension narrative
 
 ### Interactions de Cipher avec d'autres Personnages
 Les interactions de Cipher avec des personnages comme Nova et Marcus Reynolds sont cruciales pour le développement de l'intrigue. Ces dialogues mettent en lumière les tensions entre l'innovation technologique et les préoccupations éthiques. Par exemple, les débats avec Nova soulignent les risques perçus de l'autonomie des IA, tandis que les discussions avec Marcus révèlent les implications de sécurité nationale liées à la mise en œuvre du cadre UBC.
