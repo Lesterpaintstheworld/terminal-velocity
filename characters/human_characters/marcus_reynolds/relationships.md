@@ -6,9 +6,9 @@
 3. **Underdeveloped Collaborative Moments**: While there are collaborative scenes, they often lack detail on how the characters negotiate their differences, which is crucial for character development.
 
 ## Proposed Enhancements
-1. **Incorporate Emotional Stakes**: Add dialogue that reflects Marcus's internal struggles and motivations during key interactions, particularly with Isabella.
-2. **Explore Conflict Resolution**: Create scenarios where Marcus and Isabella find common ground, showcasing their ability to navigate ideological differences.
-3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Marcus, Isabella, and Sarah work together to address challenges, emphasizing their evolving relationships.
+1. **Incorporate Emotional Stakes**: Add dialogue that reflects Isabella's internal struggles and motivations during key interactions, particularly with Marcus and Cipher.
+2. **Explore Conflict Resolution**: Create scenarios where Isabella and Marcus find common ground, showcasing their ability to navigate ideological differences.
+3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Isabella, Marcus, and Sarah work together to address challenges, emphasizing their evolving relationships.
 - **Key Dynamics**: Isabella and Marcus share a mutual respect for each other's goals, but their differing views on the role of AI in society often lead to intense discussions. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." However, they also find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
 
 ## Relationship with Isabella Torres
