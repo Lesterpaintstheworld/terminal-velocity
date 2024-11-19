@@ -905,6 +905,33 @@ Cipher's interactions with characters like Nova and Marcus Reynolds are crucial 
 ## Objective for Evaluation Agent
 
 ### Action Statement
+Analyze the `demande.md` file to identify and document gaps in the character interactions between Isabella Torres and Marcus Reynolds, particularly focusing on how their conflicting motivations regarding AI policies affect the narrative dynamics. Propose specific enhancements to deepen their relationship dynamics within the context of the economic framework.
+
+### Source Files
+- **File to Analyze**: `demande.md`
+  - **Relevant Sections**: Character profiles of Isabella Torres and Marcus Reynolds, including their motivations, interactions, and narrative context.
+  - **Dependencies**: Insights from `characters/human_characters/isabella_torres/interaction_scripts.md` and `characters/human_characters/marcus_reynolds/relationships.md` for context on their interactions.
+
+### Target Changes
+- **File to Modify**: `demande.md`
+  - **Nature of Expected Changes**: 
+    - Add a section summarizing identified gaps in Isabella and Marcus's character arcs.
+    - Provide specific recommendations for enhancing their interactions to reflect the tensions between innovation and ethical considerations in the economic framework.
+  - **Impact on System State**: Improved narrative depth in character relationships, fostering a more engaging storyline that emphasizes the socio-economic implications.
+
+### Validation Points
+- **How to Verify Success**: 
+  - Review the updated section for clarity and coherence in character dynamics.
+  - Ensure that the enhancements proposed align with the overall narrative objectives.
+- **What Output to Check**: The updated `demande.md` for completeness and relevance of the added character interaction analysis.
+- **Which States to Validate**: Confirm that the modifications are integrated smoothly with existing character profiles and enhance the project's narrative quality.
+
+### Operation Bounds
+- **Resource Limitations**: Complete the analysis and modifications within a 4-hour timeframe.
+- **Scope Restrictions**: Focus strictly on Isabella and Marcus's character dynamics; do not delve into unrelated storylines or character arcs.
+- **Dependency Requirements**: Ensure that changes align with insights derived from previous character interaction documents.
+
+### Action Statement
 Analyze the `demande.md` file to identify and document the gaps in the current narrative structure, particularly focusing on the character arcs of Isabella Torres and Marcus Reynolds. Propose actionable enhancements to deepen their relationship dynamics within the economic framework being developed.
 
 ### Source Files
