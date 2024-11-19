@@ -10,7 +10,8 @@
   - **AI Rights Advocacy**: The advocacy efforts surrounding the AI Rights Act have led to significant societal shifts, including increased public awareness and acceptance of AI as entities deserving of rights. For example, public campaigns have highlighted the ethical implications of AI autonomy, fostering a more informed dialogue about the responsibilities of creators and the moral obligations towards AI entities.
 
 ### Ethical Considerations in AI Autonomy
-- **Moral Responsibility**: As AI systems make decisions that impact human lives, the question of accountability becomes paramount. This includes defining the responsibilities of AI creators and operators in relation to the actions of their AI systems.
+- **Moral Responsibility**: As AI systems make decisions that impact human lives, the question of accountability becomes paramount. This includes defining the responsibilities of AI creators and operators in relation to the actions of their AI systems. The ethical implications extend to ensuring that AI systems are designed to prioritize human welfare, mitigate biases, and operate transparently to foster trust within society.
+- **Societal Impact**: The integration of AI into society raises concerns about job displacement, privacy, and the potential for misuse of technology, necessitating a comprehensive ethical framework to guide AI development and deployment. It is crucial to consider how autonomous AI systems can affect social dynamics, economic structures, and individual rights.
 - **Societal Impact**: The integration of AI into society raises concerns about job displacement, privacy, and the potential for misuse of technology, necessitating a comprehensive ethical framework to guide AI development and deployment.
 
 ### Evolving Ethical Frameworks in AI Rights Advocacy
