@@ -1663,7 +1663,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
@@ -1801,7 +1801,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "But at what cost? If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. We have a responsibility to ensure that our policies uplift everyone, not just the privileged."
 
-**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. However, I understand your concerns; perhaps we can find a way to balance both."
 
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 
@@ -2009,7 +2009,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
 
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*
