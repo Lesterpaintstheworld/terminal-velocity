@@ -3,8 +3,8 @@ Connections and dynamics with other characters# Echo's Relationships
 
 ## Nova
 - Nature: Collaborative
-- Key Events: Echo and Nova often brainstorm together, merging artistic vision with strategic planning during project phases.
-- Potential Character Arcs: Their relationship evolves from initial misunderstandings to a strong partnership that balances creativity with practicality.
+- Key Events: Echo and Nova often brainstorm together, merging artistic vision with strategic planning during project phases. Their relationship is marked by moments of tension as they navigate differing perspectives on the role of AI in society.
+- Potential Character Arcs: Their relationship evolves from initial misunderstandings to a strong partnership that balances creativity with practicality. Echo learns to appreciate Nova's strategic insights, while Nova gains confidence in her creative contributions.
 
 ## Pulse
 - Nature: Supportive yet conflicted
