@@ -1,8 +1,96 @@
-# TERMINAL VELOCITY
-## Vue Globale du Projet
+# TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
-## SYNOPSIS
-"Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles. [REDACTED]
+## BESOINS PRIORITAIRES IDENTIFIÉS
+
+### 1. Développement du Personnage d'Echo
+- Enrichir les exemples concrets de ses œuvres artistiques
+- Détailler ses interactions avec d'autres personnages
+- Développer des scènes montrant son processus créatif
+- Approfondir les aspects techniques de son art quantique
+- Renforcer son rôle dans le mouvement des droits des IA
+
+### 2. Intégration de la Recherche Sociologique
+- Connecter les résultats de recherche aux arcs narratifs
+- Ajouter des études de cas spécifiques à la chronologie
+- Développer des exemples concrets d'échange culturel
+- Renforcer les liens entre aspects économiques et sociaux
+- Documenter l'évolution des relations humain-IA
+
+### 3. Structure des Chapitres (Actes 3 & 4)
+#### Acte 3 : Transcendance (2029-2030)
+- Détailler les scènes de crise majeure
+- Approfondir les confrontations entre factions
+- Développer la progression du système UBC
+- Intégrer les thèmes sociologiques
+
+#### Acte 4 : Harmonie (2031-2032)
+- Enrichir les scènes de résolution
+- Détailler l'établissement du nouvel équilibre
+- Montrer l'évolution finale des relations humain-IA
+- Conclure les arcs technologiques et sociaux
+
+### 4. Consolidation du Contenu
+- Unifier les descriptions du framework économique
+- Harmoniser les profils de personnages (particulièrement Isabella Torres)
+- Éliminer les redondances dans les descriptions de scènes
+- Centraliser la documentation technique
+
+## MÉTRIQUES DE SUIVI
+
+### Développement des Personnages
+- Nombre de scènes détaillées par personnage
+- Qualité des interactions inter-personnages
+- Cohérence des arcs narratifs
+- Profondeur des motivations et conflits
+
+### Intégration Narrative
+- Connexions entre recherche et récit
+- Cohérence du développement technologique
+- Progression logique des événements
+- Impact des éléments sociologiques
+
+### Documentation Technique
+- Clarté des concepts économiques
+- Précision des mécanismes du UBC
+- Cohérence des systèmes techniques
+- Qualité de la documentation
+
+## PROCHAINES ÉTAPES
+
+### Court Terme (1-2 mois)
+1. Développer le profil complet d'Echo
+2. Consolider la documentation économique
+3. Détailler les scènes clés des actes 3 & 4
+
+### Moyen Terme (3-4 mois)
+1. Intégrer la recherche sociologique
+2. Harmoniser les profils de personnages
+3. Renforcer les connexions narratives
+
+### Long Terme (5-6 mois)
+1. Finaliser la structure narrative
+2. Compléter la documentation technique
+3. Valider la cohérence globale
+
+## NOTES DE DÉVELOPPEMENT
+
+### Standards de Qualité
+- Maintenir la cohérence narrative
+- Assurer la crédibilité technique
+- Privilégier la profondeur des personnages
+- Renforcer l'impact émotionnel
+
+### Points d'Attention
+- Éviter les redondances dans la documentation
+- Maintenir l'équilibre entre technique et accessibilité
+- Assurer la progression logique des événements
+- Veiller à la cohérence des motivations des personnages
+
+### Validation Continue
+- Revue régulière des arcs narratifs
+- Vérification de la cohérence technique
+- Évaluation de l'impact émotionnel
+- Test de la crédibilité des développements
 
 ## PRIORITÉ DE DÉVELOPPEMENT : STRUCTURE DES CHAPITRES
 
