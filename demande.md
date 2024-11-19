@@ -25,7 +25,7 @@
 - Détails culturels
 
 ## Identified Gaps in Communication Protocols
-- **Gap 1**: Lack of clarity in the communication protocols between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds).
+- **Gap 1**: Lack of clarity in the communication protocols related to Cipher's economic framework interactions with key characters (Isabella Torres, Nova, and Marcus Reynolds).
 - **Gap 2**: Insufficient documentation on the emotional stakes and personal motivations behind their interactions.
 - **Gap 3**: Need for more actionable recommendations to improve collaboration and clarity in economic discussions.
 
@@ -33,6 +33,7 @@
 1. **Clarify Governance Mechanisms**: Provide detailed descriptions of how decentralized governance will function in practice, including decision-making processes and conflict resolution strategies.
 2. **Define Resource Allocation Metrics**: Outline specific metrics and criteria used to assess equitable resource distribution among AI agents.
 3. **Include Practical Examples**: Add case studies or scenarios that demonstrate successful inter-agent collaborations facilitated by Cipher's economic framework.
+4. **Enhance Communication Protocols**: Develop specific recommendations for improving communication strategies between Cipher and key characters to ensure clarity and effectiveness in their collaboration.
 
 ## Proposed Enhancements to Communication Protocols
 - **Enhancement 1**: Implement real-time monitoring for communication failures to enable immediate response and logging of incidents.
