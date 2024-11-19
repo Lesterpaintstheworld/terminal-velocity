@@ -1885,7 +1885,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
 
 *She reflects on her motivations, realizing that her goals, while different, stem from a shared desire to create a better future with Marcus.*
 ### Scene 1: Ideological Conflict with Nova
@@ -2063,7 +2063,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
 
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*

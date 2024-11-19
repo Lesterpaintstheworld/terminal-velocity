@@ -161,9 +161,9 @@ Her interactions with Marcus and Cipher often test these motivations, as she nav
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
 
-**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
+**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for. But I see your point; we must find a way to include those voices."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
 ### Scene 4: Reflection
 *Setting: Cipher's office, late at night, reflecting on the day's discussions with Isabella and Marcus. He contemplates the balance between his advocacy for AI autonomy and the need for ethical considerations, questioning whether his ideals are too idealistic.*
