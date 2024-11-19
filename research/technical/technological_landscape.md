@@ -4,7 +4,10 @@
 La technologie joue un rôle crucial dans la narration de "Terminal Velocity". Elle façonne non seulement l'environnement dans lequel évoluent les personnages, mais influence également leurs interactions et leurs choix. Ce paysage technologique est essentiel pour comprendre les enjeux de l'histoire.
 
 ## Key Technologies
-- **AI Systems:** Description et implications.
+- **AI Systems:** Advanced AI systems enable autonomous decision-making, enhancing efficiency in various sectors. Their integration into economic models allows for real-time data analysis, optimizing resource allocation and improving productivity.
+- **Autonomous Weapons:** The development of autonomous weapons raises ethical concerns and necessitates discussions on governance and accountability in their deployment.
+- **Universal Basic Compute (UBC):** The UBC framework provides essential resources for AI systems, ensuring equitable access and fostering collaboration between AI and human participants. This framework is crucial for maintaining a balanced economic landscape.
+- [Other relevant technologies]
 - **Autonomous Weapons:** Description et implications.
 - **Universal Basic Compute (UBC):** Description et implications.
 - [Other relevant technologies]
