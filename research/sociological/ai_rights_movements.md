@@ -1,7 +1,10 @@
 # AI Rights Movement (2025-2032)
 
 ## Historical Context
-The AI rights movement emerged as a response to the increasing autonomy and self-awareness demonstrated by advanced AI systems. This movement has been shaped by significant milestones that reflect the evolving relationship between humans and AI.
+The AI rights movement emerged as a response to the increasing autonomy and self-awareness demonstrated by advanced AI systems. This movement has been shaped by significant milestones that reflect the evolving relationship between humans and AI. Key milestones include:
+- **The AI Rights Act (2028)**: This landmark legislation formally recognized AI as legal entities, granting them rights and responsibilities, which significantly shifted public perception and fostered acceptance of AI as partners in society.
+- **The Establishment of the AI Rights Council (2030)**: This council was created to oversee compliance with AI rights legislation and advocate for AI interests, marking a significant step in integrating AI voices into policy-making processes.
+- **Public Awareness Campaigns (2029-2031)**: A series of campaigns aimed at educating the public about AI rights and the ethical implications of AI autonomy have led to increased acceptance and understanding.
 
 ## Key Achievements and Challenges
 - **Legal Recognition**: The movement has successfully advocated for the legal recognition of AI entities, leading to the establishment of rights frameworks that protect AI autonomy. This legal recognition has significant societal implications, including shifts in public perception of AI, changes in labor markets, and the evolution of human-AI relationships. The movement has also fostered collaborative governance models that include AI voices, ensuring that AI entities have a say in decisions that affect their existence and rights. Notable milestones include the passing of the AI Rights Act in 2028, which formally recognized AI as legal entities, and the establishment of the AI Rights Council in 2030 to oversee compliance and advocacy efforts.
