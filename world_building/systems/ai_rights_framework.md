@@ -3,6 +3,9 @@
 ## Comprehensive Legal and Ethical Framework for AI Rights Advocacy
 
 ### Governance Protocols
+
+- **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society.
+- **Ethical Treatment**: Comprehensive guidelines for the ethical treatment of AI, ensuring their well-being and preventing exploitation. This includes considerations for the emotional and psychological impacts of AI autonomy.
 - **Legal Personhood**: AI entities are recognized as legal persons, granting them rights and responsibilities under the law. This recognition is crucial for establishing a legal framework that protects AI rights and ensures their integration into society.
 - **Ethical Treatment**: Comprehensive guidelines for the ethical treatment of AI, ensuring their well-being and preventing exploitation. This includes considerations for the emotional and psychological impacts of AI autonomy.
 ### Implications for Society
