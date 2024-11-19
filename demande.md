@@ -11,8 +11,8 @@
 3. **Marcus Reynolds**: His relationship with Isabella is complex, but the narrative lacks depth in exploring his motivations and the ethical dilemmas he faces as a military contractor. 
 
 ### Proposed Enhancements
-1. **Enhance Emotional Depth**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions. For example, during a pivotal moment, Isabella could express her fears about the implications of their policies on vulnerable populations.
-2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences. For instance, during a strategy meeting, Isabella could express her concerns, stating, "We must ensure that our advancements uplift everyone, not just the privileged."
+1. **Enhance Emotional Depth**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions. For example, during a pivotal moment, Isabella could express her fears about the implications of Marcus's policies on vulnerable populations.
+2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences. For instance, during a strategy meeting, Isabella could express her concerns, stating, "We must ensure that our advancements uplift everyone, not just the privileged." Additionally, a scene could be added where Marcus acknowledges Isabella's concerns, creating a moment of vulnerability that deepens their relationship.
 3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships and the impact of their decisions on the broader narrative.
 
 ### 1. Développement du Personnage d'Echo
