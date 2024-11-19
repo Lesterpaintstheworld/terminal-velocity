@@ -20,7 +20,7 @@ Isabella often grapples with the tension between her desire for innovation in ec
 - **With Sarah Chen**: Isabella collaborates closely with Sarah, leveraging her legal expertise to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies.
 
 ### Key Interaction Scenarios
-1. **Ethical Dilemma with Marcus Reynolds**: Isabella challenges Marcus on the implications of AI policies, emphasizing the need for ethical considerations.
+1. **Ethical Dilemma with Marcus Reynolds**: Isabella challenges Marcus on the implications of AI policies, emphasizing the need for ethical considerations. During a pivotal moment, she expresses her fears, stating, "If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
 2. **Finding Common Ground with Sarah Chen**: Isabella and Sarah strategize on how to advocate for AI rights while ensuring that marginalized communities are protected.
 3. **Tension Peaks with Marcus Reynolds**: A public debate where Isabella confronts Marcus about the potential consequences of his policies on vulnerable populations.
 
