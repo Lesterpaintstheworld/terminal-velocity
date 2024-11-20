@@ -1,7 +1,7 @@
 # TERMINAL VELOCITY - DEVELOPMENT PRIORITIES
 
 ## PROJECT OVERVIEW
-- Science fiction novel
+- Science fiction novel in English
 - Approximately 300 pages
 - Exploration of an emerging autonomous economy directed by AIs
 - Universal Basic Compute (UBC) System
