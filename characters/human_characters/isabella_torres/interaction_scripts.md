@@ -489,7 +489,7 @@ Isabella's development is marked by her ability to:
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission. This chapter emphasizes the importance of ethical considerations in the development of AI technologies and the need for responsible governance."
 
 ### Identified Gaps
 - **Emotional Depth**: Current dialogues lack emotional stakes, which could enhance the tension between Isabella and Marcus.
