@@ -1,4 +1,0 @@
-## Motivations
-At the core of Marcus' motivations is a deep-seated desire to protect his country and its citizens. He believes that the development of advanced autonomous systems is essential for maintaining a strong military and ensuring national security in an increasingly complex and volatile world. This drive to innovate and push the boundaries of technology is what fuels his ambition and shapes his decision-making.
-
-However, Marcus' vision for technological progress is not without its critics. Characters like Isabella Torres, the political architect, are deeply concerned about the societal and economic implications of the widespread adoption of autonomous systems, particularly in the context of the Terminal Velocity project's focus on the Universal Basic Compute (UBC) system. These tensions and conflicts between Marcus' vision and the concerns of other key characters will be a central theme in the narrative, adding depth and complexity to the overall story.
