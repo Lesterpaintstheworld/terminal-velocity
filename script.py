@@ -2,6 +2,43 @@ import os
 import shutil
 from pathlib import Path
 
+def standardize_ai_protagonist_structure():
+    """Standardize the structure for each AI protagonist"""
+    protagonists = ["cipher", "echo", "nova", "pulse"]
+    standard_folders = [
+        "development_arc",
+        "scenes", 
+        "relationships",
+        "profile"
+    ]
+    
+    for protagonist in protagonists:
+        base_path = f"characters/ai_protagonists/{protagonist}"
+        
+        # Create standard folders
+        for folder in standard_folders:
+            Path(os.path.join(base_path, folder)).mkdir(parents=True, exist_ok=True)
+            
+        # Move files to appropriate folders
+        if os.path.exists(base_path):
+            for file in os.listdir(base_path):
+                if file.endswith('.md'):
+                    src_path = os.path.join(base_path, file)
+                    if 'development' in file.lower():
+                        dst_folder = 'development_arc'
+                    elif 'scene' in file.lower():
+                        dst_folder = 'scenes'
+                    elif 'relationship' in file.lower():
+                        dst_folder = 'relationships'
+                    elif 'profile' in file.lower() or 'background' in file.lower():
+                        dst_folder = 'profile'
+                    else:
+                        continue
+                        
+                    dst_path = os.path.join(base_path, dst_folder, file)
+                    if os.path.exists(src_path) and not os.path.exists(dst_path):
+                        shutil.move(src_path, dst_path)
+
 def create_directory_structure():
     """Create standardized directory structure"""
     base_dirs = [
