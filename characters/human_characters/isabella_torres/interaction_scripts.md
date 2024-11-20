@@ -133,7 +133,7 @@
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission. We have a duty to ensure that our advancements uplift everyone, not just the privileged."
 
 ## Recommendations for Enhancements
 1. **Incorporate Emotional Stakes**: Add dialogue that reflects Isabella's internal struggles and motivations during key interactions, particularly with Marcus.
@@ -1243,7 +1243,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility."
 
 ### Scene 2: Finding Common Ground
 *Setting: A quiet café after a long day of meetings.*
@@ -1849,7 +1849,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
 
-**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
+**Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards."
 
 **Isabella**: "But at what cost? If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. We have a responsibility to ensure that our policies uplift everyone, not just the privileged."
 
