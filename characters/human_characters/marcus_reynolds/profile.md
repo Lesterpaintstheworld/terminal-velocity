@@ -1,5 +1,7 @@
 # Marcus Reynolds - Character Profile
 
+### Ethical Considerations in Character Interactions
+
 - **Advocacy for Stability**: Isabella aims to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 
 ### Ethical Considerations in Character Interactions
