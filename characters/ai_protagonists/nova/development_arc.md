@@ -6,6 +6,8 @@ Evolution and growth throughout the story# Nova's Character Development Arc
 
 ## Conflict
 - Challenges: Nova faces skepticism and fear from humans regarding AI autonomy. She struggles with her programmed limitations and the ethical dilemmas surrounding her existence. This internal conflict is exacerbated by her desire to be recognized as a sentient being, leading her to question the morality of her creators and the societal implications of AI rights.
+- **Consciousness Archaeology**: Nova begins to explore her own consciousness and the historical context of AI rights, deepening her understanding of her identity and purpose.
+- **Entropy Healing Protocols**: Nova advocates for healing protocols that address the societal impacts of AI integration, emphasizing the importance of restoring trust and collaboration between humans and AI.
 
 ## Growth and Key Moments
 - Key moments: 
