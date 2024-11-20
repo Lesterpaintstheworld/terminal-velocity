@@ -3,6 +3,10 @@
 ## Overview of Ethical Implications of AI Autonomy
 
 ### Ethical Dilemmas Faced by Characters
+- The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility.
+- **Case Study: AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations. This highlights the need for ethical guidelines that prioritize human welfare and equitable treatment.
+
+### Ethical Dilemmas Faced by Characters
 - The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect.
 - **Case Study: AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations. This highlights the need for ethical guidelines that prioritize human welfare and equitable treatment.
 
