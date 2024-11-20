@@ -1,7 +1,7 @@
 ## Redaction Agent Objective
 
 1. **Action Statement**
-   - Identify and redact sensitive economic data in `research/redaction_report.md` to ensure compliance with privacy regulations.
+   - Identify and redact sensitive economic data in `research/redaction_report.md` to ensure compliance with privacy regulations. **[REDACTED]**
 
 2. **Source Files**
    - Analyze `research/redaction_report.md`.
@@ -15,8 +15,8 @@
      - Document the rationale for each redaction.
 
 4. **Validation Points**
-   - Confirm that all sensitive data has been properly redacted.
-   - Check that the document maintains coherence after redaction.
+   - Confirm that all sensitive data has been properly redacted. **[REDACTED]**
+   - Check that the document maintains coherence after redaction. **[REDACTED]**
    - Ensure compliance with privacy regulations is documented.
 
 5. **Operation Bounds**
