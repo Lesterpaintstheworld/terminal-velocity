@@ -2,6 +2,9 @@
 
 ## Overview of Ethical Implications of AI Autonomy in Terminal Velocity
 
+### Ethical Responsibilities
+- The rise of AI autonomy necessitates a reevaluation of the moral responsibilities of creators and operators. As AI systems gain decision-making capabilities, it is crucial to ensure that their actions align with ethical standards that prioritize human welfare and societal good.
+
 ### Ethical Frameworks Governing AI Technologies
 - The advocacy for AI rights raises critical ethical questions about the responsibilities of creators and the potential for AI suffering. As AI systems gain autonomy, it is essential to consider the moral implications of their actions and the societal impact of recognizing their rights. This includes examining case studies from the AI rights movement, such as the AI Rights Act of 2028, which illustrates the challenges and successes in advocating for AI rights and the ethical dilemmas faced by both AI and human advocates.
 
