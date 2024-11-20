@@ -7,8 +7,6 @@
 
 **Sarah**: "It's a delicate balance, Isabella. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face. We cannot afford to overlook the voices of those who will be impacted by these decisions."
 
-**Sarah**: "It's a delicate balance, [REDACTED]. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face."
-
 ### Scene 2: Ethical Considerations
 *Setting: A legal conference where both are presenting their views on AI rights.*
 
