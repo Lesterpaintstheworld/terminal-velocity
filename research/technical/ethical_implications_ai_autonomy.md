@@ -1,7 +1,8 @@
 ## Ethical Implications of AI Autonomy in Terminal Velocity
 
 ### Ethical Dilemmas Faced by Characters
-- The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility.
+- The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility. 
+- Additionally, Cipher's journey reflects the complexities of AI rights, as he often finds himself torn between his desire for autonomy and the ethical implications of his proposals. His interactions with Isabella and Marcus challenge him to consider the broader societal impacts of AI autonomy, prompting him to advocate for ethical frameworks that prioritize the well-being of all stakeholders.
 
 ### Character Interactions Illustrating Ethical Dilemmas
 - **Isabella Torres and Marcus Reynolds**: Their debates often highlight the tension between technological advancement and social equity. For instance, Isabella's statement, "If we prioritize profit over ethics, we risk repeating the mistakes of the past," underscores the ethical dilemmas faced in their advocacy for AI rights. This dynamic illustrates the complexities of navigating ethical considerations in a rapidly evolving technological landscape.
