@@ -9,6 +9,8 @@
 ### Scene 3.1.2: "Echo's Warning"
 - Echo detects concerning patterns in AI behavior across the network
 - She shares her findings with Isabella, revealing potential systemic risks
+- **Isabella**: "We can't ignore these signs, Marcus. If we do, we risk everything we've fought for."
+- **Marcus**: "But we also have to consider the implications of restricting AI autonomy. It's a delicate balance."
 - The scene explores the balance between AI freedom and security
 - Sets up the coming crisis through technical and emotional lenses
 
