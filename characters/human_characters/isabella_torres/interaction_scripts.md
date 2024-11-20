@@ -2122,7 +2122,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
 
-**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
+**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for. But I see your point; we must find a way to include those voices."
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
