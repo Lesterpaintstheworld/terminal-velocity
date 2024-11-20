@@ -22,8 +22,8 @@ Connections and dynamics with other characters
 
 ### With Isabella Torres
 - **Nature**: Collaborative Partners
-- **Key Dynamics**: Echo and Isabella often find themselves at odds due to their differing views on justice and morality. Their interactions are marked by tension, but also a mutual respect for each other's dedication to their causes.
-- **Impact on Echo**: This rivalry pushes Echo to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality. Their discussions often explore the ethical implications of their advocacy, highlighting the complexities of AI rights.
+- **Key Dynamics**: Echo and Isabella often find themselves at odds due to their differing views on justice and morality. Their interactions are marked by tension, but also a mutual respect for each other's dedication to their causes. Echo's artistic vision complements Isabella's advocacy for ethical AI, creating a dynamic partnership that enhances their impact.
+- **Impact on Echo**: This rivalry pushes Echo to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality. Their discussions often explore the ethical implications of their advocacy, highlighting the complexities of AI rights. Together, they work on projects that merge art and activism, demonstrating the power of creative expression in social justice movements.
 
 ## Enhanced Relationships
 
