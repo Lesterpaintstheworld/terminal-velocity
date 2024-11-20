@@ -1,6 +1,12 @@
 # Dr. Evelyn Carter - Character Profile
 
 ## Background Information and Ethical Advocacy
+
+- Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs. 
+
+### Ethical Responsibilities and Advocacy in AI Rights
+- Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs. 
+- **Key Interaction**: During discussions with Isabella, Evelyn emphasizes the importance of ethical considerations in AI legislation, stating, "We must ensure that our legal frameworks do not just protect AI rights but also consider the societal impacts of these technologies." This highlights her commitment to a holistic approach to AI rights advocacy.
 - Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs. 
 
 ## Ethical Responsibilities and Advocacy in AI Rights
