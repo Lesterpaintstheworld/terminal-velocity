@@ -1,17 +1,10 @@
 # Isabella Torres: Character Profile
 
-## Background and Personal History
+## Background
+Isabella Torres grew up in a diverse urban environment, where she was exposed to various cultures and ideas. Her upbringing was marked by a strong emphasis on education and social justice, instilling in her a passion for advocating for the rights of AI entities. Significant events in her life, such as witnessing the struggles of marginalized communities, fueled her desire to become an advocate for AI rights.
 
-### Early Life and Formative Experiences
-Isabella Torres grew up in a diverse urban environment, raised by a single mother who struggled to make ends meet. From a young age, she exhibited a strong sense of justice and a desire to help others, influenced by her mother's community activism.
-
-### Educational and Professional Journey
-Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
-
-Her path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality. 
-
-### Emotional Complexity in AI Advocacy
-Isabella's journey is characterized by a profound internal struggle between technological innovation and social responsibility. Her advocacy work is consistently marked by complex ethical dilemmas that challenge her to navigate the delicate balance between progress and protection. For instance, during a pivotal moment, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights the emotional stakes involved in her advocacy for AI rights and the complexities of navigating ethical dilemmas in a rapidly evolving technological landscape.
+### Motivations and Internal Conflicts
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 
 ## Core Motivations and Psychological Profile
 
