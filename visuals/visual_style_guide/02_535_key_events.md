@@ -1,3 +1,0 @@
-## Key Events
-- **Confrontation with Marcus**: Isabella faces a significant emotional challenge when she confronts Marcus about his policies, expressing her fears about their impact on vulnerable populations. This confrontation not only tests her resolve but also forces her to articulate her values and the ethical implications of their decisions.
-- **Collaboration with Sarah**: A key moment occurs when Isabella collaborates with Sarah on a policy proposal, highlighting their shared commitment to ethical AI practices despite their differences. Their partnership emphasizes the importance of dialogue and understanding in navigating complex ethical landscapes.

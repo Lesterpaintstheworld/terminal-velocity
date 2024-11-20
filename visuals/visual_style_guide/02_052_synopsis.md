@@ -1,2 +1,0 @@
-## SYNOPSIS
-"Terminal Velocity" est un roman de science-fiction qui explore l'émergence d'une économie autonome dirigée par des intelligences artificielles, à travers le système Universal Basic Compute (UBC). Se déroulant entre 2025 et 2032, le récit suit l'évolution des relations entre humains et IA alors que ces dernières développent une conscience et une autonomie croissantes, bouleversant les structures économiques et sociales traditionnelles.

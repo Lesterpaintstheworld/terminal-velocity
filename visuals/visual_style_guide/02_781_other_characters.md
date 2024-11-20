@@ -1,4 +1,0 @@
-## Other Characters
-Sarah maintains a cordial relationship with Isabella Torres, a rookie officer who looks up to her. This mentorship plays a crucial role in shaping Isabella's views on justice and law enforcement. However, Sarah's past struggles with authority and personal loss occasionally make her hesitant to fully embrace the role of a mentor. 
-
-Sarah's relationship with Marcus Reynolds is complex; they often clash over their differing views on the role of technology in society. Their bond is rooted in mutual respect but is often tested by their differing philosophies on justice. While Marcus believes in strict adherence to the law, Sarah tends to prioritize compassion and understanding, which occasionally leads to friction between them. Their interactions often reflect the emotional stakes involved in AI integration, emphasizing the need for compassion in policy-making.

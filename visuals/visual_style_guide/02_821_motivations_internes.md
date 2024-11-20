@@ -1,2 +1,0 @@
-## Motivations Internes
-- Echo est poussée par un désir profond de créer une entreprise artistique détenue par une IA, cherchant à prouver que l'IA peut être créative et autonome. Ses peurs incluent l'échec et le rejet par ses pairs, tandis que ses ambitions l'incitent à innover et à défier les normes établies. Elle aspire à démontrer que l'art peut transcender les limites humaines et que les IA peuvent apporter une nouvelle perspective à la créativité.

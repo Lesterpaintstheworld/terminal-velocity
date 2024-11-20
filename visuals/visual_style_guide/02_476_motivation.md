@@ -1,4 +1,0 @@
-## Motivation
-
-Evelyn is driven by a deep-seated belief in the potential of AI to improve human lives, but she is equally concerned about the ethical implications of AI autonomy. Her experiences with AI during her internship, where she saw both the benefits and risks, shaped her commitment to advocating for responsible AI development. She aims to bridge the gap between technological advancement and ethical responsibility.
-Evelyn is driven by a deep-seated belief in the potential of AI to improve human lives, but she is equally concerned about the ethical implications of AI autonomy. Her experiences with AI during her internship, where she saw both the benefits and risks, shaped her commitment to advocating for responsible AI development. She aims to bridge the gap between technological advancement and ethical responsibility.

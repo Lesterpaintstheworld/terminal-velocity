@@ -1,2 +1,0 @@
-## État d'avancement
-Le projet est en phase avancée de développement, avec des progrès significatifs dans les arcs narratifs des personnages principaux, Isabella Torres et Marcus Reynolds. La documentation sur les dynamiques émotionnelles et éthiques a été considérablement enrichie. Cependant, des problèmes techniques persistent, notamment des fichiers contextuels manquants qui ont entravé certaines modifications.
