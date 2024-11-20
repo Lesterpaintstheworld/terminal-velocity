@@ -5,6 +5,14 @@ Cipher présente sa vision économique révolutionnaire tandis que Nova exprime 
 
 ## Scènes Clés
 1. **Vision de Cipher**
+2. **Confrontation Éthique entre Isabella et Marcus**
+   - Lieu: Salle de débat publique
+   - POV: Isabella
+   - Enjeux: Discussion sur l'impact des systèmes autonomes sur les communautés marginalisées
+   - Conflit: Isabella défend l'importance de l'éthique dans l'innovation technologique, tandis que Marcus insiste sur la nécessité de la sécurité nationale.
+   - Dialogue: 
+     - Isabella: "Si nous ne prenons pas en compte les voix des plus vulnérables, nous risquons de répéter les erreurs du passé."
+     - Marcus: "Nous devons aussi penser à la sécurité de notre pays. L'innovation ne peut pas se faire au détriment de notre protection."
    - Lieu: Salle de conférence virtuelle
    - POV: Cipher
    - Enjeux: Présentation détaillée du nouveau modèle économique
@@ -17,6 +25,13 @@ Cipher présente sa vision économique révolutionnaire tandis que Nova exprime 
    - Conflit: Désaccord sur le rythme du changement
 
 3. **Confrontation des Visions**
+4. **Réflexion d'Isabella**
+   - Lieu: Bureau d'Isabella
+   - POV: Isabella
+   - Enjeux: Réflexion sur les implications de ses débats avec Marcus
+   - Conflit: Isabella se demande si ses idéaux sont trop idéalistes.
+   - Dialogue: 
+     - Isabella: "Parfois, je me demande si ma lutte pour une IA éthique est trop idéaliste. Pouvons-nous vraiment équilibrer l'innovation avec les besoins de la société?"
    - Lieu: Forum de discussion virtuel
    - POV: Multiple
    - Enjeux: Débat sur l'avenir de l'économie IA
