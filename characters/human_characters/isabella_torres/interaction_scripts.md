@@ -1582,7 +1582,7 @@ In her interactions, Isabella often references the economic frameworks that guid
 ### Source Files
 - **Files to Analyze**: 
   - `characters/human_characters/isabella_torres/demande.md`
-  - `characters/human_characters/marcus_reynolds/profile.md`
+  - `characters/human_characters/marcus_reynolds/profile/`
 - **Relevant Sections**: 
   - For `demande.md`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
   - For `Marcus Reynolds - Character Profile.md`: Pay attention to his interactions with Isabella and their conflicting perspectives.
