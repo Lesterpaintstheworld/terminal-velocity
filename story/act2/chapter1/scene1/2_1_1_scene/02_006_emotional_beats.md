@@ -3,5 +3,6 @@
 - **Marcus**: Struggles with skepticism, fearing that UBC may lead to greater inequality rather than equity.
 - **Alexandra**: Experiences a sense of purpose, driven by her desire to support human counterparts in navigating these changes.
 - **Overall tone progression**: The scene transitions from anticipation to tension, highlighting the characters' conflicting emotions and ethical concerns.
-- [Character]: [Emotional journey]
-- [Overall tone progression]
+- **Isabella**: Feels a mix of hope and anxiety as she contemplates the potential changes UBC could bring to her community. She struggles with the weight of her advocacy, feeling torn between her desire for rapid AI advancements and the need for social equity. This internal conflict intensifies as she faces the consequences of their decisions, leading to moments of self-doubt and reflection on her role in shaping AI ethics.
+- **Marcus**: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations.
+- **Overall tone progression**: The scene transitions from anticipation to tension, highlighting the characters' conflicting emotions and ethical concerns.
