@@ -190,20 +190,25 @@
 
 ## ✍️ Revision and Validation
 
-### Narrative Coherence
+### Narrative Coherence [RedacteurAgent]
 - [ ] Check narrative arcs
 - [ ] Validate transitions
 - [ ] Ensure conflict progression
 
-### Technical Aspects
+### Technical Aspects [TesteurAgent]
 - [ ] Validate technological credibility
 - [ ] Verify system coherence
 - [ ] Confirm innovation logic
 
-### Emotional Impact
+### Emotional Impact [EvaluationAgent]
 - [ ] Test key scene resonance
 - [ ] Validate character depth
 - [ ] Verify reader engagement
+
+### Documentation Maintenance [ChroniqueurAgent]
+- [ ] Maintain change logs
+- [ ] Track progress
+- [ ] Generate status reports
 
 ## 🎯 Priority Objectives
 1. Develop art exhibition scene
