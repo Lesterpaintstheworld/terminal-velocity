@@ -1,6 +1,6 @@
 ## Key Developments
 
-### Key Developments
+### Key Developments and Character Dynamics
 
 ### UBC Framework Integration
 
