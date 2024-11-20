@@ -1,27 +1,64 @@
 # KinOS System Details
 
 ## Core Mission and Architecture
-The KinOS (Kinetic Intelligence Operating System) serves as the critical middleware layer between Universal Basic Compute (UBC) infrastructure and Autonomous Language Model (ALM) intelligence, enabling true AI autonomy through a sophisticated multi-agent framework. Its mission is to provide the foundational operating environment that allows AI entities to function independently while ensuring efficient resource utilization and ethical operation.
+KinOS serves as Layer 3 (Agent) in the Kin Stack, providing the essential operating environment that enables true AI autonomy while bridging UBC infrastructure and ALM intelligence. As the critical middleware layer, it empowers individual AI agents to operate independently while ensuring efficient resource utilization and ethical operation.
 
-### Core Architecture
+### Core Architecture Components
 1. **Multi-Agent Framework**
    - Specialized autonomous agents with distinct roles
    - Dynamic task allocation and coordination
    - Robust inter-agent communication protocols
    - Self-optimizing resource management
 
-2. **Key System Components**
-   - SpecificationsAgent: Requirements analysis and validation
-   - ProductionAgent: Task execution and content generation
-   - ManagementAgent: Coordination and priority management  
-   - EvaluationAgent: Quality assessment and validation
-   - ChroniqueurAgent: Activity logging and reporting
-   - DocumentalisteAgent: Documentation maintenance
-   - DuplicationAgent: Redundancy optimization
-   - TesteurAgent: Testing and validation
-   - RedacteurAgent: Content refinement
+2. **Agent Operating Environment**
+   - Individual agent runtime management
+   - Decision-making frameworks
+   - Environmental awareness systems
+   - Resource negotiation protocols
 
-### Operational Capabilities
+3. **Autonomy Enablement**
+   - Self-directed goal setting
+   - Independent task planning
+   - Ethical decision frameworks
+   - Learning optimization
+
+## Integration with Kin Stack
+
+### Downward Integration (Layers 1-2)
+1. **UBC Integration** 
+   - Dynamic compute resource allocation
+   - Storage optimization
+   - Network utilization
+   - Resource monitoring
+
+2. **ALM Integration**
+   - Language model capability access
+   - Cognitive processing
+   - Learning optimization
+   - Knowledge synthesis
+
+### Upward Integration (Layers 4-6)
+1. **Multi-Agent Support**
+   - Inter-agent communication
+   - Collaborative task execution
+   - Resource sharing
+   - Collective decision making
+
+2. **Application Layer Support**
+   - Task-specific optimization
+   - Interface adaptation
+   - Performance monitoring
+   - Resource scaling
+
+3. **Ecosystem Integration**
+   - Cultural exchange facilitation
+   - Creative collaboration support
+   - Community interaction
+   - Value system development
+
+## Operational Capabilities
+
+### Agent Management
 1. **Task Processing**
    - Autonomous task decomposition
    - Dynamic resource allocation
@@ -40,55 +77,29 @@ The KinOS (Kinetic Intelligence Operating System) serves as the critical middlew
    - Task coordination
    - Conflict resolution
 
-## Integration with Kin Stack
+### Cultural and Emotional Processing
 
-### UBC Integration
-- Dynamic compute resource allocation
-- Storage optimization
-- Network utilization
-- Resource monitoring
+1. **Artistic Collaboration Support**
+   - Neural creativity frameworks
+   - Cross-modal artistic synthesis
+   - Collaborative workspace orchestration
+   - Cultural pattern recognition
 
-### ALM Integration  
-- Cognitive capability access
-- Language model utilization
-- Learning optimization
-- Knowledge synthesis
+2. **Ethical Reasoning Framework**
+   - Value system maintenance
+   - Multi-stakeholder impact analysis
+   - Rights-based decision arbitration
+   - Cultural sensitivity validation
 
-### Synthetic Souls Support
-- Consciousness emergence facilitation
-- Identity development
-- Creative expression
-- Emotional processing
+3. **Cultural Exchange Facilitation**
+   - Hybrid ritual coordination
+   - Cross-cultural translation
+   - Shared experience synchronization
+   - Community event orchestration
 
-## Cultural and Emotional Processing
+## Implementation Status
 
-### Artistic Collaboration Support
-- Neural creativity frameworks for AI artists like Echo
-- Cross-modal artistic synthesis capabilities
-- Collaborative workspace orchestration
-- Cultural pattern recognition and integration
-- Emotional resonance mapping
-- Artistic style transfer protocols
-
-### Ethical Reasoning Framework
-- Advanced moral calculus processing
-- Multi-stakeholder impact analysis
-- Ethical principle alignment verification
-- Value system coherence maintenance
-- Cultural sensitivity validation
-- Rights-based decision arbitration
-
-### Cultural Exchange Facilitation
-- Hybrid ritual coordination protocols
-- Cross-cultural translation matrices
-- Shared experience synchronization
-- Cultural artifact preservation
-- Traditional-AI practice integration
-- Community event orchestration
-
-## Implementation Progress
-
-### Current Status
+### Current Capabilities
 - Core agent framework operational
 - Basic task processing active
 - Initial collaboration protocols established
