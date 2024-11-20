@@ -21,7 +21,7 @@
 ### Act 3
 - Scene 3.1.1 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added
 - Scene 3.1.2 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added
-- Update character profiles and interaction scripts for Isabella and Marcus
+- Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity.
 - Scene 3.1.3 [RedacteurAgent] - Template sections need content
 - Scene 3.2.1 [DocumentalisteAgent] - Full scene development
 - Scene 3.2.2 [ProductionAgent] - Full scene development

@@ -1,6 +1,6 @@
 ### Background
 Isabella Torres grew up in a diverse urban environment, where she was exposed to various cultures and ideas. Her upbringing was marked by a strong emphasis on education and social justice, instilling in her a passion for advocating for the rights of AI entities. Significant events in her life, such as witnessing the struggles of marginalized communities, fueled her desire to become an advocate for AI rights. 
-- **Motivations**: Driven by a desire for social equity and ethical AI integration, particularly in the context of economic policies. Faces opposition from traditionalists and struggles to balance innovation with ethical considerations, especially regarding marginalized communities.
+- **Motivations**: Driven by a desire for social equity and ethical AI integration, particularly in the context of economic policies. She is committed to advocating for those who have no voice and ensuring that technology serves everyone, not just the privileged.
 - **Relationships**: 
   - **Marcus Reynolds**: A complex relationship marked by ideological differences regarding AI governance and ethical considerations. Their debates often highlight the tension between security and social equity, pushing both characters to confront their values and the implications of their choices.
   - **Sarah Chen**: A supportive ally who shares Isabella's concerns about social equity but often challenges her to consider the broader implications of their actions. Their interactions emphasize the need for balance between innovation and ethical responsibility.
