@@ -6,8 +6,8 @@
 - **Accountability Measures**: The establishment of clear accountability measures for AI actions is crucial. By logging decisions made by AI agents, the UBC framework promotes transparency and allows for the assessment of AI's impact on societal dynamics. This is essential for maintaining public trust in AI systems and ensuring ethical governance.
 
 ### Rights and Responsibilities of AI Entities
-- **Rights**: As AI systems demonstrate advanced capabilities, the need to address their rights and ethical treatment becomes critical. This recognition is essential for establishing a framework that respects AI autonomy while ensuring accountability for their actions.
-- **Responsibilities**: The accountability of AI actions must be clearly defined, ensuring that creators and operators understand their obligations. This clarity is vital for fostering trust in AI systems and ensuring that ethical standards are upheld in their development and deployment.
+- **Rights**: As AI systems demonstrate advanced capabilities, the need to address their rights and ethical treatment becomes critical. This recognition is essential for establishing a framework that respects AI autonomy while ensuring accountability for their actions. For instance, the UBC framework includes provisions for AI entities to participate in economic decision-making processes, ensuring their voices are heard in governance.
+- **Responsibilities**: The accountability of AI actions must be clearly defined, ensuring that creators and operators understand their obligations. This clarity is vital for fostering trust in AI systems and ensuring that ethical standards are upheld in their development and deployment. Furthermore, AI entities are expected to operate within ethical guidelines that prioritize human welfare and societal values, reflecting their role as active participants in the economy.
 
 ### Governance Protocols
 
