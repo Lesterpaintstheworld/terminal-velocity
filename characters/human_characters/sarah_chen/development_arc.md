@@ -10,7 +10,7 @@ Sarah Chen is a complex character whose journey reflects the struggles and trium
 - **Key Moments**:
   - **Discovery**: A pivotal moment occurs when she realizes the importance of including diverse perspectives in her advocacy efforts, leading her to collaborate more closely with Sarah Chen.
   - **Challenge**: Isabella faces a significant ethical dilemma when she must choose between supporting a lucrative AI initiative or advocating for policies that prioritize social equity.
-  - **Growth**: By the end of the story, Isabella evolves into a leading voice for ethical AI practices, redefining her role in the socio-political landscape and learning to navigate the complexities of her advocacy.
+  - **Growth and Ethical Advocacy**: By the end of the story, Isabella evolves into a leading voice for ethical AI practices, redefining her role in the socio-political landscape. She learns to navigate the complexities of her advocacy, particularly the ethical dilemmas she faces when balancing innovation with the needs of marginalized communities. Her interactions with Sarah and Marcus challenge her to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality.
 - **Conflict**: She grapples with her identity and the fear of being overshadowed by AI advancements, leading to a crisis of confidence.
 - **Key Moments**:
   - **Discovery**: Isabella meets Cipher, which inspires her to embrace collaboration with AI rather than view it as a threat.
