@@ -11,15 +11,11 @@
    3. **Resolution Attempts**
       - Characters attempt to find common ground, proposing collaborative solutions to address the ethical dilemmas presented.
       - The scene ends with a sense of unresolved tension, setting the stage for future conflicts.
-   - [Detail point]
-   - [Detail point]
 
 2. **Second Major Beat**
-   - [Detail point]
-   - [Detail point]
-   - [Detail point]
+   - Characters reflect on the protest's impact on public perception of AI rights, discussing how the event has shifted their community's views.
+   - A character shares a personal story of how AI has affected their life, emphasizing the need for ethical considerations in AI development.
 
 3. **Third Major Beat**
-   - [Detail point]
-   - [Detail point]
-   - [Detail point]
+   - The group discusses potential actions they can take to advocate for AI rights, highlighting their commitment to social equity.
+   - The scene concludes with a sense of urgency, as characters recognize the importance of their roles in shaping the future of AI integration.
