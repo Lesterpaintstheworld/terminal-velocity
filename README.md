@@ -60,6 +60,7 @@ A science fiction narrative exploring the emergence of an autonomous AI economy 
 - Character profiles: Ongoing refinement
 - World-building: Active expansion
 - Technical documentation: Continuous updates
+- Crisis Points: Detailed descriptions of crisis points and their implications for character development have been integrated into the narrative structure.
 
 ## Technical Requirements
 - Python 3.8 or higher
