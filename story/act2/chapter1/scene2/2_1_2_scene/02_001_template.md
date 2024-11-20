@@ -1,4 +1,4 @@
-## Scene 2.1.2: Ethical Dilemmas and Emotional Stakes
+## Scene 2.2.1: Ethical Dilemmas and Emotional Stakes
 
 ### Introduction
 In this scene, we delve into the complex dynamics between Isabella Torres and Marcus Reynolds as they confront the ethical implications of their respective roles in the evolving AI landscape. The tension between their ideologies sets the stage for a critical discussion on the balance between innovation and social equity.
