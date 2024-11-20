@@ -40,7 +40,7 @@
 
 ### Key Crisis Points
 
-### Key Crisis Points and Conflict Progression
+### Key Crisis Points and Main Conflict Progression
 
 1. **Initial Tension**: The story opens with rising tensions between human and AI factions, as differing ideologies clash over the future of AI rights. This sets the stage for the central conflict, highlighting Isabella's advocacy for ethical AI governance against Marcus's security-driven approach, emphasizing the stakes involved.
 
