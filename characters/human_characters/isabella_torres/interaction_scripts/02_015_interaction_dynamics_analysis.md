@@ -9,7 +9,7 @@
 
    **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 
-   **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
+   **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
 2. **Finding Common Ground with Sarah Chen**
    *Setting: A quiet café after a long day of meetings.*

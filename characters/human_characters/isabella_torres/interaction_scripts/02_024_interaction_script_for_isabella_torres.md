@@ -27,7 +27,7 @@
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. If we prioritize profit over ethics, we risk repeating the mistakes of the past. We must advocate for those who have no voice."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. We must advocate for those who have no voice."
 
 ### Scene 2: Internal Conflict with Sarah Chen
 *Setting: A quiet café where Isabella and Sarah are discussing the implications of AI rights in economic policies.*
