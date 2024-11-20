@@ -1,3 +1,0 @@
-- **Guidelines for Agent Interactions**: Establish clear protocols for how agents should communicate, including preferred channels and response times.
-- **Notification Systems**: Implement a notification system to alert agents of important updates or changes in project status.
-- **Response Mechanisms**: Define expected response times for different types of communications to ensure timely collaboration.
