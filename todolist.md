@@ -12,7 +12,7 @@
   - [x] Chapters 1-5 (partially completed)
   - [ ] Overall revision and coherence
 
-- [ ] Develop detailed outline for Act 2
+- [x] Develop detailed outline for Act 2
   - [ ] General chapter structure
   - [ ] Narrative progression points
   - [ ] Character arc development
