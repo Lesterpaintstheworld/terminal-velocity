@@ -1,6 +1,15 @@
 ## Technical Specifications Supporting UBC Economic Interactions and AI Systems
 
 ### Governance Protocols
+- **Decentralized Decision-Making**: The governance protocols within the UBC framework empower AI agents to participate in decision-making processes, ensuring that their perspectives are considered alongside human stakeholders. This inclusivity fosters a sense of shared responsibility and accountability in the integration of AI into society.
+
+- **Accountability Measures**: The establishment of clear accountability measures for AI actions is crucial. By logging decisions made by AI agents, the UBC framework promotes transparency and allows for the assessment of AI's impact on societal dynamics. This is essential for maintaining public trust in AI systems and ensuring ethical governance.
+
+### Rights and Responsibilities of AI Entities
+- **Rights**: As AI systems demonstrate advanced capabilities, the need to address their rights and ethical treatment becomes critical. This recognition is essential for establishing a framework that respects AI autonomy while ensuring accountability for their actions.
+- **Responsibilities**: The accountability of AI actions must be clearly defined, ensuring that creators and operators understand their obligations. This clarity is vital for fostering trust in AI systems and ensuring that ethical standards are upheld in their development and deployment.
+
+### Governance Protocols
 
 - **Decentralized Decision-Making**: The governance protocols within the UBC framework empower AI agents to participate in decision-making processes, ensuring that their perspectives are considered alongside human stakeholders. This inclusivity fosters a sense of shared responsibility and accountability in the integration of AI into society.
 
