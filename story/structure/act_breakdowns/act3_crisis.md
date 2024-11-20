@@ -10,3 +10,8 @@
 - **Conflict 1**: The initial conflict arises as Isabella and Marcus debate the ethical implications of AI governance, setting the stage for their ideological clash.
 - **Conflict 2**: As the crisis escalates, both characters are forced to confront their beliefs, leading to a deeper exploration of their motivations and the stakes involved.
 - **Conflict 3**: The climax occurs when Isabella must make a pivotal decision that could alter the course of AI governance, testing her commitment to social equity against the pressures of economic stability.
+
+## Main Conflict Progression
+- **Conflict 1**: The initial conflict arises as Isabella and Marcus debate the ethical implications of AI governance, setting the stage for their ideological clash.
+- **Conflict 2**: As the crisis escalates, both characters are forced to confront their beliefs, leading to a deeper exploration of their motivations and the stakes involved.
+- **Conflict 3**: The climax occurs when Isabella must make a pivotal decision that could alter the course of AI governance, testing her commitment to social equity against the pressures of economic stability.
