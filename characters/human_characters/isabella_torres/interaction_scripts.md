@@ -39,7 +39,7 @@
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission. I need to find a way to ensure that my advocacy leads to real change, not just theoretical discussions."
 
 ### Emotional Stakes in Advocacy
 - Marcus grapples with the ethical dilemmas surrounding the use of autonomous systems. He often questions whether the benefits of these technologies justify the potential harm they may cause to marginalized communities. His relationship with Isabella forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society. This internal struggle adds complexity to his character and influences his interactions with Isabella, as he navigates the tension between his ambitions and the ethical responsibilities that come with them. In a pivotal moment, he reflects, "Are we truly serving the greater good, or are we just perpetuating existing inequalities?" This highlights the emotional stakes involved in his decisions and the impact on marginalized communities. Additionally, during discussions with Isabella, he often finds himself torn between his desire for progress and the ethical implications of their decisions. This conflict is evident when he states, "We need to act decisively to protect our nation; we can't let idealism cloud our judgment." This moment underscores the complexities of their relationship and the ethical implications of their decisions.
@@ -2323,11 +2323,11 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*
 
-**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
+**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. I believe that by prioritizing these voices, we can create a more just economic landscape."
 
 **Sarah**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
-**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
+**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone. If we can present a united front, we might be able to sway some of the skeptics."
 
 ### Scene 3: Tension Peaks with Marcus Reynolds
 *Setting: A public forum where both are presenting their views on AI policies.*
@@ -2613,11 +2613,11 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene 3: Tension Peaks with Marcus Reynolds
 *Setting: A public forum where both are presenting their views on AI policies.*
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
-**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
+**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for. But I see your point; we must find a way to include those voices."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
