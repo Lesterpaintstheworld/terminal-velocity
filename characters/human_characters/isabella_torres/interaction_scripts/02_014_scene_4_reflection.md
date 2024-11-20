@@ -30,10 +30,10 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Source Files**  
 - Analyze the following files:  
-  - `demande.md` (Sections: Global Context, Primary Mission, Scope Limitations)  
+  - `demande/` (Sections: Global Context, Primary Mission, Scope Limitations)  
   - `production Agent Configuration` (Sections: Responsibilities, Input Requirements, Output Standards)
    - Analyze the following files:
-     - `demande.md`: Focus on sections detailing Isabella Torres's motivations and relationships with other characters.
+     - `demande/`: Focus on sections detailing Isabella Torres's motivations and relationships with other characters.
      - `production_agent_config.md`: Review interaction mechanisms and character development guidelines that apply to Isabella.
      - `character_profiles.md`: Reference existing character profiles for consistency and alignment.
 
@@ -41,7 +41,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 - Modify the following files:  
   - `production Agent Configuration`  
     - Add a new section under "Primary Functions" that details the interaction scripts for Isabella, including sample dialogues and scenarios with Sarah Chen and Marcus Reynolds.  
-  - `demande.md`  
+  - `demande/`  
     - Include a subsection under "In-Scope Elements" that highlights the importance of interaction mechanisms for character development.
    - Modify the `interaction_scripts.md` file:
      - Add a new section for Isabella Torres, detailing her dialogues and interactions with Marcus and Sarah.
@@ -53,7 +53,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 - Check that at least three dialogue scenarios are developed, demonstrating Isabella's responses to both supportive and oppositional viewpoints.
    - Verify success by:
      - Checking the new section in `interaction_scripts.md` for completeness and thematic alignment, ensuring it meets at least a 90% satisfaction rate in peer reviews.
-     - Validating that the character development elements align with the motivations outlined in `demande.md`.
+     - Validating that the character development elements align with the motivations outlined in `demande/`.
 
 **Operation Bounds**  
 - Resource Limitations: The task must be completed within the current development cycle (1 week).  

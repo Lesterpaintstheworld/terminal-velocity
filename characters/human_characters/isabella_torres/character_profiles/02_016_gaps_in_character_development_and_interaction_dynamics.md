@@ -28,7 +28,7 @@ Isabella Torres's character could benefit from deeper exploration of her interna
 
 2. **Source Files**
    - Analyze the following files:
-     - `demande.md` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
+     - `demande/` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
      - `directives.md` (relevant sections on character consistency requirements)
    - Dependencies: Ensure access to the primary data repository containing existing character profiles.
 

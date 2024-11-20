@@ -138,10 +138,10 @@ Develop a detailed interaction script for Isabella Torres that explores her rela
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `chroniqueur-agent-development.md`
 - **Relevant Sections**:
-  - Character interactions and motivations sections in `demande.md`.
+  - Character interactions and motivations sections in `demande/`.
   - Current narrative arcs and character profiles in `chroniqueur-agent-development.md`.
 - **Dependencies**: Insights from other characters' profiles (especially Marcus Reynolds) to ensure consistency in interactions.
 
@@ -170,7 +170,7 @@ Develop a detailed interaction script for Isabella Torres that explores her rela
 - **Scope Restrictions**: 
   - Focus exclusively on the interaction between Isabella and Marcus; do not include other character interactions or broader narrative elements.
 - **Dependency Requirements**: 
-  - Must utilize insights from `demande.md` and `chroniqueur-agent-development.md` to maintain narrative coherence.
+  - Must utilize insights from `demande/` and `chroniqueur-agent-development.md` to maintain narrative coherence.
 # Isabella and Marcus Interaction Script
 
 ## Scene 1: Initial Conflict

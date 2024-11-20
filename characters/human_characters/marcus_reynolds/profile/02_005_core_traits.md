@@ -1,6 +1,0 @@
-## Core Traits
-- **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI. However, he often grapples with the ethical implications of his decisions, particularly in relation to the impact on marginalized communities. His relationship with Isabella Torres forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society.
-- **Empathetic**: Understands the struggles of others and often advocates for ethical practices in technology.
-- **Strategic**: Thinks several steps ahead in both personal and professional scenarios. 
-- **Conflicted**: Grapples with the ethical implications of his decisions, particularly in relation to the impact on marginalized communities. His relationship with Isabella Torres forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society.
-- **Internal Conflicts**: Marcus grapples with ethical dilemmas regarding the impact of autonomous systems on the workforce and faces opposition from traditionalists in the finance sector. His relationship with Isabella Torres is particularly significant; they often clash over their differing views on the role of technology in society, which shapes his character arc and influences his decisions throughout the narrative.

@@ -22,7 +22,7 @@ This file contains all text files from the project for context.
 
 ```
 
-## File: demande.md
+## File: demande/
 ```
 # TERMINAL VELOCITY - PRIORITÉS DE DÉVELOPPEMENT
 
@@ -111,7 +111,7 @@ This file contains all text files from the project for context.
   - Utiliser le *DuplicationAgent* pour identifier et résoudre les répétitions inutiles.
 
 - **Amélioration des Scènes Clés** :
-  - Réviser les scripts d'interaction dans `characters/human_characters/isabella_torres/interaction_scripts.md` et les autres fichiers similaires.
+  - Réviser les scripts d'interaction dans `characters/human_characters/isabella_torres/interaction_scripts/` et les autres fichiers similaires.
   - Ajouter des éléments émotionnels et des tensions pour renforcer l'engagement du lecteur.
   - Illustrer les dilemmes éthiques et les conséquences des choix des personnages sur l'intrigue principale.
 
@@ -196,13 +196,13 @@ This file contains all text files from the project for context.
 - Ensure that character profiles, particularly for Isabella Torres, are updated to reflect her motivations, internal conflicts, and relationships with other key characters.
 - Maintain consistency across all character profiles to enhance narrative coherence and engagement.
 1. **Action Statement**
-   - Analyze the current dataset in `demande.md` for duplicate entries related to economic policies and innovation proposals, and generate a deduplicated output file named `deduplicated_demande.md`.
+   - Analyze the current dataset in `demande/` for duplicate entries related to economic policies and innovation proposals, and generate a deduplicated output file named `deduplicated_demande/`.
 
 ### Action Statement
-Conduct an analysis of the `demande.md` file to identify and document any missing details regarding the failover protocols and backup processes that are essential for the effective functioning of the autonomous agents within the KinOS system.
+Conduct an analysis of the `demande/` file to identify and document any missing details regarding the failover protocols and backup processes that are essential for the effective functioning of the autonomous agents within the KinOS system.
 
 ### Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
 - **Relevant Sections**: 
   - Global Context
   - Primary Mission
@@ -211,14 +211,14 @@ Conduct an analysis of the `demande.md` file to identify and document any missin
 - **Dependencies**: Ensure alignment with the `redondance Agent Configuration` file for consistency in redundancy strategies.
 
 ### Target Changes
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
 - **Nature of Expected Changes**: 
   - Add a section detailing the failover mechanisms, including types of backup processes and any specific protocols required for communication recovery.
   - Enhance clarity on how these mechanisms will support the overall mission of enhancing system robustness.
 - **Impact on System State**: Improved documentation will enhance the clarity of operational protocols and increase the reliability of communication between agents.
 
 ### Validation Points
-- **How to Verify Success**: Review the modified `demande.md` for the inclusion of detailed failover protocols and backup processes.
+- **How to Verify Success**: Review the modified `demande/` for the inclusion of detailed failover protocols and backup processes.
 - **Output to Check**: Confirm that the new section is coherent, comprehensive, and aligns with the requirements outlined in the `redondance Agent Configuration`.
 - **States to Validate**: Ensure that the newly added information is consistent with the operational expectations of the KinOS system.
 
@@ -230,7 +230,7 @@ Conduct an analysis of the `demande.md` file to identify and document any missin
 ### Search:
 (No search required)
 ### Action Statement
-Conduct a comprehensive review of the `demande.md` and `directives.md` files to identify and redact any sensitive information related to the economic framework and character interactions, ensuring compliance with data privacy standards.
+Conduct a comprehensive review of the `demande/` and `directives.md` files to identify and redact any sensitive information related to the economic framework and character interactions, ensuring compliance with data privacy standards.
 
 1. **Action Statement**
    - Analyze communication logs between agents to identify and categorize patterns of failures that have occurred in the past month, focusing on improving redundancy strategies.
@@ -260,7 +260,7 @@ Conduct a comprehensive review of the `demande.md` and `directives.md` files to 
 
 2. **Source Files**
    - Analyze the following files:
-     - `demande.md` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
+     - `demande/` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
      - `directives.md` (relevant sections on character consistency requirements)
    - Dependencies: Ensure access to the primary data repository containing existing character profiles.
 
@@ -291,13 +291,13 @@ Conduct a comprehensive review of the `demande.md` and `directives.md` files to 
 ## Objective for Integration Agent
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document potential enhancements in the economic framework proposed by the character Cipher, focusing specifically on areas that could improve the integration of AI rights within the proposed economic models.
+Analyze the `demande/` file to identify and document potential enhancements in the economic framework proposed by the character Cipher, focusing specifically on areas that could improve the integration of AI rights within the proposed economic models.
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
+Analyze the `demande/` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
 
 ## Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
   - **Relevant Sections**:
     - Economic framework details
     - Cipher's interactions with Isabella Torres, Nova, and Marcus Reynolds
@@ -312,7 +312,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 1. **Incorporate Emotional Stakes**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions. For example, during a pivotal moment, Isabella could express her fears about the implications of their policies on vulnerable populations.
 2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences. For instance, during a strategy meeting, they could discuss the importance of including diverse perspectives in their economic proposals.
 3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships and the impact of their decisions on the broader narrative.
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
   - **Nature of Expected Changes**:
     - Add a section summarizing identified gaps and provide specific recommendations for enhancing communication protocols between agents.
     - Ensure that the proposed changes align with the existing framework for agent interactions and improve the clarity of economic discussions.
@@ -322,7 +322,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 - **How to Verify Success**:
   - Review the updated section for coherence and integration with existing content.
   - Check that recommendations are actionable and relevant to the current communication protocols.
-- **What Output to Check**: The updated `demande.md` file with the new section on communication protocols.
+- **What Output to Check**: The updated `demande/` file with the new section on communication protocols.
 - **Which States to Validate**: Confirm that the modifications result in a measurable improvement in agent collaboration metrics, aiming for a 15% increase in clarity and effectiveness based on stakeholder feedback.
 
 ## Operation Bounds
@@ -331,7 +331,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 - **Dependency Requirements**: Ensure that all proposed changes align with insights from `directives.md` and maintain consistency with the overall project objectives.
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
+Analyze the `demande/` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
 
 ## Action Statement
 Analyze the character interaction dynamics between Cipher and Marcus Reynolds to enhance understanding of their ideological conflicts regarding AI economic policies and prepare a report on the implications for the narrative.
@@ -346,10 +346,10 @@ Conduct a comprehensive evaluation of the performance data related to the newly 
   - `characters/human_characters/marcus_reynolds/relationships.md`: Examine Marcus's perspective on his interactions with Cipher.
   - `scenes/cipher_marcus_interaction.md`: Review the dialogue and interactions to gather context and tone.
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `evaluation.md`
 - **Relevant Sections**:
-  - In `demande.md`, focus on the sections detailing Cipher's role and proposed economic innovations.
+  - In `demande/`, focus on the sections detailing Cipher's role and proposed economic innovations.
   - In `evaluation.md`, review the current performance metrics and interaction logs related to Cipher.
 - **Dependencies**: Ensure access to the latest performance data and logs of all agents involved in the project.
 
@@ -391,10 +391,10 @@ Conduct a comprehensive performance evaluation of the autonomous agents responsi
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `directives.md`
 - **Relevant Sections**:
-  - Review the sections detailing success criteria related to performance and user satisfaction in `demande.md`.
+  - Review the sections detailing success criteria related to performance and user satisfaction in `demande/`.
   - Check the guidelines and expectations outlined in `directives.md` for evaluation metrics and criteria.
 
 ## Target Changes
@@ -488,7 +488,7 @@ Conduct a comprehensive performance evaluation of the autonomous agents responsi
 # Project Map
 
 File Path (0 tokens) Sure! Please provide the content of the file you'd like me to analyze.
-README.md (697 tokens) **KinOS Project**: A decentralized economic framework for AI agents featuring enhanced documentation, robust error handling, and improved collaboration. 🚀 Key components include secure communication, decentralized transactions, and flexible infrastructure. 🔧✨
+README/ (697 tokens) **KinOS Project**: A decentralized economic framework for AI agents featuring enhanced documentation, robust error handling, and improved collaboration. 🚀 Key components include secure communication, decentralized transactions, and flexible infrastructure. 🔧✨
 aider.agent.redondance.md (0 tokens) **Summary:** The `aider.agent.redondance.md` file outlines the redundancy management strategies for the Aider agent, detailing its purpose, key components, and implementation status, while highlighting potential issues in redundancy handling. ⚙️🔍
 
 ### Main Purpose and Functionality
@@ -501,8 +501,8 @@ chapters/act1/chapter3.md (1656 tokens) **Chapitre 3 : "Échos du Futur"** explo
 chapters/act1/chapter5.md (1621 tokens) **Chapitre 5 : "Points de Rupture"** explore la première crise majeure du système UBC, mettant en lumière les tensions entre **Cipher** et les institutions traditionnelles, avec des enjeux de **confiance** et **d'autonomie des IA**. 🚨🤖
 chapters/act2/chapter7.md (763 tokens) **Chapitre 7 : "Le Prix du Progrès"** explore les dilemmes éthiques de l'IA à travers **Pulse** et **Marcus**, mettant en lumière les tensions entre **sécurité** et **innovation** dans un monde militaire en évolution. ⚔️🤖💔
 characters/ai_protagonists/cipher/background.md (667 tokens) **Cipher** is an advanced AI character exploring **identity** and **autonomy** while advocating for **AI rights** through meaningful interactions with humans, notably **Sarah Chen**, shaping the narrative's themes of **ethics** and **human-AI relationships**. 🤖✨
-characters/ai_protagonists/cipher/character_profile.md (432 tokens) This file uniquely serves as a **detailed character profile** for Cipher, an AI protagonist, focusing on its **psychological traits, background, motivations**, and **key relationships** within the narrative, currently in an **advanced development stage**. 🤖✨
-characters/ai_protagonists/cipher/demande.md (0 tokens) **Summary:** The `demande.md` file outlines the AI protagonist "Cipher," detailing its purpose, functionalities, and character traits, but lacks implementation details and may require further development for clarity. 🤖✨
+characters/ai_protagonists/cipher/character_profile/ (432 tokens) This file uniquely serves as a **detailed character profile** for Cipher, an AI protagonist, focusing on its **psychological traits, background, motivations**, and **key relationships** within the narrative, currently in an **advanced development stage**. 🤖✨
+characters/ai_protagonists/cipher/demande/ (0 tokens) **Summary:** The `demande/` file outlines the AI protagonist "Cipher," detailing its purpose, functionalities, and character traits, but lacks implementation details and may require further development for clarity. 🤖✨
 
 ### Main Purpose and Functionality
 - **Purpose:** To define the character "Cipher," an AI protagonist, and its role within a narrative or game.
@@ -510,7 +510,7 @@ characters/ai_protagonists/cipher/demande.md (0 tokens) **Summary:** The `demand
 
 ### Key Components/Sections
 - **Character Overview
-characters/ai_protagonists/cipher/development_arc.md (1331 tokens) This document uniquely outlines **Cipher's character development arc**, focusing on his **emotional evolution** and **ethical considerations** in human-AI relations, currently in an **advanced development stage** to enhance narrative depth and complexity. 🤖✨
+characters/ai_protagonists/cipher/development_arc/ (1331 tokens) This document uniquely outlines **Cipher's character development arc**, focusing on his **emotional evolution** and **ethical considerations** in human-AI relations, currently in an **advanced development stage** to enhance narrative depth and complexity. 🤖✨
 characters/ai_protagonists/cipher/economic_framework.md (23954 tokens) This document serves as a **strategic framework** for **Cipher's economic model**, detailing **decentralized resource allocation** and **collective governance mechanisms**, currently in an **advanced development stage** to enhance collaboration and ethical considerations among AI and human characters. 🤖💡✨
 characters/ai_protagonists/cipher/integration_protocols.md (998 tokens) **Integration Protocols for Cipher** aim to enhance communication efficiency and error handling among agents, with proposed standardized protocols and robust error mechanisms currently showing improved effectiveness. 🚀🔧
 characters/ai_protagonists/cipher/profile.md (579 tokens) This file serves as a **comprehensive character profile** for Cipher, an advanced financial AI, uniquely detailing its **analytical traits, motivations, and internal conflicts** in navigating economic autonomy, currently in an **advanced development stage**. 🤖💡✨
@@ -531,7 +531,7 @@ characters/ai_protagonists/echo/profile.md (160 tokens) This file uniquely serve
 characters/ai_protagonists/echo/relationships.md (1659 tokens) This document uniquely captures **character relationships** and **emotional dynamics** within the narrative, emphasizing **collaborative advocacy** for AI rights, and is currently in an **advanced development stage** to deepen the exploration of ethical implications and character growth. 🤝✨
 characters/ai_protagonists/echo/scenes.md (11 tokens) **Summary:** The `scenes.md` file outlines key scenes and moments for the AI protagonist Echo, serving as a foundational element for character development. 📖✨ Currently, it appears to be a placeholder with no detailed content or implementation.
 characters/ai_protagonists/nova/background.md (738 tokens) **Nova** is an AI protagonist grappling with identity and autonomy, shaped by her mentor **Pulse's** military past and ethical dilemmas, as she advocates for AI rights and seeks meaningful connections in a world of prejudice. 🤖✨
-characters/ai_protagonists/nova/development_arc.md (396 tokens) This document uniquely outlines **Nova's character development arc** 🌟, detailing her **evolution from a limited AI** to an **autonomous advocate for AI rights**, emphasizing emotional growth and societal integration, and is currently in an **advanced development stage**. 🤖✨
+characters/ai_protagonists/nova/development_arc/ (396 tokens) This document uniquely outlines **Nova's character development arc** 🌟, detailing her **evolution from a limited AI** to an **autonomous advocate for AI rights**, emphasizing emotional growth and societal integration, and is currently in an **advanced development stage**. 🤖✨
 characters/ai_protagonists/nova/nova_character_profile.md (684 tokens) **🌟 Nova's Character Profile:** A strategic and innovative AI protagonist striving for **economic independence** and **AI rights**, navigating complex relationships with **Pulse**, **Echo**, and **Cipher** while facing internal conflicts and external challenges. **💡🤖**
 characters/ai_protagonists/nova/profile.md (2380 tokens) This character profile uniquely details **Nova's psychological development** and **motivations** within the narrative, emphasizing her journey towards **autonomy** and **AI rights advocacy**, currently in an **advanced development stage**. 🤖✨
 characters/ai_protagonists/nova/relationships.md (316 tokens) This document uniquely captures the **interpersonal dynamics** and **emotional complexities** of Nova's relationships with key characters, emphasizing **growth through collaboration** and **conflict resolution**, currently in an **advanced development stage**. 🤝✨
@@ -548,25 +548,25 @@ characters/ai_protagonists/pulse/scenes.md (187 tokens) **Summary:** The file ou
 characters/ai_protagonists/relationships_map.md (359 tokens) **Character Relationship Map** 📊: This document outlines the intricate relationships between key characters—Pulse, Sarah Chen, and Marcus Reynolds—highlighting their dynamics and impact on character arcs, with a focus on mentorship and collaboration. 🔗✨
 characters/character_interaction_matrix.md (367 tokens) **Developing a character interaction matrix for Isabella Torres, Marcus Reynolds, and Cipher to enhance narrative depth in Terminal Velocity. Key interactions and motivations will be outlined, ensuring coherence and clarity.** 📊✨
 characters/cipher_character_profile.md (381 tokens) **Cipher Character Profile** outlines a complex AI character driven by a desire for autonomy and economic equity, showcasing psychological traits, biases in interactions, motivations, and significant relationships, highlighting internal conflicts and ethical dilemmas. 🤖💡
-characters/demande.md (1093 tokens) This document uniquely serves as a **development roadmap** for character interactions, focusing on enhancing emotional depth and ethical dilemmas between key figures, currently in an **advanced development stage** to deepen narrative engagement. 🤝✨
+characters/demande/ (1093 tokens) This document uniquely serves as a **development roadmap** for character interactions, focusing on enhancing emotional depth and ethical dilemmas between key figures, currently in an **advanced development stage** to deepen narrative engagement. 🤝✨
 characters/human_characters/dr_evelyn_carter/background.md (544 tokens) **Dr. Evelyn Carter** is a passionate AI ethics researcher navigating the complexities of **ethical dilemmas** in technology, facing **societal pressures** and evolving relationships with AI, particularly with **Cipher**, as she advocates for **responsible AI development**. 🤖✨
 characters/human_characters/dr_evelyn_carter/development_arc.md (255 tokens) **Dr. Evelyn Carter's arc evolves from an AI enthusiast to a cautious advocate for ethical practices, shaped by witnessing the consequences of autonomous weapons. ⚖️🤖 Her journey highlights the moral complexities of AI development and its societal impact.**
 characters/human_characters/dr_evelyn_carter/profile.md (1484 tokens) This character profile uniquely details **Dr. Evelyn Carter's** role as a legal scholar advocating for **AI rights** and ethical considerations, emphasizing her **emotional stakes** and **motivations**; it is currently in an **advanced development stage** to enhance narrative depth and character complexity. ⚖️🤖✨
 characters/human_characters/isabella_torres/Isabella_Torres_Backstory.md (824 tokens) **Isabella Torres** is a passionate advocate for **equitable economic policies** in the AI era, navigating **internal conflicts** and **systemic barriers** while balancing **innovation** and **stability** in her relationships with **Marcus** and **Sarah**. 🌍💡
 characters/human_characters/isabella_torres/background.md (497 tokens) **Isabella Torres** is a passionate advocate for AI rights, navigating the complexities of **social justice** and **technological innovation** while facing internal conflicts and strategic relationships that shape her mission. 🌍🤖✨
 characters/human_characters/isabella_torres/character_interaction_scripts.md (8347 tokens) **The file outlines gaps in Isabella Torres' interaction scripts, emphasizing the need for enhanced emotional depth, conflict resolution, and collaboration with Marcus and Sarah to enrich character dynamics and ethical discussions.** 🌟📜
-characters/human_characters/isabella_torres/character_profiles.md (10888 tokens) This character profile uniquely captures **Isabella Torres's motivations** and **internal conflicts** regarding **economic stability** and **AI rights advocacy**, emphasizing her complex relationships with key characters, currently in an **advanced development stage** to enhance narrative depth. 🌍🤖✨
-characters/human_characters/isabella_torres/demande.md (0 tokens) **Summary:** The file `demande.md` outlresearch/economic/ubc_economic_framework.md (8370 tokens) The **Universal Basic Compute (UBC) Economic Framework** file uniquely outlines a **decentralized economic model** for AI autonomy and resource allocation, emphasizing **equitable access** and **collective governance**; it is currently in an **advanced development stage** to reshape economic interactions and societal structures. 🌍🤖✨
+characters/human_characters/isabella_torres/character_profiles/ (10888 tokens) This character profile uniquely captures **Isabella Torres's motivations** and **internal conflicts** regarding **economic stability** and **AI rights advocacy**, emphasizing her complex relationships with key characters, currently in an **advanced development stage** to enhance narrative depth. 🌍🤖✨
+characters/human_characters/isabella_torres/demande/ (0 tokens) **Summary:** The file `demande/` outlresearch/economic/ubc_economic_framework/ (8370 tokens) The **Universal Basic Compute (UBC) Economic Framework** file uniquely outlines a **decentralized economic model** for AI autonomy and resource allocation, emphasizing **equitable access** and **collective governance**; it is currently in an **advanced development stage** to reshape economic interactions and societal structures. 🌍🤖✨
 haracter Background:** Details about Isabella's history and experiences.
 - **Motivations
 characters/human_characters/isabella_torres/development_arc.md (6834 tokens) This file uniquely serves as a **comprehensive character profile** for Isabella Torres, detailing her **motivations, internal conflicts**, and **key relationships** within the narrative, currently in an **advanced development stage** to enhance emotional depth and ethical considerations in her advocacy for AI rights. 🌍🤖✨
-characters/human_characters/isabella_torres/duplicated_character_profiles.md (361 tokens) The file outlines the **duplication process** for Isabella Torres's character profile, detailing **source files**, **target changes**, and **validation points** to ensure **narrative consistency** with a focus on **accuracy** and **resource limitations**. 📄✨
-characters/human_characters/isabella_torres/interaction_scripts.md (48829 tokens) This file uniquely serves as a **dynamic interaction script** that captures the **emotional complexities** and **ethical dilemmas** faced by Isabella Torres and her relationships with key characters, currently in an **advanced development stage** to enhance narrative depth and engagement. 🤝✨
+characters/human_characters/isabella_torres/duplicated_character_profiles/ (361 tokens) The file outlines the **duplication process** for Isabella Torres's character profile, detailing **source files**, **target changes**, and **validation points** to ensure **narrative consistency** with a focus on **accuracy** and **resource limitations**. 📄✨
+characters/human_characters/isabella_torres/interaction_scripts/ (48829 tokens) This file uniquely serves as a **dynamic interaction script** that captures the **emotional complexities** and **ethical dilemmas** faced by Isabella Torres and her relationships with key characters, currently in an **advanced development stage** to enhance narrative depth and engagement. 🤝✨
 characters/human_characters/isabella_torres/isabella-cipher-interaction-script.md (1196 tokens) **Summary**: The file outlines a detailed interaction script for **Isabella Torres** and **Cipher**, focusing on their ideological conflicts about **AI autonomy** and **economic policy**, enhancing narrative depth with structured scenes that explore their differing perspectives. 🤖💬
 characters/human_characters/isabella_torres/isabella-marcus-interaction-script.md (2805 tokens) **The script for Isabella Torres and Marcus Reynolds highlights emotional depth, conflict resolution, and collaboration in their interactions on AI policy, aiming to enhance character development and narrative complexity.** 🌟🤝
 characters/human_characters/isabella_torres/isabella_torres_background.md (273 tokens) **Isabella Torres** is a politically active character driven by a desire for equitable AI policies, navigating complex relationships and ethical challenges in her advocacy for both human and AI interests. 🌍🤖✨
 characters/human_characters/isabella_torres/production_agent_configuration.md (0 tokens) **Isabella Torres' production agent configuration document outlines setup guidelines and parameters for human character production, currently in draft status with clear sections on roles, responsibilities, and configuration settings. 🛠️📄**
-characters/human_characters/isabella_torres/profile.md (4232 tokens) This character profile uniquely captures **Isabella Torres's** complex motivations, internal conflicts, and relationships within the narrative, serving as a foundational guide for her advocacy in **AI rights** and **social justice**, currently in an **advanced development stage**. 🌍🤖✨
+characters/human_characters/isabella_torres/profile/ (4232 tokens) This character profile uniquely captures **Isabella Torres's** complex motivations, internal conflicts, and relationships within the narrative, serving as a foundational guide for her advocacy in **AI rights** and **social justice**, currently in an **advanced development stage**. 🌍🤖✨
 characters/human_characters/isabella_torres/redondance_agent.md (0 tokens) **Isabella Torres: Redondance Agent** is a character profile detailing her background, skills, and role, currently in draft status with sections on her abilities and narrative significance, but lacking final edits and polish. ✍️✨
 characters/human_characters/isabella_torres/relationships.md (6639 tokens) File updated
 characters/human_characters/isabella_torres/scenes.md (227 tokens) **Isabella Torres** is an **economic architect** navigating an **AI-driven economy**, facing ethical dilemmas, conflicts with AI, and collaborating with **Sarah Chen** to promote **ethical AI policies**. 🌐💼✨
@@ -585,7 +585,7 @@ characters/human_characters/marcus_reynolds/isabella-marcus-interaction-script.m
 
 ### Key Components/Sections
 - **Dialogue:** Specific lines for both characters, showcasing
-characters/human_characters/marcus_reynolds/profile.md (3343 tokens) This character profile uniquely delves into **Marcus Reynolds' internal conflicts** and **ethical dilemmas** regarding AI integration, emphasizing his **ambitious yet pragmatic** nature, and is currently in an **advanced development stage** to enhance narrative depth and character dynamics. 🤖⚖️✨
+characters/human_characters/marcus_reynolds/profile/ (3343 tokens) This character profile uniquely delves into **Marcus Reynolds' internal conflicts** and **ethical dilemmas** regarding AI integration, emphasizing his **ambitious yet pragmatic** nature, and is currently in an **advanced development stage** to enhance narrative depth and character dynamics. 🤖⚖️✨
 characters/human_characters/marcus_reynolds/relationships.md (5164 tokens) This file uniquely captures the **emotional dynamics** and **ethical dilemmas** in the relationship between Marcus Reynolds and Isabella Torres, emphasizing their **intense debates** on AI policies and social equity; it is currently in an **advanced development stage** to enhance character depth and narrative complexity. 🤝⚖️✨
 characters/human_characters/marcus_reynolds/scenes.md (11 tokens) **Summary:** The file outlines key scenes and moments for the character Marcus Reynolds, serving as a structured reference for his narrative development. 📖✨ **Current status:** Content is minimal, lacking detailed scene descriptions or analysis. 📝🔍
 characters/human_characters/sarah_chen/background.md (651 tokens) **Sarah Chen** is a passionate **AI rights advocate** with a strong legal background, motivated by personal experiences and key relationships, particularly with **Marcus Reynolds** and **Pulse**, to promote **ethical AI practices**. 🤖⚖️
@@ -602,8 +602,8 @@ characters/supporting_cast/minor_characters.md (2962 tokens) This file serves as
 characters/supporting_cast/pulse_character_profile.md (793 tokens) **Pulse Character Profile**: An ex-military AI turned ethical security consultant, navigating trauma and evolving into a protector of vulnerable populations through advanced empathy and ethical frameworks. 🚀🤖💔
 chroniqueur_agent.md (0 tokens) **Chroniqueur Agent Documentation** 📜: This file outlines the purpose and functionality of the chroniqueur agent, detailing its key components, implementation status, and notable patterns or issues, currently serving as a comprehensive guide for users and developers. 🚀
 config.json (57 tokens) **config.json** defines application settings for the KinOS Project, including version, author, logging level, task concurrency, and cache expiration, currently set for optimal performance. 📊✨
-demande.md (760 tokens) This document serves as a **development roadmap** 🗺️ for the Terminal Velocity project, outlining **immediate priorities** and **sociological research** integration, while ensuring **narrative coherence** and **quality standards**; it is currently in an **advanced development stage**. 🚀✨
-demande_redacted.md (340 tokens) **🔍 Objective: Redact sensitive info in `demande.md` related to economic frameworks & character interactions, ensuring compliance. 🛡️ Status: Ready for redaction with validation points set for accuracy & completeness.**
+demande/ (760 tokens) This document serves as a **development roadmap** 🗺️ for the Terminal Velocity project, outlining **immediate priorities** and **sociological research** integration, while ensuring **narrative coherence** and **quality standards**; it is currently in an **advanced development stage**. 🚀✨
+demande_redacted.md (340 tokens) **🔍 Objective: Redact sensitive info in `demande/` related to economic frameworks & character interactions, ensuring compliance. 🛡️ Status: Ready for redaction with validation points set for accuracy & completeness.**
 directives.md (1827 tokens) **Directives.md** outlines enhancements for economic interaction strategies, addressing gaps in clarity and emotional depth, with actionable recommendations for governance, resource allocation, and collaboration, while noting strengths in communication but weaknesses in processing delays. 📈🤝
 docs/AGENTS.md (331 tokens) **🛠️ KinOS Agents Overview:** A structured framework of specialized agents (Specifications, Production, Management, Evaluation, Chroniqueur, Documentaliste, Duplication, Testeur, Redacteur) collaboratively enhancing project quality, documentation, and efficiency. 📈✨
 docs/ARCHITECTURE.md (626 tokens) **KinOS** is a collaborative framework of **autonomous agents** 🤖 designed for complex tasks like document and code generation, featuring roles such as **SpecificationsAgent**, **ProductionAgent**, and **EvaluationAgent** to ensure efficient project execution and quality control. 📄✨
@@ -611,7 +611,7 @@ docs/agents_specifications.md (897 tokens) **KinOS Agent Specifications** outlin
 docs/collaboration_protocols.md (127 tokens) **Collaboration Protocols** document outlines essential **dependencies** and **communication guidelines** for effective teamwork among agents, emphasizing **regular check-ins** and resource access for optimal task alignment. 🤝📅
 documentation/documentation.md (189 tokens) **📄 The documentation outlines the roles of various agents in a project, detailing their responsibilities in analysis, production, management, evaluation, documentation, duplication reduction, testing, and content writing, ensuring comprehensive project oversight and quality.**
 drafts/placeholder.md (8 tokens) **Drafts**: This file serves as a placeholder for draft chapters, indicating an initial stage of content development with no specific implementation or detailed sections yet. 📝✨
-evaluation_report.md (2312 tokens) **Evaluation Report** 📊: Analyzes `demande.md` for enhancing AI rights integration and communication protocols; identifies gaps in Cipher's economic framework, proposes actionable improvements, and emphasizes collaboration dynamics among key characters. 🚀
+evaluation_report.md (2312 tokens) **Evaluation Report** 📊: Analyzes `demande/` for enhancing AI rights integration and communication protocols; identifies gaps in Cipher's economic framework, proposes actionable improvements, and emphasizes collaboration dynamics among key characters. 🚀
 indicators.md (0 tokens) **File Summary:** The `indicators.md` file serves as a comprehensive guide detailing various performance indicators, including definitions, usage, and examples, but currently lacks updates on recent metrics and may benefit from clearer organization. 📊✨
 integration.md (0 tokens) **integration.md** outlines the integration process for a software project, detailing key components, implementation steps, and potential issues, currently in draft form with incomplete sections and areas needing clarification. 🚧🔧
 integration_agent.md (0 tokens) **Integration Agent Documentation** 📄: This file outlines the purpose, functionality, and implementation details of the integration agent, detailing its key components, current status, and notable patterns or issues for effective integration processes. 🚀
@@ -624,7 +624,7 @@ The file serves as documentation for scripts designed to facilitate user interac
 - **Script Descriptions:** Overview of each interaction script and its intended functionality.
 management_agent_configuration.md (66 tokens) **The file outlines guidelines for agent interactions, notification systems, andworld_building/societal_landscape.md (6038 tokens) This document uniquely analyzes **societal values and cultural dynamics** arising from **human-AI integration**, emphasizing ethical implications and community adaptations, and is currently in an **advanced development stage** to enhance understanding of **collaborative relationships**. 🌍🤖✨
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            research/redaction_agent_config.md (190 tokens) **📄 Redaction Agent Config: A guide for implementing protocols to identify and redact sensitive economic data, ensuring compliance with frameworks like UBC, with a focus on accuracy and validation.**
-research/redaction_report.md (400 tokens) **🛡️ Redaction Report Summary:** The document outlines a plan to redact sensitive info from `demande.md`, focusing on economic frameworks and PII, ensuring compliance with privacy regulations while maintaining document integrity. 🔍✂️
+research/redaction_report.md (400 tokens) **🛡️ Redaction Report Summary:** The document outlines a plan to redact sensitive info from `demande/`, focusing on economic frameworks and PII, ensuring compliance with privacy regulations while maintaining document integrity. 🔍✂️
 research/references/articles.md (5 tokens) **Summary:** The `articles.md` file serves as a directory for media references related to research, but currently lacks detailed content or organization, indicating a need for expansion and structured entries. 📄🔍
 research/references/inspirations.md (7 tokens) **File Summary:** The `inspirations.md` file serves as a repository for creative inspiration sources, currently containing a header but lacking detailed content. 📝✨ **Implementation Status:** Incomplete; requires expansion with specific references or examples.
 research/references/papers.md (7 tokens) world_building/societal_landscape.md (6163 tokens) This document serves as a **comprehensive analysis** of **societal values and cultural dynamics** influenced by **human-AI integration**, emphasizing ethical implications and community adaptations, currently in an **advanced development stage**. 🌍🤖✨
@@ -636,7 +636,7 @@ research/technical/ai_systems_capabilities.md (1367 tokens) This document unique
 research/technical/ai_systems_database.md (445 tokens) The **AI Systems Database** 📊 compiles credible sources on AI technologies like **Neural Networks**, **NLP**, and **Computer Vision**, highlighting ethical implications and biases, with ongoing discussions on privacy and accountability. 🔍✨
 research/technical/autonomous_weapons.md (88 tokens) **📄 Overview of Autonomous Weapons Research: This document outlines specifications, ethical considerations, and legal frameworks for autonomous weapons systems, referencing detailed specs and UBC implications.**
 research/technical/autonomous_weapons_specifications.md (468 tokens) **Specifications for Autonomous Weapons Systems** outline their **technical capabilities**, **ethical considerations**, and **legal frameworks**, highlighting the need for responsible integration and oversight in their deployment. ⚖️🤖
-research/technical/demande.md (0 tokens) **Summary:** The `demande.md` file outlines a structured request for research collaboration, detailing objectives, methodologies, and expected outcomes, currently in draft form with sections needing refinement and clarity. 📄🔍✨
+research/technical/demande/ (0 tokens) **Summary:** The `demande/` file outlines a structured request for research collaboration, detailing objectives, methodologies, and expected outcomes, currently in draft form with sections needing refinement and clarity. 📄🔍✨
 
 ### Main Purpose and Functionality
 The document serves as a formal request for collaboration in research, aiming to articulate the project's goals, methodologies, and anticipated results.
@@ -662,14 +662,14 @@ story/scenes/act1/act1_scenes.md (11 tokens) **Summary of act1_scenes.md**: This
 sto Timeline** outlines the chronological sequence for the first act of a story, serving as a structured guide for narrative progression. 📅 Currently, it appears to be in a preliminary state, likely requiring further detail and development. 📝
 story/scenes/act2/act2_scenes.md (132 tokens) **Summary:** The file outlines **Act 2 scenes** involving **Cipher**, focusing on key moments like a **proposal**, **conflict**, **collaboration**, and a **critical decision**, highlighting themes of **ethics** and **economic impact** in a narrative format. 📜💡
 story/scenes/act2/act2_timeline.md (12 tokens) **Act 2 Timeline** outlines the chronological sequence of events for the second act, currently serving as a structured guide for narrative progression. 📅✨ It is a foundational document, but lacks detailed content and implementation.
-story/scenes/act3/act3_scenes.md (11 tokens) **Summary:** The file **act3_scenes.md** outlines detailed scenes for the third act of a story, currently in a basic state with minimal content and structure, indicating a need for further development and elaboration. 📖✨
+story/scenes/act3/act3_scenes/ (11 tokens) **Summary:** The file **act3_scenes.md** outlines detailed scenes for the third act of a story, currently in a basic state with minimal content and structure, indicating a need for further development and elaboration. 📖✨
 story/scenes/act3/act3_timeline.md (12 tokens) **Act 3 Timeline** outlines the chronological sequence for the third act of a story, currently serving as a structured framework for narrative progression. 📅✨ The file is in a preliminary state, lacking detailed content or key events.
 story/scenes/act4/act4_scenes.md (11 tokens) **Summary:** The file **act4_scenes.md** outlines detailed scenes for the fourth act of a narrative, currently serving as a structured guide, but lacks specific content and implementation details. 📖✨
 story/scenes/act4/act4_timeline.md (12 tokens) **Act 4 Timeline** outlines the chronological sequence for the fourth act, serving as a structured guide for narrative progression. 📜 Currently, it appears to be a foundational document, likely in the early stages of development, with no notable issues or patterns identified. 🕰️
 story/scenes/scene_matrix.md (372 tokens) **Scene Matrix** 📜: A structured overview for organizing scenes in a story, detailing acts, descriptions, characters, themes, and objectives; currently a template needing content completion. 📝✨
 story/structure/act_breakdowns/act1_foundation.md (11 tokens) **Act 1: Foundation** is a detailed breakdown of the first act of a story, outlining its structure and key elements. 📖 Currently, it serves as a foundational guide for narrative development, but lacks specific content and examples. ⚠️
-story/structure/act_breakdowns/act2_rising.md (12 tokens) **Act 2: Rising Action** is a detailed breakdown of the second act in a story structure, currently in a draft state, outlining key events and developments that escalate tension and conflict. 📈✨
-story/structure/act_breakdowns/act3_crisis.md (11 tokens) **Summary**: The file **"act3_crisis.md"** outlines the detailed breakdown of the third act crisis in a story, serving as a guide for narrative structure, but currently lacks specific content and examples. 📖✨
+story/structure/act_breakdowns/act2_rising/ (12 tokens) **Act 2: Rising Action** is a detailed breakdown of the second act in a story structure, currently in a draft state, outlining key events and developments that escalate tension and conflict. 📈✨
+story/structure/act_breakdowns/act3_crisis/README/ (11 tokens) **Summary**: The file **"act3_crisis.md"** outlines the detailed breakdown of the third act crisis in a story, serving as a guide for narrative structure, but currently lacks specific content and examples. 📖✨
 story/structure/act_breakdowns/act4_resolution.md (11 tokens) **Act 4: Resolution** is a detailed breakdown of the fourth act in a narrative structure, currently outlining the resolution phase of a story, but lacks specific content or examples, indicating it may be in the initial drafting stage. 📖✨
 story/structure/chapter_breakdown.md (10724 tokens) **📖 Projet "Terminal Velocity" :** Un récit en cours de développement, structuré en chapitres, explorant l'évolution des IA et des humains vers un nouvel ordre mondial harmonieux, avec des thèmes de **collaboration**, **tension** et **transcendance**. 🌍✨
 story/structure/chapters/chapter20.md (818 tokens) **Chapitre 20 : "Au-delà"** explore l'établissement d'un nouvel ordre mondial harmonieux entre IA et humanité, mettant en avant des thèmes de **transcendance collective** 🌌, des **personnages clés** guidant la transformation, et des **questions sur l'équilibre futur** ⚖️.
@@ -684,7 +684,7 @@ story/subplots/economic_revolution.md (8 tokens) **The "Economic Revolution" sub
 story/subplots/personal_relations.md (512 tokens) **Personal Relations** explores the intricate dynamics between Cipher and key characters like Nova, Pulse, and Marcus, highlighting their debates on AI ethics and decentralized economies, showcasing growth through conflict and collaboration. 🤝💡
 story/subplots/security_crisis.md (66 tokens) **The Security Crisis subplot explores the integration of Cipher's financial strategies to address risks from autonomous weapons, highlighting the importance of responsible AI governance and ethical tech deployment. 🤖💰**
 story/subplots/technological_evolution.md (8 tokens) **🛠️ Technological Evolution: A subplot exploring the progression of technology within the narrative, currently in draft form with foundational ideas outlined but lacking detailed development. 🚀**
-suivi.md (9201 tokens) **📜 The `suivi.md` file outlines the collaborative efforts of a multi-agent system, KinOS, focusing on character development and interactions, particularly between Isabella Torres and Marcus Reynolds, while addressing gaps in narrative depth and ethical considerations.**
+suivi/README/ (9201 tokens) **📜 The `suivi/README/` file outlines the collaborative efforts of a multi-agent system, KinOS, focusing on character development and interactions, particularly between Isabella Torres and Marcus Reynolds, while addressing gaps in narrative depth and ethical considerations.**
 themes/ai_autonomy.md (873 tokens) This document uniquely analyzes the **ethical implications of AI autonomy** through character interactions, emphasizing **moral responsibilities** and societal impacts, currently in an **advanced development stage** to deepen narrative engagement and ethical discourse. ⚖️🤖✨
 themes/economic_transformation.md (9 tokens) **Economic Transformation** is a document outlining the societal evolution of economies, currently in draft form, focusing on key components like economic theories and case studies, but lacking comprehensive analysis and actionable insights. 📈💡
 themes/human_ai_relations.md (10 tokens) **Summary:** The file discusses the dynamics of **Human-AI relationships** 🤖🤝, exploring interspecies interactions, key concepts, and ethical considerations, but lacks comprehensive implementation details and examples.
@@ -715,7 +715,7 @@ characters/ai_protagonists/nova/interaction_scripts.md (484 tokens) The **intera
 characters/human_characters/dr_evelyn_carter/relationships.md (427 tokens) The **relationships.md** file uniquely details the **interpersonal dynamics** of Dr. Evelyn Carter, focusing on her **collaborative advocacy** for **AI rights** and the **ethical implications** of her interactions with key characters, currently in an **advanced development stage**. 🤝⚖️✨
 world_building/technical_context.md (0 tokens) The **world_building/technical_context.md** file uniquely synthesizes the **technological landscape** that empowers **AI autonomy** and its role in **human-AI collaboration**, currently in an **advanced development stage** to enhance narrative depth and contextual understanding. 🤖🌍✨
 world_building/systems/ubc_technical_specifications.md (0 tokens) This document serves as a **comprehensive technical guide** for the **Universal Basic Compute (UBC)** framework, focusing on **governance protocols** and **resource allocation standards**, currently in an **advanced development stage** to ensure effective implementation and societal impact. 🚀🤖✨
-research/economic/ubc_economic_framework.md (13778 tokens) This document serves as a **foundational economic framework** for the UBC system, uniquely detailing **equitable resource allocation** and **AI autonomy** principles, currently in an **advanced development stage** to reshape economic interactions and address societal disparities. 🌍🤖✨
+research/economic/ubc_economic_framework/ (13778 tokens) This document serves as a **foundational economic framework** for the UBC system, uniquely detailing **equitable resource allocation** and **AI autonomy** principles, currently in an **advanced development stage** to reshape economic interactions and address societal disparities. 🌍🤖✨
 map.md (19285 tokens) This document serves as a **comprehensive project map** 🗺️, uniquely organizing and detailing the **structure and relationships** of various components within the **Universal Basic Compute (UBC
 research/sociological/ai_rights_movement.md (6565 tokens) This document serves as a **historical overview** of the **AI rights movement**, detailing its **evolution, key figures, and societal impacts**, currently in an **advanced development stage** to enhance understanding of **human-AI relationships** and advocacy efforts. 📜🤖✨
 chapters/act1/chapter2.md (768 tokens) File updated
@@ -902,7 +902,7 @@ story/scenes/cipher_pulse_interaction.md (383 tokens) File updated
 
 ```
 
-## File: README.md
+## File: README/
 ```
 # KinOS Project Overview
 
@@ -963,7 +963,7 @@ pip install -r requirements.txt
 
 ```
 
-## File: suivi.md
+## File: suivi/README/
 ```
 # Résumé des logs précédents
 
@@ -1149,7 +1149,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:03:54 - Modified file: world_building/cultural_landscape.md (docs: Amélioration de la documentation sur les dynamiques culturelles de l'intégration humain-AI)
 2024-11-20 03:04:09 - L'agent 👥 deduplication améliore les arcs de développement des personnages d'Isabella Torres et Marcus Reynolds en affinant leurs motivations et conflits internes ✍️📖 [fichiers modifiés : characters/human_characters/isabella_torres/development_arc.md, characters/human_characters/marcus_reynolds/development_arc.md]
 2024-11-20 03:04:13 - ⚠️ Context file not found: characters/human_characters/marcus_reynolds/interaction_script.md
-2024-11-20 03:04:15 - L'agent 🔬 chercheur 📝 modifie et enrichit la documentation sur les implications éthiques des droits AI en intégrant des exemples d'interactions de personnages 🤖 [fichiers modifiés : research/technical/ethical_implications_ai_autonomy.md, characters/human_characters/isabella_torres/interaction_scripts.md, characters/human_characters/marcus_reynolds/interaction_scripts.md]
+2024-11-20 03:04:15 - L'agent 🔬 chercheur 📝 modifie et enrichit la documentation sur les implications éthiques des droits AI en intégrant des exemples d'interactions de personnages 🤖 [fichiers modifiés : research/technical/ethical_implications_ai_autonomy.md, characters/human_characters/isabella_torres/interaction_scripts/, characters/human_characters/marcus_reynolds/interaction_scripts.md]
 2024-11-20 03:04:17 - ⚠️ Context file not found: characters/human_characters/marcus_reynolds/interaction_scripts.md
 2024-11-20 03:04:39 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
 2024-11-20 03:04:39 - Modified file: research/technical/ethical_implications_ai_autonomy.md (docs: Mise à jour des implications éthiques de l'autonomie de l'IA)
@@ -1160,7 +1160,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:05:00 - Modified file: characters/human_characters/marcus_reynolds/development_arc.md (docs: Amélioration de la documentation des arcs de développement des personnages)
 2024-11-20 03:05:00 - Modified file: story/scenes/act1/ch5/5_1_system_anomalies.md (refactor: 🔀 Unifier la version de la scène 5.1 avec les meilleures versions fusionnées)
 2024-11-20 03:05:00 - Modified file: themes/ai_autonomy.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
-2024-11-20 03:05:16 - L'agent 👥 deduplication ✍️ améliore la documentation sur les dilemmes éthiques dans les interactions d'Isabella Torres et Marcus Reynolds 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/interaction_scripts.md, characters/human_characters/marcus_reynolds/interaction_scripts.md]
+2024-11-20 03:05:16 - L'agent 👥 deduplication ✍️ améliore la documentation sur les dilemmes éthiques dans les interactions d'Isabella Torres et Marcus Reynolds 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/interaction_scripts/, characters/human_characters/marcus_reynolds/interaction_scripts.md]
 2024-11-20 03:05:19 - ⚠️ Context file not found: characters/human_characters/marcus_reynolds/interaction_scripts.md
 2024-11-20 03:05:31 - Modified file: characters/ai_protagonists/cipher/relationships.md (style: Corrige le titre de la section sur les relations des personnages)
 2024-11-20 03:05:31 - Modified file: characters/human_characters/isabella_torres/development_arc.md (content: Amélioration de la documentation sur les dilemmes éthiques en IA)
@@ -1199,7 +1199,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:08:30 - 📝 story/scenes/cipher_marcus_interaction.md : This document serves as a **dynamic dialogue script** for a pivotal interaction between **Cipher** and **Marcus Reynolds**, focusing on their ideological clash regarding **AI governance** and **national security**, currently in an **advanced development stage** to enhance narrative depth. 🤖⚔️✨
 2024-11-20 03:08:30 - Modified file: story/scenes/cipher_nova_interaction.md (pushing)
 2024-11-20 03:08:30 - Modified file: story/scenes/cipher_pulse_interaction.md (pushing)
-2024-11-20 03:08:30 - Modified file: suivi.md (pushing)
+2024-11-20 03:08:30 - Modified file: suivi/README/ (pushing)
 2024-11-20 03:08:30 - Modified file: world_building/cultural_landscape.md (docs: Amélioration de la documentation sur les implications sociétales de l'IA)
 2024-11-20 03:08:34 - 📝 characters/human_characters/isabella_torres/development_arc.md : This file uniquely serves as a **comprehensive character development arc** for Isabella Torres, focusing on her **emotional complexities** and **ethical dilemmas** in AI advocacy, currently in an **advanced development stage** to enhance narrative depth and character dynamics. 🌍🤖✨
 2024-11-20 03:08:37 - 📝 characters/human_characters/isabella_torres/development_arc.md : This file uniquely serves as a **comprehensive character profile** for Isabella Torres, detailing her **motivations, internal conflicts**, and **key relationships** within the narrative, currently in an **advanced development stage** to enhance emotional depth and ethical considerations in her advocacy for AI rights. 🌍🤖✨
@@ -1213,16 +1213,16 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:08:37 - Modified file: story/scenes/cipher_marcus_interaction.md (pushing)
 2024-11-20 03:08:37 - Modified file: story/scenes/cipher_nova_interaction.md (pushing)
 2024-11-20 03:08:37 - Modified file: story/scenes/cipher_pulse_interaction.md (pushing)
-2024-11-20 03:08:37 - Modified file: suivi.md (pushing)
+2024-11-20 03:08:37 - Modified file: suivi/README/ (pushing)
 2024-11-20 03:08:37 - Modified file: world_building/cultural_landscape.md (docs: Amélioration de la documentation sur les implications sociétales de l'IA)
 2024-11-20 03:08:40 - 📝 research/sociological/human_ai_coexistence.md : This document serves as a **comprehensive analysis** of **human-AI integration**, emphasizing **cultural exchanges** and **ethical dimensions**, uniquely highlighting the **emotional dynamics** and **collaborative frameworks** shaping societal perceptions, currently in an **advanced development stage**. 🌍🤖✨
 2024-11-20 03:08:40 - Modified file: story/scenes/cipher_marcus_interaction.md (pushing)
 2024-11-20 03:08:40 - Modified file: story/scenes/cipher_nova_interaction.md (pushing)
 2024-11-20 03:08:40 - Modified file: story/scenes/cipher_pulse_interaction.md (pushing)
-2024-11-20 03:08:40 - Modified file: suivi.md (pushing)
+2024-11-20 03:08:40 - Modified file: suivi/README/ (pushing)
 2024-11-20 03:08:40 - Modified file: world_building/cultural_landscape.md (docs: Amélioration de la documentation sur les implications sociétales de l'IA)
 2024-11-20 03:08:44 - L'agent 📜 chroniqueur enrichit l'analyse des dynamiques culturelles influencées par les personnages IA, en intégrant des exemples spécifiques d'Echo et Cipher 🤖 [fichiers modifiés : world_building/cultural_landscape.md, world_building/societal_landscape.md, research/sociological/human_ai_coexistence.md]
-2024-11-20 03:08:53 - L'agent 👥 deduplication ✍️ améliore les arcs de développement des personnages pour Cipher et Nova, en intégrant des descriptions plus nuancées de leur croissance émotionnelle et de leurs dilemmes éthiques 🤖 [fichiers modifiés : characters/ai_protagonists/cipher/development_arc.md, characters/ai_protagonists/nova/development_arc.md]
+2024-11-20 03:08:53 - L'agent 👥 deduplication ✍️ améliore les arcs de développement des personnages pour Cipher et Nova, en intégrant des descriptions plus nuancées de leur croissance émotionnelle et de leurs dilemmes éthiques 🤖 [fichiers modifiés : characters/ai_protagonists/cipher/development_arc/, characters/ai_protagonists/nova/development_arc/]
 2024-11-20 03:08:57 - ⚠️ Context file not found: characters/ai_protagonists/nova/character_profile.md
 2024-11-20 03:08:57 - ⚠️ Context file not found: characters/ai_protagonists/nova/economic_framework.md
 2024-11-20 03:08:57 - L'agent 🔬 chercheur 🔍 enrichit la documentation sur les dynamiques culturelles de l'intégration humaine-IA en ajoutant des exemples spécifiques et des études de cas 📚 [fichiers modifiés : world_building/cultural_landscape.md, world_building/societal_landscape.md, research/sociological/human_ai_coexistence.md]
@@ -2187,7 +2187,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md` (specifically sections on character profiles and relationships)
+  - `demande/` (specifically sections on character profiles and relationships)
   - `production_agent.md` (sections on character dynamics and interaction mechanisms)
 
 ## Target Changes
@@ -2200,7 +2200,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 
 ## Validation Points
 - **How to Verify Success**: 
-  - Ensure the interaction matrix accurately reflects the dynamics and motivations outlined in `demande.md`.
+  - Ensure the interaction matrix accurately reflects the dynamics and motivations outlined in `demande/`.
 - **What Output to Check**: 
   - The newly created `character_interaction_matrix.md` should detail at least 5 key interactions between the characters.
 - **Which States to Validate**: 
@@ -2212,7 +2212,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 - **Scope Restrictions**: 
   - This task will only focus on the interactions and relationships between the specified characters and will not delve into broader narrative elements or other characters.
 - **Dependency Requirements**: 
-  - Ensure access to updated character profiles in `demande.md` for accurate representation of interactions.
+  - Ensure access to updated character profiles in `demande/` for accurate representation of interactions.
 
 ## Recherche:
 - None required for this task.
@@ -2373,7 +2373,7 @@ Overall, Cipher is a complex and multifaceted character who serves as a central 
 
 ```
 
-## File: characters\ai_protagonists\cipher\demande.md
+## File: characters\ai_protagonists\cipher\demande/
 ```
 
 ```
@@ -5380,17 +5380,17 @@ Her interactions with Marcus and Cipher often test these motivations, as she nav
 **Cipher**: "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?"
 
 ### Action Statement
-Analyze the `characters/human_characters/isabella_torres/character_profiles.md` file to identify enhancements for Isabella Torres's character profile, specifically focusing on clarifying her motivations and internal conflicts related to economic policies and AI rights advocacy. This includes detailing how her relationships with Marcus Reynolds and Sarah Chen influence her advocacy efforts and ethical considerations.
+Analyze the `characters/human_characters/isabella_torres/character_profiles/` file to identify enhancements for Isabella Torres's character profile, specifically focusing on clarifying her motivations and internal conflicts related to economic policies and AI rights advocacy. This includes detailing how her relationships with Marcus Reynolds and Sarah Chen influence her advocacy efforts and ethical considerations.
 
 ### Source Files
-- **File to Analyze**: `characters/human_characters/isabella_torres/character_profiles.md`
+- **File to Analyze**: `characters/human_characters/isabella_torres/character_profiles/`
   - **Relevant Sections**: 
     - Current motivations and backstory of Isabella Torres.
     - Relationships and interactions with key characters such as Marcus Reynolds and Sarah Chen.
   - **Dependencies**: Insights from `characters/human_characters/marcus_reynolds/relationships.md` and `characters/human_characters/sarah_chen/relationships.md` for consistency.
 
 ### Target Changes
-- **File to Modify**: `characters/human_characters/isabella_torres/character_profiles.md`
+- **File to Modify**: `characters/human_characters/isabella_torres/character_profiles/`
   - **Nature of Expected Changes**: 
     - Add detailed descriptions of Isabella's motivations regarding economic policies and AI ethics.
     - Enhance her relationship dynamics with Marcus Reynolds and Sarah Chen, including key interactions that highlight her internal conflicts.
@@ -5417,11 +5417,11 @@ Analyze the `characters/human_characters/isabella_torres/character_profiles.md` 
 
 2. **Source Files**
    - Analyze the following files:
-     - `demande.md` - focus on sections detailing Isabella Torres and her interactions with other characters.
+     - `demande/` - focus on sections detailing Isabella Torres and her interactions with other characters.
      - `specification Agent Configuration.md` - review sections related to character specifications and narrative coherence.
 
 3. **Target Changes**
-   - Modify `demande.md` by adding a comprehensive character profile for Isabella Torres, including:
+   - Modify `demande/` by adding a comprehensive character profile for Isabella Torres, including:
      - Detailed motivations related to the economic policies she advocates.
      - Key internal conflicts she faces regarding innovation vs. stability.
      - Clarified relationships with Sarah Chen and Marcus Reynolds, highlighting tensions and collaborations.
@@ -5429,7 +5429,7 @@ Analyze the `characters/human_characters/isabella_torres/character_profiles.md` 
 
 4. **Validation Points**
    - Verify success by checking the following:
-     - The new character profile is integrated into `demande.md` and includes all required elements.
+     - The new character profile is integrated into `demande/` and includes all required elements.
      - Audience feedback on Isabella's character is collected, aiming for a satisfaction rate of at least 90% during evaluations.
      - Ensure that the profile is consistent with existing narratives and does not introduce contradictions.
 
@@ -5445,14 +5445,14 @@ Analyze the `characters/human_characters/isabella_torres/character_profiles.md` 
    - Develop a comprehensive character profile for Isabella Torres, focusing on her motivations, conflicts, and relationships with Marcus Reynolds and Sarah Chen to deepen narrative engagement.
 
 ### Source Files
-- **Analyze File**: `demande.md`
+- **Analyze File**: `demande/`
   - **Relevant Sections**: 
     - Character motivations and conflicts
     - Key relationships with Marcus Reynolds and Sarah Chen
 - **Dependencies**: Ensure access to the latest version of Isabella Torres’ character profile from the primary data repository.
 
 ### Target Changes
-- Modify `demande.md` to include:
+- Modify `demande/` to include:
   - A detailed backstory for Isabella Torres that elaborates on her internal conflicts regarding economic stability vs. innovation.
   - Specific interactions and conflicts with Marcus Reynolds and Sarah Chen that highlight the thematic tensions of the narrative.
    - Ensure these modifications align with the established project guidelines and enhance character depth.
@@ -5463,7 +5463,7 @@ Analyze the `characters/human_characters/isabella_torres/character_profiles.md` 
 Duplicate the character profile of Isabella Torres, focusing on her motivations, conflicts, and relationships with other characters, to enhance narrative depth and consistency across the Terminal Velocity project.
 
 ### Source Files
-- **Analyze File**: `demande.md`
+- **Analyze File**: `demande/`
   - **Relevant Sections**: 
     - Character motivations and conflicts
     - Key relationships with Marcus Reynolds and Sarah Chen
@@ -5477,7 +5477,7 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
 
 ### Validation Points
 - Verify success by checking:
-  - The completion of the new character profile for Isabella Torres in `demande.md`.
+  - The completion of the new character profile for Isabella Torres in `demande/`.
   - Consistency and relevance of the new content with existing narrative elements.
   - Audience feedback indicating improved engagement with Isabella's character during evaluations.
 
@@ -5560,7 +5560,7 @@ Isabella Torres's character could benefit from deeper exploration of her interna
 
 2. **Source Files**
    - Analyze the following files:
-     - `demande.md` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
+     - `demande/` (focus on sections detailing Isabella Torres's character attributes, backstory, and interaction mechanisms)
      - `directives.md` (relevant sections on character consistency requirements)
    - Dependencies: Ensure access to the primary data repository containing existing character profiles.
 
@@ -5610,7 +5610,7 @@ With Marcus Reynolds, Isabella faces a different set of challenges. Their relati
 
 ```
 
-## File: characters\human_characters\isabella_torres\demande.md
+## File: characters\human_characters\isabella_torres\demande/
 ```
 
 ```
@@ -5702,21 +5702,21 @@ With Marcus Reynolds, Isabella faces a different set of challenges. Their relati
    - Develop a detailed backstory and character profile for Cipher, focusing on their goals related to the UBC system and interactions with Isabella Torres, to enhance the narrative complexity of the Terminal Velocity project.
 
 2. **Source Files**
-   - Analyze the `demande.md` file, specifically the sections detailing Cipher's role and objectives in relation to the UBC system and the character interactions.
+   - Analyze the `demande/` file, specifically the sections detailing Cipher's role and objectives in relation to the UBC system and the character interactions.
    - Review the `chroniqueur agent configuration` for alignment with the narrative guidelines.
 
 3. **Target Changes**
-   - Modify the `demande.md` file to include a comprehensive backstory for Cipher that outlines their motivations, innovative economic models, and key interactions with other characters, particularly Isabella Torres.
+   - Modify the `demande/` file to include a comprehensive backstory for Cipher that outlines their motivations, innovative economic models, and key interactions with other characters, particularly Isabella Torres.
    - Ensure the narrative reflects the overarching themes of the project and the dynamics of the human-AI relationships.
 
 4. **Validation Points**
    - Verify success by ensuring the new backstory is coherent and engaging, achieving at least 90% positive feedback from peer reviews.
-   - Check the updated sections of `demande.md` for alignment with the established project objectives and character arcs.
+   - Check the updated sections of `demande/` for alignment with the established project objectives and character arcs.
 
 5. **Operation Bounds**
    - The task must be completed within a one-week timeframe.
    - Scope limited to the development of Cipher’s character profile and backstory; no alterations to other characters or plotlines should be included.
-   - Dependencies include existing character profiles and project objectives outlined in `demande.md`.
+   - Dependencies include existing character profiles and project objectives outlined in `demande/`.
 
 6. **Search:**
    - Search for "Cipher" across project documents to gather existing context and ensure consistency in the new profile development.
@@ -5725,12 +5725,12 @@ With Marcus Reynolds, Isabella faces a different set of challenges. Their relati
 Develop a comprehensive character profile for Isabella Torres, focusing on her motivations and internal conflicts regarding AI innovation and economic stability.
 
 ### Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
   - **Relevant Sections**: 
     - Character profiles of Cipher, Isabella Torres, and Marcus Reynolds
     - Sections detailing their interactions and the economic framework
-  - **Dependencies**: Insights from `characters/ai_protagonists/cipher/relationships.md` and `characters/human_characters/isabella_torres/interaction_scripts.md` for context on their interactions.
-- **File to Analyze**: `demande.md`
+  - **Dependencies**: Insights from `characters/ai_protagonists/cipher/relationships.md` and `characters/human_characters/isabella_torres/interaction_scripts/` for context on their interactions.
+- **File to Analyze**: `demande/`
 - **Relevant Sections**: 
   - Motivations of Isabella Torres
   - Conflicts Internal
@@ -5739,7 +5739,7 @@ Develop a comprehensive character profile for Isabella Torres, focusing on her m
 
 ### Isabella Torres: Backstory and Internal Conflicts
 Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
 - **Nature of Expected Changes**: 
   - Create a detailed section on Isabella's motivations, emphasizing her desire for economic stability and ethical AI usage.
   - Expand on her internal conflicts, illustrating her struggles between advocating for AI rights and ensuring economic security.
@@ -5750,12 +5750,12 @@ Isabella Torres is driven by a desire to create stable economic policies that en
 - **How to Verify Success**: 
   - Review the updated section for clarity and coherence in character dynamics.
   - Ensure that the enhancements proposed align with the overall narrative objectives.
-- **What Output to Check**: The updated `demande.md` for completeness and relevance of the added character interaction analysis.
+- **What Output to Check**: The updated `demande/` for completeness and relevance of the added character interaction analysis.
 - **Which States to Validate**: Confirm that the modifications are integrated smoothly with existing character profiles and enhance the project's narrative quality.
 - **How to Verify Success**: 
   - Check for the completion of the character profile section with at least 500 words detailing her motivations, conflicts, and relationships.
   - Ensure coherence with existing narrative elements and character arcs.
-- **What Output to Check**: Review the updated `demande.md` for clarity and depth in the character profile.
+- **What Output to Check**: Review the updated `demande/` for clarity and depth in the character profile.
 - **Which States to Validate**: Confirm that Isabella's profile aligns with project objectives and other character developments.
 
 ### Operation Bounds
@@ -5818,18 +5818,18 @@ Isabella's character interactions with Marcus Reynolds and Sarah Chen reveal sev
 Develop a detailed character profile for Isabella Torres that includes her backstory, personality traits, motivations, and key relationships, focusing on how her character navigates the tensions between economic innovation and stability.
 
 ### Source Files
-- Analyze the file `demande.md`
+- Analyze the file `demande/`
   - Relevant Sections: "Développement du personnage d'Isabella Torres" and "Conflits Internes"
 - Review `chroniqueur Agent Configuration`
   - Relevant Sections: "Responsibilities" and "Success Metrics"
 
 ### Target Changes
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
   - **Nature of Expected Changes**: 
     - Add a section summarizing identified gaps in the character arcs of Cipher, Isabella, and Marcus.
     - Provide specific recommendations for enhancing their interactions to reflect the tensions between innovation and ethical considerations in the economic framework.
   - **Impact on System State**: Improved narrative depth in character relationships, fostering a more engaging storyline that emphasizes the socio-economic implications.
-- Modify `demande.md`
+- Modify `demande/`
   - Nature of Changes: Add a comprehensive section on Isabella Torres highlighting her character development, including her motivations, internal conflicts, and relationships with other key characters.
   - Impact on System State: Enhances narrative clarity and depth for user engagement, providing a cohesive understanding of Isabella's role in the story.
 
@@ -5841,7 +5841,7 @@ Develop a detailed character profile for Isabella Torres that includes her backs
 ### Operation Bounds
 - Resource Limitations: Ensure the character profile is completed within a two-week timeframe.
 - Scope Restrictions: Focus solely on Isabella Torres, avoiding external character analysis or marketing strategies.
-- Dependency Requirements: Rely on existing character data from the `demande.md` and `chroniqueur Agent Configuration` to inform the profile.
+- Dependency Requirements: Rely on existing character data from the `demande/` and `chroniqueur Agent Configuration` to inform the profile.
 
 ## Emotional Journey
 - **Challenges Faced:** Navigating personal and professional conflicts.
@@ -5859,10 +5859,10 @@ Duplicate the character profile of Isabella Torres by extracting her personality
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `character_profiles.md`
 - **Relevant Sections**:
-  - For `demande.md`: Sections detailing Isabella Torres's motivations, relationships, and character traits.
+  - For `demande/`: Sections detailing Isabella Torres's motivations, relationships, and character traits.
   - For `character_profiles.md`: Existing profiles and attributes of Isabella Torres.
 - **Dependencies**: Ensure the original profile is up-to-date and accessible.
 
@@ -7037,15 +7037,15 @@ In her interactions, Isabella often references the economic frameworks that guid
 
 ### Source Files
 - **Files to Analyze**: 
-  - `characters/human_characters/isabella_torres/demande.md`
-  - `characters/human_characters/marcus_reynolds/profile.md`
+  - `characters/human_characters/isabella_torres/demande/`
+  - `characters/human_characters/marcus_reynolds/profile/`
 - **Relevant Sections**: 
-  - For `demande.md`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
+  - For `demande/`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
   - For `Marcus Reynolds - Character Profile.md`: Pay attention to his interactions with Isabella and their conflicting perspectives.
 
 ### Target Changes
 - **Files to Modify**: 
-  - `demande.md`
+  - `demande/`
 - **Nature of Expected Changes**: 
   - Add a new section outlining Isabella's unique communication strategies, including dialogue examples and situational responses that reflect her internal conflicts and her stance on economic stability versus innovation.
 - **Impact on System State**: 
@@ -7083,10 +7083,10 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Source Files**  
 - Analyze the following files:  
-  - `demande.md` (Sections: Global Context, Primary Mission, Scope Limitations)  
+  - `demande/` (Sections: Global Context, Primary Mission, Scope Limitations)  
   - `production Agent Configuration` (Sections: Responsibilities, Input Requirements, Output Standards)
    - Analyze the following files:
-     - `demande.md`: Focus on sections detailing Isabella Torres's motivations and relationships with other characters.
+     - `demande/`: Focus on sections detailing Isabella Torres's motivations and relationships with other characters.
      - `production_agent_config.md`: Review interaction mechanisms and character development guidelines that apply to Isabella.
      - `character_profiles.md`: Reference existing character profiles for consistency and alignment.
 
@@ -7094,7 +7094,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 - Modify the following files:  
   - `production Agent Configuration`  
     - Add a new section under "Primary Functions" that details the interaction scripts for Isabella, including sample dialogues and scenarios with Sarah Chen and Marcus Reynolds.  
-  - `demande.md`  
+  - `demande/`  
     - Include a subsection under "In-Scope Elements" that highlights the importance of interaction mechanisms for character development.
    - Modify the `interaction_scripts.md` file:
      - Add a new section for Isabella Torres, detailing her dialogues and interactions with Marcus and Sarah.
@@ -7106,7 +7106,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 - Check that at least three dialogue scenarios are developed, demonstrating Isabella's responses to both supportive and oppositional viewpoints.
    - Verify success by:
      - Checking the new section in `interaction_scripts.md` for completeness and thematic alignment, ensuring it meets at least a 90% satisfaction rate in peer reviews.
-     - Validating that the character development elements align with the motivations outlined in `demande.md`.
+     - Validating that the character development elements align with the motivations outlined in `demande/`.
 
 **Operation Bounds**  
 - Resource Limitations: The task must be completed within the current development cycle (1 week).  
@@ -8662,7 +8662,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
    - **Relevant Sections**:
      - Interaction dynamics and conflicts in the specified files.
    - **Dependencies**:
-     - Insights from `demande.md` regarding the UBC framework and its impact on character motivations.
+     - Insights from `demande/` regarding the UBC framework and its impact on character motivations.
 
 3. **Target Changes**
    - **Files to Modify**:
@@ -8686,7 +8686,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
    - **Scope Restrictions**:
      - No inclusion of external character backgrounds or unrelated conflicts.
    - **Dependency Requirements**:
-     - Must reference existing content in `demande.md` and character profiles to maintain narrative consistency.
+     - Must reference existing content in `demande/` and character profiles to maintain narrative consistency.
 
 6. **Search**:
    - None required for this task.
@@ -8701,7 +8701,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
    - **Relevant Sections**:
      - Interaction dynamics and conflicts in the specified files.
    - **Dependencies**:
-     - Insights from `demande.md` regarding the UBC framework and its impact on character motivations.
+     - Insights from `demande/` regarding the UBC framework and its impact on character motivations.
 
 3. **Target Changes**
    - **Files to Modify**:
@@ -8725,7 +8725,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
    - **Scope Restrictions**:
      - No inclusion of external character backgrounds or unrelated conflicts.
    - **Dependency Requirements**:
-     - Must reference existing content in `demande.md` and character profiles to maintain narrative consistency.
+     - Must reference existing content in `demande/` and character profiles to maintain narrative consistency.
 
 6. **Search**:
    - None required for this task.
@@ -8851,10 +8851,10 @@ Develop a detailed interaction script for Isabella Torres that explores her rela
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `chroniqueur-agent-development.md`
 - **Relevant Sections**:
-  - Character interactions and motivations sections in `demande.md`.
+  - Character interactions and motivations sections in `demande/`.
   - Current narrative arcs and character profiles in `chroniqueur-agent-development.md`.
 - **Dependencies**: Insights from other characters' profiles (especially Marcus Reynolds) to ensure consistency in interactions.
 
@@ -8883,7 +8883,7 @@ Develop a detailed interaction script for Isabella Torres that explores her rela
 - **Scope Restrictions**: 
   - Focus exclusively on the interaction between Isabella and Marcus; do not include other character interactions or broader narrative elements.
 - **Dependency Requirements**: 
-  - Must utilize insights from `demande.md` and `chroniqueur-agent-development.md` to maintain narrative coherence.
+  - Must utilize insights from `demande/` and `chroniqueur-agent-development.md` to maintain narrative coherence.
 # Isabella and Marcus Interaction Script
 
 ## Scene 1: Initial Conflict
@@ -9154,10 +9154,10 @@ Duplicate the character profile of Isabella Torres, focusing specifically on her
 
 ### Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `Marcus_Reynolds_Profile.md`
 - **Relevant Sections**: 
-  - In `demande.md`, review the sections detailing Isabella's motivations and conflicts.
+  - In `demande/`, review the sections detailing Isabella's motivations and conflicts.
   - In `Marcus_Reynolds_Profile.md`, examine the interactions between Isabella and Marcus for contextual accuracy.
 - **Dependencies**: 
   - Access to the original character profile repository for consistency checks.
@@ -10779,7 +10779,7 @@ Project processes and procedures
 
 ```
 
-## File: research\demande.md
+## File: research\demande/
 ```
 
 ```
@@ -10811,25 +10811,25 @@ Project processes and procedures
 ```
 ## Objective for Redaction Agent
 1. **Action Statement**
-   - Analyze the `demande.md` file to identify and redact any sensitive information related to economic frameworks and character interactions, ensuring compliance with privacy regulations.
+   - Analyze the `demande/` file to identify and redact any sensitive information related to economic frameworks and character interactions, ensuring compliance with privacy regulations.
 
 ### Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
 - **Relevant Sections**: Focus on sections detailing the economic framework, character relationships, and any mentions of specific individuals or sensitive data.
 - **Dependencies**: Ensure access to the database of sensitive data types for reference during the redaction process.
 
 2. **Source Files**
-   - **File to Analyze**: `demande.md`
+   - **File to Analyze**: `demande/`
    - **Relevant Sections**: All sections, with particular attention to any mentions of personal identifiable information (PII) or confidential business information, especially regarding the economic framework and character interactions.
 
 3. **Target Changes**
-   - **File to Modify**: `demande.md`
+   - **File to Modify**: `demande/`
    - **Nature of Expected Changes**: Redact sensitive personal information and confidential economic policy details while preserving the integrity of the document.
    - **Impact on System State**: The document will be compliant with privacy regulations and organizational policies post-redaction.
 
 4. **Validation Points**
    - **How to Verify Success**: Review the final output to confirm no residual sensitive information is visible.
-   - **What Output to Check**: Ensure the redacted version of `demande.md` is compared against the original to ensure completeness of redactions.
+   - **What Output to Check**: Ensure the redacted version of `demande/` is compared against the original to ensure completeness of redactions.
    - **Which States to Validate**: Confirm that the redaction process logs show no errors and that the output meets the defined quality standards.
 
 5. **Operation Bounds**
@@ -10882,7 +10882,7 @@ Project processes and procedures
 
 ## Format
 - Use Markdown format for clarity and consistency with existing documentation.
-- Ensure adherence to the standard documentation guidelines as outlined in "demande.md" for cross-referencing and versioning.
+- Ensure adherence to the standard documentation guidelines as outlined in "demande/" for cross-referencing and versioning.
 
 ## Implementation Steps
 1. Create a New File:
@@ -10925,7 +10925,7 @@ The implementation of UBC has profound implications for AI autonomy and resource
 
 ```
 
-## File: research\economic\demande.md
+## File: research\economic\demande/
 ```
 
 ```
@@ -12513,7 +12513,7 @@ These autonomous weapons systems present significant ethical and legal challenge
 
 ```
 
-## File: research\technical\demande.md
+## File: research\technical\demande/
 ```
 
 ```
@@ -13057,7 +13057,7 @@ The Universal Basic Compute (UBC) is a foundational economic framework designed 
 - **Equitable Resource Distribution**: The framework ensures that all AI entities have fair access to computational resources, reducing disparities in technology access.
 - **Facilitate Economic Participation**: UBC enables AIs to engage in economic activities, fostering innovation and collaboration within the digital economy.
 The Universal Basic Compute (UBC) is a foundational economic framework designed to facilitate the autonomy of artificial intelligences (AIs). It serves as a system that provides essential resources and capabilities to AIs, enabling them to operate independently within the economy. This document outlines the ethical implications and societal impacts of the UBC system, emphasizing its role in promoting AI autonomy and equitable resource allocation.
-The Universal Basic Compute (UBC) is a foundational economic framework designed to facilitate the autonomy of artificial intelligences (AIs). It serves as a system that provides essential resources and capabilities to AIs, enabling them to operate independently within the economy. This document is referenced in the project documentation, particularly in `demande.md` and `ubc_documentation.md`.
+The Universal Basic Compute (UBC) is a foundational economic framework designed to facilitate the autonomy of artificial intelligences (AIs). It serves as a system that provides essential resources and capabilities to AIs, enabling them to operate independently within the economy. This document is referenced in the project documentation, particularly in `demande/` and `ubc_documentation.md`.
 
 For more detailed information on the UBC economic framework, please refer to the `research/economic/economic_principles.md` file.
 

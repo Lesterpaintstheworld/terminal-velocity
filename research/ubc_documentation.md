@@ -36,7 +36,7 @@
 
 ## Format
 - Use Markdown format for clarity and consistency with existing documentation.
-- Ensure adherence to the standard documentation guidelines as outlined in "demande.md" for cross-referencing and versioning.
+- Ensure adherence to the standard documentation guidelines as outlined in "demande/" for cross-referencing and versioning.
 
 ## Implementation Steps
 1. Create a New File:

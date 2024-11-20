@@ -146,21 +146,21 @@ Isabella's development is marked by her ability to:
    - Develop a detailed backstory and character profile for Cipher, focusing on their goals related to the UBC system and interactions with Isabella Torres, to enhance the narrative complexity of the Terminal Velocity project.
 
 2. **Source Files**
-   - Analyze the `demande.md` file, specifically the sections detailing Cipher's role and objectives in relation to the UBC system and the character interactions.
+   - Analyze the `demande/` file, specifically the sections detailing Cipher's role and objectives in relation to the UBC system and the character interactions.
    - Review the `chroniqueur agent configuration` for alignment with the narrative guidelines.
 
 3. **Target Changes**
-   - Modify the `demande.md` file to include a comprehensive backstory for Cipher that outlines their motivations, innovative economic models, and key interactions with other characters, particularly Isabella Torres.
+   - Modify the `demande/` file to include a comprehensive backstory for Cipher that outlines their motivations, innovative economic models, and key interactions with other characters, particularly Isabella Torres.
    - Ensure the narrative reflects the overarching themes of the project and the dynamics of the human-AI relationships.
 
 4. **Validation Points**
    - Verify success by ensuring the new backstory is coherent and engaging, achieving at least 90% positive feedback from peer reviews.
-   - Check the updated sections of `demande.md` for alignment with the established project objectives and character arcs.
+   - Check the updated sections of `demande/` for alignment with the established project objectives and character arcs.
 
 5. **Operation Bounds**
    - The task must be completed within a one-week timeframe.
    - Scope limited to the development of Cipher’s character profile and backstory; no alterations to other characters or plotlines should be included.
-   - Dependencies include existing character profiles and project objectives outlined in `demande.md`.
+   - Dependencies include existing character profiles and project objectives outlined in `demande/`.
 
 6. **Search:**
    - Search for "Cipher" across project documents to gather existing context and ensure consistency in the new profile development.
@@ -169,12 +169,12 @@ Isabella's development is marked by her ability to:
 Develop a comprehensive character profile for Isabella Torres, focusing on her motivations and internal conflicts regarding AI innovation and economic stability.
 
 ### Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
   - **Relevant Sections**: 
     - Character profiles of Cipher, Isabella Torres, and Marcus Reynolds
     - Sections detailing their interactions and the economic framework
-  - **Dependencies**: Insights from `characters/ai_protagonists/cipher/relationships.md` and `characters/human_characters/isabella_torres/interaction_scripts.md` for context on their interactions.
-- **File to Analyze**: `demande.md`
+  - **Dependencies**: Insights from `characters/ai_protagonists/cipher/relationships.md` and `characters/human_characters/isabella_torres/interaction_scripts/` for context on their interactions.
+- **File to Analyze**: `demande/`
 - **Relevant Sections**: 
   - Motivations of Isabella Torres
   - Conflicts Internal
@@ -183,7 +183,7 @@ Develop a comprehensive character profile for Isabella Torres, focusing on her m
 
 ### Isabella Torres: Backstory and Internal Conflicts
 Isabella Torres is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
 - **Nature of Expected Changes**: 
   - Create a detailed section on Isabella's motivations, emphasizing her desire for economic stability and ethical AI usage.
   - Expand on her internal conflicts, illustrating her struggles between advocating for AI rights and ensuring economic security.
@@ -194,12 +194,12 @@ Isabella Torres is driven by a desire to create stable economic policies that en
 - **How to Verify Success**: 
   - Review the updated section for clarity and coherence in character dynamics.
   - Ensure that the enhancements proposed align with the overall narrative objectives.
-- **What Output to Check**: The updated `demande.md` for completeness and relevance of the added character interaction analysis.
+- **What Output to Check**: The updated `demande/` for completeness and relevance of the added character interaction analysis.
 - **Which States to Validate**: Confirm that the modifications are integrated smoothly with existing character profiles and enhance the project's narrative quality.
 - **How to Verify Success**: 
   - Check for the completion of the character profile section with at least 500 words detailing her motivations, conflicts, and relationships.
   - Ensure coherence with existing narrative elements and character arcs.
-- **What Output to Check**: Review the updated `demande.md` for clarity and depth in the character profile.
+- **What Output to Check**: Review the updated `demande/` for clarity and depth in the character profile.
 - **Which States to Validate**: Confirm that Isabella's profile aligns with project objectives and other character developments.
 
 ### Operation Bounds
@@ -262,18 +262,18 @@ Isabella's character interactions with Marcus Reynolds and Sarah Chen reveal sev
 Develop a detailed character profile for Isabella Torres that includes her backstory, personality traits, motivations, and key relationships, focusing on how her character navigates the tensions between economic innovation and stability.
 
 ### Source Files
-- Analyze the file `demande.md`
+- Analyze the file `demande/`
   - Relevant Sections: "Développement du personnage d'Isabella Torres" and "Conflits Internes"
 - Review `chroniqueur Agent Configuration`
   - Relevant Sections: "Responsibilities" and "Success Metrics"
 
 ### Target Changes
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
   - **Nature of Expected Changes**: 
     - Add a section summarizing identified gaps in the character arcs of Cipher, Isabella, and Marcus.
     - Provide specific recommendations for enhancing their interactions to reflect the tensions between innovation and ethical considerations in the economic framework.
   - **Impact on System State**: Improved narrative depth in character relationships, fostering a more engaging storyline that emphasizes the socio-economic implications.
-- Modify `demande.md`
+- Modify `demande/`
   - Nature of Changes: Add a comprehensive section on Isabella Torres highlighting her character development, including her motivations, internal conflicts, and relationships with other key characters.
   - Impact on System State: Enhances narrative clarity and depth for user engagement, providing a cohesive understanding of Isabella's role in the story.
 
@@ -285,7 +285,7 @@ Develop a detailed character profile for Isabella Torres that includes her backs
 ### Operation Bounds
 - Resource Limitations: Ensure the character profile is completed within a two-week timeframe.
 - Scope Restrictions: Focus solely on Isabella Torres, avoiding external character analysis or marketing strategies.
-- Dependency Requirements: Rely on existing character data from the `demande.md` and `chroniqueur Agent Configuration` to inform the profile.
+- Dependency Requirements: Rely on existing character data from the `demande/` and `chroniqueur Agent Configuration` to inform the profile.
 
 ## Emotional Journey
 - **Challenges Faced:** Navigating personal and professional conflicts.

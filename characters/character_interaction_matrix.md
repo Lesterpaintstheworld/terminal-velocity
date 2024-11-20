@@ -5,7 +5,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md` (specifically sections on character profiles and relationships)
+  - `demande/` (specifically sections on character profiles and relationships)
   - `production_agent.md` (sections on character dynamics and interaction mechanisms)
 
 ## Target Changes
@@ -18,7 +18,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 
 ## Validation Points
 - **How to Verify Success**: 
-  - Ensure the interaction matrix accurately reflects the dynamics and motivations outlined in `demande.md`.
+  - Ensure the interaction matrix accurately reflects the dynamics and motivations outlined in `demande/`.
 - **What Output to Check**: 
   - The newly created `character_interaction_matrix.md` should detail at least 5 key interactions between the characters.
 - **Which States to Validate**: 
@@ -30,7 +30,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 - **Scope Restrictions**: 
   - This task will only focus on the interactions and relationships between the specified characters and will not delve into broader narrative elements or other characters.
 - **Dependency Requirements**: 
-  - Ensure access to updated character profiles in `demande.md` for accurate representation of interactions.
+  - Ensure access to updated character profiles in `demande/` for accurate representation of interactions.
 
 ## Recherche:
 - None required for this task.

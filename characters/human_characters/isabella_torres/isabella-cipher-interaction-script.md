@@ -10,7 +10,7 @@
    - **Relevant Sections**:
      - Interaction dynamics and conflicts in the specified files.
    - **Dependencies**:
-     - Insights from `demande.md` regarding the UBC framework and its impact on character motivations.
+     - Insights from `demande/` regarding the UBC framework and its impact on character motivations.
 
 3. **Target Changes**
    - **Files to Modify**:
@@ -34,7 +34,7 @@
    - **Scope Restrictions**:
      - No inclusion of external character backgrounds or unrelated conflicts.
    - **Dependency Requirements**:
-     - Must reference existing content in `demande.md` and character profiles to maintain narrative consistency.
+     - Must reference existing content in `demande/` and character profiles to maintain narrative consistency.
 
 6. **Search**:
    - None required for this task.
@@ -49,7 +49,7 @@
    - **Relevant Sections**:
      - Interaction dynamics and conflicts in the specified files.
    - **Dependencies**:
-     - Insights from `demande.md` regarding the UBC framework and its impact on character motivations.
+     - Insights from `demande/` regarding the UBC framework and its impact on character motivations.
 
 3. **Target Changes**
    - **Files to Modify**:
@@ -73,7 +73,7 @@
    - **Scope Restrictions**:
      - No inclusion of external character backgrounds or unrelated conflicts.
    - **Dependency Requirements**:
-     - Must reference existing content in `demande.md` and character profiles to maintain narrative consistency.
+     - Must reference existing content in `demande/` and character profiles to maintain narrative consistency.
 
 6. **Search**:
    - None required for this task.

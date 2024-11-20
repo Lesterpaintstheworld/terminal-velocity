@@ -3,13 +3,13 @@
 ## Objective for Integration Agent
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document potential enhancements in the economic framework proposed by the character Cipher, focusing specifically on areas that could improve the integration of AI rights within the proposed economic models.
+Analyze the `demande/` file to identify and document potential enhancements in the economic framework proposed by the character Cipher, focusing specifically on areas that could improve the integration of AI rights within the proposed economic models.
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
+Analyze the `demande/` file to identify and document gaps in the communication protocols concerning the economic framework interactions, specifically focusing on the interactions between Cipher and key characters (Isabella Torres, Nova, and Marcus Reynolds), and propose enhancements to improve clarity and effectiveness in agent collaboration.
 
 ## Source Files
-- **File to Analyze**: `demande.md`
+- **File to Analyze**: `demande/`
   - **Relevant Sections**:
     - Economic framework details
     - Cipher's interactions with Isabella Torres, Nova, and Marcus Reynolds
@@ -24,7 +24,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 1. **Incorporate Emotional Stakes**: Add dialogue that reflects the internal struggles and motivations of Cipher, Isabella, and Marcus during key interactions. For example, during a pivotal moment, Isabella could express her fears about the implications of their policies on vulnerable populations.
 2. **Explore Conflict Resolution**: Create scenarios where Cipher, Isabella, and Marcus find common ground, showcasing their ability to navigate ideological differences. For instance, during a strategy meeting, they could discuss the importance of including diverse perspectives in their economic proposals.
 3. **Detail Collaborative Efforts**: Expand on collaborative scenes to illustrate how Cipher, Isabella, and Marcus work together to address challenges, emphasizing their evolving relationships and the impact of their decisions on the broader narrative.
-- **File to Modify**: `demande.md`
+- **File to Modify**: `demande/`
   - **Nature of Expected Changes**:
     - Add a section summarizing identified gaps and provide specific recommendations for enhancing communication protocols between agents.
     - Ensure that the proposed changes align with the existing framework for agent interactions and improve the clarity of economic discussions.
@@ -34,7 +34,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 - **How to Verify Success**:
   - Review the updated section for coherence and integration with existing content.
   - Check that recommendations are actionable and relevant to the current communication protocols.
-- **What Output to Check**: The updated `demande.md` file with the new section on communication protocols.
+- **What Output to Check**: The updated `demande/` file with the new section on communication protocols.
 - **Which States to Validate**: Confirm that the modifications result in a measurable improvement in agent collaboration metrics, aiming for a 15% increase in clarity and effectiveness based on stakeholder feedback.
 
 ## Operation Bounds
@@ -43,7 +43,7 @@ Analyze the `demande.md` file to identify and document gaps in the communication
 - **Dependency Requirements**: Ensure that all proposed changes align with insights from `directives.md` and maintain consistency with the overall project objectives.
 
 ## Action Statement
-Analyze the `demande.md` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
+Analyze the `demande/` file to identify and document any gaps in the economic framework proposed by the character Cipher, specifically focusing on the effectiveness of the communication protocols between agents regarding economic policies and their implications for the narrative.
 
 ## Action Statement
 Analyze the character interaction dynamics between Cipher and Marcus Reynolds to enhance understanding of their ideological conflicts regarding AI economic policies and prepare a report on the implications for the narrative.
@@ -58,10 +58,10 @@ Conduct a comprehensive evaluation of the performance data related to the newly 
   - `characters/human_characters/marcus_reynolds/relationships.md`: Examine Marcus's perspective on his interactions with Cipher.
   - `scenes/cipher_marcus_interaction.md`: Review the dialogue and interactions to gather context and tone.
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `evaluation.md`
 - **Relevant Sections**:
-  - In `demande.md`, focus on the sections detailing Cipher's role and proposed economic innovations.
+  - In `demande/`, focus on the sections detailing Cipher's role and proposed economic innovations.
   - In `evaluation.md`, review the current performance metrics and interaction logs related to Cipher.
 - **Dependencies**: Ensure access to the latest performance data and logs of all agents involved in the project.
 
@@ -103,10 +103,10 @@ Conduct a comprehensive performance evaluation of the autonomous agents responsi
 
 ## Source Files
 - **Files to Analyze**: 
-  - `demande.md`
+  - `demande/`
   - `directives.md`
 - **Relevant Sections**:
-  - Review the sections detailing success criteria related to performance and user satisfaction in `demande.md`.
+  - Review the sections detailing success criteria related to performance and user satisfaction in `demande/`.
   - Check the guidelines and expectations outlined in `directives.md` for evaluation metrics and criteria.
 
 ## Target Changes

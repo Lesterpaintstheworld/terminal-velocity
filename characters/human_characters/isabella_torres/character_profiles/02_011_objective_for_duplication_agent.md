@@ -4,7 +4,7 @@
 Duplicate the character profile of Isabella Torres, focusing on her motivations, conflicts, and relationships with other characters, to enhance narrative depth and consistency across the Terminal Velocity project.
 
 ### Source Files
-- **Analyze File**: `demande.md`
+- **Analyze File**: `demande/`
   - **Relevant Sections**: 
     - Character motivations and conflicts
     - Key relationships with Marcus Reynolds and Sarah Chen
@@ -18,7 +18,7 @@ Duplicate the character profile of Isabella Torres, focusing on her motivations,
 
 ### Validation Points
 - Verify success by checking:
-  - The completion of the new character profile for Isabella Torres in `demande.md`.
+  - The completion of the new character profile for Isabella Torres in `demande/`.
   - Consistency and relevance of the new content with existing narrative elements.
   - Audience feedback indicating improved engagement with Isabella's character during evaluations.
 
