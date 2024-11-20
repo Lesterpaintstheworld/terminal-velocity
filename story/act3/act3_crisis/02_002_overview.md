@@ -1,8 +1,8 @@
 ### Key Crisis Points and Main Conflict Progression
 
-- **Integration of UBC Framework**: The UBC framework plays a crucial role in shaping the ethical landscape of AI rights. As Isabella and Marcus navigate their conflicting motivations, the principles of UBC guide their discussions, emphasizing the need for equitable resource distribution and the inclusion of marginalized voices in decision-making processes.
+- **Integration of UBC Framework**: The UBC framework plays a crucial role in shaping the ethical landscape of AI rights. As Isabella and Marcus navigate their conflicting motivations, the principles of UBC guide their discussions, emphasizing the need for equitable resource distribution and the inclusion of marginalized voices in decision-making processes. This integration highlights the importance of balancing technological advancement with social equity, ensuring that all community members benefit from AI developments.
 
-- **Crisis Point Reflection**: The rising tensions between human and AI factions reflect the broader societal implications of the UBC framework. As the characters confront their beliefs, the narrative highlights the importance of ethical governance in ensuring that AI advancements benefit all members of society, particularly those who are often overlooked.
+- **Crisis Point Reflection**: The rising tensions between human and AI factions reflect the broader societal implications of the UBC framework. As the characters confront their beliefs, the narrative highlights the importance of ethical governance in ensuring that AI advancements benefit all members of society, particularly those who are often overlooked. This reflection serves to deepen the reader's understanding of the stakes involved in the characters' decisions and the potential consequences for their communities.
 
 - **Public Demonstration Impact**: The violent public demonstration advocating for AI rights serves as a catalyst for change, prompting both characters to reassess their positions. This moment underscores the urgency of their decisions and the need for collaborative solutions that address the concerns of both human and AI communities.
 
