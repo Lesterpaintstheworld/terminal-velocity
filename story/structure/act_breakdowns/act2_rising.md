@@ -10,11 +10,7 @@
   - Introduce Pulse and his military past.
   - Explore the ethical debates surrounding AI autonomy.
   - Develop character arcs for Pulse and Marcus Reynolds.
-- [ ] Chapter 7: "Le Prix du Progrès"
-  - Introduce Pulse and his military past.
-  - Explore the ethical debates surrounding AI autonomy.
-  - Develop character arcs for Pulse and Marcus Reynolds.
-- [ ] Chapter 8: "Les Ombres du Futur"
+- Chapter 8: "Les Ombres du Futur"
   - Introduce the consequences of the UBC system's misuse.
   - Highlight the growing tensions between AI and human advocates.
   - Develop character arcs for Isabella and Marcus as they confront their beliefs.
