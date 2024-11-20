@@ -11,17 +11,17 @@
 5. **Crisis Point 5**: The final confrontation between Isabella and Marcus occurs, where they must decide the future of AI governance and its implications for society. Their choices will have lasting effects on the balance between innovation and ethical responsibility, ultimately shaping the narrative's resolution and the future of AI-human relations. This climactic moment will test their convictions and force them to confront the consequences of their actions, leading to a resolution that reflects their growth and the evolving landscape of AI ethics.
 
 1. **Action Statement**
-   - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README/`.
 
 2. **Source Files**
-   - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Analyze `story/structure/act_breakdowns/act3_crisis/README/`.
    - Relevant sections include:
      - Crisis point identification
      - Main conflict progression
      - Resolution preparation
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to clearly outline identified crisis points and their implications on character arcs and narrative flow.
+   - Modify `story/structure/act_breakdowns/act3_crisis/README/` to clearly outline identified crisis points and their implications on character arcs and narrative flow.
 
 4. **Validation Points**
    - Verify that all crisis points are documented and clearly defined.
@@ -34,17 +34,17 @@
    - Dependency requirements: Must align with existing character development files.
 
 1. **Action Statement**
-   - Finalize and integrate crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Finalize and integrate crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README/`.
 
 2. **Source Files**
-   - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Analyze `story/structure/act_breakdowns/act3_crisis/README/`.
    - Relevant sections include:
      - Crisis point identification
      - Main conflict progression
      - Resolution preparation
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to include:
+   - Modify `story/structure/act_breakdowns/act3_crisis/README/` to include:
      - Clearly defined crisis points
      - Detailed progression of the main conflict
      - Notes on resolution mechanisms and character impacts
