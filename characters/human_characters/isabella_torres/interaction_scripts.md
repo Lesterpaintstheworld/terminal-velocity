@@ -1614,7 +1614,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past. I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
 
 ### Scene 2: Collaborative Moment
 *Setting: A quiet café after a long day of meetings.*
