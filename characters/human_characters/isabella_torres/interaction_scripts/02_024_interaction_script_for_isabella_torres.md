@@ -12,7 +12,7 @@
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*
 
-**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
+**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. I believe that by prioritizing these voices, we can create a more just economic landscape."
 
 **Sarah**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
@@ -43,7 +43,7 @@
 
 **Isabella**: "What if we include specific safeguards for marginalized communities in our proposal? It could enhance our security narrative while promoting equity."
 
-**Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
+**Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction. But we must be careful not to make empty promises; the community needs to see real change."
 
 **Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone. But I fear that without proper safeguards, we might create a system that exacerbates existing inequalities."
 
