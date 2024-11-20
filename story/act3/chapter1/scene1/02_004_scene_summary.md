@@ -13,6 +13,17 @@ The emotional stakes are high as Isabella feels the weight of her advocacy, torn
 Marcus experiences frustration as he navigates the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their decisions, causing him to question the true cost of advancement and the impact on vulnerable communities.
 
 ### Emotional Stakes
+Isabella passionately argues for the need to prioritize social equity, stating, "We must ensure that AI advancements do not come at the expense of marginalized communities," while Marcus emphasizes the urgency of security and economic efficiency, countering, "While we strive for equity, we cannot ignore the necessity of security in our policies." Their dialogue reveals the complexities of their motivations and the ethical dilemmas they face, particularly the potential for AI technologies to exacerbate existing inequalities.
+
+Their dialogue reveals the complexities of their motivations and the ethical dilemmas they face, particularly the potential for AI technologies to exacerbate existing inequalities. As they discuss the implications of the AI Rights Act, the conversation shifts to the responsibilities of creators towards AI entities and the moral implications of their decisions. 
+
+This sets the stage for the escalating conflict in Act 3. As tensions rise, both characters are forced to reconsider their positions, highlighting the urgency of their decisions and the potential impact on marginalized communities. 
+
+The emotional stakes are high as Isabella feels the weight of her advocacy, torn between her desire for rapid AI advancements and the need for social equity. This internal conflict intensifies as she grapples with the potential consequences of their actions on marginalized communities, leading to moments of self-doubt and reflection on her role in shaping AI ethics. 
+
+Marcus experiences frustration as he navigates the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their decisions, causing him to question the true cost of advancement and the impact on vulnerable communities.
+
+### Emotional Stakes
 - Isabella feels the weight of her advocacy, torn between her desire for rapid AI advancements and the need for social equity. This internal conflict intensifies as she grapples with the potential consequences of their actions on marginalized communities, leading to moments of self-doubt and reflection on her role in shaping AI ethics.
 - Marcus experiences frustration as he navigates the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their decisions, causing him to question the true cost of advancement and the impact on vulnerable communities.
 
