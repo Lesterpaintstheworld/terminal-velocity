@@ -1,6 +1,53 @@
 # Terminal Velocity - Priority Task List
 
-## 🎯 Immediate Priorities
+## Scenes to Complete
+
+### Act 2
+- Scene 2.2.1
+- Scene 2.2.2 
+- Scene 2.3.1
+- Scene 2.3.2
+- Scene 2.3.3
+- Scene 2.4.1
+- Scene 2.4.2
+- Scene 2.4.3
+- Scene 2.5.1
+- Scene 2.5.2
+- Scene 2.5.3
+
+### Act 3
+- Scene 3.1.2
+- Scene 3.2.1
+- Scene 3.2.2
+- Scene 3.2.3
+- Scene 3.3.1
+- Scene 3.3.2
+- Scene 3.3.3
+- Scene 3.4.1
+- Scene 3.4.2
+- Scene 3.4.3
+- Scene 3.5.1
+- Scene 3.5.2
+- Scene 3.5.3
+
+### Act 4
+- Scene 4.1.1
+- Scene 4.1.2
+- Scene 4.1.3
+- Scene 4.2.1
+- Scene 4.2.2
+- Scene 4.2.3
+- Scene 4.3.1
+- Scene 4.3.2
+- Scene 4.3.3
+- Scene 4.4.1
+- Scene 4.4.2
+- Scene 4.4.3
+- Scene 4.5.1
+- Scene 4.5.2
+- Scene 4.5.3
+
+## 🎯 Immediate Priorities 
 
 ### World-Building Integration Tasks
 
