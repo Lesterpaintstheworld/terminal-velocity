@@ -2,7 +2,7 @@
 1. **First Major Beat**
    - Isabella opens the discussion by addressing the community's concerns about AI rights, emphasizing the need for ethical governance.
    - Marcus presents data on the efficiency of AI systems, sparking a debate about the balance between progress and equity.
-   - A community member raises a poignant question about the potential loss of jobs due to AI, intensifying the emotional atmosphere.
+   - A community member raises a poignant question about the potential loss of jobs due to AI, intensifying the emotional atmosphere. The discussion becomes heated, revealing the deep-seated fears and hopes of the community regarding AI integration.
 
 2. **Second Major Beat**
    - Isabella shares a personal story about a friend affected by AI decisions, illustrating the human impact of technological advancements.
