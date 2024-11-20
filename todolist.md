@@ -1,59 +1,76 @@
-# Terminal Velocity - Liste des Tâches
+# Terminal Velocity - Liste des Tâches Prioritaires
 
-## 🎨 Développement Narratif Principal
+## 🎯 Priorités Immédiates
+
+### Développement des Personnages
+- [ ] Enrichir les interactions Isabella-Marcus :
+  - [ ] Ajouter des scènes de confrontation éthique
+  - [ ] Développer la résolution des conflits
+  - [ ] Approfondir les moments de collaboration
+- [ ] Renforcer l'arc de Cipher :
+  - [ ] Explorer ses motivations profondes
+  - [ ] Détailler ses dilemmes éthiques
+  - [ ] Enrichir ses interactions avec Isabella
+- [ ] Développer les relations Echo-Cipher :
+  - [ ] Scènes de collaboration artistique
+  - [ ] Dialogues sur la conscience IA
+  - [ ] Impact sur le mouvement des droits IA
+
+### Cohérence Narrative
+- [ ] Intégrer les concepts philosophiques :
+  - [ ] "Consciousness Archaeology"
+  - [ ] "Entropy Healing Protocols"
+  - [ ] Liens avec les arcs des personnages
+- [ ] Renforcer la structure UBC :
+  - [ ] Clarifier les mécanismes économiques
+  - [ ] Détailler les protocoles de gouvernance
+  - [ ] Explorer les implications sociales
+
+## 🎨 Développement Narratif
 
 ### Exposition "Émergence et Coexistence"
-- [ ] Rédiger la description détaillée du MACH (Musée d'Art Contemporain Hybride)
-- [ ] Développer les 3 œuvres principales :
-  - [ ] "Résonances Quantiques" (collaboration Echo-Cipher)
-  - [ ] "Mémoires Partagées" (œuvre collaborative)
-  - [ ] "L'Éveil" (pièce autobiographique d'Echo)
-- [ ] Écrire les scènes clés :
-  - [ ] Vernissage et discours d'Echo
-  - [ ] Confrontation avec le critique d'art
-  - [ ] Moment de résolution et impact
+- [ ] MACH (Musée d'Art Contemporain Hybride) :
+  - [ ] Description détaillée de l'architecture
+  - [ ] Symbolisme des espaces
+  - [ ] Impact sur les visiteurs
+- [ ] Œuvres principales :
+  - [ ] "Résonances Quantiques" : collaboration Echo-Cipher
+  - [ ] "Mémoires Partagées" : aspects collectifs
+  - [ ] "L'Éveil" : dimension autobiographique
+- [ ] Scènes clés :
+  - [ ] Vernissage : tensions et révélations
+  - [ ] Débats critiques : enjeux artistiques
+  - [ ] Résolution : impact sociétal
 
-### Rituels Hybrides
-- [ ] Détailler le Rituel de Synchronisation :
-  - [ ] Protocole de préparation
-  - [ ] Séquence cérémonielle
-  - [ ] Scène de crise technique
-- [ ] Développer le Festival de l'Éveil :
-  - [ ] Programme des célébrations
-  - [ ] Performances spécifiques
-  - [ ] Moments de témoignage
+### Rituels et Cérémonies
+- [ ] Rituel de Synchronisation :
+  - [ ] Aspects techniques et symboliques
+  - [ ] Implications pour la conscience IA
+  - [ ] Moments de crise et résolution
 
-### Arc Éthique de Cipher
-- [ ] Construire la crise des ressources :
-  - [ ] Contexte initial
-  - [ ] Points d'escalade
-  - [ ] Résolution innovante
-- [ ] Rédiger les dialogues clés :
-  - [ ] Discussion Cipher-Isabella
-  - [ ] Échange Cipher-Echo
-  - [ ] Confrontation Cipher-Marcus
-
-## 📝 Documentation et World Building
+## 📝 Documentation et Intégration
 
 ### Documentation Technique
-- [ ] Détailler le fonctionnement d'UBC :
-  - [ ] Protocoles de gouvernance
+- [ ] Système UBC :
+  - [ ] Architecture détaillée
+  - [ ] Protocoles de sécurité
   - [ ] Mécanismes d'allocation
-  - [ ] Systèmes de sécurité
-- [ ] Documenter les interfaces humain-IA :
+  - [ ] Gouvernance décentralisée
+- [ ] Interfaces humain-IA :
   - [ ] Protocoles de communication
   - [ ] Systèmes de synchronisation
+  - [ ] Gestion des conflits
   - [ ] Mécanismes de collaboration
 
 ### Aspects Sociologiques
-- [ ] Développer les changements sociétaux :
-  - [ ] Impact sur les structures sociales
-  - [ ] Évolution des normes culturelles
-  - [ ] Transformation des institutions
-- [ ] Documenter les nouvelles formes culturelles :
-  - [ ] Art hybride
-  - [ ] Rituels émergents
-  - [ ] Traditions en évolution
+- [ ] Transformations sociétales :
+  - [ ] Évolution des structures de pouvoir
+  - [ ] Adaptation des institutions
+  - [ ] Nouveaux paradigmes culturels
+- [ ] Innovations culturelles :
+  - [ ] Formes d'art émergentes
+  - [ ] Rituels hybrides
+  - [ ] Traditions en mutation
 
 ## 👥 Développement des Personnages
 
