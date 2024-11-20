@@ -213,10 +213,9 @@ def standardize_research_structure():
                         shutil.move(src_path, dst_path)
 
 def main():
-    print("Starting directory restructuring...")
-    standardize_ai_protagonist_structure()
+    print("Starting research directory restructuring...")
     standardize_research_structure()
-    print("Directory restructuring complete!")
+    print("Research directory restructuring complete!")
 
 if __name__ == "__main__":
     main()
