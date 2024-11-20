@@ -1,6 +1,26 @@
 # Act 3 Crisis
-## Act 3 Crisis
-### Crisis Points and Conflict Progression
+## Production Objective
+
+1. **Action Statement**
+   - Finalize the crisis points and main conflict progression in the `story/structure/act_breakdowns/act3_crisis/README/` file.
+
+2. **Source Files**
+   - `story/structure/act_breakdowns/act3_crisis/README/`
+   - Relevant sections include crisis point identification and main conflict progression.
+
+3. **Target Changes**
+   - Modify the `README/` file to clearly outline the identified crisis points and main conflict progression.
+   - Expected changes include detailed descriptions of each crisis point and their implications for character dynamics.
+
+4. **Validation Points**
+   - Verify success by checking that the crisis points are clearly articulated and logically flow into the main conflict progression.
+   - Output to check includes the updated `README/` file content.
+
+5. **Operation Bounds**
+   - Resource limitations include time constraints to ensure timely completion for upcoming narrative phases.
+   - Scope restricted to the act 3 crisis documentation only.
+
+### Key Crisis Points and Conflict Progression
 
 ### Key Crisis Points and Conflict Progression
 1. **Initial Tension**: The story opens with rising tensions between human and AI factions, as differing ideologies clash over the future of AI rights. This sets the stage for the central conflict, highlighting Isabella's advocacy for ethical AI governance against Marcus's security-driven approach, emphasizing the stakes involved.
