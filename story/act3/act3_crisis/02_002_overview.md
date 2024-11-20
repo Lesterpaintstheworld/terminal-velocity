@@ -38,7 +38,7 @@
 
 5. **Final Confrontation**: The climax of Act 3 culminates in a final confrontation where both characters must make pivotal decisions that will shape the future of AI rights. Their choices will either bridge the divide or deepen the conflict, setting the stage for the resolution of the overarching narrative, and testing their commitment to ethical principles.
 
-### Key Crisis Points and Conflict Progression
+### Key Crisis Points
 
 ### Key Crisis Points and Conflict Progression
 
