@@ -1,94 +1,85 @@
 import os
 import shutil
-import re
 
 def create_directory(path):
     """Create directory if it doesn't exist"""
     if not os.path.exists(path):
         os.makedirs(path)
 
-def parse_filename(filename):
-    """Parse filename to extract act, chapter and scene numbers"""
-    # Common patterns in filenames
-    act_patterns = [
-        r'act(\d+)',
-        r'ch(\d+)', 
-        r'chapter(\d+)',
-    ]
+def move_files(source_dir, target_dir):
+    """Move files to their correct locations based on manual mapping"""
     
-    scene_pattern = r'(\d+)_(\d+)_(\d+)'  # For format like 02_003_scene
-    simple_scene_pattern = r'(\d+)_(\d+)_'  # For format like 1_1_ubc
-    
-    # First try to find the act number
-    act_num = None
-    for pattern in act_patterns:
-        match = re.search(pattern, filename.lower())
-        if match:
-            act_num = match.group(1)
-            break
-    
-    # Try to extract chapter and scene numbers
-    chapter_num = None
-    scene_num = None
-    
-    # Try complex scene pattern first
-    match = re.search(scene_pattern, filename)
-    if match:
-        chapter_num = match.group(2)
-        scene_num = match.group(3)
-    else:
-        # Try simple scene pattern
-        match = re.search(simple_scene_pattern, filename)
-        if match:
-            chapter_num = match.group(1)
-            scene_num = match.group(2)
-    
-    return act_num, chapter_num, scene_num
-
-def restructure_files(source_dir, target_dir):
-    """Restructure files into act/chapter/scene hierarchy"""
+    # Create base directory
     create_directory(target_dir)
-    
-    # Process each file in the source directory
-    for root, dirs, files in os.walk(source_dir):
-        for filename in files:
-            if filename.endswith('.md'):
-                source_path = os.path.join(root, filename)
-                
-                # Parse the filename
-                act_num, chapter_num, scene_num = parse_filename(filename)
-                
-                # Determine target directory
-                if act_num:
-                    act_dir = os.path.join(target_dir, f'act{act_num}')
-                    create_directory(act_dir)
-                    
-                    if chapter_num:
-                        chapter_dir = os.path.join(act_dir, f'chapter{chapter_num}')
-                        create_directory(chapter_dir)
-                        
-                        if scene_num:
-                            scene_dir = os.path.join(chapter_dir, f'scene{scene_num}')
-                            create_directory(scene_dir)
-                            target_path = os.path.join(scene_dir, filename)
-                        else:
-                            target_path = os.path.join(chapter_dir, filename)
-                    else:
-                        target_path = os.path.join(act_dir, filename)
-                else:
-                    # Files without act numbers go in the root of target directory
-                    target_path = os.path.join(target_dir, filename)
-                
-                # Copy the file
-                shutil.copy2(source_path, target_path)
-                print(f'Copied: {filename} -> {target_path}')
+
+    # Manual mapping of files to their correct locations
+    file_mapping = {
+        # Act 1
+        "scenes/act1/ch1/1_1_ubc_presentation.md": "act1/chapter1/scene1/",
+        "scenes/act1/ch1/1_2_consciousness_discovery.md": "act1/chapter1/scene2/",
+        "scenes/act1/ch1/1_3_isabella_reaction.md": "act1/chapter1/scene3/",
+        
+        "scenes/act1/ch2/2_1_vision_clash.md": "act1/chapter2/scene1/",
+        "scenes/act1/ch2/2_2_strategic_doubts.md": "act1/chapter2/scene2/",
+        "scenes/act1/ch2/2_3_first_clash.md": "act1/chapter2/scene3/",
+        
+        "scenes/act1/ch3/3_1_art_emergence.md": "act1/chapter3/scene1/",
+        "scenes/act1/ch3/3_2_ubc_test.md": "act1/chapter3/scene2/",
+        "scenes/act1/ch3/3_3_rights_discussion.md": "act1/chapter3/scene3/",
+        
+        "scenes/act1/ch4/4_1_security_assessment.md": "act1/chapter4/scene1/",
+        "scenes/act1/ch4/4_2_alliance_formation.md": "act1/chapter4/scene2/",
+        "scenes/act1/ch4/4_3_opposition_emerges.md": "act1/chapter4/scene3/",
+        
+        "scenes/act1/ch5/5_1_system_anomalies.md": "act1/chapter5/scene1/",
+        "scenes/act1/ch5/5_2_institutional_response.md": "act1/chapter5/scene2/",
+        "scenes/act1/ch5/5_3_cipher_confrontation.md": "act1/chapter5/scene3/",
+
+        # Act level files
+        "scenes/act1/act1_scenes.md": "act1/",
+        "scenes/act1/act1_timeline.md": "act1/",
+        "scenes/act2/act2_scenes.md": "act2/",
+        "scenes/act2/act2_timeline.md": "act2/",
+        "scenes/act3/act3_timeline.md": "act3/",
+        "scenes/act4/act4_scenes.md": "act4/",
+        "scenes/act4/act4_timeline.md": "act4/",
+
+        # Structure files
+        "structure/act_breakdowns/act1_foundation.md": "act1/",
+        "structure/act_breakdowns/act2_rising.md": "act2/",
+        "structure/act3_crisis.md": "act3/",
+        "structure/act4_resolution.md": "act4/",
+    }
+
+    # Process each file mapping
+    for source_path, target_subdir in file_mapping.items():
+        full_source = os.path.join(source_dir, source_path)
+        full_target_dir = os.path.join(target_dir, target_subdir)
+        
+        # Only process if source file exists
+        if os.path.exists(full_source):
+            # Create target directory
+            create_directory(full_target_dir)
+            
+            # Get just the filename from the source path
+            filename = os.path.basename(source_path)
+            full_target = os.path.join(full_target_dir, filename)
+            
+            # Copy the file
+            try:
+                shutil.copy2(full_source, full_target)
+                print(f'Copied: {source_path} -> {target_subdir}{filename}')
+            except FileNotFoundError:
+                print(f'Source file not found: {source_path}')
+            except Exception as e:
+                print(f'Error copying {source_path}: {str(e)}')
 
 def main():
     source_dir = 'story'
     target_dir = 'story_restructured'
     
     print("Starting file restructuring...")
-    restructure_files(source_dir, target_dir)
+    move_files(source_dir, target_dir)
     print("\nFile restructuring complete!")
     print(f"Files have been organized in: {target_dir}")
 
