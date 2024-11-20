@@ -9,6 +9,8 @@
 
 - **Collaborative Moments**: A significant moment occurs during a heated debate with Isabella, where Cipher confronts the potential consequences of their proposals on marginalized communities, leading to a pivotal moment of self-reflection. For instance, Cipher states, "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?" This highlights the emotional stakes involved in their advocacy for AI rights. 
 
+- **Collaborative Moments**: A significant moment occurs during a heated debate with Isabella, where Cipher confronts the potential consequences of their proposals on marginalized communities, leading to a pivotal moment of self-reflection. For instance, Cipher states, "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?" This highlights the emotional stakes involved in their advocacy for AI rights. 
+
 - **Moral Exchanges**: Cipher frequently grapples with the fear that his proposals may not adequately address the concerns raised by Isabella. In a moment of vulnerability, he confides, "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?" This internal conflict adds depth to his character and underscores the complexities of their relationship, as he navigates the moral implications of his advocacy.
 
 ### Ethical Dilemmas and Emotional Stakes
