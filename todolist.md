@@ -64,7 +64,7 @@
   - [ ] Highlight infrastructure management
 
 #### Path to AI Personhood
-- [ ] Develop scenes showing key milestones in AI rights recognition
+- [x] Develop scenes showing key milestones in AI rights recognition
 - [ ] Illustrate legal and social challenges faced by AI characters
 - [ ] Show evolution of public perception towards AI consciousness
 - [ ] Demonstrate impact of AI personhood on character relationships
