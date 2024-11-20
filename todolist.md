@@ -3,6 +3,9 @@
 ## Scenes to Complete
 
 ### Act 2
+- Scene 2.1.1 (template sections need content)
+- Scene 2.1.2 (template sections need content)
+- Scene 2.1.3 (empty template needs content)
 - Scene 2.2.1
 - Scene 2.2.2 
 - Scene 2.3.1
@@ -16,7 +19,9 @@
 - Scene 2.5.3
 
 ### Act 3
+- Scene 3.1.1 (partial content, missing key sections)
 - Scene 3.1.2
+- Scene 3.1.3 (template sections need content)
 - Scene 3.2.1
 - Scene 3.2.2
 - Scene 3.2.3
@@ -126,6 +131,12 @@
 
 
 ---
+
+## Empty Files Needing Content
+- story/act3/act3_scenes.md (completely empty)
+- story/act3/chapter1/scene1/02_004_scene_summary.md (empty)
+- story/act3/chapter1/scene1/02_005_key_moments.md (empty)
+- story/act2/chapter1/scene1/2_1_1_scene/02_006_emotional_beats.md (empty)
 
 ## Later
 
