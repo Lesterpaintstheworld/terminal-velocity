@@ -1,7 +1,7 @@
 ## Scene 4: Reflection
 *Setting: Isabella's office, late at night, after a heated debate.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people? I feel the weight of responsibility to ensure that our advancements benefit everyone, not just a select few."
 
 **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
 

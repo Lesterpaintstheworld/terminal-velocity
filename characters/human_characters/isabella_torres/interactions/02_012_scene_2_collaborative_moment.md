@@ -3,7 +3,7 @@
 
 **Isabella**: "Maybe we can find a middle ground. What if we propose a policy that includes safeguards for marginalized communities?"
 
-**Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction."
+**Marcus**: "That could work. If we frame it as a way to enhance security while promoting equity, it might gain traction. But we need to ensure that our approach doesn't compromise the very communities we're trying to protect."
 
 **Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
 
