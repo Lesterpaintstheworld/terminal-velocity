@@ -2,6 +2,7 @@
 
 ## Motivations and Internal Conflicts
 - **Advocacy for Stability**: Marcus aims to integrate AI into economic systems to create more equitable opportunities for all, believing that technology can help bridge gaps in society. However, he often grapples with the ethical implications of his decisions, questioning whether the ends truly justify the means, especially when faced with the potential consequences of his decisions on marginalized communities. His relationship with Isabella forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society. This internal struggle adds complexity to his character and influences his interactions with Isabella, as he navigates the tension between his ambitions and the ethical responsibilities that come with them.
+- **Key Moments**: Their ongoing debates force Marcus to confront the ethical implications of his decisions, adding depth to their interactions and challenging him to refine his arguments in light of Isabella's advocacy for social equity.
 - **Key Moments**: 
 - **Collaborative Policy Development**: Despite their differences, they find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides and advocate for ethical AI practices.
 - **Key Moments**: 
