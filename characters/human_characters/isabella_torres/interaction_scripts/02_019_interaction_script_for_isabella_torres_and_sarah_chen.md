@@ -5,6 +5,8 @@
 
 **Isabella**: "Sarah, I feel torn between pushing for rapid AI advancements and ensuring we don't leave anyone behind. How do we advocate for progress while considering the ethical implications?"
 
+**Sarah**: "It's a delicate balance, Isabella. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face."
+
 **Sarah**: "It's a delicate balance, [REDACTED]. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face."
 
 ### Scene 2: Ethical Considerations
