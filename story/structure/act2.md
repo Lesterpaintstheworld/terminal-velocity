@@ -4,6 +4,7 @@
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
    - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity and the need for ethical considerations.
+   - **Ethical Confrontation Scene**: Isabella expresses her fears about the implications of Marcus's policies on vulnerable populations, highlighting her internal struggle with balancing innovation and ethical considerations.
    - Establish the first pinch point to raise stakes and remind the audience of the antagonist's influence on the characters' decisions.
    - **Key Narrative Progression**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities, particularly in her discussions with Marcus.
    - **Key Emotional Stakes**: Isabella's struggle to balance her advocacy for social equity with the demands of AI governance.
@@ -35,12 +36,14 @@
    - Introduce Pulse and his military past.
    - Explore the ethical debates surrounding AI autonomy, particularly in relation to marginalized communities.
    - Develop character arcs for Pulse and Marcus Reynolds, highlighting their internal conflicts and the emotional stakes involved.
+   - **Tension Highlight**: The conflict between Marcus's focus on security and Isabella's commitment to social justice is emphasized, showcasing their differing perspectives.
    - **Key Narrative Progression**: A significant revelation changes the direction of the story, forcing characters to confront their beliefs about the role of AI in society, especially in light of Isabella's advocacy.
    - **Key Emotional Stakes**: The tension between Marcus's focus on security and Isabella's commitment to social justice.
 
 3. **Chapter 8: "Alliances Fragiles"**
    - Explore the collaboration between Isabella and Cipher, focusing on their shared goals and differing perspectives.
    - Highlight the tensions with Marcus Reynolds regarding security concerns, showcasing the emotional stakes involved in their discussions.
+   - **Collaboration Scene**: Isabella and Cipher discuss their visions for AI governance, revealing their motivations and the ethical dilemmas they face.
    - **Key Narrative Progression**: The rising action includes obstacles that test the protagonist's skills and knowledge, emphasizing the emotional stakes involved in their decisions and the need for ethical considerations.
    - **Chapter 7: "Le Prix du Progrès"**
    - Introduce Pulse and his military past.
