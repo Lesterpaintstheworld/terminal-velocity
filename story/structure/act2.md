@@ -7,6 +7,16 @@
    - Establish the first pinch point to raise stakes and remind the audience of the antagonist's influence on the characters' decisions.
    - **Key Narrative Progression**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities, particularly in her discussions with Marcus.
    - **Key Emotional Stakes**: Isabella's struggle to balance her advocacy for social equity with the demands of AI governance.
+   - **Chapter 7: "Le Prix du Progrès"**
+   - Introduce Pulse and his military past.
+   - Explore the ethical debates surrounding AI autonomy, particularly in relation to marginalized communities.
+   - Develop character arcs for Pulse and Marcus Reynolds, highlighting their internal conflicts and the emotional stakes involved.
+   - **Key Narrative Progression**: A significant revelation changes the direction of the story, forcing characters to confront their beliefs about the role of AI in society, especially in light of Isabella's advocacy.
+   - **Key Emotional Stakes**: The tension between Marcus's focus on security and Isabella's commitment to social justice.
+   - **Chapter 8: "Alliances Fragiles"**
+   - Explore the collaboration between Isabella and Cipher, focusing on their shared goals and differing perspectives.
+   - Highlight the tensions with Marcus Reynolds regarding security concerns, showcasing the emotional stakes involved in their discussions.
+   - **Key Narrative Progression**: The rising action includes obstacles that test the protagonist's skills and knowledge, emphasizing the emotional stakes involved in their decisions and the need for ethical considerations.
    - **Key Emotional Stakes**: Isabella's struggle to balance her advocacy for social equity with the demands of AI governance.
 2. **Chapter 7: "Le Prix du Progrès"**
    - Introduce Pulse and his military past.
