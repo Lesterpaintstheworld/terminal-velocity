@@ -23,6 +23,30 @@
    - Resource limitations: Maximum of 2 hours for redaction.
    - Scope restrictions: Focus solely on economic data.
    - Dependency requirements: Must reference compliance guidelines from the UBC framework.
+
+1. **Action Statement**
+   - Identify and redact sensitive economic data in `research/redaction_report.md` to ensure compliance with privacy regulations.
+
+2. **Source Files**
+   - Analyze `research/redaction_report.md`.
+   - Relevant sections include:
+     - Identification of sensitive information
+     - Redaction protocols
+
+3. **Target Changes**
+   - Modify `research/redaction_report.md` to:
+     - Remove or obscure sensitive economic data.
+     - Document the rationale for each redaction.
+
+4. **Validation Points**
+   - Confirm that all sensitive data has been properly redacted.
+   - Check that the document maintains coherence after redaction.
+   - Ensure compliance with privacy regulations is documented.
+
+5. **Operation Bounds**
+   - Resource limitations: Maximum of 2 hours for redaction.
+   - Scope restrictions: Focus solely on economic data.
+   - Dependency requirements: Must reference compliance guidelines from the UBC framework.
 1. **Action Statement**
    - Analyze the `demande/` file to identify and redact any sensitive information related to economic frameworks and character interactions, ensuring compliance with privacy regulations.
    - **Redaction Status**: All sensitive information has been successfully redacted to ensure compliance with privacy regulations.
