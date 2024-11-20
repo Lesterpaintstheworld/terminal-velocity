@@ -3,12 +3,12 @@
 ## Background and Personal History
 
 ### Early Life and Formative Experiences
-Isabella Torres emerged from a diverse urban environment, raised by a single mother who struggled to make ends meet. From a young age, she exhibited a profound sense of justice and a desire to create meaningful change, deeply influenced by her mother's community activism.
+Isabella Torres grew up in a diverse urban environment, raised by a single mother who struggled to make ends meet. From a young age, she exhibited a strong sense of justice and a desire to help others, influenced by her mother's community activism.
 
 ### Educational and Professional Journey
-Despite facing numerous challenges, including financial instability, Isabella excelled academically and earned a scholarship to a prestigious university. She pursued a degree in social work and political science, driven by her experiences and a desire to understand and challenge systemic inequalities.
+Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
 
-Her path led her through various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality and social justice.
+Her path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality.
 
 ## Core Motivations and Psychological Profile
 
