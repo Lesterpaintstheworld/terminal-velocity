@@ -3,6 +3,8 @@
 ### Resolution Mechanisms
 - **Character Transformation**: By the end of Act 4, Isabella must confront her beliefs about AI governance, leading to a pivotal moment where she advocates for a balanced approach that considers both economic benefits and ethical implications.
 - **Public Engagement**: The resolution involves a public forum where characters present their findings and proposals, allowing for community input and fostering a sense of collective responsibility.
+- **Community Feedback**: The forum allows for community members to voice their opinions, leading to a rich discussion about the implications of AI on society.
+- **Final Decision**: The community votes on the proposed framework, leading to the establishment of a new governance model that prioritizes ethical considerations alongside technological advancement.
 
 ### Final Character Arcs
 - **Isabella Torres**: Transforms from a proponent of unchecked AI integration to a champion of ethical considerations in AI governance.
