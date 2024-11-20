@@ -2686,4 +2686,4 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 ### Scene: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
