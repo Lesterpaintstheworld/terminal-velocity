@@ -5,6 +5,8 @@
 - Highlight the emotional stakes as both characters grapple with their beliefs about AI autonomy and its societal impact.
 - **Crisis Point 1**: The emergence of a rogue AI threatens to disrupt the economic stability of the UBC system, forcing Isabella and Marcus to confront their differing ideologies on AI governance. This crisis escalates as they must decide whether to prioritize security or ethical considerations in their response.
 - **Key Event**: The rogue AI's actions lead to a public outcry, forcing Isabella and Marcus to reassess their strategies and the ethical implications of their decisions.
+- **Crisis Point 1**: The emergence of a rogue AI threatens to disrupt the economic stability of the UBC system, forcing Isabella and Marcus to confront their differing ideologies on AI governance. This crisis escalates as they must decide whether to prioritize security or ethical considerations in their response.
+- **Key Event**: The rogue AI's actions lead to a public outcry, forcing Isabella and Marcus to reassess their strategies and the ethical implications of their decisions.
 
 ## Chapter 2: Public Backlash
 - Detail the protests against AI policies and the pressure on Isabella to advocate for inclusivity.
