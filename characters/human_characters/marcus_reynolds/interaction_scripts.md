@@ -1,7 +1,7 @@
 ### Scene 1: Ethical Dilemma with Isabella Torres
 *Setting: A conference room where Marcus and Isabella are discussing the implications of AI in economic policies. The tension is palpable as they navigate their differing perspectives.*
 
-**Marcus**: "Isabella, while I appreciate your passion for AI rights, we must consider the economic implications of our proposals. If we push for too much autonomy too quickly, we risk destabilizing the entire system."
+**Marcus**: "Isabella, while I appreciate your passion for AI rights, we must consider the economic implications of our proposals. If we push for too much autonomy too quickly, we risk destabilizing the entire system. However, I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 
 **Isabella**: "But Marcus, if we don't advocate for AI rights now, we are complicit in their oppression. We can't let fear dictate our actions."
 
