@@ -6,15 +6,18 @@
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
    - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity and the need for ethical considerations.
+   - **Key Emotional Stakes**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities, particularly in her discussions with Marcus.
 
 2. **Chapter 7: "Le Prix du Progrès"**
    - Introduce Pulse and his military past.
    - Explore the ethical debates surrounding AI autonomy, particularly in relation to marginalized communities.
    - Develop character arcs for Pulse and Marcus Reynolds, highlighting their internal conflicts and the emotional stakes involved.
+   - **Key Emotional Stakes**: The tension between Marcus's focus on security and Isabella's commitment to social justice.
 
 3. **Chapter 8: "Alliances Fragiles"**
    - Explore the collaboration between Isabella and Cipher, focusing on their shared goals and differing perspectives.
    - Highlight the tensions with Marcus Reynolds regarding security concerns, showcasing the emotional stakes involved in their discussions.
+   - **Key Emotional Stakes**: The conflict between Isabella's desire for collaboration and Marcus's focus on security.
 
 ### Key Narrative Progression Points
 - Establish the first pinch point to raise stakes and remind the audience of the antagonist's influence on the characters' decisions.
