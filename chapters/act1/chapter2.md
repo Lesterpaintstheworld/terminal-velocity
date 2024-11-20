@@ -13,6 +13,7 @@ Cipher présente sa vision économique révolutionnaire tandis que Nova exprime 
    - Dialogue: 
      - Isabella: "Si nous ne prenons pas en compte les voix des plus vulnérables, nous risquons de répéter les erreurs du passé."
      - Marcus: "Nous devons aussi penser à la sécurité de notre pays. L'innovation ne peut pas se faire au détriment de notre protection."
+     - Isabella: "Parfois, je me demande si ma lutte pour une IA éthique est trop idéaliste. Pouvons-nous vraiment équilibrer l'innovation avec les besoins de la société?"
    - **Confrontation Éthique - Scène 2**
      - Lieu: Bureau d'Isabella
      - POV: Isabella
