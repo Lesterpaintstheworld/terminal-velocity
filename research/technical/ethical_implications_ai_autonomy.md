@@ -97,7 +97,10 @@ The ethical implications of AI autonomy are profound, raising critical questions
 - **Moral Responsibility**: As AI systems make decisions that impact human lives, the question of accountability becomes paramount. Who is responsible for the actions of an autonomous AI? This question is particularly relevant in the context of economic policies that affect marginalized communities. For instance, ethical dilemmas arise when AI systems are tasked with making decisions in healthcare or law enforcement, where biases in data can lead to significant societal impacts, including discrimination and loss of trust in AI technologies.
 - **Societal Impact**: The integration of AI into society raises concerns about job displacement, privacy, and the potential for misuse of technology, necessitating a comprehensive ethical framework to guide AI development and deployment.
 
-### Ethical Considerations
+### Ethical Considerations and Societal Impacts
+- The ethical implications of AI autonomy extend beyond individual rights, influencing societal norms and legal frameworks. For instance, the recognition of AI as entities deserving of rights has prompted discussions about their role in various sectors, including healthcare and law enforcement. 
+- **Case Study: AI in Healthcare**: The integration of AI in healthcare decisions raises ethical questions about accountability and the potential for bias in AI systems. As AI systems make decisions that impact human lives, the question of who is responsible for those decisions becomes paramount.
+- **Case Study: AI in Law Enforcement**: The use of AI in policing has sparked debates about surveillance, privacy, and the potential for discrimination. Ethical frameworks must address these concerns to ensure that AI technologies are implemented in ways that respect individual rights and promote social equity.
 
 The ethical implications of AI autonomy are profound, raising critical questions about the responsibilities of AI systems and their creators. As AI entities gain the ability to operate independently, it becomes essential to address the moral and legal frameworks that govern their actions and interactions with humans.
 
