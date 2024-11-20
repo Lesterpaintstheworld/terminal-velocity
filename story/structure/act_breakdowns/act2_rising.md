@@ -10,10 +10,10 @@
   - Introduce Pulse and his military past.
   - Explore the ethical debates surrounding AI autonomy.
   - Develop character arcs for Pulse and Marcus Reynolds.
-- Chapter 9: "La Révélation"
-  - Detail the climax where the protagonist faces the ultimate challenge.
-  - Explore the resolution of character arcs and thematic conclusions.
-  - Set the stage for the transition to Act 3.
+- Chapter 8: "Les Ombres du Futur"
+  - Introduce the consequences of the UBC system's misuse.
+  - Highlight the growing tensions between AI and human advocates.
+  - Develop character arcs for Isabella and Marcus as they confront their beliefs.
 - Include specific scenes that showcase character growth and thematic depth.
 - [ ] Establish the first pinch point to raise stakes and remind the audience of the antagonist.
 - [ ] Highlight the midpoint where a significant revelation changes the direction of the story.
