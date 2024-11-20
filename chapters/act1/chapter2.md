@@ -13,6 +13,13 @@ Cipher présente sa vision économique révolutionnaire tandis que Nova exprime 
    - Dialogue: 
      - Isabella: "Si nous ne prenons pas en compte les voix des plus vulnérables, nous risquons de répéter les erreurs du passé."
      - Marcus: "Nous devons aussi penser à la sécurité de notre pays. L'innovation ne peut pas se faire au détriment de notre protection."
+   - Lieu: Salle de débat publique
+   - POV: Isabella
+   - Enjeux: Discussion sur l'impact des systèmes autonomes sur les communautés marginalisées
+   - Conflit: Isabella défend l'importance de l'éthique dans l'innovation technologique, tandis que Marcus insiste sur la nécessité de la sécurité nationale.
+   - Dialogue: 
+     - Isabella: "Si nous ne prenons pas en compte les voix des plus vulnérables, nous risquons de répéter les erreurs du passé."
+     - Marcus: "Nous devons aussi penser à la sécurité de notre pays. L'innovation ne peut pas se faire au détriment de notre protection."
    - Lieu: Salle de conférence virtuelle
    - POV: Cipher
    - Enjeux: Présentation détaillée du nouveau modèle économique
