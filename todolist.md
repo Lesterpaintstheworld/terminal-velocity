@@ -94,6 +94,7 @@
 
 - [x] Develop detailed outline for Act 3
 - [x] Finalize crisis points and main conflict progression in `story/act3/act3_crisis/02_002_overview.md`
+- [x] Enhance emotional stakes and ethical discussions in `story/act3/chapter1/scene1/02_004_scene_summary.md`
   - [ ] Crisis point identification
   - [ ] Main conflict progression
   - [ ] Resolution preparation
