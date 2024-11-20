@@ -1,11 +1,11 @@
 ## Scene 3: Climactic Confrontation
 *Setting: A public forum where both are presenting their views.*
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we prioritize profit over ethics, we risk repeating the mistakes of the past. We can't afford to overlook the ethical implications of our decisions. We must advocate for those who have no voice. Our future depends on it. This is a new addition to emphasize the urgency of our actions."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
-**Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built. But I see your point; we must also consider the long-term effects of our actions."
+**Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for short-term gains."
+**Isabella**: "But at what cost? We can't sacrifice our values for short-term gains. We must advocate for those who have no voice."
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
