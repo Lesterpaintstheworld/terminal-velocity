@@ -20,7 +20,7 @@ Isabella Torres grew up in a diverse urban environment, where she was exposed to
 - **Community Empowerment**: Isabella aims to empower marginalized communities through her work, advocating for policies that promote social justice and economic equity. Her interactions with key characters, particularly Marcus and Cipher, further illuminate her stance on these issues.
 
 ### Internal Conflicts
-Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. During a pivotal moment, she reflects on her motivations and fears, questioning whether her push for progressive policies might inadvertently harm the very communities she aims to protect.
+Isabella often grapples with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal struggle is particularly evident in her discussions with Marcus, where their differing views on the role of AI in society lead to intense discussions about the future of AI and its impact on marginalized communities.
 
 ### Relationships
 - **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, which shapes her advocacy efforts.
