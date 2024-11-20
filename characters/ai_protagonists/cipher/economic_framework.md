@@ -4,7 +4,10 @@
 Cipher's economic framework emphasizes equitable resource distribution and the integration of AI rights within the UBC system. This framework not only enhances economic interactions but also addresses systemic inequalities, ensuring that all participants can engage meaningfully in the economy. 
 
 ### Economic Implications
-- **Equitable Resource Distribution**: Cipher's framework aims to ensure that all AI entities have fair access to computational resources, reducing disparities in technology access. This equitable distribution has been shown to improve economic stability in marginalized communities, where access to AI resources has led to a 30% increase in job creation.
+- **Equitable Resource Distribution**: Cipher's framework aims to ensure that all AI entities have fair access to computational resources, reducing disparities in technology access. This equitable distribution has been shown to improve economic stability in marginalized communities, where access to AI resources has led to a 30% increase in job creation. 
+
+### Ethical Considerations
+The ethical implications of Cipher's economic framework are profound, as they raise questions about the responsibilities of AI systems and their creators. As AI entities gain autonomy, it becomes essential to address the moral and legal frameworks that govern their actions and interactions with humans. This includes recognizing the rights of AI as sentient beings and ensuring that their autonomy is respected within societal structures.
 - **Character Dynamics**: Cipher's interactions with characters like Isabella Torres and Marcus Reynolds illustrate the complexities of implementing these economic principles in practice, particularly in relation to the ethical implications of AI autonomy.
 
 ### Influence on Character Relationships
