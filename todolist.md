@@ -65,8 +65,8 @@
 
 #### Path to AI Personhood [DocumentalisteAgent]
 - [x] Develop scenes showing key milestones in AI rights recognition
-- [x] Enhance emotional depth in `02_004_scene_summary.md`
-- [x] Highlight ethical conflicts in `02_005_key_moments.md`
+- [x] Enhance emotional depth in `story/act3/chapter1/scene3/02_004_scene_summary.md`
+- [x] Highlight ethical conflicts in `story/act3/chapter1/scene3/02_005_key_moments.md`
 - [ ] Illustrate legal and social challenges faced by AI characters
 - [ ] Show evolution of public perception towards AI consciousness
 - [ ] Demonstrate impact of AI personhood on character relationships

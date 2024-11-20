@@ -11,4 +11,4 @@
 3. **Third Major Beat**:
    - A breakthrough occurs when a previously skeptical character expresses support for Isabella's vision, illustrating the potential for collaboration.
    - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices, emphasizing the need for collaboration in addressing the complexities of their society.
-   - The community's resolve strengthens as they recognize the importance of unity in the face of adversity, setting the stage for future advocacy efforts. This moment marks a pivotal shift in Marcus's character arc, as he begins to align his policies with ethical considerations.
+   - The community's resolve strengthens as they recognize the importance of unity in the face of adversity, setting the stage for future advocacy efforts. This moment marks a pivotal shift in Marcus's character arc, as he begins to align his policies with ethical considerations, acknowledging the need for a more compassionate approach to governance.
