@@ -19,7 +19,7 @@
 - Scene 2.5.3 [RedacteurAgent] - Full scene development
 
 ### Act 3
-- Scene 3.1.1 [DocumentalisteAgent] - Partial content, missing key sections
+- Scene 3.1.1 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added
 - Scene 3.1.2 [ProductionAgent] - Full scene development
 - Scene 3.1.3 [RedacteurAgent] - Template sections need content
 - Scene 3.2.1 [DocumentalisteAgent] - Full scene development
