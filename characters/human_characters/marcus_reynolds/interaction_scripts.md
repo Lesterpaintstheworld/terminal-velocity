@@ -29,3 +29,5 @@
 *Setting: Marcus's office, late at night, reflecting on the day's discussions with Isabella.*
 
 **Marcus**: "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+
+**Marcus**: "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
