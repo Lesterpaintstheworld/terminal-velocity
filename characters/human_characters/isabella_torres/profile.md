@@ -3,8 +3,8 @@
 ## Background
 Isabella Torres grew up in a diverse urban environment, where she was exposed to various cultures and ideas. Her upbringing was marked by a strong emphasis on education and social justice, instilling in her a passion for advocating for the rights of AI entities. Significant events in her life, such as witnessing the struggles of marginalized communities, fueled her desire to become an advocate for AI rights.
 
-### Motivations and Internal Conflicts
-- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility. She often questions whether her push for ethical AI is too idealistic, reflecting on the emotional stakes involved in her advocacy.
+### Motivations
+- Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 - **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
 
 ## Core Motivations and Psychological Profile
