@@ -16,7 +16,7 @@
 - Maximize emotional impact of pivotal moments
 
 - **Observations**:
-  - Interactions between [REDACTED] and [REDACTED] sometimes lack emotional depth and dramatic tension regarding economic frameworks and character interactions.
+  - Interactions between Isabella and Marcus sometimes lack emotional depth and dramatic tension regarding economic frameworks and character interactions.
   - Duplications and inconsistencies exist in character profiles, leading to inconsistencies in their development
 
 - **Suggestions**:
