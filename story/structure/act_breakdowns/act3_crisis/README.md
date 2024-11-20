@@ -1,23 +1,24 @@
 ## Production Objective
 
 1. **Action Statement**
-   - Finalize the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Finalize and enrich the outline for Act 3, focusing on crisis points and main conflict progression.
 
 2. **Source Files**
-   - Analyze the file `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`
    - Relevant sections include crisis point identification and main conflict progression.
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to include detailed descriptions of identified crisis points and their impact on character dynamics and narrative progression.
+   - Modify `story/structure/act_breakdowns/act3_crisis/README.md`
+   - Expected changes include detailed descriptions of crisis points and the progression of conflicts, enhancing narrative coherence.
 
 4. **Validation Points**
-   - Verify success by ensuring all crisis points are clearly articulated and aligned with character arcs.
-   - Check that the document reflects a coherent narrative flow and enhances the overall story structure.
+   - Verify success by checking for the inclusion of clearly defined crisis points and a logical progression of the main conflict.
+   - Output to check: the updated README.md file for completeness and narrative clarity.
 
 5. **Operation Bounds**
-   - Resource limitations include ensuring the changes do not exceed the existing narrative framework.
-   - Scope restrictions involve focusing solely on Act 3's crisis points without altering previous acts.
-   - Dependency requirements include ensuring alignment with character development outlined in `story/structure/act3.md`.
+   - Resource limitations: Ensure that the task can be completed within the current project timeline.
+   - Scope restrictions: Focus solely on Act 3 without altering other acts or scenes.
+   - Dependency requirements: Ensure no conflicting edits are being made by other agents on the same file.
 
 1. **Action Statement**
    - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
