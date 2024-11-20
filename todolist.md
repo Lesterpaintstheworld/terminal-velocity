@@ -135,7 +135,7 @@
 ---
 
 ## Empty Files Needing Content
-- story/act3/act3_scenes.md (completely empty)
+- story/act3/act3_scenes/ (completely empty)
 - story/act3/chapter1/scene1/02_004_scene_summary.md (empty)
 - story/act3/chapter1/scene1/02_005_key_moments.md (empty)
 - story/act2/chapter1/scene1/2_1_1_scene/02_006_emotional_beats.md (empty)
