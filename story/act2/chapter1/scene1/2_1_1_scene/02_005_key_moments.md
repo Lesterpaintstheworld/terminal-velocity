@@ -1,8 +1,8 @@
 ## Key Moments
 1. **First Major Beat**
    1. **Initial Reactions to UBC**
-      - Characters share their first impressions of the UBC framework, revealing their hopes for a more equitable society.
-      - Tension arises as some characters voice concerns about dependency on AI systems.
+      - Characters share their first impressions of the UBC framework, revealing their hopes for a more equitable society amidst the backdrop of the protest.
+      - Tension arises as some characters voice concerns about dependency on AI systems, reflecting the ethical dilemmas highlighted during the protest.
 
    2. **Debate on Ethical Implications**
       - A heated discussion ensues regarding the ethical implications of UBC, with characters presenting differing viewpoints.
