@@ -212,10 +212,64 @@ def standardize_research_structure():
                     if not os.path.exists(dst_path):
                         shutil.move(src_path, dst_path)
 
+def standardize_worldbuilding_structure():
+    """Standardize the world_building directory structure"""
+    # Define standard categories
+    worldbuilding_categories = [
+        "systems/kin_stack",  # For KinOS, UBC, ALM details
+        "systems/governance", # For AI rights framework, autonomous weapons
+        "cultural/locations", # For virtual and physical spaces
+        "cultural/society",   # For societal landscape, cultural dynamics
+        "technical/context",  # For technological and technical context
+        "economic/framework"  # For economic systems and frameworks
+    ]
+    
+    # Create standard folders
+    for category in worldbuilding_categories:
+        Path(f"world_building/{category}").mkdir(parents=True, exist_ok=True)
+        
+    # Define file mappings
+    file_mappings = {
+        "systems/kin_stack": [
+            "world_building/systems/kinos_details.md",
+            "world_building/systems/ubc_details.md", 
+            "world_building/systems/alm_details.md"
+        ],
+        "systems/governance": [
+            "world_building/systems/ai_rights_framework.md",
+            "world_building/systems/autonomous_weapons.md"
+        ],
+        "cultural/locations": [
+            "world_building/locations/virtual_spaces.md",
+            "world_building/locations/physical_locations.md"
+        ],
+        "cultural/society": [
+            "world_building/cultural_landscape.md",
+            "world_building/societal_landscape.md"
+        ],
+        "technical/context": [
+            "world_building/technological_context.md",
+            "world_building/technical_context.md"
+        ],
+        "economic/framework": [
+            "world_building/economic_systems.md"
+        ]
+    }
+    
+    # Move files to appropriate folders
+    for target_dir, file_list in file_mappings.items():
+        for src_path in file_list:
+            if os.path.exists(src_path):
+                filename = os.path.basename(src_path)
+                dst_path = os.path.join(f"world_building/{target_dir}", filename)
+                if not os.path.exists(dst_path):
+                    shutil.move(src_path, dst_path)
+
 def main():
-    print("Starting research directory restructuring...")
+    print("Starting directory restructuring...")
     standardize_research_structure()
-    print("Research directory restructuring complete!")
+    standardize_worldbuilding_structure()
+    print("Directory restructuring complete!")
 
 if __name__ == "__main__":
     main()
