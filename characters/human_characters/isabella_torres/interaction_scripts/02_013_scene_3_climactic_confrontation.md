@@ -15,15 +15,15 @@
 
 ### Source Files
 - **Files to Analyze**: 
-  - `characters/human_characters/isabella_torres/demande.md`
+  - `characters/human_characters/isabella_torres/demande/`
   - `characters/human_characters/marcus_reynolds/profile/`
 - **Relevant Sections**: 
-  - For `demande.md`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
+  - For `demande/`: Focus on the sections detailing Isabella's motivations, relationships, and the primary mission.
   - For `Marcus Reynolds - Character Profile.md`: Pay attention to his interactions with Isabella and their conflicting perspectives.
 
 ### Target Changes
 - **Files to Modify**: 
-  - `demande.md`
+  - `demande/`
 - **Nature of Expected Changes**: 
   - Add a new section outlining Isabella's unique communication strategies, including dialogue examples and situational responses that reflect her internal conflicts and her stance on economic stability versus innovation.
 - **Impact on System State**: 
