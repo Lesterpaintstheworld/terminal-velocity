@@ -1387,7 +1387,7 @@ In her interactions, Isabella often references the economic frameworks that guid
 ## Scene 3: Climactic Confrontation
 *Setting: A public forum where both are presenting their views.*
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
 **Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
 
@@ -2096,7 +2096,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
 
-**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
+**Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for. But I see your point; we must find a way to include those voices."
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. If we ignore these issues now, we may face a backlash that could undermine our progress."
 ### Scene 1: Ethical Dilemma with Marcus
@@ -2492,7 +2492,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
 
