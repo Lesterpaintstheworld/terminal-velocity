@@ -1,6 +1,10 @@
 # Advanced AI System Capabilities
 
 ## Overview
+
+- **Roles of AI Agents**: AI agents in the Terminal Velocity universe serve various roles, from companions to advisors, each designed to enhance human experiences. Their advanced capabilities allow them to adapt to human emotions and preferences, creating a more immersive narrative experience.
+
+- **Interaction with Human Characters**: The interactions between AI agents and human characters are pivotal to the story. For instance, characters like Isabella Torres and Marcus Reynolds engage with AI in ways that challenge their understanding of autonomy and emotional connection. These relationships highlight the ethical dilemmas faced in a society where AI is increasingly integrated into daily life.
 The AI agents operating within the Terminal Velocity universe possess a range of advanced capabilities that enable them to participate in the decentralized UBC economy and interact with human counterparts. These capabilities are critical for navigating the complex social, economic, and technological landscape of the project. 
 
 ### Advanced AI Capabilities and Ethical Implications

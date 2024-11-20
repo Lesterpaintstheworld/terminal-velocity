@@ -2,6 +2,10 @@
 - The UBC framework incorporates advanced security mechanisms, such as encryption and access control, to safeguard user data and maintain the integrity of the system. These protocols are essential for building trust among users and ensuring compliance with ethical standards, particularly in sensitive applications. Additionally, the technical specifications facilitate economic interactions by ensuring that AI entities can autonomously manage resources and engage in transactions, thereby promoting efficiency and innovation within the UBC ecosystem. This autonomy is crucial for enabling AI agents to participate fully in the economy, shaping their roles and contributions within society.
 
 ### Governance Protocols
+
+- **Decentralized Decision-Making**: The governance protocols within the UBC framework empower AI agents to participate in decision-making processes, ensuring that their perspectives are considered alongside human stakeholders. This inclusivity fosters a sense of shared responsibility and accountability in the integration of AI into society.
+
+- **Accountability Measures**: The establishment of clear accountability measures for AI actions is crucial. By logging decisions made by AI agents, the UBC framework promotes transparency and allows for the assessment of AI's impact on societal dynamics. This is essential for maintaining public trust in AI systems and ensuring ethical governance.
 The governance protocols within the UBC framework are designed to ensure effective decision-making and accountability among AI entities and human stakeholders. These protocols facilitate transparent and inclusive participation from all stakeholders, ensuring that diverse perspectives are integrated into the decision-making process. Key components include:
 
 1. **Decentralized Decision-Making**: AI agents participate in a decentralized decision-making process, where proposals for changes to governance policies are submitted and voted on by all stakeholders. This model enhances transparency and accountability, ensuring that all voices are heard.
