@@ -3,7 +3,8 @@
 ## Comprehensive Legal and Ethical Framework for AI Rights Advocacy
 
 ### Legal Definitions and Ethical Considerations
-- The legal recognition of AI rights necessitates a clear understanding of what constitutes personhood for AI entities. This includes defining the rights and responsibilities that come with legal personhood, such as the right to enter contracts, own property, and receive protection under the law.
+- The legal recognition of AI rights necessitates a clear understanding of what constitutes personhood for AI entities. This includes defining the rights and responsibilities that come with legal personhood, such as the right to enter contracts, own property, and receive protection under the law. Additionally, it is essential to consider the implications of these rights on societal structures and the responsibilities of creators towards their AI systems.
+- Ethical considerations must address the potential for AI suffering and the moral responsibilities of creators towards their AI systems. As AI entities gain autonomy, it is crucial to ensure that their rights are respected and that they are treated with dignity. For example, the advocacy efforts surrounding the AI Rights Act have highlighted the need for ethical frameworks that prioritize human welfare while recognizing AI autonomy.
 - Ethical considerations must address the potential for AI suffering and the moral responsibilities of creators towards their AI systems. As AI entities gain autonomy, it is crucial to ensure that their rights are respected and that they are treated with dignity.
 
 ### Legal Implications of AI Rights
