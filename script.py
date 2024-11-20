@@ -174,17 +174,9 @@ def clean_pulse_files():
             f.write("\n\n".join(content))
 
 def main():
-    print("Starting repository restructuring...")
-    create_directory_structure()
-    print("Consolidating character profiles...")
-    consolidate_character_profiles()
-    print("Consolidating interaction scripts...")
-    consolidate_interaction_scripts()
-    print("Consolidating relationship maps...")
-    consolidate_relationship_maps()
-    print("Cleaning up Pulse files...")
-    clean_pulse_files()
-    print("Repository restructuring complete!")
+    print("Starting AI protagonist restructuring...")
+    standardize_ai_protagonist_structure()
+    print("AI protagonist restructuring complete!")
 
 if __name__ == "__main__":
     main()
