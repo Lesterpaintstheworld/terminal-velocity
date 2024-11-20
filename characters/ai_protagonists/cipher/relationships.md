@@ -3,7 +3,7 @@
 ## Emotional Dynamics and Character Growth in Cipher's Relationships
 
 ### Ethical Dilemmas and Emotional Stakes
-- Cipher's relationship with Isabella is characterized by a blend of respect and tension. Their discussions often revolve around the ethical implications of AI autonomy, with Isabella advocating for policies that protect marginalized communities. For instance, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights her commitment to ensuring that AI advancements do not exacerbate existing inequalities. 
+- Cipher's relationship with Isabella is characterized by a blend of respect and tension. Their discussions often revolve around the ethical implications of AI autonomy, with Isabella advocating for policies that protect marginalized communities. For instance, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights her commitment to ensuring that AI advancements do not exacerbate existing inequalities. Their debates often lead to moments of self-reflection for Cipher, as he contemplates the broader societal impacts of their proposals and the ethical responsibilities they bear towards marginalized groups.
 
 - **Moral Exchanges**: Cipher frequently grapples with the fear that his proposals may not adequately address the concerns raised by Isabella. In a moment of vulnerability, he confides, "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?" This internal conflict adds depth to his character and underscores the complexities of their relationship, as he navigates the moral implications of his advocacy.
 
