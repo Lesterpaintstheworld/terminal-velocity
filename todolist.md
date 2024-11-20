@@ -18,7 +18,7 @@
   - [ ] Character arc development
 
 - [x] Develop detailed outline for Act 3
-- [ ] Finalize crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis.md`
+- [ ] Finalize crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README/`
   - [ ] Crisis point identification
   - [ ] Main conflict progression
   - [ ] Resolution preparation
