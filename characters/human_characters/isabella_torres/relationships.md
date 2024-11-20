@@ -3,8 +3,8 @@ Connections and dynamics with other characters
 
 ## Emotional Stakes and Collaborative Moments in AI Advocacy
 
-### Emotional Dynamics with Cipher
-- Isabella's relationship with Cipher is characterized by a blend of respect and tension. Their discussions often revolve around the ethical implications of AI autonomy, with Isabella advocating for policies that protect marginalized communities. For instance, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights her commitment to ensuring that AI advancements do not exacerbate existing inequalities.
+### Emotional Dynamics with Marcus Reynolds
+- Isabella's relationship with Marcus is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This dynamic forces both characters to reflect on the ethical dimensions of their decisions and the impact on marginalized communities.
 - The emotional stakes in Isabella's interactions with Cipher are significant. She frequently grapples with the fear that her advocacy for ethical AI may be perceived as overly idealistic. In a moment of vulnerability, she confides, "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?" This internal conflict adds depth to her character and underscores the complexities of human-AI relationships.
 
 ### Emotional Dynamics with Echo
