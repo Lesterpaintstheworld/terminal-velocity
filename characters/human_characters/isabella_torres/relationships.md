@@ -3,8 +3,9 @@ Connections and dynamics with other characters
 
 ## Emotional Stakes and Collaborative Moments in AI Advocacy
 
-### Ethical Considerations
-- Isabella's relationship with AI characters, particularly Cipher, is marked by a deep concern for the ethical implications of AI autonomy. During discussions, she often emphasizes the need for policies that protect marginalized communities from potential exploitation by AI systems. For instance, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights her commitment to ensuring that AI advancements do not exacerbate existing inequalities.
+### Ethical Considerations and Dilemmas
+- Isabella's relationship with AI characters, particularly Cipher, is marked by a deep concern for the ethical implications of AI autonomy. During discussions, she often emphasizes the need for policies that protect marginalized communities from potential exploitation by AI systems. For instance, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights her commitment to ensuring that AI advancements do not exacerbate existing inequalities. 
+- Furthermore, her interactions with Marcus Reynolds often bring to light the ethical dilemmas faced in balancing technological advancement with social equity. For example, during a heated debate, Isabella challenges Marcus, saying, "If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind." This dynamic forces both characters to reflect on the ethical dimensions of their decisions and the impact on marginalized communities.
 
 ### Emotional Dynamics with Marcus Reynolds
 - Isabella's relationship with Marcus is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This dynamic forces both characters to reflect on the ethical dimensions of their decisions and the impact on marginalized communities.
