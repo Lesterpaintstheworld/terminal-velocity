@@ -1,9 +1,9 @@
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies. The tension is palpable as they navigate their differing perspectives.*
 
-**Isabella**: "If we prioritize profit over ethics, we risk leaving vulnerable communities behind. We must ensure that our policies uplift everyone, not just the privileged. Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+**Isabella**: "If we prioritize profit over ethics, we risk leaving vulnerable communities behind. We must ensure that our policies uplift everyone, not just the privileged. I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
 
-**Marcus**: "I understand your concerns, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it."
+**Marcus**: "I understand your concerns, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
 
