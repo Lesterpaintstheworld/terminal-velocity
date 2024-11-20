@@ -21,7 +21,7 @@
 
 4. **Fourth Major Beat**
    - As the discussion progresses, Isabella and Marcus find common ground, recognizing that their differing perspectives can lead to a more comprehensive approach to AI integration. 
-   - The scene ends with a powerful moment of solidarity, where community members express their commitment to working together to ensure that AI advancements benefit everyone, not just a select few.
+   - The scene ends with a powerful moment of solidarity, where community members express their commitment to working together to ensure that AI advancements benefit everyone, not just a select few. This moment also prompts Isabella to reconsider her advocacy strategies, while Marcus reflects on the ethical implications of his data-driven approach.
 
 2. **Second Major Beat**
    - Isabella shares a personal story about a friend affected by AI decisions, illustrating the human impact of technological advancements.
