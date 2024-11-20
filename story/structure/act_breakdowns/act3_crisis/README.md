@@ -1,24 +1,24 @@
 ## Production Objective
 
 1. **Action Statement**
-   - Finalize and enrich the outline for Act 3, focusing on crisis points and main conflict progression.
+   - Finalize and integrate crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
 
 2. **Source Files**
-   - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`
+   - Analyze the file `story/structure/act_breakdowns/act3_crisis/README.md`.
    - Relevant sections include crisis point identification and main conflict progression.
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md`
-   - Expected changes include detailed descriptions of crisis points and the progression of conflicts, enhancing narrative coherence.
+   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to clearly outline identified crisis points and their implications on character arcs and narrative flow.
 
 4. **Validation Points**
-   - Verify success by checking for the inclusion of clearly defined crisis points and a logical progression of the main conflict.
-   - Output to check: the updated README.md file for completeness and narrative clarity.
+   - Verify that all crisis points are documented and clearly defined.
+   - Check for logical flow in the conflict progression.
+   - Ensure resolution notes align with character arcs and thematic elements.
 
 5. **Operation Bounds**
-   - Resource limitations: Ensure that the task can be completed within the current project timeline.
-   - Scope restrictions: Focus solely on Act 3 without altering other acts or scenes.
-   - Dependency requirements: Ensure no conflicting edits are being made by other agents on the same file.
+   - Resource limitations: Ensure no more than 3 hours of editing.
+   - Scope restrictions: Only focus on Act 3 crisis points.
+   - Dependency requirements: Must align with existing character development files.
 
 1. **Action Statement**
    - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
