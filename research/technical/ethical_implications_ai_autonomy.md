@@ -2,6 +2,9 @@
 
 ## Overview of Ethical Implications of AI Autonomy in Terminal Velocity
 
+### Societal Impact
+- The integration of AI into society raises concerns about job displacement, privacy, and the potential for misuse of technology, necessitating a comprehensive ethical framework to guide AI development and deployment. It is crucial to consider how autonomous AI systems can affect social dynamics, economic structures, and individual rights.
+
 ### Ethical Responsibilities
 - The rise of AI autonomy necessitates a reevaluation of the moral responsibilities of creators and operators. As AI systems gain decision-making capabilities, it is crucial to ensure that their actions align with ethical standards that prioritize human welfare and societal good.
 
