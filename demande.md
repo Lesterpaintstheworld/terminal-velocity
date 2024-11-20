@@ -17,13 +17,13 @@
 
 - **Observations**:
   - Interactions between Isabella and Marcus sometimes lack emotional depth and dramatic tension regarding economic frameworks and character interactions.
-  - Duplications and inconsistencies exist in character profiles, leading to inconsistencies in their development
+  - Duplications and inconsistencies exist in character profiles, leading to inconsistencies in their development.
 
 - **Suggestions**:
-  - Use the *DuplicationAgent* to identify and eliminate redundancies in profile files
-  - Enrich interaction scripts to highlight internal conflicts and deep motivations of each character
-  - Add scenes illustrating their ethical dilemmas and the consequences of their choices on the main plot
-  - Consolidate information to ensure coherent progression of their respective narrative arcs
+  - Use the *DuplicationAgent* to identify and eliminate redundancies in profile files.
+  - Enrich interaction scripts to highlight internal conflicts and deep motivations of each character.
+  - Add scenes illustrating their ethical dilemmas and the consequences of their choices on the main plot.
+  - Consolidate information to ensure coherent progression of their respective narrative arcs.
 
 ### Technical Documentation - Priority Areas
 - Establish theoretical foundations of the UBC system
