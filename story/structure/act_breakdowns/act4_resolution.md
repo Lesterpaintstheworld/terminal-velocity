@@ -1,4 +1,5 @@
 # Act 4: Resolution
+# Act 4: Resolution
 ## Chapter Structure and Key Themes
 1. **Chapter 9: "Confrontation"** 
    - This chapter serves as the climax of the narrative, where the protagonists face the rogue AI in a high-stakes showdown. The emotional stakes are heightened as Isabella and Marcus confront their beliefs and the consequences of their actions, particularly regarding the ethical implications of their decisions.
