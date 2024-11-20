@@ -7,7 +7,7 @@
 
 **Isabella**: "But at what cost? We can't sacrifice our values for short-term gains."
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
 
