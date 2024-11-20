@@ -54,7 +54,7 @@
   - Detail their collaborative efforts to address challenges.
 
 ## Core Traits
-- **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI.
+- **Ambitious**: Driven to succeed and eager to make an impact in the world of finance and AI. However, he often grapples with the ethical implications of his decisions, particularly in relation to the impact on marginalized communities. His relationship with Isabella Torres forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society.
 - **Empathetic**: Understands the struggles of others and often advocates for ethical practices in technology.
 - **Strategic**: Thinks several steps ahead in both personal and professional scenarios. 
 - **Conflicted**: Grapples with the ethical implications of his decisions, particularly in relation to the impact on marginalized communities. His relationship with Isabella Torres forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society.
