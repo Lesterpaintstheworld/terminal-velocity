@@ -8,7 +8,10 @@ Isabella Torres grew up in a diverse urban environment, raised by a single mothe
 ### Educational and Professional Journey
 Despite facing numerous challenges, including financial instability and the absence of a father figure, Isabella excelled academically and earned a scholarship to a prestigious university. There, she pursued a degree in social work, driven by her experiences and a desire to create change in her community.
 
-Her path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality.
+Her path led her to work in various non-profit organizations, where she became an advocate for underprivileged communities. Her encounters with systemic injustice fueled her determination to fight for equality. 
+
+### Emotional Complexity in AI Advocacy
+Isabella's journey is characterized by a profound internal struggle between technological innovation and social responsibility. Her advocacy work is consistently marked by complex ethical dilemmas that challenge her to navigate the delicate balance between progress and protection. For instance, during a pivotal moment, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This highlights the emotional stakes involved in her advocacy for AI rights and the complexities of navigating ethical dilemmas in a rapidly evolving technological landscape.
 
 ## Core Motivations and Psychological Profile
 
