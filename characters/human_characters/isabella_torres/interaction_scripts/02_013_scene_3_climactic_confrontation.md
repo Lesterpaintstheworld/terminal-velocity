@@ -9,7 +9,7 @@
 
 **Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
-**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged."
+**Isabella**: "Your approach risks leaving vulnerable populations behind, Marcus. We need to ensure that technology serves everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress."
 
 **Marcus**: "And we need to protect our nation first. If we don't act decisively, we risk everything we've built."
 
