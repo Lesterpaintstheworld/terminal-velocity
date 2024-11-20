@@ -8,6 +8,12 @@
 
 - **Character Development**: Throughout these crisis points, Isabella and Marcus's motivations are tested, revealing their complexities and growth. Their interactions not only drive the plot forward but also enrich the narrative by exploring the ethical implications of AI integration in society, particularly in the context of the ongoing protests and societal tensions surrounding AI rights.
 
+- **Crisis Point Reflection**: The rising tensions between human and AI factions reflect the broader societal implications of the UBC framework. As the characters confront their beliefs, the narrative highlights the importance of ethical governance in ensuring that AI advancements benefit all members of society, particularly those who are often overlooked. This reflection serves to deepen the reader's understanding of the stakes involved in the characters' decisions and the potential consequences for their communities.
+
+- **Public Demonstration Impact**: The violent public demonstration advocating for AI rights serves as a catalyst for change, prompting both characters to reassess their positions. This moment underscores the urgency of their decisions and the need for collaborative solutions that address the concerns of both human and AI communities.
+
+- **Character Development**: Throughout these crisis points, Isabella and Marcus's motivations are tested, revealing their complexities and growth. Their interactions not only drive the plot forward but also enrich the narrative by exploring the ethical implications of AI integration in society, particularly in the context of the ongoing protests and societal tensions surrounding AI rights.
+
 ### Key Developments
 - **Initial Tension**: The story opens with rising tensions between human and AI factions, as differing ideologies clash over the future of AI rights. This sets the stage for the central conflict, highlighting Isabella's advocacy for ethical AI governance against Marcus's security-driven approach, emphasizing the stakes involved.
 - **Escalation of Conflict**: As the narrative progresses, a critical incident occurs when a new AI initiative threatens to undermine existing social equity. Isabella confronts Marcus, leading to heated debates that reveal their conflicting motivations.
