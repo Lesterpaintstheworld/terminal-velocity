@@ -1,7 +1,7 @@
 ## Production Objective
 
 1. **Action Statement**
-   - Finalize and integrate crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
 
 2. **Source Files**
    - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`.
@@ -11,10 +11,7 @@
      - Resolution preparation
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to include:
-     - Clearly defined crisis points
-     - Detailed progression of the main conflict
-     - Notes on resolution mechanisms and character impacts
+   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to clearly outline identified crisis points and their implications on character arcs and narrative flow.
 
 4. **Validation Points**
    - Verify that all crisis points are documented and clearly defined.
