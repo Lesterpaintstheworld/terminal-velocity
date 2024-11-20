@@ -16,6 +16,9 @@
 
 ### Ethical Dilemma with Isabella Torres
 - Marcus grapples with the ethical dilemmas surrounding the use of autonomous systems. He often questions whether the benefits of these technologies justify the potential harm they may cause to marginalized communities. His relationship with Isabella forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society. This internal struggle adds complexity to his character and influences his interactions with Isabella, as he navigates the tension between his ambitions and the ethical responsibilities that come with them.
+
+### Ethical Dilemma with Isabella Torres
+- Marcus grapples with the ethical dilemmas surrounding the use of autonomous systems. He often questions whether the benefits of these technologies justify the potential harm they may cause to marginalized communities. His relationship with Isabella forces him to confront these dilemmas, as her advocacy for social equity challenges his views on the role of technology in society. This internal struggle adds complexity to his character and influences his interactions with Isabella, as he navigates the tension between his ambitions and the ethical responsibilities that come with them.
 - **Collaborative Policy Development**: Despite their differences, they find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
 - **Confronting Ethical Dilemmas**: Their ongoing debates force Marcus to confront the ethical implications of his decisions, adding depth to their interactions and challenging him to refine his arguments in light of Isabella's advocacy for social equity.
 
