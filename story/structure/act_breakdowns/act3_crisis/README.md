@@ -1,24 +1,23 @@
 ## Production Objective
 
 1. **Action Statement**
-   - Finalize and integrate crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Finalize the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
 
 2. **Source Files**
    - Analyze the file `story/structure/act_breakdowns/act3_crisis/README.md`.
    - Relevant sections include crisis point identification and main conflict progression.
 
 3. **Target Changes**
-   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to clearly outline identified crisis points and their implications on character arcs and narrative flow.
+   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to include detailed descriptions of identified crisis points and their impact on character dynamics and narrative progression.
 
 4. **Validation Points**
-   - Verify that all crisis points are documented and clearly defined.
-   - Check for logical flow in the conflict progression.
-   - Ensure resolution notes align with character arcs and thematic elements.
+   - Verify success by ensuring all crisis points are clearly articulated and aligned with character arcs.
+   - Check that the document reflects a coherent narrative flow and enhances the overall story structure.
 
 5. **Operation Bounds**
-   - Resource limitations: Ensure no more than 3 hours of editing.
-   - Scope restrictions: Only focus on Act 3 crisis points.
-   - Dependency requirements: Must align with existing character development files.
+   - Resource limitations include ensuring the changes do not exceed the existing narrative framework.
+   - Scope restrictions involve focusing solely on Act 3's crisis points without altering previous acts.
+   - Dependency requirements include ensuring alignment with character development outlined in `story/structure/act3.md`.
 
 1. **Action Statement**
    - Finalize and implement the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
