@@ -8,7 +8,7 @@
   - [ ] Key narrative progression points
 
 ### Acts and Scenes Outlining
-- [ ] Develop detailed outline for Act 1
+- [x] Develop detailed outline for Act 1
   - [x] Chapters 1-5 (partially completed)
   - [ ] Overall revision and coherence
 
