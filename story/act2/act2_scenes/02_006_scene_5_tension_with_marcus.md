@@ -3,7 +3,7 @@
 - "Marcus," Isabella says, her voice trembling slightly, "I can't help but feel that your decisions could hurt those who are already struggling. We have a responsibility to protect them. I fear that without safeguards, we might be complicit in their suffering."
 - Marcus, visibly torn, responds, "I understand your fears, but we must also consider the broader implications of our decisions. What if our caution stifles progress? We can't let fear dictate our actions, Isabella."
 - This moment illustrates the growing complexity of their relationship as they navigate their differing priorities, reflecting the UBC framework's impact on their ethical considerations and decision-making processes. 
-- During a pivotal moment, Isabella confides, "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?" 
+- During a pivotal moment, Isabella confides, "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I feel like I'm fighting a losing battle against a tide of indifference."
 - Marcus, visibly torn, responds, "I understand your fears, but we must also consider the broader implications of our decisions. What if our caution stifles progress?" 
 - This moment illustrates the growing complexity of their relationship as they navigate their differing priorities, reflecting the UBC framework's impact on their ethical considerations and decision-making processes.
 - **Scene 6: Finding Common Ground**
