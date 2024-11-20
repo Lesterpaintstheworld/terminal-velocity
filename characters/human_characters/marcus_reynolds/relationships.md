@@ -2,6 +2,12 @@
 
 ## Relationship with Isabella Torres
 
+### Ethical Dilemmas
+- Marcus's discussions with Isabella often revolve around the ethical implications of AI technologies. Their differing views on the role of AI in society lead to intense debates, where Marcus is challenged to confront the potential consequences of his policies on vulnerable populations. For example, during a public debate, Isabella asserts, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This dynamic forces Marcus to reflect on the ethical dimensions of his decisions.
+
+### Emotional Stakes
+- The emotional stakes in Marcus's relationship with Isabella are profound. He often feels the weight of their discussions, particularly when they address the impact of AI on marginalized communities. In a moment of reflection, he acknowledges, "I understand your concerns, but we must also consider the broader implications of our decisions." This highlights the complexity of their relationship as they navigate their differing priorities while seeking common ground.
+
 ### Emotional Stakes and Collaborative Moments in AI Advocacy
 - Isabella's relationship with Sarah Chen is marked by both rivalry and collaboration. Their ongoing debates force them to confront the ethical implications of their decisions, adding depth to their interactions and challenging them to refine their arguments in light of each other's advocacy for social equity. Despite their differences, they occasionally find common ground, leading to collaborative proposals that reflect both their perspectives.
 - **Emotional Stakes**: Their discussions often reveal the emotional stakes involved, as Isabella expresses her fears about the implications of Marcus's policies on vulnerable populations. This adds complexity to their relationship, as they navigate their differing priorities while seeking common ground. For instance, during a pivotal moment, Isabella confides, "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?" Additionally, Isabella's advocacy for social equity challenges Marcus to reconsider the broader implications of his decisions, fostering deeper emotional connections between them.
