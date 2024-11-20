@@ -16,7 +16,7 @@
 
 **Sarah**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
-**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
+**Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone. But I fear that without proper safeguards, we might create a system that exacerbates existing inequalities."
 
 ### Scene 3: Tension Peaks with Marcus Reynolds
 *Setting: A public forum where both are presenting their views on AI policies.*
@@ -91,7 +91,7 @@
 ### Scene 2: Finding Common Ground
 *Setting: A quiet café after a long day of meetings.*
 
-**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
+**Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. I believe that by prioritizing these voices, we can create a more just economic landscape."
 
 **Nova**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 
