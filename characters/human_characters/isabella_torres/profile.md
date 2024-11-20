@@ -5,6 +5,8 @@ Isabella Torres grew up in a diverse urban environment, where she was exposed to
 
 ### Motivations
 - Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
+
+- **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities. Her relationship with Marcus Reynolds is particularly significant; they often clash over their differing views on the role of technology in society. For instance, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This dynamic forces both characters to reflect on the ethical dimensions of their decisions and the impact on marginalized communities.
 - **Ethical Considerations**: She is motivated by the need to balance innovation with ethical implications, ensuring that AI advancements do not exacerbate existing inequalities.
 
 ## Core Motivations and Psychological Profile
