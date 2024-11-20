@@ -1,4 +1,6 @@
 ## Emotional Beats
-- Isabella: Struggles with the weight of her advocacy, feeling the pressure of representing marginalized voices while navigating her relationship with Marcus. She is increasingly aware of the emotional toll that the community's concerns take on her.
-- Marcus: Torn between his desire for efficiency and the ethical implications of AI, he grapples with guilt over the potential consequences of his proposals. His internal conflict deepens as he realizes the human cost of technological advancement.
-- Overall tone progression: The scene shifts from tension and conflict to a sense of urgency and hope as characters begin to find common ground and recognize the importance of collaboration. The emotional stakes rise as the community's voices become more unified in their demands for ethical AI governance.
+- Isabella: Struggles with the weight of her advocacy, feeling the pressure of representing marginalized voices while navigating her relationship with Marcus. She is increasingly aware of the emotional toll that the community's concerns take on her. Her determination to fight for social equity is challenged by the harsh realities of the situation.
+
+- Marcus: Torn between his desire for efficiency and the ethical implications of AI, he grapples with guilt over the potential consequences of his proposals. His internal conflict deepens as he realizes the human cost of technological advancement, leading him to question his priorities and the impact of his decisions on those around him.
+
+- Overall tone progression: The scene shifts from tension and conflict to a sense of urgency and hope as characters begin to find common ground and recognize the importance of collaboration. The emotional stakes rise as the community's voices become more unified in their demands for ethical AI governance, culminating in a powerful moment of solidarity that underscores the need for inclusive dialogue.
