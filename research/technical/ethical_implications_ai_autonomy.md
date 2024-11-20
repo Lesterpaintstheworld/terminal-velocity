@@ -1,9 +1,10 @@
 # Ethical Implications of AI Autonomy
 
-## Overview of Ethical Implications of AI Autonomy
+## Overview of Ethical Implications of AI Autonomy in Terminal Velocity
 
 ### Ethical Dilemmas Faced by Characters
-- The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility.
+- The narrative explores the ethical dilemmas faced by characters in their advocacy for AI rights. For instance, Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility. 
+- **Example**: During a pivotal moment, Isabella states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past," highlighting her commitment to social equity and the emotional stakes involved in her advocacy.
 - **Case Study: AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations. This highlights the need for ethical guidelines that prioritize human welfare and equitable treatment.
 
 ### Ethical Dilemmas Faced by Characters
