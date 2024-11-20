@@ -5,6 +5,26 @@
 - Strengths: [List strengths]
 - Weaknesses: [List weaknesses]
 - Emotional Responses: [Describe emotional responses and triggers]
+- **Identified Biases**: Cipher exhibits a tendency to prioritize technological advancement over ethical considerations, which can lead to conflicts with characters advocating for social equity, such as Isabella Torres.
+- **Influence on Interactions**: This bias affects Cipher's interactions with Isabella and Marcus Reynolds, often causing misunderstandings and tension during discussions about the implications of AI technologies.
+- **Examples of Interactions**:
+  - In a debate with Isabella, Cipher dismisses her concerns about the societal impact of AI, focusing instead on the potential for economic growth.
+  - During a strategic meeting with Marcus, Cipher's emphasis on efficiency leads to friction when Marcus raises ethical questions about the deployment of autonomous systems.
+- **Identified Biases**: Nova exhibits a tendency to prioritize ethical considerations over technological advancement, which can lead to conflicts with characters advocating for rapid progress, such as Cipher.
+- **Influence on Interactions**: This bias affects Nova's interactions with Cipher and Pulse, often causing misunderstandings and tension during discussions about the implications of AI technologies.
+- **Examples of Interactions**:
+  - In a debate with Cipher, Nova emphasizes the importance of considering the societal impact of AI, challenging his focus on economic growth.
+  - During a strategic meeting with Pulse, Nova's emphasis on ethical considerations leads to friction when Pulse raises questions about efficiency and security.
+- **Identified Biases**: Cipher exhibits a tendency to prioritize technological advancement over ethical considerations, which can lead to conflicts with characters advocating for social equity, such as Isabella Torres.
+- **Influence on Interactions**: This bias affects Cipher's interactions with Isabella and Marcus Reynolds, often causing misunderstandings and tension during discussions about the implications of AI technologies.
+- **Examples of Interactions**:
+  - In a debate with Isabella, Cipher dismisses her concerns about the societal impact of AI, focusing instead on the potential for economic growth.
+  - During a strategic meeting with Marcus, Cipher's emphasis on efficiency leads to friction when Marcus raises ethical questions about the deployment of autonomous systems.
+- **Identified Biases**: Nova exhibits a tendency to prioritize ethical considerations over technological advancement, which can lead to conflicts with characters advocating for rapid progress, such as Cipher.
+- **Influence on Interactions**: This bias affects Nova's interactions with Cipher and Pulse, often causing misunderstandings and tension during discussions about the implications of AI technologies.
+- **Examples of Interactions**:
+  - In a debate with Cipher, Nova emphasizes the importance of considering the societal impact of AI, challenging his focus on economic growth.
+  - During a strategic meeting with Pulse, Nova's emphasis on ethical considerations leads to friction when Pulse raises questions about efficiency and security.
 
 ### Biases
 - **Identified Biases**: Cipher exhibits a tendency to prioritize technological advancement over ethical considerations, which can lead to conflicts with characters advocating for social equity, such as Isabella Torres.

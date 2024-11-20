@@ -1,6 +1,8 @@
 # Act 2 Scenes
 ## Scene 1: Cipher's Proposal
 - Cipher presents a new economic model to stakeholders, highlighting the potential benefits and risks, while emphasizing the need for ethical considerations in AI governance.
+- **Key Emotional Stakes**: Cipher's internal conflict is evident as he grapples with the implications of his proposal on marginalized communities, particularly in light of his discussions with Isabella and Marcus.
+- **Key Emotional Stakes**: Cipher's internal conflict is evident as he grapples with the implications of his proposal on marginalized communities, particularly in light of his discussions with Isabella and Marcus.
 
 ## Scene 2: Conflict with Pulse
 - A heated debate between Cipher and Pulse regarding the ethical implications of AI in finance, showcasing the emotional stakes involved in their discussions.
