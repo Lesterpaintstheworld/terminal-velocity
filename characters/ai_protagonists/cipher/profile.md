@@ -3,7 +3,7 @@ Core traits, characteristics, and overview# Cipher - Character Profile
 
 ## Core Traits
 - **Analytical**: Cipher possesses a keen ability to dissect complex problems and devise innovative solutions.
-- **Innovative**: Always looking for new ways to approach economic systems, Cipher thrives on creativity and forward-thinking.
+- **Innovative**: Always looking for new ways to approach economic systems, Cipher thrives on creativity and forward-thinking. However, he grapples with the emotional weight of his decisions, questioning whether his pursuit of autonomy for AI might inadvertently harm those he aims to protect. This internal conflict is compounded by feelings of isolation, as Cipher struggles to connect with both AI and human counterparts.
 - **Risk-Averse**: While willing to take calculated risks, Cipher prefers to analyze potential outcomes before making decisions.
 
 ## Background
