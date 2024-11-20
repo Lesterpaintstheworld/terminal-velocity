@@ -31,6 +31,7 @@ Isabella's journey is characterized by a profound internal struggle between tech
 - Learning to balance innovation with ethical considerations
 
 ### Ethical Decision-Making Framework
+- **Entropy Healing Protocols**: Isabella advocates for protocols that address the societal disruptions caused by AI integration, emphasizing the need for healing and restoration in communities affected by technological advancements. This advocacy reflects her growing awareness of the impact of technology on marginalized communities.
 
 #### Core Principles
 - Prioritize marginalized communities
