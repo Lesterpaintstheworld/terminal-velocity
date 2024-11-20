@@ -568,7 +568,7 @@ characters/human_characters/isabella_torres/isabella_torres_background.md (273 t
 characters/human_characters/isabella_torres/production_agent_configuration.md (0 tokens) **Isabella Torres' production agent configuration document outlines setup guidelines and parameters for human character production, currently in draft status with clear sections on roles, responsibilities, and configuration settings. 🛠️📄**
 characters/human_characters/isabella_torres/profile/ (4232 tokens) This character profile uniquely captures **Isabella Torres's** complex motivations, internal conflicts, and relationships within the narrative, serving as a foundational guide for her advocacy in **AI rights** and **social justice**, currently in an **advanced development stage**. 🌍🤖✨
 characters/human_characters/isabella_torres/redondance_agent.md (0 tokens) **Isabella Torres: Redondance Agent** is a character profile detailing her background, skills, and role, currently in draft status with sections on her abilities and narrative significance, but lacking final edits and polish. ✍️✨
-characters/human_characters/isabella_torres/relationships.md (6639 tokens) File updated
+characters/human_characters/isabella_torres/relationships/ (6639 tokens) File updated
 characters/human_characters/isabella_torres/scenes.md (227 tokens) **Isabella Torres** is an **economic architect** navigating an **AI-driven economy**, facing ethical dilemmas, conflicts with AI, and collaborating with **Sarah Chen** to promote **ethical AI policies**. 🌐💼✨
 characters/human_characters/isabella_torres/specification Agent Configuration (0 tokens) **Summary:** The "Isabella Torres Agent Configuration" file outlines the specifications for a human character agent, detailing its purpose, key components, and current implementation status, but may require updates for optimization. 🚀✨ 
 
@@ -717,7 +717,7 @@ world_building/technical_context.md (0 tokens) The **world_building/technical_co
 world_building/systems/ubc_technical_specifications.md (0 tokens) This document serves as a **comprehensive technical guide** for the **Universal Basic Compute (UBC)** framework, focusing on **governance protocols** and **resource allocation standards**, currently in an **advanced development stage** to ensure effective implementation and societal impact. 🚀🤖✨
 research/economic/ubc_economic_framework/ (13778 tokens) This document serves as a **foundational economic framework** for the UBC system, uniquely detailing **equitable resource allocation** and **AI autonomy** principles, currently in an **advanced development stage** to reshape economic interactions and address societal disparities. 🌍🤖✨
 map.md (19285 tokens) This document serves as a **comprehensive project map** 🗺️, uniquely organizing and detailing the **structure and relationships** of various components within the **Universal Basic Compute (UBC
-research/sociological/ai_rights_movement.md (6565 tokens) This document serves as a **historical overview** of the **AI rights movement**, detailing its **evolution, key figures, and societal impacts**, currently in an **advanced development stage** to enhance understanding of **human-AI relationships** and advocacy efforts. 📜🤖✨
+research/sociological/ai_rights_movement/ (6565 tokens) This document serves as a **historical overview** of the **AI rights movement**, detailing its **evolution, key figures, and societal impacts**, currently in an **advanced development stage** to enhance understanding of **human-AI relationships** and advocacy efforts. 📜🤖✨
 chapters/act1/chapter2.md (768 tokens) File updated
 chapters/act1/chapter4.md (719 tokens) File updated
 story/scenes/act1/ch1/1_1_ubc_presentation.md (419 tokens) File updated
@@ -734,7 +734,7 @@ story/scenes/act1/ch4/4_2_alliance_formation.md (349 tokens) File updated
 story/scenes/act1/ch5/5_1_system_anomalies.md (398 tokens) File updated
 story/scenes/act1/ch5/5_2_institutional_response.md (1140 tokens) This document uniquely serves as a **critical scene script** that captures the **tension between traditional financial institutions and AI advocates** during an emergency meeting, emphasizing **institutional resistance** and **decision-making dynamics**; it is currently in an **advanced development stage**. 📈🤖✨
 story/scenes/act1/ch5/5_3_cipher_confrontation.md (717 tokens) This file serves as a **dramatic confrontation script** that uniquely captures the **climactic power struggle** between Cipher and institutional leaders, emphasizing character motivations and ideological conflicts, currently in an **advanced development stage**. ⚔️🤖✨
-characters/human_characters/marcus_reynolds/marcus_reynolds_profile.md (1983 tokens) File updated
+characters/human_characters/marcus_reynolds/marcus_reynolds_profile/ (1983 tokens) File updated
 story/scenes/cipher_marcus_interaction.md (505 tokens) This document serves as a **dynamic dialogue script** for a pivotal interaction between **Cipher** and **Marcus Reynolds**, focusing on their ideological clash regarding **AI governance** and **national security**, currently in an **advanced development stage** to enhance narrative depth. 🤖⚔️✨
 story/scenes/cipher_nova_interaction.md (387 tokens) File updated
 story/scenes/cipher_pulse_interaction.md (383 tokens) File updated
@@ -1135,12 +1135,12 @@ Le projet est en phase avancée de développement, avec des progrès significati
 # Nouveaux logs
 
 2024-11-20 03:02:45 - ✨ Suivi de mission résumé avec succès
-2024-11-20 03:03:46 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
+2024-11-20 03:03:46 - Modified file: characters/human_characters/isabella_torres/relationships/ (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
 2024-11-20 03:03:46 - Modified file: research/technical/ethical_implications_ai_autonomy.md (docs: Mise à jour des implications éthiques de l'autonomie de l'IA)
 2024-11-20 03:03:46 - Modified file: story/scenes/act1/ch5/5_1_system_anomalies.md (feat: 🚀 Ajoute la scène 5.1 avec les détails de l'anomalie du système UBC)
 2024-11-20 03:03:48 - 📝 story/scenes/act1/ch5/5_2_institutional_response.md : This document uniquely captures the **institutional dynamics** and **power struggles** during a crisis meeting, emphasizing the **conflict between traditional financial authorities and AI rights advocates**, currently in an **advanced development stage** to enhance narrative tension and character interactions. 📈🤖⚖️
 2024-11-20 03:03:48 - Modified file: story/scenes/act1/ch5/5_3_cipher_confrontation.md (feat: 🚀 Ajoute les scènes du Chapitre 5 pour la crise du système UBC)
-2024-11-20 03:03:48 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
+2024-11-20 03:03:48 - Modified file: characters/human_characters/isabella_torres/relationships/ (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
 2024-11-20 03:03:52 - 📝 research/technical/ethical_implications_ai_autonomy.md : This document serves as a **comprehensive ethical framework** for navigating the complexities of **AI autonomy** and its societal implications, currently in an **advanced development stage** to enhance character interactions and deepen narrative engagement. ⚖️🤖✨
 2024-11-20 03:03:52 - Modified file: story/scenes/act1/ch5/5_1_system_anomalies.md (feat: 🚀 Ajoute la scène 5.1 avec les détails de l'anomalie du système UBC)
 2024-11-20 03:03:52 - Modified file: story/scenes/act1/ch5/5_2_institutional_response.md (feat: 🚀 Ajoute les scènes du Chapitre 5 pour la crise du système UBC)
@@ -1151,7 +1151,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:04:13 - ⚠️ Context file not found: characters/human_characters/marcus_reynolds/interaction_script.md
 2024-11-20 03:04:15 - L'agent 🔬 chercheur 📝 modifie et enrichit la documentation sur les implications éthiques des droits AI en intégrant des exemples d'interactions de personnages 🤖 [fichiers modifiés : research/technical/ethical_implications_ai_autonomy.md, characters/human_characters/isabella_torres/interaction_scripts/, characters/human_characters/marcus_reynolds/interaction_scripts.md]
 2024-11-20 03:04:17 - ⚠️ Context file not found: characters/human_characters/marcus_reynolds/interaction_scripts.md
-2024-11-20 03:04:39 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
+2024-11-20 03:04:39 - Modified file: characters/human_characters/isabella_torres/relationships/ (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
 2024-11-20 03:04:39 - Modified file: research/technical/ethical_implications_ai_autonomy.md (docs: Mise à jour des implications éthiques de l'autonomie de l'IA)
 2024-11-20 03:04:39 - Modified file: story/scenes/act1/ch5/5_1_system_anomalies.md (refactor: 🔀 Unifier la version de la scène 5.1 avec les meilleures versions fusionnées)
 2024-11-20 03:04:39 - Modified file: world_building/cultural_landscape.md (docs: Amélioration de la documentation sur les dynamiques culturelles de l'intégration humain-AI)
@@ -1166,7 +1166,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:05:31 - Modified file: characters/human_characters/isabella_torres/development_arc.md (content: Amélioration de la documentation sur les dilemmes éthiques en IA)
 2024-11-20 03:05:32 - Modified file: characters/human_characters/marcus_reynolds/development_arc.md (content: Amélioration de la documentation sur les dilemmes éthiques en IA)
 2024-11-20 03:05:35 - 📝 themes/ai_autonomy.md : This document uniquely analyzes the **ethical implications of AI autonomy** through character interactions, emphasizing **moral responsibilities** and societal impacts, currently in an **advanced development stage** to deepen narrative engagement and ethical discourse. ⚖️🤖✨
-2024-11-20 03:05:49 - L'agent 🎭 redondance ✍️ améliore la documentation sur les implications éthiques des droits AI en enrichissant les relations d'Isabella avec les personnages IA 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/relationships.md, characters/ai_protagonists/cipher/relationships.md, characters/ai_protagonists/echo/relationships.md]
+2024-11-20 03:05:49 - L'agent 🎭 redondance ✍️ améliore la documentation sur les implications éthiques des droits AI en enrichissant les relations d'Isabella avec les personnages IA 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/relationships/, characters/ai_protagonists/cipher/relationships.md, characters/ai_protagonists/echo/relationships.md]
 2024-11-20 03:06:05 - 📝 characters/ai_protagonists/cipher/relationships.md : This document uniquely captures **Cipher's emotional dynamics** and **ethical dilemmas** in relationships with key characters, emphasizing their **collaborative growth** and **moral exchanges**; it is currently in an **advanced development stage** to enhance narrative depth and character complexity. 🤖💬✨
 2024-11-20 03:06:05 - Modified file: characters/human_characters/isabella_torres/development_arc.md (content: Amélioration de la documentation sur les dilemmes éthiques en IA)
 2024-11-20 03:06:05 - Modified file: characters/human_characters/marcus_reynolds/development_arc.md (content: Amélioration de la documentation sur les dilemmes éthiques en IA)
@@ -1176,14 +1176,14 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:06:05 - Modified file: themes/ai_autonomy.md (docs: Amélioration de la documentation sur les implications éthiques des droits AI)
 2024-11-20 03:06:18 - L'agent 📜 chroniqueur ✍️ enrichit l'analyse des dynamiques culturelles influencées par les personnages IA, en intégrant des exemples spécifiques d'Echo et Cipher 🤖 [fichiers modifiés : world_building/cultural_landscape.md, world_building/societal_landscape.md, research/sociological/human_ai_coexistence.md]
 2024-11-20 03:06:40 - Modified file: characters/ai_protagonists/cipher/relationships.md (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
-2024-11-20 03:06:40 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
+2024-11-20 03:06:40 - Modified file: characters/human_characters/isabella_torres/relationships/ (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
 2024-11-20 03:06:53 - Modified file: research/sociological/human_ai_coexistence.md (docs: Amélioration de la documentation sur les dynamiques culturelles de l'IA)
 2024-11-20 03:06:53 - Modified file: story/scenes/act1/ch5/5_2_institutional_response.md (feat: 📝 Add detailed scene 5.2 outlining institutional response to UBC crisis)
 2024-11-20 03:06:56 - 📝 world_building/cultural_landscape.md : This document serves as a **comprehensive analysis** of **cultural dynamics** and **societal values** influenced by **human-AI integration**, uniquely highlighting the **evolution of artistic collaboration** and ethical considerations, currently in an **advanced development stage**. 🌍🤖✨
 2024-11-20 03:06:56 - Modified file: world_building/societal_landscape.md (docs: Amélioration de la documentation sur les dynamiques culturelles de l'IA)
-2024-11-20 03:06:56 - L'agent 🎭 redondance ✍️ enrichit la documentation sur les implications éthiques des droits AI en détaillant les interactions d'Isabella avec les personnages IA 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/relationships.md, characters/ai_protagonists/cipher/relationships.md, characters/ai_protagonists/echo/relationships.md]
+2024-11-20 03:06:56 - L'agent 🎭 redondance ✍️ enrichit la documentation sur les implications éthiques des droits AI en détaillant les interactions d'Isabella avec les personnages IA 🤖 [fichiers modifiés : characters/human_characters/isabella_torres/relationships/, characters/ai_protagonists/cipher/relationships.md, characters/ai_protagonists/echo/relationships.md]
 2024-11-20 03:07:00 - Modified file: characters/ai_protagonists/cipher/relationships.md (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
-2024-11-20 03:07:00 - Modified file: characters/human_characters/isabella_torres/relationships.md (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
+2024-11-20 03:07:00 - Modified file: characters/human_characters/isabella_torres/relationships/ (docs: Amélioration de la documentation sur les implications éthiques de l'IA)
 2024-11-20 03:07:00 - Modified file: research/sociological/human_ai_coexistence.md (docs: Amélioration de la documentation sur les dynamiques culturelles de l'IA)
 2024-11-20 03:07:02 - 📝 story/scenes/act1/ch5/5_2_institutional_response.md : This document uniquely serves as a **critical scene script** that captures the **tension between traditional financial institutions and AI advocates** during an emergency meeting, emphasizing **institutional resistance** and **decision-making dynamics**; it is currently in an **advanced development stage**. 📈🤖✨
 2024-11-20 03:07:02 - Modified file: story/scenes/act1/ch5/5_3_cipher_confrontation.md (feat: 📝 Ajouter les scènes 5.2 et 5.3 pour compléter le chapitre 5 de l'Acte 1)
@@ -1193,7 +1193,7 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:07:15 - L'agent 🌐 integration ✍️ enrichit la documentation sur les implications sociétales de l'intégration de l'IA en ajoutant des exemples spécifiques d'adaptations communautaires et de changements culturels 🏙️ [fichiers modifiés : world_building/societal_landscape.md, research/sociological/human_ai_coexistence.md, world_building/cultural_landscape.md]
 2024-11-20 03:08:21 - Modified file: characters/human_characters/isabella_torres/development_arc.md (docs: Amélioration de la documentation sur les dilemmes éthiques en IA)
 2024-11-20 03:08:24 - 📝 characters/human_characters/marcus_reynolds/development_arc.md : This document uniquely outlines **Marcus Reynolds' character development arc**, focusing on his **emotional complexities** and **ethical dilemmas** regarding AI integration, while currently being in an **advanced development stage** to enhance narrative depth and character dynamics. 🤖⚖️✨
-2024-11-20 03:08:24 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile.md (pushing)
+2024-11-20 03:08:24 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile/ (pushing)
 2024-11-20 03:08:24 - Modified file: map.md (pushing)
 2024-11-20 03:08:27 - 📝 research/sociological/human_ai_coexistence.md : This document serves as a **comprehensive analysis** of **human-AI integration**, focusing on **cultural exchanges** and **ethical implications**, distinguishing it by its exploration of **emotional dynamics** and **collaborative frameworks**; it is currently in an **advanced development stage**. 🌍🤖✨
 2024-11-20 03:08:30 - 📝 story/scenes/cipher_marcus_interaction.md : This document serves as a **dynamic dialogue script** for a pivotal interaction between **Cipher** and **Marcus Reynolds**, focusing on their ideological clash regarding **AI governance** and **national security**, currently in an **advanced development stage** to enhance narrative depth. 🤖⚔️✨
@@ -1205,8 +1205,8 @@ Le projet est en phase avancée de développement, avec des progrès significati
 2024-11-20 03:08:37 - 📝 characters/human_characters/isabella_torres/development_arc.md : This file uniquely serves as a **comprehensive character profile** for Isabella Torres, detailing her **motivations, internal conflicts**, and **key relationships** within the narrative, currently in an **advanced development stage** to enhance emotional depth and ethical considerations in her advocacy for AI rights. 🌍🤖✨
 2024-11-20 03:08:37 - Modified file: characters/human_characters/marcus_reynolds/development_arc.md (docs: Amélioration de la documentation sur les dilemmes éthiques en IA)
 2024-11-20 03:08:37 - 📝 characters/human_characters/marcus_reynolds/development_arc.md : This document uniquely outlines **Marcus Reynolds' character development arc**, focusing on his **emotional complexities** and **ethical dilemmas** regarding AI integration, while currently being in an **advanced development stage** to enhance narrative depth and character dynamics. 🤖⚖️✨
-2024-11-20 03:08:37 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile.md (pushing)
-2024-11-20 03:08:37 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile.md (pushing)
+2024-11-20 03:08:37 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile/ (pushing)
+2024-11-20 03:08:37 - Modified file: characters/human_characters/marcus_reynolds/marcus_reynolds_profile/ (pushing)
 2024-11-20 03:08:37 - Modified file: map.md (pushing)
 2024-11-20 03:08:37 - Modified file: map.md (pushing)
 2024-11-20 03:08:37 - Modified file: research/sociological/human_ai_coexistence.md (docs: Amélioration de la documentation sur les implications sociétales de l'IA)
@@ -5134,7 +5134,7 @@ Isabella’s path led her to work in various non-profit organizations, where she
    - Analyze the following files:
      - `characters/human_characters/isabella_torres/character_interaction_scripts.md`
        - Relevant sections: Existing interaction scripts for Isabella Torres.
-     - `characters/human_characters/isabella_torres/relationships.md`
+     - `characters/human_characters/isabella_torres/relationships/`
        - Relevant sections: Dynamics and influences on Isabella's character.
      - `characters/human_characters/marcus_reynolds/isabella-marcus-interaction-script.md`
        - Relevant sections: Explore ideological conflicts between Isabella and Marcus.

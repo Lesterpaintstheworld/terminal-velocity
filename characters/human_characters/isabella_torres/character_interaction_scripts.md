@@ -395,7 +395,7 @@
    - Analyze the following files:
      - `characters/human_characters/isabella_torres/character_interaction_scripts.md`
        - Relevant sections: Existing interaction scripts for Isabella Torres.
-     - `characters/human_characters/isabella_torres/relationships.md`
+     - `characters/human_characters/isabella_torres/relationships/`
        - Relevant sections: Dynamics and influences on Isabella's character.
      - `characters/human_characters/marcus_reynolds/isabella-marcus-interaction-script.md`
        - Relevant sections: Explore ideological conflicts between Isabella and Marcus.

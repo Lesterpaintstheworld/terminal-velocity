@@ -1,2 +1,0 @@
-# Act 3 Crisis
-This section outlines the key conflicts and resolutions that arise in Act 3, focusing on the evolving dynamics between Isabella, Marcus, and other key characters. As tensions escalate, Isabella must navigate her advocacy for AI rights while addressing the ethical implications of rapid technological advancements. The crisis point occurs when Isabella confronts Marcus about the potential consequences of his policies on marginalized communities, leading to a pivotal debate that challenges their differing views on innovation and stability.
