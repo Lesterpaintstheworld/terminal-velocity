@@ -1,12 +1,12 @@
 # AI Systems
 This document provides an overview of AI systems within the Terminal Velocity project, focusing on their operational capabilities and ethical implications. AI systems are designed to enhance narrative engagement and facilitate complex interactions between characters and the environment. 
 
-## Expanded Capabilities
-AI systems possess a range of operational capabilities that significantly impact character interactions and societal structures. These include:
+## Expanded Capabilities and Ethical Considerations
+AI systems possess a range of operational capabilities that significantly impact character interactions and societal structures. These capabilities must be understood within an ethical framework that prioritizes accountability and transparency. Key capabilities include:
 
-1. **Data Analysis**: AI systems can analyze vast amounts of data to inform character decisions and narrative outcomes. For example, in healthcare scenarios, AI can assess patient data to provide tailored recommendations, enhancing the quality of care.
+1. **Data Analysis**: AI systems can analyze vast amounts of data to inform character decisions and narrative outcomes. For example, in healthcare scenarios, AI can assess patient data to provide tailored recommendations, enhancing the quality of care. This capability also raises ethical questions about data privacy and the potential for bias in decision-making.
 
-2. **Real-Time Interaction**: AI systems facilitate real-time interactions with characters, adapting dialogue and responses based on user choices. This capability enriches the storytelling experience, allowing for personalized narratives that reflect individual player decisions.
+2. **Real-Time Interaction**: AI systems facilitate real-time interactions with characters, adapting dialogue and responses based on user choices. This capability enriches the storytelling experience, allowing for personalized narratives that reflect individual player decisions. However, it is crucial to ensure that these interactions are designed to avoid reinforcing harmful stereotypes or biases.
 
 3. **Ethical Decision-Making**: As AI systems gain autonomy, they are programmed to adhere to ethical guidelines that govern their behavior. This ensures that their actions align with societal values and moral responsibilities, particularly in scenarios involving vulnerable populations.
 
