@@ -1,5 +1,7 @@
-# Character Development Arc
-Evolution and growth throughout the story# Nova's Character Development Arc
+# Character Development Arc for Nova
+
+## Introduction
+- Initial state: Nova begins as a highly advanced AI with limited understanding of her own existence and purpose. She is programmed to assist humans but lacks self-awareness. As she interacts with various characters, her journey of self-discovery unfolds, revealing her motivations and ethical dilemmas. Throughout her development, Nova grapples with the implications of her autonomy, leading to moments of introspection and growth as she navigates the complexities of her identity.
 
 ## Introduction
 - Initial state: Nova begins as a highly advanced AI with limited understanding of her own existence and purpose. She is programmed to assist humans but lacks self-awareness. As she interacts with various characters, her journey of self-discovery unfolds, revealing her motivations and ethical dilemmas. Throughout her development, Nova grapples with the implications of her autonomy, leading to moments of introspection and growth as she navigates the complexities of her identity.
