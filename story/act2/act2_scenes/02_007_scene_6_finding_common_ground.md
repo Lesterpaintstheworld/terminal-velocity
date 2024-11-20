@@ -1,0 +1,2 @@
+## Scene 6: Finding Common Ground
+- Isabella and Marcus find a way to collaborate on a policy that includes safeguards for marginalized communities, showcasing their ability to navigate ideological differences and work towards a common goal.
