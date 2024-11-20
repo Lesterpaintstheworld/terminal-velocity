@@ -1,0 +1,2 @@
+## Relationships
+His relationship with Isabella Torres is complex; they share a mutual respect but often clash over their differing views on the role of technology in society. Additionally, he has a mentor-mentee dynamic with some AI protagonists, which influences his decisions.
