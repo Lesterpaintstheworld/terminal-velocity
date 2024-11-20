@@ -23,7 +23,7 @@
 
 **Isabella**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Marcus**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Marcus**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
 ### Scene 4: Reflection
 *Setting: Marcus's office, late at night, reflecting on the day's discussions with Isabella.*
