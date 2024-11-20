@@ -3,15 +3,15 @@
 1. **Chapter 6: "Nouvelles Règles"**
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
-   - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system.
+   - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity.
 2. **Chapter 7: "Le Prix du Progrès"**
    - Introduce Pulse and his military past.
-   - Explore the ethical debates surrounding AI autonomy.
-   - Develop character arcs for Pulse and Marcus Reynolds.
+   - Explore the ethical debates surrounding AI autonomy, particularly in relation to marginalized communities.
+   - Develop character arcs for Pulse and Marcus Reynolds, highlighting their internal conflicts.
 3. **Chapter 8: "Alliances Fragiles"**
-   - Explore the collaboration between Isabella and Cipher.
-   - Highlight the tensions with Marcus Reynolds regarding security concerns.
-   - Develop character arcs for Isabella and Marcus as they confront their beliefs.
+   - Explore the collaboration between Isabella and Cipher, focusing on their shared goals and differing perspectives.
+   - Highlight the tensions with Marcus Reynolds regarding security concerns, showcasing the emotional stakes involved.
+   - Develop character arcs for Isabella and Marcus as they confront their beliefs, emphasizing the need for ethical considerations in their decisions.
 2. **Chapter 6: "Nouvelles Règles"**
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
