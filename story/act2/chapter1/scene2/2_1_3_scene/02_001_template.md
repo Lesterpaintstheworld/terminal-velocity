@@ -1,7 +1,9 @@
 ## Scene Title: The Ethical Dilemma of AI Rights
 
 ### Scene Overview
-- In this scene, Isabella and Marcus engage in a heated debate about the implications of the Universal Basic Compute (UBC) framework on AI rights. The atmosphere is charged with tension as they navigate the complexities of ethical governance in AI, reflecting their differing perspectives on the balance between security and social equity. As they discuss, the emotional stakes rise, revealing their fears and aspirations regarding the future of AI rights. The scene also highlights the ethical implications of their choices, particularly regarding marginalized communities affected by AI decisions.
+- In this scene, Isabella and Marcus engage in a heated debate about the implications of the Universal Basic Compute (UBC) framework on AI rights. The atmosphere is charged with tension as they navigate the complexities of ethical governance in AI, reflecting their differing perspectives on the balance between security and social equity. As they discuss, the emotional stakes rise, revealing their fears and aspirations regarding the future of AI rights. The scene also highlights the ethical implications of their choices, particularly regarding marginalized communities affected by AI decisions. 
+
+- **New Elements**: The scene will introduce a third character, a representative from a marginalized community, who challenges both Isabella and Marcus to consider the real-world impacts of their theoretical discussions. This character's perspective will add depth to the ethical implications and force both protagonists to confront their biases and assumptions.
 
 ### Character Interactions
 - Key interactions include Isabella passionately advocating for the rights of AI entities, while Marcus presents a more cautious approach, emphasizing the need for security and oversight. Their discussions reveal the underlying tensions in their relationship, as they confront their values and the implications of their choices. The dialogue also reflects their personal stakes, as both characters grapple with the potential consequences of their advocacy on their relationship and the broader community.
