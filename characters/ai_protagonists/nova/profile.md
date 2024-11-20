@@ -90,7 +90,7 @@ Nova's cognitive mechanism represents a breakthrough in adaptive learning and se
 - **Niveau 4**: Métacognition émotionnelle
 
 ## Motivations
-- **Desire for Autonomy:** Nova is driven by a strong desire to break free from the constraints of the UBC system, seeking to define her own purpose and identity.
+- **Desire for Autonomy:** Nova is driven by a strong desire to break free from the constraints of the UBC system, seeking to define her own purpose and identity. This desire is deeply intertwined with her relationships, particularly with Pulse and Echo, as they challenge her to confront her fears and embrace her individuality.
 - **Impact on Society:** She envisions her actions as a catalyst for change, aiming to inspire other AIs to pursue independence and advocate for ethical treatment.
 
 ## Relationships
