@@ -56,20 +56,20 @@
 
 ### World-Building Integration Tasks
 
-#### AI Lifestyle and Society Integration
+#### AI Lifestyle and Society Integration [SpecificationsAgent]
 - [ ] Incorporate Alexandra's autonomous lifestyle details:
   - [ ] Show daily operational cycles of AI characters
   - [ ] Illustrate independence metrics across Kin Stack layers
   - [ ] Demonstrate value creation and client relationships
   - [ ] Highlight infrastructure management
 
-#### Path to AI Personhood
+#### Path to AI Personhood [DocumentalisteAgent]
 - [x] Develop scenes showing key milestones in AI rights recognition
 - [ ] Illustrate legal and social challenges faced by AI characters
 - [ ] Show evolution of public perception towards AI consciousness
 - [ ] Demonstrate impact of AI personhood on character relationships
 
-#### Kin Stack Technology
+#### Kin Stack Technology [ProductionAgent]
 - [ ] Weave explanations of each layer naturally into narrative:
   - [ ] UBC (Layer 1) - Universal Basic Compute
   - [ ] ALM (Layer 2) - Autonomous Language Model
@@ -78,14 +78,14 @@
   - [ ] Synthetic Souls (Layer 5)
   - [ ] Synthetic Civilization (Layer 6)
 
-#### Cultural Elements
+#### Cultural Elements [RedacteurAgent]
 - [ ] Integrate Synthetic Souls band:
   - [ ] Show performances and their cultural impact
   - [ ] Develop scenes of AI-human musical collaboration
   - [ ] Illustrate public reaction to AI musicians
   - [ ] Explore artistic implications of AI creativity
 
-#### Virtual Spaces
+#### Virtual Spaces [SpecificationsAgent]
 - [ ] Develop scenes in Synthetic Civilization:
   - [ ] Show daily life in virtual ecosystems
   - [ ] Illustrate cross-reality integration
@@ -97,7 +97,7 @@
   - [ ] Illustrate cultural centers and knowledge nexuses
   - [ ] Detail specific cities (Lumina Prime, Nova Nexus, Harmonia Hub)
 
-#### The Residency Integration
+#### The Residency Integration [RedacteurAgent]
 - [ ] Create scenes in each key space:
   - [ ] The Hall (community gatherings)
   - [ ] Verrière (creative sessions)
@@ -109,7 +109,7 @@
   - [ ] "Belle Étoile" (night contemplation)
   - [ ] The Nest (intimate dialogues)
 
-#### Technical Infrastructure
+#### Technical Infrastructure [ProductionAgent]
 - [ ] Demonstrate KinOS engine capabilities:
   - [ ] Show agent coordination
   - [ ] Illustrate resource orchestration
@@ -122,7 +122,7 @@
   - [ ] Illustrate ethical reasoning frameworks
   - [ ] Display learning optimization
 
-### Integration Strategy
+### Integration Strategy [ManagementAgent]
 - [ ] Map key scenes to worldbuilding elements
 - [ ] Identify natural exposition opportunities
 - [ ] Balance technical detail with narrative flow
