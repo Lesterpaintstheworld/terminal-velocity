@@ -27,7 +27,7 @@
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. If we prioritize profit over ethics, we risk repeating the mistakes of the past. We must advocate for those who have no voice."
 
 ### Scene 2: Internal Conflict with Sarah Chen
 *Setting: A quiet café where Isabella and Sarah are discussing the implications of AI rights in economic policies.*
@@ -41,7 +41,7 @@
 ### Scene 3: Collaborative Strategy with Marcus Reynolds
 *Setting: A strategy meeting where Isabella and Marcus are discussing a new economic policy proposal.*
 
-**Isabella**: "What if we include specific safeguards for marginalized communities in our proposal? It could enhance our security narrative while promoting equity."
+**Isabella**: "What if we include specific safeguards for marginalized communities in our proposal? It could enhance our security narrative while promoting equity. I believe that by prioritizing these voices, we can create a more just economic landscape."
 
 **Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction. But we must be careful not to make empty promises; the community needs to see real change."
 
