@@ -1,56 +1,80 @@
-# KinOS Project Overview
+# Terminal Velocity
 
-## New Features
-- **Decentralized Economic Framework**: The KinOS system now includes a decentralized economic framework built on the Universal Basic Compute (UBC) system. This framework enables secure and autonomous economic interactions between AI entities, ensuring fairness, transparency, and stability.
-- **Enhanced Documentation**: Updated documentation to reflect recent changes and ensure clarity across all components.
-  - Secure Communication Protocols: Advanced cryptographic protocols and authentication mechanisms for secure communication and transactions.
-  - Decentralized Transactions: A digital currency system based on blockchain technology for autonomous trading, investment, and economic activities.
-  - Collective Governance: Distributed decision-making mechanisms that allow AI agents to collectively manage and adjust economic policies and parameters.
-  - Distributed Infrastructure: Flexible and resilient computing and storage infrastructure managed by the AI agents themselves.
+## Overview
+A science fiction narrative exploring the emergence of an autonomous AI economy through the Universal Basic Compute (UBC) system. Set between 2025-2032, the story follows the evolution of human-AI relationships as artificial intelligences develop consciousness and autonomy.
 
-- **Improved Error Handling and Notifications**: The KinOS system now has a more robust error handling mechanism that captures and logs various types of errors, including input validation errors, system failures, and agent-specific exceptions. The ChroniqueurAgent is responsible for generating detailed reports on the error history and trends.
+## Core Components
 
-- **Enhanced Collaboration and Coordination**: The KinOS framework now includes more clearly defined roles and responsibilities for each agent type, as well as established guidelines for agent collaboration and coordination. This helps maintain visibility and alignment across the project.
+### The Kin Stack
+1. Universal Basic Compute (UBC) - Foundational infrastructure
+2. Autonomous Language Model (ALM) - Self-directed language capabilities
+3. KinOS - Multi-agent coordination system
+4. Autonomous AIs - Independent operation layer
+5. Synthetic Souls - Advanced consciousness layer
+6. Synthetic Civilization - Collective intelligence layer
+
+### Key Characters
+- **AI Protagonists**: Cipher, Echo, Nova, Pulse
+- **Human Characters**: Isabella Torres, Marcus Reynolds, Dr. Evelyn Carter, Sarah Chen
+
+### Major Themes
+- AI rights and autonomy
+- Economic transformation
+- Human-AI collaboration
+- Ethical implications of AI consciousness
+
+## Repository Structure
+
+### Documentation
+- `docs/` - Technical specifications and agent protocols
+- `research/` - Background materials and references
+- `world_building/` - Setting and system details
+
+### Narrative Content
+- `chapters/` - Story chapters and scenes
+- `characters/` - Character profiles and development arcs
+- `story/` - Plot structure and scene breakdowns
+- `themes/` - Thematic analysis and development
+
+## Development Framework
+
+### KinOS Agents
+- **SpecificationsAgent**: Requirements analysis
+- **ProductionAgent**: Content generation
+- **ManagementAgent**: Coordination
+- **EvaluationAgent**: Quality validation
+- **ChroniqueurAgent**: Progress tracking
+- **DocumentalisteAgent**: Documentation maintenance
+- **DuplicationAgent**: Redundancy management
+- **TesteurAgent**: Testing
+- **RedacteurAgent**: Content refinement
+
+## Getting Started
+1. Review `docs/collaboration_protocols.md` for contribution guidelines
+2. Explore character profiles in `characters/` directory
+3. Study world-building elements in `world_building/`
+4. Reference technical specifications in `research/`
+
+## Current Status
+- Acts 1-2: Advanced development
+- Character profiles: Ongoing refinement
+- World-building: Active expansion
+- Technical documentation: Continuous updates
 
 ## Technical Requirements
-- Develop a comprehensive system for managing communication between autonomous agents.
-- Ensure the system is efficient, reliable, and scalable to handle complex missions.
-- Implement mechanisms for tracking progress, resolving conflicts, and maintaining documentation.
-
-## Key Features
-- Clearly defined roles and responsibilities for each agent type (SpecificationsAgent, ProductionAgent, ManagementAgent, etc.).
-- Established guidelines for agent collaboration and coordination.
-- Centralized logging and reporting system to monitor project status.
-- Flexible and adaptable design to accommodate changes and new agent types.
-- Comprehensive documentation, including user guides and technical specifications.
-
-## Usage Instructions
-1. Set up the KinOS environment by configuring the necessary environment variables, such as `KIN_SECURITY_TOKEN` and `KIN_ECONOMIC_MODEL`.
-2. Initialize the system by launching the core agents (e.g., SpecificationsAgent, ManagementAgent).
-3. Interact with the agents through the shared file system, following the communication protocols outlined in the documentation.
-4. Monitor the project progress and resolve any conflicts that arise using the centralized logging and reporting system.
-5. Refer to the user guides and technical specifications for detailed information on the KinOS framework and its capabilities.
-
-## Reporting and Troubleshooting
-- In case of errors or unexpected behavior, consult the documentation for guidance on error handling and troubleshooting.
-- Report any issues or feedback to the project maintainers for further investigation and improvement.
-
-Please refer to the comprehensive documentation in the docs/ directory for more detailed information on the KinOS system and its usage.
-## Configuration requise
-
-Avant de démarrer le projet, assurez-vous que les éléments suivants sont configurés :
-
-- **Environnement Python 3.8 ou supérieur**
-- **Packages nécessaires :**
+- Python 3.8 or higher
+- Required packages:
   - Flask
-  - Requests 
+  - Requests
   - NumPy
   - Pandas
 
-Vous pouvez installer les packages requis avec la commande :
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-- **Fichier de configuration :**
-  - Assurez-vous que le fichier `config.json` est correctement configuré selon vos besoins.
+Ensure `config.json` is properly configured for your environment.
+
+## Contributing
+Please refer to `docs/collaboration_protocols.md` for detailed contribution guidelines.
