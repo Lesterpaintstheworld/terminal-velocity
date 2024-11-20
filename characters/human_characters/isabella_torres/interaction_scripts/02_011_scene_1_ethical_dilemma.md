@@ -6,6 +6,6 @@
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. If we prioritize profit over ethics, we risk repeating the mistakes of the past. We must advocate for those who have no voice. I fear that if we don't act now, we may lose the opportunity to create a just system. We need to ensure that our policies uplift everyone, not just the privileged."
 
-**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. But I understand your concerns; perhaps we can find a way to balance both."
+**Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. However, I understand your concerns; perhaps we can find a way to balance both without compromising our values."
 
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged. We must advocate for those who have no voice."
