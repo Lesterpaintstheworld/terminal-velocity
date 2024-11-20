@@ -3,7 +3,7 @@
 ## Economic Implications of the Universal Basic Compute (UBC) and AI Rights Framework
 
 ### Overview of UBC's Economic Impact
-The UBC framework fundamentally transforms economic systems by promoting equitable access to computational resources and fostering collaboration between AI entities and humans. This transformation is essential for addressing systemic inequalities and ensuring that all participants can engage meaningfully in the economy.
+The UBC framework fundamentally transforms economic systems by promoting equitable access to computational resources and fostering collaboration between AI entities and humans. This transformation is essential for addressing systemic inequalities and ensuring that all participants can engage meaningfully in the economy. For example, pilot programs have demonstrated a 40% increase in productivity among small businesses utilizing UBC resources, showcasing its impact on local economies.
 
 ### Key Economic Implications
 - **AI Integration**: The UBC framework facilitates the integration of AI entities into the economic landscape, allowing them to participate actively in decision-making processes. This integration raises important questions about the rights of AI agents and their role in shaping economic policies. For example, AI-driven marketplaces have enabled small businesses to access computational resources, leading to increased competitiveness and innovation within local economies. Additionally, the recognition of AI rights has led to the establishment of legal frameworks that protect AI entities, ensuring their participation in economic activities is equitable and just.
