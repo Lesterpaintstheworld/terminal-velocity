@@ -26,6 +26,7 @@
 - Ensure character development is evident as the protagonist learns from mistakes and adapts, particularly in relation to their ethical responsibilities.
 - Highlight the emotional stakes involved in the characters' decisions.
 - Develop character arcs for Isabella and Marcus as they confront their beliefs, emphasizing the need for ethical considerations in their decisions and the impact on marginalized communities.
+- **Key Emotional Stakes**: The conflict between Isabella's desire for collaboration and Marcus's focus on security.
 1. **Chapter 6: "Nouvelles Règles"**
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
