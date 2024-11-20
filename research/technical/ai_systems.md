@@ -1,4 +1,4 @@
-# AI Systems
+## Overview of AI Systems within UBC Framework
 This document provides an overview of AI systems within the Terminal Velocity project, focusing on their operational capabilities and ethical implications. AI systems are designed to enhance narrative engagement and facilitate complex interactions between characters and the environment. 
 
 ## Expanded Capabilities and Ethical Considerations
