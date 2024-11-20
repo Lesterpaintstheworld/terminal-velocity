@@ -2176,6 +2176,8 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
+
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 
 ### Scene 2: Internal Conflict with Sarah Chen
