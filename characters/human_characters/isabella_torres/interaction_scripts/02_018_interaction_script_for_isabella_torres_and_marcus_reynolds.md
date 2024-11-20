@@ -3,7 +3,7 @@
 ### Scene 1: Ethical Dilemma - Expanded
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
 
-**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. We have a responsibility to ensure that our policies uplift everyone, not just the privileged."
+**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. We have a responsibility to ensure that our policies uplift everyone, not just the privileged. We need to advocate for a system that is equitable and just."
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards to protect those who might be left behind."
 
