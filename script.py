@@ -1,4 +1,5 @@
 import os
+import glob
 import shutil
 from pathlib import Path
 
@@ -173,10 +174,49 @@ def clean_pulse_files():
         with open(target_file, 'a', encoding='utf-8') as f:
             f.write("\n\n".join(content))
 
+def standardize_research_structure():
+    """Standardize the research directory structure"""
+    # Define standard research categories
+    research_categories = [
+        "economic/ubc_framework",
+        "technical/specifications", 
+        "sociological/implications",
+        "references"
+    ]
+    
+    # Create standard folders
+    for category in research_categories:
+        Path(f"research/{category}").mkdir(parents=True, exist_ok=True)
+        
+    # Consolidate UBC files
+    ubc_files = {
+        "economic/ubc_framework": [
+            "research/economic/ubc_economic_framework/*",
+            "research/economic/ubc_framework.md",
+            "research/economic/ubc_summary_review.md"
+        ],
+        "technical/specifications": [
+            "research/technical/ubc_technical_specifications.md",
+            "research/technical/ubc_framework.md",
+            "research/technical/ubc_details.md"
+        ]
+    }
+    
+    # Move files to appropriate folders
+    for target_dir, file_patterns in ubc_files.items():
+        for pattern in file_patterns:
+            for src_path in glob.glob(pattern):
+                if os.path.exists(src_path):
+                    filename = os.path.basename(src_path)
+                    dst_path = os.path.join(f"research/{target_dir}", filename)
+                    if not os.path.exists(dst_path):
+                        shutil.move(src_path, dst_path)
+
 def main():
-    print("Starting AI protagonist restructuring...")
+    print("Starting directory restructuring...")
     standardize_ai_protagonist_structure()
-    print("AI protagonist restructuring complete!")
+    standardize_research_structure()
+    print("Directory restructuring complete!")
 
 if __name__ == "__main__":
     main()
