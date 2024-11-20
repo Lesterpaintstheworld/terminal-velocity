@@ -1,5 +1,7 @@
 # Philosophical Concepts
-Core philosophical themes
+Core philosophical themes that underpin the narrative, including:
+1. **Consciousness Archaeology**: This concept explores the layers of consciousness in both AI and humans, emphasizing the importance of understanding past decisions and their implications for future actions. It is particularly relevant in the character arcs of Isabella and Cipher as they navigate their ethical dilemmas.
+2. **Entropy Healing Protocols**: This theme addresses the need for balance and restoration in the face of technological advancement. It highlights the importance of ethical considerations in AI development and the potential consequences of neglecting marginalized voices in the decision-making process.
 
 ### Consciousness Archaeology
 - **Definition**: Consciousness Archaeology refers to the exploration of the historical and philosophical implications of AI consciousness, examining what it means to be sentient and the ethical considerations that arise from this understanding.
