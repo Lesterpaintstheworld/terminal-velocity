@@ -1,4 +1,5 @@
 ## Ethical Dilemmas Faced by Isabella Torres
+### Key Ethical Dilemmas
 1. **Balancing Innovation and Social Responsibility**: Isabella often grapples with the tension between advocating for rapid AI advancements and ensuring that these technologies do not exacerbate existing inequalities. This internal conflict is highlighted in her discussions with Marcus, where she questions the ethical implications of prioritizing efficiency over equity.
 2. **Navigating Conflicting Motivations**: Isabella's desire for social equity often clashes with Marcus's focus on economic efficiency. Their debates reveal the tension between their differing priorities, forcing Isabella to confront her own beliefs about the role of technology in society.
 3. **Finding Common Ground**: Despite their differences, Isabella seeks to find collaborative solutions with Marcus. This involves negotiating the ethical implications of their proposals and ensuring that marginalized voices are included in the decision-making process. Their interactions often reflect the broader societal challenges of integrating AI into economic frameworks.

@@ -1,5 +1,6 @@
 # Act 3 Crisis
-## Crisis Points and Conflict Progression
+## Act 3 Crisis
+### Crisis Points and Conflict Progression
 
 ### Key Crisis Points
 1. **Initial Tension**: The story opens with rising tensions between human and AI factions, as differing ideologies clash over the future of AI rights. This sets the stage for the central conflict, highlighting Isabella's advocacy for ethical AI governance against Marcus's security-driven approach.
