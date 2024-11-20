@@ -796,7 +796,7 @@ Isabella's development is marked by her ability to:
 
 **Isabella**: "We have a responsibility to ensure that our policies uplift everyone, not just the privileged. If we ignore the marginalized, we are failing our society."
 
-**Marcus**: "And we need to protect our future. If we don't act decisively, we risk everything we've built."
+**Marcus**: "And we need to protect our future. If we don't act decisively, we risk everything we've built. But I see your point; we must find a way to include those voices."
 
 **Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
@@ -2452,7 +2452,7 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Marcus**: "And we need to protect our future. If we don't act ethically, we risk everything we've fought for."
 
-**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress."
+**Isabella**: "But at what cost? We can't sacrifice our values for the sake of progress. The consequences of neglecting these voices could be dire, and I refuse to let that happen."
 
 ### Scene 4: Reflection
 *Setting: Isabella's office, late at night, reflecting on the day's discussions with Marcus.*

@@ -13,7 +13,7 @@
 ### Scene 1: Initial Conflict
 *Setting: A conference room during a heated debate on AI policy.*
 
-**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind."
+**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I often feel torn between the urgency of progress and the responsibility to protect those who are vulnerable."
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I see your point about the need for safeguards to protect those who might be left behind."
 
