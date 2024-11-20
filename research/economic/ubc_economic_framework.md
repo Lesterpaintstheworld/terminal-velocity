@@ -4,6 +4,7 @@
 
 ### Economic Disparities
 - The recognition of AI rights has highlighted existing economic disparities, particularly in communities with limited access to AI resources. For instance, neighborhoods lacking AI integration have experienced a decline in local business growth, with studies showing a 20% decrease compared to those that embraced AI technologies. This disparity underscores the need for equitable access to AI resources to ensure that all communities can benefit from technological advancements.
+- **Example of Economic Impact**: In low-income neighborhoods, the introduction of AI-driven marketplaces has led to a 30% increase in local entrepreneurship, demonstrating how equitable access to AI resources can enhance economic stability and community resilience.
 
 ### Overview of UBC's Economic Impact and Addressing Disparities
 - **Community Economic Stability**: In communities where AI rights are recognized, there has been a notable increase in local entrepreneurship. For instance, a pilot program in a low-income neighborhood provided AI resources to aspiring business owners, resulting in a 30% increase in new startups within a year. This demonstrates how AI rights can directly influence economic stability and growth in marginalized areas. Additionally, the introduction of AI-driven marketplaces has empowered small businesses by providing access to computational resources and data analytics tools, resulting in increased competitiveness and innovation.
