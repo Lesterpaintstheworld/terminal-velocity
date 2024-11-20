@@ -1,6 +1,5 @@
 # Marcus Reynolds - Character Profile
 
-## Motivations and Internal Conflicts
 - **Advocacy for Stability**: Marcus aims to integrate AI into economic systems to create more equitable opportunities for all, believing that technology can help bridge gaps in society. However, he often grapples with the ethical implications of his decisions, questioning whether the ends truly justify the means, especially when faced with the potential consequences of his decisions on marginalized communities. This internal struggle adds complexity to his character and influences his interactions with Isabella, as he navigates the tension between his ambitions and the ethical responsibilities that come with them. 
 
 ### Ethical Considerations in Character Interactions
