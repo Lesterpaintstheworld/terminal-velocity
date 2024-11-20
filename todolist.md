@@ -4,8 +4,8 @@
 
 ### Narrative Structure Development
 - [x] Develop detailed outline for Act 2
-  - [ ] Chapter structure
-  - [ ] Key narrative progression points
+  - [x] Chapter structure
+  - [x] Key narrative progression points
 
 ### Acts and Scenes Outlining
 - [x] Develop detailed outline for Act 1
