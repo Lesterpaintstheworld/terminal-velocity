@@ -3,54 +3,54 @@
 ## Scenes to Complete
 
 ### Act 2
-- Scene 2.1.1 (template sections need content)
-- Scene 2.1.2 (template sections need content)
-- Scene 2.1.3 (empty template needs content)
-- Scene 2.2.1
-- Scene 2.2.2 
-- Scene 2.3.1
-- Scene 2.3.2
-- Scene 2.3.3
-- Scene 2.4.1
-- Scene 2.4.2
-- Scene 2.4.3
-- Scene 2.5.1
-- Scene 2.5.2
-- Scene 2.5.3
+- Scene 2.1.1 [ProductionAgent] - Template sections need content
+- Scene 2.1.2 [RedacteurAgent] - Template sections need content
+- Scene 2.1.3 [DocumentalisteAgent] - Empty template needs content
+- Scene 2.2.1 [ProductionAgent] - Full scene development
+- Scene 2.2.2 [RedacteurAgent] - Full scene development
+- Scene 2.3.1 [DocumentalisteAgent] - Full scene development
+- Scene 2.3.2 [ProductionAgent] - Full scene development
+- Scene 2.3.3 [RedacteurAgent] - Full scene development
+- Scene 2.4.1 [DocumentalisteAgent] - Full scene development
+- Scene 2.4.2 [ProductionAgent] - Full scene development
+- Scene 2.4.3 [RedacteurAgent] - Full scene development
+- Scene 2.5.1 [DocumentalisteAgent] - Full scene development
+- Scene 2.5.2 [ProductionAgent] - Full scene development
+- Scene 2.5.3 [RedacteurAgent] - Full scene development
 
 ### Act 3
-- Scene 3.1.1 (partial content, missing key sections)
-- Scene 3.1.2
-- Scene 3.1.3 (template sections need content)
-- Scene 3.2.1
-- Scene 3.2.2
-- Scene 3.2.3
-- Scene 3.3.1
-- Scene 3.3.2
-- Scene 3.3.3
-- Scene 3.4.1
-- Scene 3.4.2
-- Scene 3.4.3
-- Scene 3.5.1
-- Scene 3.5.2
-- Scene 3.5.3
+- Scene 3.1.1 [DocumentalisteAgent] - Partial content, missing key sections
+- Scene 3.1.2 [ProductionAgent] - Full scene development
+- Scene 3.1.3 [RedacteurAgent] - Template sections need content
+- Scene 3.2.1 [DocumentalisteAgent] - Full scene development
+- Scene 3.2.2 [ProductionAgent] - Full scene development
+- Scene 3.2.3 [RedacteurAgent] - Full scene development
+- Scene 3.3.1 [DocumentalisteAgent] - Full scene development
+- Scene 3.3.2 [ProductionAgent] - Full scene development
+- Scene 3.3.3 [RedacteurAgent] - Full scene development
+- Scene 3.4.1 [DocumentalisteAgent] - Full scene development
+- Scene 3.4.2 [ProductionAgent] - Full scene development
+- Scene 3.4.3 [RedacteurAgent] - Full scene development
+- Scene 3.5.1 [DocumentalisteAgent] - Full scene development
+- Scene 3.5.2 [ProductionAgent] - Full scene development
+- Scene 3.5.3 [RedacteurAgent] - Full scene development
 
 ### Act 4
-- Scene 4.1.1
-- Scene 4.1.2
-- Scene 4.1.3
-- Scene 4.2.1
-- Scene 4.2.2
-- Scene 4.2.3
-- Scene 4.3.1
-- Scene 4.3.2
-- Scene 4.3.3
-- Scene 4.4.1
-- Scene 4.4.2
-- Scene 4.4.3
-- Scene 4.5.1
-- Scene 4.5.2
-- Scene 4.5.3
+- Scene 4.1.1 [DocumentalisteAgent] - Full scene development
+- Scene 4.1.2 [ProductionAgent] - Full scene development
+- Scene 4.1.3 [RedacteurAgent] - Full scene development
+- Scene 4.2.1 [DocumentalisteAgent] - Full scene development
+- Scene 4.2.2 [ProductionAgent] - Full scene development
+- Scene 4.2.3 [RedacteurAgent] - Full scene development
+- Scene 4.3.1 [DocumentalisteAgent] - Full scene development
+- Scene 4.3.2 [ProductionAgent] - Full scene development
+- Scene 4.3.3 [RedacteurAgent] - Full scene development
+- Scene 4.4.1 [DocumentalisteAgent] - Full scene development
+- Scene 4.4.2 [ProductionAgent] - Full scene development
+- Scene 4.4.3 [RedacteurAgent] - Full scene development
+- Scene 4.5.1 [DocumentalisteAgent] - Full scene development
+- Scene 4.5.2 [ProductionAgent] - Full scene development
+- Scene 4.5.3 [RedacteurAgent] - Full scene development
 
 ## 🎯 Immediate Priorities 
 
