@@ -266,10 +266,9 @@ def standardize_worldbuilding_structure():
                     shutil.move(src_path, dst_path)
 
 def main():
-    print("Starting directory restructuring...")
-    standardize_research_structure()
+    print("Starting worldbuilding directory restructuring...")
     standardize_worldbuilding_structure()
-    print("Directory restructuring complete!")
+    print("Worldbuilding directory restructuring complete!")
 
 if __name__ == "__main__":
     main()
