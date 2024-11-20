@@ -3,7 +3,7 @@
 1. **Chapter 6: "Nouvelles Règles"**
    - Introduce the protocols for AI governance.
    - Explore the ethical implications of AI autonomy.
-   - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity and the importance of ethical considerations in AI governance.
+   - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity and the need for ethical considerations.
    - Establish the first pinch point to raise stakes and remind the audience of the antagonist's influence on the characters' decisions.
    - **Key Narrative Progression**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities.
 2. **Chapter 7: "Le Prix du Progrès"**
