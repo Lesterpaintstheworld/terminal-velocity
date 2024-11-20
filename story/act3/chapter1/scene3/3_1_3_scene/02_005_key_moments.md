@@ -11,7 +11,7 @@
 
    3. **Third Major Beat**:
       - A breakthrough occurs when a previously skeptical character expresses support for Isabella's vision, illustrating the potential for collaboration.
-      - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices.
+      - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices, emphasizing the need for collaboration in addressing the complexities of their society.
    - [Detail point]
    - [Detail point]
 

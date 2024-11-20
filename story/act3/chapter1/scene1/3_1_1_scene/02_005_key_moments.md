@@ -8,7 +8,7 @@
    - The gathering takes a dramatic turn as news of a violent protest against AI rights reaches "The Hall," forcing characters to confront the real-world implications of their discussions. Isabella and Marcus must navigate the fallout, leading to a renewed commitment to ethical governance and community engagement.
 
 3. **Third Major Beat**
-   - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices.
+      - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices, emphasizing the need for collaboration in addressing the complexities of their society.
    - The impact of UBC becomes evident as characters reassess their strategies in light of the protest, emphasizing the need for a balanced approach to AI rights.
    - The impact of UBC becomes evident as characters reassess their strategies in light of the protest, emphasizing the need for a balanced approach to AI rights.
    - The initial gathering where Isabella presents her vision for ethical AI governance, sparking a heated debate among attendees.
