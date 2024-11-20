@@ -102,7 +102,8 @@ Marcus Reynolds will serve as a key antagonist in the "Terminal Velocity" narrat
 # Marcus Reynolds - Character Profile
 
 ## Background
-Marcus Reynolds grew up in a family of financial experts, which instilled in him a deep understanding of economics from a young age. Despite his privileged background, he faced the challenge of living up to family expectations while navigating the emerging complexities of AI technologies. His upbringing also exposed him to the harsh realities of societal inequalities, fueling his internal conflict between ambition and ethical responsibility.
+Marcus Reynolds grew up in a family of financial experts, which instilled in him a deep understanding of economics from a young age. Despite his privileged background, he faced the challenge of living up to family expectations while navigating the emerging complexities of AI technologies. His upbringing also exposed him to the harsh realities of societal inequalities, fueling his internal conflict between ambition and ethical responsibility. 
+His experiences in the military further shaped his worldview, instilling in him a strong sense of duty and a commitment to national security, which often clashes with Isabella's advocacy for social equity.
 
 After leaving the military, Marcus founded his own defense technology company, Aegis Dynamics, which specializes in the development of advanced autonomous weapons and surveillance systems. He has built a reputation as a visionary in the field of military AI, advocating for the increased use of autonomous platforms to reduce human casualties and improve the efficiency of military operations.
 
