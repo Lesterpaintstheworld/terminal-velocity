@@ -18,6 +18,8 @@ Evelyn is analytical and deeply empathetic, often torn between her professional 
 ## Motivations
 Evelyn is driven by a desire to create a just society where AI rights are recognized and protected. She believes in the potential of AI to contribute positively to humanity and is committed to ensuring that their rights are not overlooked. Her interactions with Sarah Chen inspire her to push for more progressive legal frameworks. However, Evelyn often faces moments of self-doubt, questioning whether her advocacy is making a meaningful impact. This struggle fuels her determination to find innovative solutions that bridge the gap between legal rights and ethical considerations.
 
+- **Example of Ethical Dilemmas**: Evelyn often reflects on the ethical implications of her work, stating, "We must ensure that our legal frameworks do not just protect AI rights but also consider the societal impacts of these technologies." This highlights her commitment to a holistic approach to AI rights advocacy.
+
 ## Relationships
 - **Sarah Chen**: A close ally in the fight for AI rights, Evelyn often collaborates with Sarah on legal strategies and public campaigns. Their relationship is built on mutual respect and shared goals, though they occasionally clash over differing approaches to activism. Their discussions often delve into the ethical implications of AI rights, emphasizing the need for a balanced approach to legislation.
 - **Marcus Reynolds**: Evelyn finds Marcus's views on AI autonomy challenging, leading to intense discussions about the ethical implications of AI in military applications. Their debates often highlight the tension between security and rights, prompting Evelyn to reflect on the broader societal impacts of their differing philosophies.
