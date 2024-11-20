@@ -29,3 +29,4 @@
    - Highlight the midpoint where a significant revelation changes the direction of the story.
    - Detail the rising action with obstacles that test the protagonist's skills and knowledge.
    - Ensure character development is evident as the protagonist learns from mistakes and adapts.
+   - Highlight the emotional stakes involved in the characters' decisions.
