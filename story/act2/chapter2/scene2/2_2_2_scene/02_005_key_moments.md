@@ -1,0 +1,3 @@
+- **Key Moment 1**: Isabella passionately argues for the rights of AI entities, stating, "We cannot ignore the voices of those who are often silenced. AI rights are human rights." This moment underscores her commitment to social equity.
+- **Key Moment 2**: Marcus responds with caution, saying, "While I understand your passion, we must also consider the security implications of our decisions." This highlights the tension between their differing priorities.
+- **Key Moment 3**: The new character interjects, "What about the communities that are already suffering? We need to ensure that our discussions include their voices." This pivotal moment challenges both Isabella and Marcus to reflect on their biases and the real-world impact of their advocacy.
