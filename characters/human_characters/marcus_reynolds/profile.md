@@ -1,7 +1,7 @@
 # Marcus Reynolds - Character Profile
 
 ## Relationships and Emotional Dynamics in AI Policy
-- **Isabella Torres**: Their relationship is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." 
+- **Isabella Torres**: Their relationship is complex; they often clash over their differing views on the role of technology in society. For example, during a public debate, Isabella challenges Marcus's stance on AI autonomy, arguing that it could exacerbate inequalities. In a heated exchange, she states, "If we prioritize profit over ethics, we risk repeating the mistakes of the past." This dynamic forces Marcus to confront the ethical implications of his decisions, adding depth to their interactions and challenging him to refine his arguments in light of Isabella's advocacy for social equity.
 - **Key Moments**: 
 - **Collaborative Policy Development**: Despite their differences, they find common ground when discussing policies that could benefit marginalized communities, leading to collaborative proposals that reflect both their perspectives. A notable moment occurs when they agree to co-author a policy that includes safeguards for vulnerable populations, demonstrating their ability to bridge ideological divides.
 - **Confronting Ethical Dilemmas**: Their ongoing debates force Marcus to confront the ethical implications of his decisions, adding depth to their interactions and challenging him to refine his arguments in light of Isabella's advocacy for social equity.
