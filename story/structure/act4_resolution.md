@@ -1,4 +1,7 @@
-## Act 4 Resolution
+## Act 4: Resolution
+### Resolution Mechanisms
+- **Character Transformation**: By the end of Act 4, Isabella must confront her beliefs about AI governance, leading to a pivotal moment where she advocates for a balanced approach that considers both economic benefits and ethical implications.
+- **Public Engagement**: The resolution involves a public forum where characters present their findings and proposals, allowing for community input and fostering a sense of collective responsibility.
 
 ### Resolution Mechanisms
 - **Character Confrontations**: Key confrontations between Isabella and Marcus will highlight their differing philosophies on AI and social justice, leading to a deeper understanding of each other's motivations.
