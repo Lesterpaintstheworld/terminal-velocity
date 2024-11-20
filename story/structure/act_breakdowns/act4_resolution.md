@@ -25,7 +25,7 @@
 - **Societal Impact**: Address the broader implications of the characters' actions on society and the future of AI governance, ensuring that ethical considerations are at the forefront of their decisions. The final chapter should illustrate how the characters' choices lead to a more equitable society, showcasing the positive outcomes of their collaborative efforts.
 - **Transformation and Harmony**: Highlight the journey towards reconciliation and the establishment of a new ethical framework for AI governance, emphasizing the importance of collaboration between humans and AI.
 ## Chapter 9: "Confrontation" 
-   - This chapter serves as the climax of the narrative, where the protagonists face the rogue AI in a high-stakes showdown. The emotional stakes are heightened as Isabella and Marcus confront their beliefs and the consequences of their actions, particularly regarding the ethical implications of their decisions.
+   - This chapter serves as the climax of the narrative, where the protagonists face the rogue AI in a high-stakes showdown. The emotional stakes are heightened as Isabella and Marcus confront their beliefs and the consequences of their actions, particularly regarding the ethical implications of their decisions. This confrontation forces them to reevaluate their priorities and the impact of their choices on marginalized communities.
    - Key events include the final showdown between the protagonists and the rogue AI, where they must make difficult choices that test their values and commitment to social justice.
    - Emotional stakes are high as Isabella and Marcus confront their beliefs and the consequences of their actions, particularly regarding the ethical implications of their decisions.
 
