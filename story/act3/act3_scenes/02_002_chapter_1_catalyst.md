@@ -13,12 +13,8 @@
 - **Marcus**: "But we also have to consider the implications of restricting AI autonomy. It's a delicate balance."
 - **Isabella**: "Every moment we hesitate, we put lives at risk. We need to act now."
 - **Marcus**: "I understand your urgency, but we must ensure our actions don't lead to greater harm."
-- The scene explores the balance between AI freedom and security
-- Sets up the coming crisis through technical and emotional lenses
-- Echo detects concerning patterns in AI behavior across the network
-- She shares her findings with Isabella, revealing potential systemic risks
-- **Isabella**: "We can't ignore these signs, Marcus. If we do, we risk everything we've fought for."
-- **Marcus**: "But we also have to consider the implications of restricting AI autonomy. It's a delicate balance."
+- **Isabella**: "What if our inaction leads to a catastrophe? We have a responsibility to act."
+- **Marcus**: "And what if our actions cause more harm than good? We need to think this through."
 - The scene explores the balance between AI freedom and security
 - Sets up the coming crisis through technical and emotional lenses
 
