@@ -3,7 +3,7 @@
 ## Scenes to Complete
 
 ### Act 2
-- Scene 2.1.1 [ProductionAgent] - Completed with narrative details and ethical implications added
+- Scene 2.1.1 [ProductionAgent] - Completed with narrative details, ethical implications, and character dynamics added
 - Scene 2.1.2 [RedacteurAgent] - Completed with narrative details, emotional beats, and ethical implications added
 - Scene 2.1.3 [DocumentalisteAgent] - Completed with narrative details, ethical implications, and character dynamics added
 - Scene 2.2.1 [ProductionAgent] - Full scene development

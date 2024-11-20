@@ -7,7 +7,7 @@
 - Key interactions include Isabella and Marcus debating the ethical implications of UBC, while Cipher provides insights into the potential benefits for marginalized communities. Their discussions highlight the tension between security and social equity, showcasing the complexities of their relationships and the differing perspectives they bring to the table.
 
 ### Ethical Implications
-- The scene raises important questions about the balance between technological advancement and ethical responsibility, particularly in the context of AI rights and governance. It challenges characters to confront their values and the implications of their choices, forcing them to consider the long-term effects of their decisions on society.
+- The scene raises important questions about the balance between technological advancement and ethical responsibility, particularly in the context of AI rights and governance. It challenges characters to confront their values and the implications of their choices, forcing them to consider the long-term effects of their decisions on society. The aftermath of the protest amplifies these concerns, as Isabella and Marcus grapple with the community's expectations and their own moral compasses.
 
 ### Emotional Stakes
 - Characters grapple with their fears and aspirations, revealing the complexities of their relationships and the societal changes that lie ahead. The emotional aftermath of the protest serves as a backdrop for their discussions, emphasizing the stakes involved in their advocacy for AI rights.

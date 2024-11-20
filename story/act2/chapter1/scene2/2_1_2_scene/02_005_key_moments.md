@@ -10,7 +10,7 @@
    - The discussion becomes heated, revealing the deep-seated fears and hopes of the community regarding AI integration.
 
 3. **Third Major Beat**
-   - A pivotal moment occurs when a young activist challenges both Isabella and Marcus to consider the voices of marginalized groups in their proposals.
+   - A pivotal moment occurs when a young activist challenges both Isabella and Marcus to consider the voices of marginalized groups in their proposals, emphasizing the urgency of inclusive decision-making. This challenge resonates deeply with both characters, forcing them to reassess their positions and the implications of their advocacy.
    - The scene culminates in a call for unity, as both characters realize the importance of collaboration in addressing the ethical dilemmas posed by AI.
    - The emotional stakes are heightened as the community begins to rally around the idea of inclusive decision-making, emphasizing the urgency of their collective voice in shaping AI policies. 
 
