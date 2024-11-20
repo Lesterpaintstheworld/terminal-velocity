@@ -3,6 +3,9 @@
 ## 🎯 Priorités Immédiates
 
 ### Développement des Structures Narratives
+- [ ] Développer l'outline détaillé de l'Acte 2
+  - [ ] Structure des chapitres
+  - [ ] Points de progression narrative clés
 
 ### Outlining des Actes et Scènes
 - [ ] Développer l'outline détaillé de l'Acte 1
