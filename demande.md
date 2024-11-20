@@ -17,6 +17,7 @@
 
 - **Observations**:
   - Interactions between Isabella and Marcus sometimes lack emotional depth and dramatic tension regarding economic frameworks and character interactions.
+  - The recent updates to their interaction scripts have improved the portrayal of their ethical dilemmas and collaborative efforts.
   - Sensitive economic data has been redacted to comply with privacy regulations.
   - [REDACTED]
   - Duplications and inconsistencies exist in character profiles, leading to inconsistencies in their development.

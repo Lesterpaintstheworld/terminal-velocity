@@ -14,12 +14,14 @@
 
 **Sarah**: "Absolutely. Our voices need to be united to ensure that ethical considerations are prioritized in any economic framework."
 
-### Scene 3: Ethical Confrontation
+### Scene 3: Ethical Dilemma
 *Setting: A private meeting room where Isabella and Marcus are discussing their differing views on AI governance.*
 
 **Isabella**: "Marcus, we can't ignore the fact that our decisions impact real lives. If we prioritize security over ethical considerations, we risk alienating those who need our support the most."
 
 **Marcus**: "I understand your perspective, but we must also consider the broader implications of our policies. If we don't ensure national security, we could face dire consequences that affect everyone."
+
+**Isabella**: "But what about the ethical implications? We have a responsibility to ensure that our policies do not harm those who are already vulnerable."
 
 ### Scene 4: Collaborative Resolution
 *Setting: A community event where both are addressing the public.*
