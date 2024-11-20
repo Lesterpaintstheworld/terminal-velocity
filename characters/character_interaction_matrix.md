@@ -46,6 +46,8 @@ This matrix outlines the key interactions, motivations, and conflicts between Is
 | Marcus Reynolds     | Cipher              | Ideological Clash        | Security vs. Autonomy               | Navigating ethical implications       |
 | Isabella Torres     | Sarah Chen          | Finding Common Ground    | Inclusivity in AI Policies          | Ensuring equitable access            |
 | Marcus Reynolds     | Sarah Chen          | Tension Peaks            | Economic Efficiency vs. Social Justice | Protecting vulnerable populations     |
+| Isabella Torres     | Marcus Reynolds     | Conflict Resolution       | Ethical Dilemmas                    | Navigating personal stakes           |
+| Cipher              | Isabella Torres     | Collaborative Efforts     | AI Rights Advocacy                  | Balancing innovation with ethics     |
 
 ## Detailed Interactions
 1. **Isabella and Marcus**: Their ongoing debates force both characters to confront the ethical implications of their decisions, adding depth to their interactions and challenging them to refine their arguments in light of each other's advocacy for social equity.
