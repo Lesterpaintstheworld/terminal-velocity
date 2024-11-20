@@ -1,0 +1,1 @@
+Marcus' motivations stem from a deep-seated desire to protect his country and its citizens. He believes that developing advanced autonomous systems is essential for maintaining a strong military and ensuring national security in a complex and volatile world. This drive to innovate and push technological boundaries fuels his ambition and shapes his decision-making.
