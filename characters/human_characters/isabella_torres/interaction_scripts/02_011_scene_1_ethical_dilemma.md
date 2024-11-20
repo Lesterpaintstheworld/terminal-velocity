@@ -8,4 +8,4 @@
 
 **Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. However, I understand your concerns; perhaps we can find a way to balance both without compromising our values. It's a challenge, but one we must face together. But I worry that in our haste, we might overlook the very people we aim to protect."
 
-**Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged. We must advocate for those who have no voice. Our future depends on it."
+**Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged. We must advocate for those who have no voice. Our future depends on it. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
