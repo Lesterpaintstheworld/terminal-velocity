@@ -145,61 +145,703 @@ Le projet est en phase avancée de développement, avec des progrès significati
 
 # Nouveaux logs
 
-2024-11-20 23:03:24 - SUCCESS - ✨ Suivi de mission résumé avec succès
-2024-11-20 23:03:24 - SUCCESS - Modified file: characters/human_characters/isabella_torres/interactions/02_007_ethical_dilemmas_faced_by_isabella_torres.md (docs: Améliore la structure des fichiers Markdown.)
-2024-11-20 23:03:27 - SUCCESS - L'agent 📝 redaction modifie les beats émotionnels pour approfondir l'engagement des personnages durant la crise dans le fichier `02_006_emotional_beats.md`.
-2024-11-20 23:03:47 - SUCCESS - 📝 characters/human_characters/isabella_torres/interactions/02_012_scene_2_collaborative_moment.md : This document serves as a **dynamic narrative exploration** of **collaborative decision-making** between characters, emphasizing **ethical considerations** in policy proposals for **marginalized communities**, and is currently reflecting an **advanced stage** in character development and societal discourse. 🤝✨
-2024-11-20 23:03:47 - SUCCESS - Modified file: characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md (fix: Corrige le bloc SEARCH/REPLACE pour le profil d'Isabella Torres.)
-2024-11-20 23:03:47 - SUCCESS - Modified file: research/redaction_report.md (feat: Amélioration des échanges émotionnels dans la scène 5.)
-2024-11-20 23:03:47 - SUCCESS - Modified file: story/act2/act2_scenes/02_002_scene_1_ciphers_proposal.md (fix: Amélioration de la dynamique narrative et des interactions des personnages.)
-2024-11-20 23:03:47 - SUCCESS - Modified file: story/act2/act2_scenes/02_006_scene_5_tension_with_marcus.md (fix: Corrige le bloc SEARCH/REPLACE pour correspondre au contenu.)
-2024-11-20 23:03:47 - SUCCESS - Modified file: story/act3/act3_timeline.md (refactor: Clarify crisis points and enhance character profiles.)
-2024-11-20 23:03:47 - SUCCESS - Modified file: world_building/cultural/locations/physical_locations.md (feat: Enhance AI character descriptions and societal impacts.)
-2024-11-20 23:03:50 - SUCCESS - L'agent 📝 specification développe des scènes illustrant les jalons de la reconnaissance des droits des IA dans le récit, en intégrant des considérations éthiques.
-2024-11-20 23:03:54 - SUCCESS - Modified file: characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md (refactor: Clarify crisis points and enhance character profiles.)
-2024-11-20 23:03:54 - SUCCESS - Modified file: characters/human_characters/isabella_torres/interactions/02_007_ethical_dilemmas_faced_by_isabella_torres.md (docs: Améliore la structure des fichiers Markdown.)
-2024-11-20 23:03:54 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/profile/02_002_key_moments.md (fix: Corrige le bloc de recherche/remplacement pour Marcus Reynolds.)
-2024-11-20 23:03:54 - WARNING - ⚠️ Duplicate section 'Historical Context and Key Figures' detected - removing duplicate content
-2024-11-20 23:03:54 - WARNING - ⚠️ Duplicate section 'Key Achievements and Challenges in the AI Rights Movement' detected - removing duplicate content
-2024-11-20 23:03:54 - WARNING - ⚠️ Duplicate section 'Key Figures' detected - removing duplicate content
-2024-11-20 23:03:56 - SUCCESS - Split research/sociological/ai_rights_movement.md into 12 sections in research/sociological/ai_rights_movement/
-2024-11-20 23:03:56 - SUCCESS - 🔄 Split research/sociological/ai_rights_movement.md into sections
-2024-11-20 23:03:56 - SUCCESS - Modified file: story/act2/act2_scenes/02_006_scene_5_tension_with_marcus.md (fix: Corrige le bloc SEARCH/REPLACE pour correspondre au contenu.)
-2024-11-20 23:03:56 - SUCCESS - Modified file: story/act3/act3_timeline.md (refactor: Clarify crisis points and enhance character profiles.)
-2024-11-20 23:03:56 - SUCCESS - Modified file: world_building/cultural/locations/physical_locations.md (feat: Enhance AI character descriptions and societal impacts.)
-2024-11-20 23:04:05 - SUCCESS - 📝 characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md : This character profile uniquely emphasizes **Isabella Torres' internal conflicts** and **ethical dilemmas** in advocating for **AI rights** and **social equity**, reflecting an **advanced stage** in character development and narrative depth. 🤝✨
-2024-11-20 23:04:05 - SUCCESS - Modified file: characters/human_characters/isabella_torres/interactions/02_007_ethical_dilemmas_faced_by_isabella_torres.md (docs: Améliore la structure des fichiers Markdown.)
-2024-11-20 23:04:05 - SUCCESS - Modified file: characters/human_characters/isabella_torres/interactions/02_012_scene_2_collaborative_moment.md (fix: Amélioration de la dynamique narrative et des interactions des personnages.)
-2024-11-20 23:04:17 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/profile/02_002_key_moments.md (fix: Corrige le bloc de recherche/remplacement pour Marcus Reynolds.)
-2024-11-20 23:04:19 - SUCCESS - L'agent 📝 management développe des scènes illustrant le mode de vie autonome d'Alexandra pour intégrer ses cycles opérationnels dans la narration.
-2024-11-20 23:04:19 - WARNING - ⚠️ Found file 'story/act3/act3_crisis.md' that has same name as folder - will be removed
-2024-11-20 23:04:19 - SUCCESS - 🗑️ Removed duplicate file: .\story\act3\act3_crisis.md
-2024-11-20 23:04:25 - SUCCESS - 📝 research/sociological/ai_rights_movement/02_002_historical_context_and_key_figures.md : This document serves as a **historical analysis** of the **AI rights movement**, uniquely focusing on **key figures and societal impacts**, and is currently in a **refined state** to enhance its role in understanding the evolution of **human-AI relationships** and ethical considerations. 📜🤖✨
-2024-11-20 23:04:25 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_004_key_achievements_and_challenges_in_the_ai_rights_movement.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:25 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_006_milestones_and_societal_impacts.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:25 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_007_historical_overview.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:25 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_008_key_phases.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:26 - SUCCESS - L'agent 🔴 redondance élimine les sections dupliquées dans le profil de Marcus Reynolds pour assurer une narration fluide. 🗂️✨
-2024-11-20 23:04:28 - SUCCESS - 📝 characters/human_characters/isabella_torres/interactions/02_013_scene_3_climactic_confrontation.md : This document serves as a **dynamic narrative exploration** of **ethical tensions** between key characters, uniquely emphasizing their **conflicting ideologies** and the **moral implications** of their decisions, currently reflecting an **advanced stage** in character development and societal discourse. 🤝✨
-2024-11-20 23:04:48 - SUCCESS - 📝 research/sociological/ai_rights_movement/02_010_core_principles.md : This document serves as a **foundational framework** for articulating the **ethical principles** guiding AI rights, distinguishing itself by synthesizing **legal recognition** and **cultural considerations**, and is currently in a **refined state** to enhance its role in the evolving narrative of **human-AI relationships**. 🤖⚖️✨
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_011_major_achievements.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_012_challenges_and_opposition.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_013_impact_on_society.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_014_legacy_and_future_directions.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_015_documentation_and_archives.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_016_research_initiatives.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:48 - SUCCESS - Modified file: story/act3/chapter1/scene1/3_1_1_scene/02_002_setting.md (feat: Ajouter des exemples de routines quotidiennes des personnages IA.)
-2024-11-20 23:04:48 - ERROR - Error loading context map: [Errno 13] Permission denied: 'story/act3/act3_crisis/README/'
-2024-11-20 23:04:48 - ERROR - Aider operation failed: [Errno 13] Permission denied: 'story/act3/act3_crisis/README/'
-2024-11-20 23:04:48 - ERROR - Error in agent cycle: [Errno 13] Permission denied: 'story/act3/act3_crisis/README/'
-2024-11-20 23:04:48 - ERROR - Agent task failed: [Errno 13] Permission denied: 'story/act3/act3_crisis/README/'
-2024-11-20 23:04:51 - SUCCESS - 📝 characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md : This document serves as a **character profile** that uniquely emphasizes **Isabella Torres' advocacy for AI rights** and **social equity**, reflecting an **advanced stage** in her character development and the narrative's exploration of ethical dilemmas in **human-AI relationships**. 🤝✨
-2024-11-20 23:04:51 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/profile/02_002_key_moments.md (fix: Corrige le bloc de recherche/remplacement pour Marcus Reynolds.)
-2024-11-20 23:04:51 - SUCCESS - Modified file: research/redaction_report.md (feat: Amélioration des échanges émotionnels dans la scène 5.)
-2024-11-20 23:04:51 - SUCCESS - Modified file: story/act2/act2_scenes/02_002_scene_1_ciphers_proposal.md (fix: Amélioration de la dynamique narrative et des interactions des personnages.)
-2024-11-20 23:04:51 - SUCCESS - Modified file: story/act2/act2_scenes/02_006_scene_5_tension_with_marcus.md (fix: Corrige le bloc SEARCH/REPLACE pour correspondre au contenu.)
-2024-11-20 23:04:58 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_002_historical_context_and_key_figures.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:04:58 - SUCCESS - Modified file: research/sociological/ai_rights_movement/02_004_key_achievements_and_challenges_in_the_ai_rights_movement.md (♻️ Split research/sociological/ai_rights_movement.md into sections for better management)
-2024-11-20 23:05:09 - SUCCESS - L'agent 🧭 management 📝 intègre des explications sur le système de Universal Basic Compute (UBC) dans la narration pour assurer une fluidité contextuelle 🌐 dans `story/act3/chapter1/scene1/3_1_1_scene/02_004_scene_summary.md` et `world_building/technical/context/technological_context/02_002_overview_of_technological_context_in_human-ai_integration.md`.
-2024-11-20 23:05:16 - SUCCESS - 📝 story/act3/act3_timeline.md : This document serves as a **strategic framework** for identifying **crisis points** and **conflict progression** in Act 3, uniquely emphasizing the **character dynamics** and **ethical dilemmas** faced by key figures, and is currently in a **refined state** to enhance **narrative clarity** and **emotional engagement**. 📈🤝✨
-2024-11-20 23:05:23 - SUCCESS - 📝 research/sociological/ai_rights_movement/02_006_milestones_and_societal_impacts.md : This document serves as a **historical analysis** of the **AI rights movement**, uniquely focusing on **key milestones** and their **societal impacts**, currently reflecting an **advanced state** that enhances understanding of the evolving **ethical landscape** in **human-AI relationships**. 📜🤖✨
+2024-11-20 23:06:30 - SUCCESS - ✨ Suivi de mission résumé avec succès
+2024-11-20 23:06:31 - SUCCESS - 📝 characters/human_characters/isabella_torres/profile/02_006_background.md : This document serves as a **unique character background profile** that specifically contextualizes **Isabella Torres' motivations and experiences** within the narrative, currently reflecting an **advanced stage** in her character development and ethical advocacy efforts. 🤝✨
+2024-11-20 23:06:31 - SUCCESS - 📝 characters/human_characters/isabella_torres/profile/02_006_background.md : This document serves as a **unique character background profile** that specifically contextualizes **Isabella Torres' motivations and experiences** within the narrative, currently reflecting an **advanced stage** in her character development and ethical advocacy efforts. 🤝✨
+2024-11-20 23:06:39 - SUCCESS - 📝 characters/human_characters/isabella_torres/profile/02_009_relationships.md : This document serves as a **focused relational analysis** that uniquely contextualizes **Isabella Torres' interactions** with other characters, emphasizing the **nuances of her relationships** and their impact on the narrative, currently reflecting an **advanced stage** in character development. 🤝✨
+2024-11-20 23:06:44 - SUCCESS - 📝 research/sociological/ai_rights_movement/02_016_research_initiatives.md : This document serves as a **centralized repository** for tracking **research initiatives** related to AI rights, uniquely focusing on **cross-disciplinary studies** that inform the project's ethical framework, and is currently in a **refined state** for enhanced clarity and organization. 📜🤖✨
+2024-11-20 23:06:44 - SUCCESS - Modified file: story/act3/chapter1/scene1/3_1_1_scene/02_002_setting.md (feat: Ajouter des exemples de routines quotidiennes des personnages IA.)
+2024-11-20 23:06:58 - SUCCESS - L'agent 🏭 production modifie le fichier `story/structure/act_breakdowns/act3_crisis/README/` pour inclure des points de crise détaillés et la progression du conflit.
+2024-11-20 23:06:58 - WARNING - ⚠️ Found file 'story/structure/act_breakdowns/act3_crisis/README.md' that has same name as folder - will be removed
+2024-11-20 23:06:58 - SUCCESS - 🗑️ Removed duplicate file: .\story\structure\act_breakdowns\act3_crisis\README.md
+2024-11-20 23:07:02 - SUCCESS - 📝 characters/human_characters/marcus_reynolds/interactions/02_012_scene_2_collaborative_moment.md : This document serves as a **dynamic narrative exploration** of **collaborative decision-making** between characters, uniquely emphasizing **ethical considerations** in policy proposals for **marginalized communities**, and is currently reflecting an **advanced stage** in character development and societal discourse. 🤝✨
+2024-11-20 23:07:02 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/interactions/marcus_interaction_script.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/interactions/marcus_isabella_interaction_script.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: characters/human_characters/marcus_reynolds/profile/02_011_relationships.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: map.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act1/chapter2/scene1/2_1_1_scene/02_006_emotional_beats.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/act3_crisis/02_003_key_developments.md (refactor: Clarify crisis points and conflict progression in Act 3.)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/act3_scenes.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/act3_timeline.md (refactor: Clarify crisis points and conflict progression in Act 3.)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/02_004_scene_summary.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/02_004_scene_summary.md (for adding new scenes) (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/02_005_key_moments.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/02_005_key_moments.md (for key milestones) (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/3_1_1_scene/02_002_setting.md (feat: Ajouter des exemples de routines quotidiennes des personnages IA.)
+2024-11-20 23:07:03 - SUCCESS - Modified file: story/act3/chapter1/scene1/3_1_1_scene/02_009_scene_impact.md (restructuring)
+2024-11-20 23:07:03 - SUCCESS - Modified file: suivi.md (restructuring)
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Target Changes' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:03 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Target Changes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Experiences' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Impact on the Story' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Evolution' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Evolution' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Interaction Strategies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Target Changes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Goals' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations and Goals' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Dynamics and Character Growth' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Dynamics and Character Growth' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Dynamics and Character Growth' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Dynamics and Character Growth' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Marcus Reynolds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Artistic Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Enhanced Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Enhanced Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Scenes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Development Arc' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background Information' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Evolution' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Connections and Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Scenes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Military Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Scenes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivation' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Development' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Resolution' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Interaction Strategies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Objective for chroniqueur Agent' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Target Changes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ethical Dilemmas Faced by Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Interaction Script for Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Interaction Script for Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Interaction Script for Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Interaction Script for Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Interaction Scripts' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Interaction Script for Isabella Torres and Marcus Reynolds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Action Statement' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Source Files' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Target Changes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Operation Bounds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Initial Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Backstory' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Vision of Human-AI Collaboration and Ethical Concerns' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Profile for Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Objective for Duplication Agent' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Goals' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Internal Conflicts' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships with Key Characters' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Scenes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Journey' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Marcus Reynolds - Character Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Core Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Goals' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Challenges' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations and Internal Conflicts' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Role in the Story' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personality Traits' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Validation Points' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Economic Interaction Strategies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Identified Gaps in Relationship Dynamics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Proposed Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationship with Isabella Torres' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Scenes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Initial Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Legal Expertise' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Initial Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Character Development Arc' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Journey Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Milestones' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Journey' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Internal Conflicts' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Legal Expertise' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Development Arc' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Marcus Reynolds' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Pulse' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Development Arc' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relationships' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Development Arc' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Relations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Scene Ideas' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Personal History' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Motivations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Legal Expertise' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Thematic Significance' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Connections to Main Narrative' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Philosophical Implications' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Military Background' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Psychological Profile' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Implications' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Models' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Recommendations for Enhancements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Governance Mechanisms' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Functioning of UBC' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Societal Impact' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction to UBC' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'New Economic Models' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Future Projections' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction to UBC' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'New Economic Models' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Impact on Traditional Economics' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Societal Implications' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Future Projections' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Case Studies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Conclusion' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Conclusion' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Historical Context and Key Figures' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Achievements and Challenges in the AI Rights Movement' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Figures' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview of AI Systems within UBC Framework' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Examples of AI Functionalities' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Implications' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ethical Considerations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Resource Allocation' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Interaction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Governance Mechanisms' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Models' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview of Ethical Implications of AI Autonomy in Terminal Velocity' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Case Studies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Resource Allocation' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Economic Interaction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Governance Mechanisms' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Public Perception' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Overview of Ethical Considerations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Definition of AI Autonomy' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Arguments for AI Rights' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Arguments Against AI Rights' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ethical Considerations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Case Studies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Societal Impact' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Technologies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Societal Impact' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ethical Considerations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Future Projections' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Technologies' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Societal Impact' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Ethical Considerations' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Future Projections' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Technical Capabilities' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Introduction' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Resolution' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Dialogue' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Dialogue' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Dialogue' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:04 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Setting' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Characters Present' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Summary' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Key Moments' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Emotional Beats' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Technical Elements' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Dialogue Highlights' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Scene Impact' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Synopsis' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Personnages Principaux' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Points de Tension' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes Techniques' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ambiance et Style' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Notes de Production' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Impact sur les Relations' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Implications Futures' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Overview of Ethical Implications of AI Autonomy in Terminal Velocity' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Cultural Narratives of Human-AI Integration and Tensions' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Overview of Economic Systems and AI Integration with UBC Framework' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Overview of Economic Systems and AI Integration with UBC Framework' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Overview of Economic Systems and AI Integration with UBC Framework' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Role of UBC in Economic Interactions' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Societal Impacts' detected - removing duplicate content
+2024-11-20 23:07:05 - WARNING - ⚠️ Duplicate section 'Ethical Debates' detected - removing duplicate content
+2024-11-20 23:07:11 - SUCCESS - Modified file: characters/ai_protagonists/alexandra/profile.md ()

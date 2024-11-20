@@ -1,0 +1,3 @@
+## Initial Relationships
+- **Pulse**: A fellow AI who serves as both a mentor and a source of conflict for Nova. Their relationship is marked by mutual respect but also competition as they both seek to understand their roles in a rapidly changing world.
+- **Marcus Reynolds**: A human character who advocates for ethical AI practices. Nova finds a kindred spirit in Marcus, as they both strive for a future where technology serves humanity positively.

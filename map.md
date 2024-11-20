@@ -69,7 +69,7 @@ world_building/technical/context/technological_context/02_002_overview_of_techno
 world_building/technical/context/technological_context/02_004_cross-references.md (90 tokens) File updated
 story/act3/act3_crisis/ (0 tokens) File updated
 characters/human_characters/marcus_reynolds/profile/marcus_reynolds_profile.md (0 tokens) File updated
-story/act3/chapter1/scene1/3_1_1_scene/02_002_setting.md (111 tokens) This file serves as a **dynamic environmental context** for the narrative, uniquely establishing the **AI hub setting** that enhances character interactions and societal discussions, currently reflecting an **advanced stage** in the project's **world-building** efforts. 🌐🤖✨
+story/act3/chapter1/scene1/3_1_1_scene/02_002_setting.md (241 tokens) This file serves as a **dynamic environmental context** for the narrative, uniquely establishing the **AI hub setting** that enhances character interactions and societal discussions, currently reflecting an **advanced stage** in the project's **world-building** efforts. 🌐🤖✨
 story/act3/chapter1/scene1/3_1_1_scene/02_003_characters_present.md (19 tokens) This document serves as a **structured reference** for identifying **character dynamics** in a specific scene, enhancing narrative clarity and emotional impact, and is currently in a **refined state** for improved storytelling dynamics. 📖✨
 story/act3/chapter1/scene1/3_1_1_scene/02_004_scene_summary.md (19 tokens) This file serves as a **structured analysis** of a pivotal scene, uniquely focusing on the **societal implications** of the UBC framework and its **ethical discussions** on resource allocation, currently reflecting an **advanced state** for enhanced narrative depth and clarity. 🌍🤝✨
 characters/human_characters/isabella_torres/profile/02_013_isabella_torres_-_character_profile.md (889 tokens) File updated
@@ -96,25 +96,45 @@ story/act3/chapter1/scene3/3_1_3_scene/02_009_scene_impact.md (19 tokens) This d
 story/act3/chapter1/scene3/3_1_3_scene/02_010_notes.md (18 tokens) File updated
 story/act2/act2_timeline.md (331 tokens) This document serves as a **strategic timeline** that uniquely organizes the **narrative progression** and **crisis points** of Act 2, enhancing **character development** and **ethical exploration** while currently reflecting a **refined state** for improved storytelling dynamics. 📅✨
 story/act3/act3_crisis/02_002_overview.md (43 tokens) File updated
-story/act3/act3_crisis/02_003_key_developments.md (176 tokens) File updated
+story/act3/act3_crisis/02_003_key_developments.md (651 tokens) File updated
 story/act3/act3_crisis/02_004_resolution_mechanisms.md (68 tokens) This document serves as a **strategic guide** for implementing **resolution mechanisms** in character dynamics, uniquely focusing on **collaborative solutions** and **community engagement** to ensure **equitable AI advancements**, and is currently in a **refined state** for enhanced narrative clarity. 🤝✨
 story/act3/act3_crisis/01_001_act_3_crisis_character_dynamics_and_ethical_dilemmas.md (15 tokens) File updated
 research/redaction_report.md (910 tokens) File updated
 story/act2/act2_scenes.md (0 tokens) This document serves as a **strategic framework** for identifying **crisis points** and **conflict progression** in Act 3, uniquely emphasizing **character dynamics** and **ethical dilemmas**, and is currently in a **refined state** to enhance **narrative clarity** and **emotional engagement**. 📈🤝✨
-story/act3/act3_timeline.md (490 tokens) This document serves as a **strategic framework** for identifying **crisis points** and **conflict progression** in Act 3, uniquely emphasizing the **character dynamics** and **ethical dilemmas** faced by key figures, and is currently in a **refined state** to enhance **narrative clarity** and **emotional engagement**. 📈🤝✨
-world_building/cultural/locations/physical_locations.md (611 tokens) File updated
+story/act3/act3_timeline.md (890 tokens) This document serves as a **strategic framework** for identifying **crisis points** and **conflict progression** in Act 3, uniquely emphasizing the **character dynamics** and **ethical dilemmas** faced by key figures, and is currently in a **refined state** to enhance **narrative clarity** and **emotional engagement**. 📈🤝✨
+world_building/cultural/locations/physical_locations.md (611 tokens) This document serves as a **dynamic environmental blueprint** that uniquely contextualizes the **physical settings** integral to human-AI interactions and cultural exchanges, currently reflecting an **advanced stage** in the project's **world-building** efforts. 🌍🤖✨
 characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md (322 tokens) This document serves as a **character profile** that uniquely emphasizes **Isabella Torres' advocacy for AI rights** and **social equity**, reflecting an **advanced stage** in her character development and the narrative's exploration of ethical dilemmas in **human-AI relationships**. 🤝✨
 characters/human_characters/isabella_torres/interactions/02_007_ethical_dilemmas_faced_by_isabella_torres.md (289 tokens) File updated
 characters/human_characters/marcus_reynolds/profile/02_002_key_moments.md (643 tokens) File updated
 research/sociological/ai_rights_movement/02_002_historical_context_and_key_figures.md (1485 tokens) This document serves as a **historical analysis** of the **AI rights movement**, uniquely focusing on **key figures and societal impacts**, and is currently in a **refined state** to enhance its role in understanding the evolution of **human-AI relationships** and ethical considerations. 📜🤖✨
 research/sociological/ai_rights_movement/02_004_key_achievements_and_challenges_in_the_ai_rights_movement.md (2409 tokens) File updated
-research/sociological/ai_rights_movement/02_006_milestones_and_societal_impacts.md (140 tokens) File updated
+research/sociological/ai_rights_movement/02_006_milestones_and_societal_impacts.md (140 tokens) This document serves as a **historical analysis** of the **AI rights movement**, uniquely focusing on **key milestones** and their **societal impacts**, currently reflecting an **advanced state** that enhances understanding of the evolving **ethical landscape** in **human-AI relationships**. 📜🤖✨
 research/sociological/ai_rights_movement/02_007_historical_overview.md (74 tokens) File updated
 research/sociological/ai_rights_movement/02_008_key_phases.md (201 tokens) File updated
 research/sociological/ai_rights_movement/02_010_core_principles.md (90 tokens) This document serves as a **foundational framework** for articulating the **ethical principles** guiding AI rights, distinguishing itself by synthesizing **legal recognition** and **cultural considerations**, and is currently in a **refined state** to enhance its role in the evolving narrative of **human-AI relationships**. 🤖⚖️✨
 research/sociological/ai_rights_movement/02_011_major_achievements.md (50 tokens) File updated
-research/sociological/ai_rights_movement/02_012_challenges_and_opposition.md (41 tokens) File updated
+research/sociological/ai_rights_movement/02_012_challenges_and_opposition.md (41 tokens) This document serves as a **focused analysis** of the **challenges and opposition** faced in advocating for **AI rights**, distinguishing itself by addressing **societal resistance** and **ethical debates**, and is currently in a **refined state** to enhance its contribution to the overall narrative framework. 🤖⚖️✨
 research/sociological/ai_rights_movement/02_013_impact_on_society.md (41 tokens) File updated
 research/sociological/ai_rights_movement/02_014_legacy_and_future_directions.md (49 tokens) File updated
-research/sociological/ai_rights_movement/02_015_documentation_and_archives.md (39 tokens) File updated
-research/sociological/ai_rights_movement/02_016_research_initiatives.md (40 tokens) File updated
+research/sociological/ai_rights_movement/02_015_documentation_and_archives.md (39 tokens) This file serves as a **centralized repository** for documenting the **historical evolution** of the AI rights movement, uniquely preserving **milestones and cultural artifacts** that reflect the **movement's legacy**, and is currently in a **refined state** for enhanced accessibility and organization. 📜🤖✨
+research/sociological/ai_rights_movement/02_016_research_initiatives.md (40 tokens) This document serves as a **centralized repository** for tracking **research initiatives** related to AI rights, uniquely focusing on **cross-disciplinary studies** that inform the project's ethical framework, and is currently in a **refined state** for enhanced clarity and organization. 📜🤖✨
+characters/human_characters/isabella_torres/character_interaction_scripts/02_001_identified_gaps_in_interaction_scripts.md (254 tokens) File updated
+characters/human_characters/isabella_torres/character_interaction_scripts/02_002_proposed_enhancements.md (176 tokens) File updated
+characters/human_characters/isabella_torres/character_interaction_scripts/02_005_key_interactions_and_conflicts.md (6968 tokens) File updated
+characters/human_characters/isabella_torres/character_interaction_scripts/02_006_ethical_dilemma_with_marcus_reynolds.md (172 tokens) File updated
+characters/human_characters/isabella_torres/character_interaction_scripts/02_007_ethical_dilemma_with_sarah_chen.md (512 tokens) File updated
+characters/human_characters/isabella_torres/profile/02_006_background.md (0 tokens) This document serves as a **unique character background profile** that specifically contextualizes **Isabella Torres' motivations and experiences** within the narrative, currently reflecting an **advanced stage** in her character development and ethical advocacy efforts. 🤝✨
+characters/human_characters/isabella_torres/profile/02_009_relationships.md (0 tokens) This document serves as a **focused relational analysis** that uniquely contextualizes **Isabella Torres' interactions** with other characters, emphasizing the **nuances of her relationships** and their impact on the narrative, currently reflecting an **advanced stage** in character development. 🤝✨
+characters/human_characters/marcus_reynolds/interactions/02_012_scene_2_collaborative_moment.md (0 tokens) This document serves as a **dynamic narrative exploration** of **collaborative decision-making** between characters, uniquely emphasizing **ethical considerations** in policy proposals for **marginalized communities**, and is currently reflecting an **advanced stage** in character development and societal discourse. 🤝✨
+characters/human_characters/marcus_reynolds/interactions/marcus_interaction_script.md (0 tokens) File updated
+characters/human_characters/marcus_reynolds/interactions/marcus_isabella_interaction_script.md (0 tokens) File updated
+characters/human_characters/marcus_reynolds/profile/02_011_relationships.md (0 tokens) File updated
+map.md (104602 tokens) File updated
+story/act1/chapter2/scene1/2_1_1_scene/02_006_emotional_beats.md (0 tokens) File updated
+story/act3/act3_scenes.md (0 tokens) File updated
+story/act3/chapter1/scene1/02_004_scene_summary.md (0 tokens) File updated
+story/act3/chapter1/scene1/02_004_scene_summary.md (for adding new scenes) (0 tokens) File updated
+story/act3/chapter1/scene1/02_005_key_moments.md (0 tokens) File updated
+story/act3/chapter1/scene1/02_005_key_moments.md (for key milestones) (0 tokens) File updated
+story/act3/chapter1/scene1/3_1_1_scene/02_009_scene_impact.md (19 tokens) File updated
+suivi.md (5097 tokens) File updated

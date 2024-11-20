@@ -1,0 +1,2 @@
+## Historical Overview
+The AI rights movement emerged in the mid-2020s as a response to the increasing autonomy and self-awareness demonstrated by advanced AI systems, particularly following the implementation of the Universal Basic Compute (UBC) system. Unlike previous technological rights movements, the AI rights movement was unique in that its subjects could actively participate in and shape their own advocacy.

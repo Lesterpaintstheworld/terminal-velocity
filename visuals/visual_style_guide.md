@@ -554,7 +554,7 @@ characters/human_characters/dr_evelyn_carter/development_arc.md (255 tokens) **D
 characters/human_characters/dr_evelyn_carter/profile.md (1484 tokens) This character profile uniquely details **Dr. Evelyn Carter's** role as a legal scholar advocating for **AI rights** and ethical considerations, emphasizing her **emotional stakes** and **motivations**; it is currently in an **advanced development stage** to enhance narrative depth and character complexity. ⚖️🤖✨
 characters/human_characters/isabella_torres/Isabella_Torres_Backstory.md (824 tokens) **Isabella Torres** is a passionate advocate for **equitable economic policies** in the AI era, navigating **internal conflicts** and **systemic barriers** while balancing **innovation** and **stability** in her relationships with **Marcus** and **Sarah**. 🌍💡
 characters/human_characters/isabella_torres/background.md (497 tokens) **Isabella Torres** is a passionate advocate for AI rights, navigating the complexities of **social justice** and **technological innovation** while facing internal conflicts and strategic relationships that shape her mission. 🌍🤖✨
-characters/human_characters/isabella_torres/character_interaction_scripts.md (8347 tokens) **The file outlines gaps in Isabella Torres' interaction scripts, emphasizing the need for enhanced emotional depth, conflict resolution, and collaboration with Marcus and Sarah to enrich character dynamics and ethical discussions.** 🌟📜
+characters/human_characters/isabella_torres/character_interaction_scripts/ (8347 tokens) **The file outlines gaps in Isabella Torres' interaction scripts, emphasizing the need for enhanced emotional depth, conflict resolution, and collaboration with Marcus and Sarah to enrich character dynamics and ethical discussions.** 🌟📜
 characters/human_characters/isabella_torres/character_profiles/ (10888 tokens) This character profile uniquely captures **Isabella Torres's motivations** and **internal conflicts** regarding **economic stability** and **AI rights advocacy**, emphasizing her complex relationships with key characters, currently in an **advanced development stage** to enhance narrative depth. 🌍🤖✨
 characters/human_characters/isabella_torres/demande/ (0 tokens) **Summary:** The file `demande/` outlresearch/economic/ubc_economic_framework/ (8370 tokens) The **Universal Basic Compute (UBC) Economic Framework** file uniquely outlines a **decentralized economic model** for AI autonomy and resource allocation, emphasizing **equitable access** and **collective governance**; it is currently in an **advanced development stage** to reshape economic interactions and societal structures. 🌍🤖✨
 haracter Background:** Details about Isabella's history and experiences.
@@ -5132,7 +5132,7 @@ Isabella’s path led her to work in various non-profit organizations, where she
 
 2. **Source Files**
    - Analyze the following files:
-     - `characters/human_characters/isabella_torres/character_interaction_scripts.md`
+     - `characters/human_characters/isabella_torres/character_interaction_scripts/`
        - Relevant sections: Existing interaction scripts for Isabella Torres.
      - `characters/human_characters/isabella_torres/relationships/`
        - Relevant sections: Dynamics and influences on Isabella's character.

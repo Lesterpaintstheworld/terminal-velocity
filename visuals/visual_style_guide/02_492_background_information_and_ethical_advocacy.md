@@ -1,0 +1,2 @@
+## Background Information and Ethical Advocacy
+- Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs. 

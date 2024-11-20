@@ -1,0 +1,13 @@
+## File: config.json
+```
+{
+  "version": "1.0.0",
+  "author": "KinOS Project Team",
+  "settings": {
+    "logLevel": "info",
+    "maxConcurrentTasks": 10,
+    "cacheExpiration": 3600
+  }
+}
+
+```
