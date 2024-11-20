@@ -1,5 +1,5 @@
 ## Emotional Beats
-- Isabella: Struggles with the weight of her advocacy, feeling torn between her desire for rapid AI advancements and the need for social equity. Her internal conflict intensifies as she faces the consequences of her decisions, leading to moments of self-doubt and reflection on her role in shaping AI ethics, particularly regarding marginalized communities.
+- Isabella: Struggles with the weight of her advocacy, feeling torn between her desire for rapid AI advancements and the need for social equity. Her internal conflict intensifies as she faces the consequences of her decisions, leading to moments of self-doubt and reflection on her role in shaping AI ethics, particularly regarding marginalized communities. The aftermath of the protest amplifies her feelings of responsibility, as she questions whether her push for innovation might have contributed to the unrest.
 
 - Marcus: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations.
 
