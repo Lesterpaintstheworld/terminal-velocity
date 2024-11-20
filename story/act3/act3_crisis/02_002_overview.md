@@ -1,6 +1,6 @@
 ## Key Crisis Points and Conflict Progression
 
-### Key Crisis Points
+### Key Crisis Points and Main Conflict Progression
 
 ### Crisis Points and Main Conflict Progression
 
