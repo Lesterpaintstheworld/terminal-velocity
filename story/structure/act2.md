@@ -5,8 +5,8 @@
    - Explore the ethical implications of AI autonomy.
    - Develop character arcs for Isabella and Sarah as they navigate the challenges of the new system, emphasizing their commitment to social equity and the need for ethical considerations.
    - Establish the first pinch point to raise stakes and remind the audience of the antagonist's influence on the characters' decisions.
-   - **Key Narrative Progression**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities, particularly in her discussions with Marcus. Their ongoing debates force Isabella to confront the ethical implications of her decisions, adding depth to her character and highlighting the emotional stakes involved in her advocacy.
-   - **Key Emotional Stakes**: Isabella's struggle to balance her advocacy for social equity with the demands of AI governance, particularly in her discussions with Marcus.
+   - **Key Narrative Progression**: Isabella's internal conflict is highlighted as she grapples with the implications of AI governance on marginalized communities, particularly in her discussions with Marcus. Their ongoing debates force Isabella to confront the ethical implications of her decisions, adding depth to her character and highlighting the emotional stakes involved in her advocacy. Additionally, the emotional stakes are heightened as she reflects on the potential consequences of AI policies on vulnerable populations.
+   - **Key Emotional Stakes**: Isabella's struggle to balance her advocacy for social equity with the demands of AI governance, particularly in her discussions with Marcus. Additionally, the emotional stakes are heightened as she reflects on the potential consequences of AI policies on vulnerable populations.
    - **Chapter 7: "Le Prix du Progrès"**
    - Introduce Pulse and his military past.
    - Explore the ethical debates surrounding AI autonomy, particularly in relation to marginalized communities.
