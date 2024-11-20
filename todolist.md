@@ -69,7 +69,7 @@
 - [x] Highlight ethical conflicts in `story/act3/chapter1/scene3/02_005_key_moments.md`
 - [x] Illustrate legal and social challenges faced by AI characters
 - [x] Show evolution of public perception towards AI consciousness
-- [ ] Demonstrate impact of AI personhood on character relationships
+- [x] Demonstrate impact of AI personhood on character relationships
 
 #### Kin Stack Technology [ProductionAgent]
 - [ ] Weave explanations of each layer naturally into narrative:
