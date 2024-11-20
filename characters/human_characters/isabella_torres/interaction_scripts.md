@@ -193,7 +193,7 @@
 
 **Marcus**: "I understand your concerns, but we must also consider the broader implications of our decisions. If we prioritize profit over ethics, we risk leaving vulnerable communities behind."
 
-**Isabella**: "Exactly! We have a responsibility to ensure that our policies uplift everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress."
+**Isabella**: "Exactly! We have a responsibility to ensure that our policies uplift everyone, not just the privileged. If we ignore these issues now, we may face a backlash that could undermine our progress. We must advocate for those who have no voice."
 
 **Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy."
 
