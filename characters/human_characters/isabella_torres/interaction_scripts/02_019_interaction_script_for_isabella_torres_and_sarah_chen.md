@@ -5,7 +5,7 @@
 
 **Isabella**: "Sarah, I feel torn between pushing for rapid AI advancements and ensuring we don't leave anyone behind. How do we advocate for progress while considering the ethical implications?"
 
-**Sarah**: "It's a delicate balance, Isabella. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face. We cannot afford to overlook the voices of those who will be impacted by these decisions."
+**Sarah**: "It's a delicate balance, Isabella. We must ensure that our policies reflect our commitment to social justice, especially in light of the challenges we face."
 
 ### Scene 2: Ethical Considerations
 *Setting: A legal conference where both are presenting their views on AI rights.*
@@ -17,6 +17,6 @@
 ### Scene 3: Reflecting on Challenges
 *Setting: A quiet café after a long day of meetings.*
 
-**Isabella**: "Sometimes I question if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people?"
+**Isabella**: "Sometimes I question if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of the people? It's a tough question, but I believe that with our combined efforts, we can create a framework that addresses both security and social equity."
 
 **Sarah**: "It's a tough question, but I believe that with our combined efforts, we can create a framework that addresses both security and social equity."
