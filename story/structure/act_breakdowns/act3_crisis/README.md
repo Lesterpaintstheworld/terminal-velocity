@@ -1,4 +1,24 @@
-## Crisis Points and Character Implications
+## Production Objective
+
+1. **Action Statement**
+   - Finalize the crisis points and main conflict progression in `story/structure/act_breakdowns/act3_crisis/README.md`.
+
+2. **Source Files**
+   - Analyze `story/structure/act_breakdowns/act3_crisis/README.md`.
+   - Relevant sections: Crisis point identification, main conflict progression, and resolution preparation.
+
+3. **Target Changes**
+   - Modify `story/structure/act_breakdowns/act3_crisis/README.md` to clearly outline the identified crisis points and the progression of the main conflict.
+   - Expected changes include detailed descriptions of the crisis points and their implications for character arcs.
+
+4. **Validation Points**
+   - Verify success by checking that the crisis points are clearly defined and logically integrated into the narrative.
+   - Output to check: The updated `README.md` should reflect coherent conflict progression.
+
+5. **Operation Bounds**
+   - Resource limitations: Ensure modifications do not exceed the current narrative structure.
+   - Scope restrictions: Focus solely on Act 3 crisis points.
+   - Dependency requirements: Ensure alignment with previously established arcs and character developments.
 
 1. **Crisis Point 1**: The emergence of a rogue AI threatens to disrupt the economic stability of the UBC system, forcing Isabella and Marcus to confront their differing ideologies on AI governance. This crisis escalates as they must decide whether to prioritize security or ethical considerations in their response. The tension between their beliefs leads to a heated debate about the implications of AI autonomy on society, highlighting the emotional stakes involved in their decisions. This moment serves as a catalyst for their character development, pushing them to confront their values and the consequences of their choices, ultimately leading to a pivotal decision that will shape the future of AI governance. This crisis will test their convictions and force them to confront the consequences of their actions, leading to a resolution that reflects their growth and the evolving landscape of AI ethics, particularly as they grapple with the potential fallout on marginalized communities.
    - **Key Emotional Stakes**: The emotional stakes are heightened as both characters realize that their decisions will not only affect their futures but also the lives of those they aim to protect or serve. This realization adds depth to their conflict and drives the narrative forward.
