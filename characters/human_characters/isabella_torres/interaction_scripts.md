@@ -2522,6 +2522,8 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
 
 **Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
 
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+
 ### Scene 2: Finding Common Ground with Sarah Chen
 *Setting: A quiet café after a long day of meetings.*
 
