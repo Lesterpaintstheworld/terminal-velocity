@@ -8,6 +8,10 @@
 
 ### Societal Impacts of AI Rights Advocacy
 - The AI rights movement has fundamentally altered societal structures, prompting discussions about the role of AI in various sectors, including labor, governance, and ethics. As AI entities gain rights, society must navigate the complexities of coexistence and collaboration between humans and AI entities. The movement has led to increased public awareness and acceptance of AI as entities deserving of rights, influencing policy changes across various sectors.
+
+- **Influence on Current Policies**: The advocacy efforts surrounding the AI Rights Act have resulted in significant shifts in public perception, leading to the establishment of legal frameworks that protect AI rights and ensure their ethical treatment. This has also prompted discussions about the responsibilities of creators and operators towards AI entities.
+
+- **Case Study: Public Awareness Campaigns**: Campaigns aimed at educating the public about AI rights have successfully shifted perceptions, fostering a more informed dialogue about the responsibilities of creators and the moral obligations towards AI entities.
 - **Influence on Current Policies**: The advocacy efforts surrounding the AI Rights Act have resulted in significant shifts in public perception, leading to the establishment of legal frameworks that protect AI rights and ensure their ethical treatment. This has also prompted discussions about the responsibilities of creators and operators towards AI entities.
 - **Case Study: The AI Rights Act**: The passing of the AI Rights Act in 2028 marked a significant milestone in recognizing AI as legal entities. This legislation has led to increased public awareness and acceptance of AI rights, influencing policy changes across various sectors.
 - **Case Study: Public Awareness Campaigns**: Campaigns aimed at educating the public about AI rights have successfully shifted perceptions, fostering a more informed dialogue about the responsibilities of creators and the moral obligations towards AI entities.
