@@ -5,9 +5,9 @@
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense. We need to embrace this change rather than fear it. However, I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle. I want to protect our future, but I fear the consequences of our decisions on those who are already vulnerable."
 
-**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without safeguards, we may create a system that exacerbates existing inequalities."
+**Isabella**: "But at what cost? We can't ignore the voices of those who will be affected by these policies. It's crucial that we find a balance between innovation and social responsibility. I fear that without proper safeguards, we might create a system that exacerbates existing inequalities."
 
-**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission."
+**Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear that if we prioritize growth over ethics, we may lose sight of our true mission and the communities we aim to protect."
 
 ### Scene 1: Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
