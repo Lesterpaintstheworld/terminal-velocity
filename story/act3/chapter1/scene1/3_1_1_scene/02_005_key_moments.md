@@ -1,15 +1,13 @@
 ## Key Moments
 1. **First Major Beat**
-   - [Detail point]
-   - [Detail point]
-   - [Detail point]
+   - The initial gathering where Isabella presents her vision for ethical AI governance, sparking a heated debate among attendees.
+   - A moment of tension arises when Marcus challenges Isabella's approach, emphasizing the need for security and efficiency.
+   - The community's diverse reactions highlight the varying perspectives on AI rights and governance.
 
 2. **Second Major Beat**
-   - [Detail point]
-   - [Detail point]
-   - [Detail point]
+   - A breakthrough occurs when a previously skeptical character expresses support for Isabella's vision, illustrating the potential for collaboration.
+   - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices.
 
 3. **Third Major Beat**
-   - [Detail point]
-   - [Detail point]
-   - [Detail point]
+   - The gathering takes a dramatic turn as news of a violent protest against AI rights reaches "The Hall," forcing characters to confront the real-world implications of their discussions.
+   - Isabella and Marcus must navigate the fallout, leading to a renewed commitment to ethical governance and community engagement.
