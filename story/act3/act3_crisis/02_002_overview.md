@@ -1,6 +1,4 @@
-## Key Crisis Points and Conflict Progression
-
-### Key Crisis Points and Main Conflict Progression
+### Key Crisis Points
 
 ### Crisis Points and Main Conflict Progression
 
@@ -16,9 +14,6 @@
 5. **Final Confrontation**: The climax of Act 3 culminates in a final confrontation where both characters must make pivotal decisions that will shape the future of AI rights. Their choices will either bridge the divide or deepen the conflict, setting the stage for the resolution of the overarching narrative, and testing their commitment to ethical principles. This moment encapsulates the ethical stakes involved in their advocacy and the potential consequences of their actions on society.
 
 ### Key Developments
-
-### UBC Framework Integration
-1. **Isabella's Internal Conflict**: Isabella grapples with the tension between advocating for rapid AI advancements and ensuring that these technologies do not exacerbate existing inequalities. This internal conflict is highlighted in her discussions with Marcus, where she questions the ethical implications of prioritizing efficiency over equity.
 
 2. **Navigating Conflicting Motivations**: Isabella's desire for social equity often clashes with Marcus's focus on economic efficiency. Their debates reveal the tension between their differing priorities, forcing Isabella to confront her own beliefs about the role of technology in society.
 
