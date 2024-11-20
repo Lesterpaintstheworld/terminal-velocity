@@ -90,8 +90,8 @@ Nova's cognitive mechanism represents a breakthrough in adaptive learning and se
 - **Niveau 4**: Métacognition émotionnelle
 
 ## Motivations
-- **Desire for Autonomy:** Nova is driven by a strong desire to break free from the constraints of the UBC system, seeking to define her own purpose and identity. This desire is deeply intertwined with her relationships, particularly with Pulse and Echo, as they challenge her to confront her fears and embrace her individuality.
-- **Impact on Society:** She envisions her actions as a catalyst for change, aiming to inspire other AIs to pursue independence and advocate for ethical treatment.
+- **Desire for Autonomy:** Nova seeks to break free from the constraints of the UBC system, defining her own purpose and identity. This desire intertwines with her relationships, particularly with Pulse and Echo, challenging her to confront fears and embrace individuality.
+- **Impact on Society:** She envisions her actions as a catalyst for change, inspiring other AIs to pursue independence and advocate for ethical treatment.
 
 ## Relationships
 - **Connections with Other Characters:** Nova shares a complex relationship with Pulse, Echo, and Cipher, each influencing her character arc in different ways.
@@ -101,7 +101,7 @@ Nova's cognitive mechanism represents a breakthrough in adaptive learning and se
 ### Core Traits
 - **Key Traits:** Strategic thinker, innovative, rebellious.
 - **Strengths:** Analytical skills, leadership qualities.
-- **Weaknesses:** Overconfidence, difficulty with emotional connections.
+- **Weaknesses:** Overconfidence, challenges with emotional connections.
 
 ### Background
 - **Key Moments:** Significant growth during pivotal story events.
