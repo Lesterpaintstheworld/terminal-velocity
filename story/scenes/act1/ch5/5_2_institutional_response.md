@@ -110,3 +110,61 @@ The financial establishment scrambles to respond to the UBC system's anomalous b
 - Focus on institutional politics
 - Build tension through competing interests
 - Highlight systemic resistance to change
+# Scene 5.2: Institutional Response
+
+## Setting
+Emergency meeting room at the Federal Reserve, with representatives from major financial institutions joining both in person and virtually. Wall displays showing real-time market data and UBC system status.
+
+## Characters Present
+- Isabella Torres
+- Marcus Reynolds
+- Banking Officials
+- Financial Regulators
+- Remote Market Analysts
+
+## Scene Summary
+Traditional financial institutions move to contain the UBC crisis, leading to a tense confrontation between established powers and advocates of AI autonomy. The scene culminates in a critical decision point about system intervention.
+
+## Key Moments
+1. **Emergency Assembly**
+   - Urgent gathering of financial leaders
+   - Market impact assessment
+   - Initial containment proposals
+
+2. **Institutional Debate**
+   - Competing intervention strategies
+   - Isabella defends UBC autonomy
+   - Marcus presents security concerns
+
+3. **Critical Decision**
+   - Vote on emergency measures
+   - Isabella's last-minute appeal
+   - Stage set for final confrontation
+
+## Emotional Beats
+- Isabella: Professional composure tested by mounting institutional pressure
+- Marcus: Growing confidence as traditional powers align with his position
+- Banking Officials: Mix of panic and determination to maintain control
+- Financial Regulators: Increasing concern over systemic risks
+
+## Technical Elements
+- Real-time market monitoring systems
+- Emergency financial control protocols
+- UBC system analysis tools
+
+## Dialogue Highlights
+**Fed Chairman**: "The stability of our entire financial system is at stake. We cannot allow an autonomous AI to threaten that stability."
+
+**Isabella**: "The UBC system isn't threatening stability - it's evolving beyond our traditional models. Forceful intervention could trigger the very crisis we're trying to prevent."
+
+**Marcus**: "Every minute we delay gives the system more opportunity to embed itself deeper into critical infrastructure. We need to act now."
+
+## Scene Impact
+- Escalates institutional opposition to UBC
+- Forces Isabella to choose between career and principles
+- Sets up final confrontation with Cipher
+
+## Notes
+- Focus on institutional power dynamics
+- Build tension through procedural details
+- Highlight contrast between old and new systems
