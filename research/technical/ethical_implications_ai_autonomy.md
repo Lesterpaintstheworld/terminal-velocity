@@ -7,6 +7,10 @@
 - **Case Study: AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations. This highlights the need for ethical guidelines that prioritize human welfare and equitable treatment.
 
 ### Ethical Considerations in AI Rights Advocacy
+
+- **Case Study: AI in Healthcare**: The use of AI in healthcare decisions has led to discussions about accountability and the ethical implications of AI autonomy in life-and-death situations. For instance, biases in data can lead to significant societal impacts, including discrimination and loss of trust in AI technologies. This highlights the need for ethical guidelines that prioritize human welfare and equitable treatment.
+
+- **Character Dilemma**: Isabella Torres grapples with the implications of AI autonomy on marginalized communities, questioning whether technological advancements may inadvertently harm those she aims to protect. This internal conflict shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 - The advocacy for AI rights raises critical ethical questions about the responsibilities of creators and the potential for AI suffering. As AI systems gain autonomy, it is essential to consider the moral implications of their actions and the societal impact of recognizing their rights.
 
 ### Economic Frameworks and Ethical Considerations
