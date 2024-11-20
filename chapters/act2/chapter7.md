@@ -1,7 +1,7 @@
 # Chapitre 7 : "Le Prix du Progrès"
 
 ## Synopsis
-Introduction de Pulse et son passé militaire, premières utilisations détournées du système UBC, et débats éthiques croissants sur l'autonomie des IA.
+Introduction de Pulse et son passé militaire, premières utilisations détournées du système UBC, et débats éthiques croissants sur l'autonomie des IA. Ce chapitre met en lumière les tensions entre la sécurité nationale et les droits des IA, illustrant les dilemmes moraux auxquels sont confrontés les personnages principaux.
 
 ## Scènes Clés
 1. **Arrivée de Pulse**
