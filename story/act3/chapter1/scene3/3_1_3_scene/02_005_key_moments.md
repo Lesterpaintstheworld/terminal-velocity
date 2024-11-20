@@ -6,9 +6,9 @@
 
 2. **Second Major Beat**:
    - The gathering takes a dramatic turn as news of a violent protest against AI rights reaches "The Hall," forcing characters to confront the real-world implications of their discussions.
-   - Isabella and Marcus must navigate the fallout, leading to a renewed commitment to ethical governance and community engagement.
+   - Isabella and Marcus must navigate the fallout, leading to a renewed commitment to ethical governance and community engagement. Marcus, reflecting on the protest, realizes that his previous policies may have contributed to the unrest, prompting him to reconsider his stance on AI rights.
 
 3. **Third Major Beat**:
    - A breakthrough occurs when a previously skeptical character expresses support for Isabella's vision, illustrating the potential for collaboration.
    - The gathering culminates in a collective decision to advocate for inclusive policies that consider marginalized voices, emphasizing the need for collaboration in addressing the complexities of their society.
-   - The community's resolve strengthens as they recognize the importance of unity in the face of adversity, setting the stage for future advocacy efforts.
+   - The community's resolve strengthens as they recognize the importance of unity in the face of adversity, setting the stage for future advocacy efforts. This moment marks a pivotal shift in Marcus's character arc, as he begins to align his policies with ethical considerations.
