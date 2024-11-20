@@ -2,6 +2,34 @@
 
 ## 🎯 Priorités Immédiates
 
+### Développement des Structures Narratives
+
+### Outlining des Actes et Scènes
+- [ ] Développer l'outline détaillé de l'Acte 1
+  - [x] Chapitres 1-5 (partiellement complétés)
+  - [ ] Révision et cohérence globale
+
+- [ ] Développer l'outline détaillé de l'Acte 2
+  - [ ] Structure générale des chapitres
+  - [ ] Points de progression narrative
+  - [ ] Développement des arcs des personnages
+
+- [ ] Développer l'outline détaillé de l'Acte 3
+  - [ ] Identification des points de crise
+  - [ ] Progression des conflits principaux
+  - [ ] Préparation de la résolution
+
+- [ ] Développer l'outline détaillé de l'Acte 4
+  - [ ] Mécanismes de résolution
+  - [ ] Arcs finaux des personnages
+  - [ ] Thèmes de transformation et d'harmonie
+
+### Objectifs de Développement
+- Assurer la cohérence narrative entre les actes
+- Maintenir la progression thématique
+- Garantir des arcs de personnages satisfaisants
+- Vérifier l'alignement avec les objectifs philosophiques du projet
+
 ### Développement des Personnages
 - [ ] Enrichir les interactions Isabella-Marcus :
   - [ ] Ajouter des scènes de confrontation éthique
