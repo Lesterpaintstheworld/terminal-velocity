@@ -1,0 +1,2 @@
+## Motivations
+At the core of Marcus' motivations is a deep-seated desire to protect his country and its citizens. He believes that the development of advanced autonomous systems is essential for maintaining a strong military and ensuring national security in an increasingly complex and volatile world. This drive to innovate and push the boundaries of technology is what fuels his ambition and shapes his decision-making.

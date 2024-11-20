@@ -1,0 +1,2 @@
+## Personality Traits
+Marcus is a driven and ambitious individual, with a single-minded focus on advancing the capabilities of autonomous systems. He is highly analytical, with a strong technical aptitude and an unwavering belief in the power of technology to solve complex problems. However, this focus on progress can sometimes blind him to the ethical and societal implications of his work, leading to conflicts with other characters who are more concerned with the broader impact of these technologies.
