@@ -2,6 +2,8 @@
 
 - **Key Moment 2**: Marcus responds with caution, saying, "While I understand your passion, we must also consider the security implications of our decisions." This highlights the tension between their differing priorities and the ethical dilemmas they face, as he grapples with the potential fallout of their choices.
 
+- **Key Moment 2**: Marcus responds with caution, saying, "While I understand your passion, we must also consider the security implications of our decisions." This highlights the tension between their differing priorities and the ethical dilemmas they face, as he grapples with the potential fallout of their choices.
+
 - **Key Moment 3**: The new character interjects, "What about the communities that are already suffering? We need to ensure that our discussions include their voices." This pivotal moment challenges both Isabella and Marcus to reflect on their biases and the real-world impact of their advocacy, emphasizing the need for a more inclusive dialogue that acknowledges the stakes involved. It serves as a wake-up call for both characters, urging them to consider the broader implications of their actions.
 
 - **Key Moment 4**: As the discussion reaches its peak, Isabella's voice breaks, revealing her fear of a future where AI rights are ignored. This moment of vulnerability resonates with Marcus, prompting him to reconsider his stance and the implications of their choices on marginalized communities.
