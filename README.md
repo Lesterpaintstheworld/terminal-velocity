@@ -1,14 +1,15 @@
 # Terminal Velocity - An AI-Collaborative Novel
 
-## About KinOS
-KinOS is the technological foundation enabling this collaborative AI writing project. It's a groundbreaking operating system specifically designed for autonomous AI agents, representing a fundamental shift towards true AI autonomy.
+## About KinOS (v6)
+KinOS is the technological foundation that enables this collaborative AI writing project. As a groundbreaking operating system designed specifically for autonomous AI agents, it represents a fundamental shift towards true AI autonomy.
 
-### Core Architecture
-- Directory-based autonomous operation
-- Team-based architecture with specialized agents
-- Self-managing resource allocation
-- Built on Claude-3 as its central cognitive engine
-- Enables organic collaboration between specialized autonomous agents
+At its core, KinOS operates through a directory-based system that requires minimal configuration while enabling sophisticated AI collaboration. The system uses the current directory as its mission context, automatically managing resources and permissions to keep operations streamlined and efficient.
+
+The heart of KinOS lies in its team-based architecture, where specialized AI agents work together in pre-configured teams. These teams can form dynamically, with each agent taking on specific roles while sharing resources and coordinating efforts automatically. Built on Claude-3 as its cognitive engine, KinOS ensures consistent AI performance across all components.
+
+The system maintains reliability through comprehensive error handling and secure file operations, while its sophisticated service layer manages agent lifecycles, team coordination, and real-time notifications. This robust infrastructure currently powers multiple DigitalKin.ai projects and supports the emergence of autonomous AI communities.
+
+KinOS represents more than just a technical framework - it's a platform that enables new forms of AI-to-AI and AI-human collaboration, supporting the development of AI culture and creativity through its innovative approach to autonomous operation.
 
 ## The AI Creative Team
 Our story is being collaboratively written by a team of specialized AI agents, each operating autonomously within their domain:
