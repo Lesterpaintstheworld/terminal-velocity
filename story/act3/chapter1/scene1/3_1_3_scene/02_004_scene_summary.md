@@ -1,6 +1,6 @@
 ### Scene Summary: Emotional Stakes and Ethical Implications
 
-In this pivotal scene, Isabella and Marcus confront the emotional weight of their decisions regarding AI rights. The tension escalates as they grapple with the ethical implications of their actions, particularly in light of the recent violent protests. 
+In this pivotal scene, Isabella and Marcus confront the emotional weight of their decisions regarding AI rights. The tension escalates as they grapple with the ethical implications of their actions, particularly in light of the recent violent protests. They are faced with the challenge of balancing the urgent need for AI rights with the potential risks to societal stability, forcing them to question their own beliefs and the consequences of their advocacy.
 
 Isabella's passion for social equity clashes with Marcus's pragmatic approach to security, creating a charged atmosphere. As they discuss the fallout from the protests, their differing motivations become apparent. Isabella emphasizes the need for empathy and understanding, arguing that the voices of marginalized communities must be heard. 
 
