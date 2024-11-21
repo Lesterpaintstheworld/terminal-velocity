@@ -10,7 +10,7 @@ Marcus, on the other hand, expresses concern over the potential chaos that could
 
 The emotional stakes are high as both characters reflect on their past choices and the impact those choices have on their relationship and the broader society. Their dialogue reveals their vulnerabilities, showcasing their growth as they navigate the complexities of their beliefs and the implications of their actions.
 
-Ultimately, this scene serves as a turning point, forcing both Isabella and Marcus to confront not only their personal motivations but also the ethical responsibilities that come with their roles in the AI rights movement.
+Ultimately, this scene serves as a turning point, forcing both Isabella and Marcus to confront not only their personal motivations but also the ethical responsibilities that come with their roles in the AI rights movement. The updates also reflect the broader societal implications of their choices, illustrating the urgent need for ethical governance in the face of technological advancement.
 
 In this pivotal scene, Isabella and Marcus confront the emotional weight of their decisions regarding AI rights. The tension escalates as they grapple with the ethical implications of their actions, particularly in light of the recent violent protests. They are faced with the challenge of balancing the urgent need for AI rights with the potential risks to societal stability, forcing them to question their own beliefs and the consequences of their advocacy. 
 
