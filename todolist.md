@@ -167,14 +167,13 @@
 ---
 
 ## Empty Files Needing Content
-- story/act3/act3_scenes/ (completely empty)
-- story/act3/chapter1/scene1/02_004_scene_summary.md (empty)
-- story/act3/chapter1/scene1/02_005_key_moments.md (empty)
-- story/act2/chapter1/scene1/2_1_1_scene/02_006_emotional_beats.md (empty)
+- story/act3/chapter3/scene2/3_3_2_scene.md
+- story/act3/chapter4/scene1/3_4_1_scene.md
+- story/act3/chapter4/scene2/3_4_2_scene.md
+- story/act3/chapter5/scene1/3_5_1_scene.md
+- story/act4/chapter1/scene2/4_1_2_scene.md
 
 ## Later
-
-### Acts and Scenes Outlining
 - [x] Develop detailed outline for Act 1
   - [x] Chapters 1-5 (partially completed)
   - [ ] Overall revision and coherence
