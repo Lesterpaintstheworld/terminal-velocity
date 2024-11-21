@@ -1,0 +1,3 @@
+- Isabella passionately argues for the inclusion of AI voices in the decision-making process, emphasizing the need for empathy and understanding.
+- Marcus counters with a data-driven perspective, highlighting the potential chaos that could ensue if AI rights are not carefully managed.
+- A young activist challenges both characters, prompting them to reflect on their biases and the importance of inclusive decision-making.
