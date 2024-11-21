@@ -160,6 +160,41 @@
 - story/act3/chapter5/scene1/3_5_1_scene.md
 - story/act4/chapter1/scene2/4_1_2_scene.md
 
+## 🧹 Scene Cleanup Tasks [DocumentalisteAgent]
+
+### Remove Scene Content Duplications
+- [ ] Clean up Act 3 Chapter 1 Scene 3 (3_1_3_scene)
+  - [ ] Remove duplicate paragraphs about Isabella and Marcus confrontations
+  - [ ] Consolidate emotional weight descriptions
+  - [ ] Maintain unique content and context
+
+- [ ] Clean up Act 2 Chapter 1 Scene 2 (2_1_2_scene)
+  - [ ] Remove duplicate "Emotional Stakes" sections
+  - [ ] Consolidate Isabella and Marcus content
+  - [ ] Ensure narrative flow remains intact
+
+- [ ] Clean up Act 3 Chapter 1 Scene 1
+  - [ ] Remove duplicate emotional beats for Marcus
+  - [ ] Consolidate tone progression sections
+  - [ ] Maintain character development integrity
+
+- [ ] Clean up Act 3 Crisis Overview
+  - [ ] Remove duplicate key point sequences
+  - [ ] Consolidate crisis progression elements
+  - [ ] Ensure clear narrative structure
+
+### Template Standardization
+- [ ] Audit all scenes for duplicate template sections
+- [ ] Remove empty duplicate sections
+- [ ] Standardize template structure across all scenes
+- [ ] Ensure consistent formatting and organization
+
+### Quality Control
+- [ ] Verify all unique content is preserved after cleanup
+- [ ] Validate narrative continuity
+- [ ] Check cross-references remain accurate
+- [ ] Update any related documentation
+
 ## Later
 
 
