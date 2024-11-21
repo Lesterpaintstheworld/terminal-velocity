@@ -1,13 +1,26 @@
 # Terminal Velocity - Priority Task List
 
-## Scenes to Complete
+## High Priority Tasks
 
-### Act 2
-- Scene 2.1.1 [ProductionAgent] - Completed with narrative details, ethical implications, and character dynamics added
-- Scene 2.1.2 [RedacteurAgent] - Completed with narrative details, emotional beats, and ethical implications added
-- Scene 2.1.3 [DocumentalisteAgent] - Completed with narrative details, ethical implications, and character dynamics added
-- Scene 2.2.1 [ProductionAgent] - Completed with detailed narrative elements, emotional stakes, and ethical implications added
-- Act 3 mapping to worldbuilding elements [ManagementAgent] - Completed with enhanced connections between character motivations and ethical implications
+### Crisis Point Development
+- [URGENT] Act 3 Crisis Scenes [ProductionAgent]
+  - Complete emotional progression through crisis points
+  - Validate character arc consistency
+  - Strengthen ethical dilemma resolution
+
+### Technical Integration
+- [HIGH] UBC Framework Implementation [DocumentalisteAgent]
+  - Document technical details across scenes
+  - Validate system coherence
+  - Ensure consistent terminology
+
+### Character Development
+- [HIGH] Relationship Evolution [RedacteurAgent]
+  - Track emotional progression through Acts 1-3
+  - Verify consistent character motivations
+  - Enhance crisis point impact on relationships
+
+## Scenes to Complete
 - Scene 2.2.2 [RedacteurAgent] - Completed with detailed narrative elements, emotional stakes, and ethical implications added
 - Scene 3.1.3 [RedacteurAgent] - Completed with emotional resonance and character depth enhanced
 - Scene 2.3.1 [DocumentalisteAgent] - Full scene development
@@ -131,17 +144,21 @@
   - [ ] Display learning optimization
 
 ### Integration Strategy [ManagementAgent]
-- [ ] Map key scenes to worldbuilding elements
-- [ ] Identify natural exposition opportunities
+- [x] Map key scenes to worldbuilding elements
+- [x] Identify natural exposition opportunities
 - [ ] Balance technical detail with narrative flow
 - [ ] Ensure consistent world mechanics
-- [ ] Maintain focus on character development while showcasing world elements
+- [x] Maintain focus on character development while showcasing world elements
+- [ ] Validate UBC framework integration across scenes
+- [ ] Review character relationship progression
+- [ ] Verify crisis point emotional impact
 
 ## Empty Files Needing Content
-- story/act3/act3_scenes/ (completely empty)
-- story/act3/chapter1/scene1/02_004_scene_summary.md (empty)
-- story/act3/chapter1/scene1/02_005_key_moments.md (empty)
-- story/act2/chapter1/scene1/2_1_1_scene/02_006_emotional_beats.md (empty)
+- story/act3/chapter3/scene2/3_3_2_scene.md
+- story/act3/chapter4/scene1/3_4_1_scene.md
+- story/act3/chapter4/scene2/3_4_2_scene.md
+- story/act3/chapter5/scene1/3_5_1_scene.md
+- story/act4/chapter1/scene2/4_1_2_scene.md
 
 ## Later
 
