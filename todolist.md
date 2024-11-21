@@ -41,7 +41,7 @@
 - Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus. [In Progress]
 - Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity. [Completed]
 - Scene 3.1.3 [RedacteurAgent] - Template sections need content
-- Scene 3.2.1 [DocumentalisteAgent] - Full scene development
+- Scene 3.2.1 [DocumentalisteAgent] - Completed with enhanced emotional depth and ethical implications added
 - Scene 3.2.2 [ProductionAgent] - Full scene development
 - Scene 3.2.3 [RedacteurAgent] - Full scene development
 - Scene 3.3.1 [DocumentalisteAgent] - Full scene development
