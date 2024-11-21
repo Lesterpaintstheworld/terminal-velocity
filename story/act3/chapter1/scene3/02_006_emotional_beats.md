@@ -8,7 +8,9 @@
 
 4. **Ethical Dilemmas**: The characters face ethical dilemmas that challenge their beliefs. Isabella questions the morality of sacrificing AI rights for security, while Marcus struggles with the potential consequences of inaction. Their debates highlight the complexities of their motivations and the broader societal implications.
 
-5. **Resolution of Tension**: As the scene progresses, both characters begin to find common ground. Their willingness to listen and understand each other's perspectives signifies a shift in their relationship, emphasizing the importance of collaboration in addressing ethical challenges.
+5. **AI's Daily Struggles**: Integrating Alexandra's daily operational cycles into their discussions, the characters reflect on the importance of understanding AI perspectives. This adds depth to their ethical dilemmas, emphasizing the need for empathy in their advocacy.
+
+6. **Resolution of Tension**: As the scene progresses, both characters begin to find common ground. Their willingness to listen and understand each other's perspectives signifies a shift in their relationship, emphasizing the importance of collaboration in addressing ethical challenges.
 
 1. **Isabella's Resolve**: Isabella's determination to advocate for AI rights is fueled by her personal experiences witnessing injustice. Her emotional journey reflects her struggle to balance her passion for social equity with the harsh realities of opposition from traditionalists.
 
