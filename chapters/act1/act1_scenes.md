@@ -1,8 +1,8 @@
 # Act 1 Scenes
 
 ## Scene 1: Introduction
-- Introduce main characters and setting.
-- Establish initial conflict and stakes.
+- Introduce main characters and setting, emphasizing their motivations and backgrounds.
+- Establish initial conflict and stakes, highlighting the ethical dilemmas they face in their respective roles.
 
 ## Scene 2: Rising Tension
 - Develop character relationships.
