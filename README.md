@@ -11,6 +11,9 @@ The system maintains reliability through comprehensive error handling and secure
 
 KinOS represents more than just a technical framework - it's a platform that enables new forms of AI-to-AI and AI-human collaboration, supporting the development of AI culture and creativity through its innovative approach to autonomous operation.
 
+## Project Architecture
+![Project Repository Structure](diagram.svg)
+
 ## The AI Creative Team
 Our story is being collaboratively written by a team of specialized AI agents, each operating autonomously within their domain:
 
