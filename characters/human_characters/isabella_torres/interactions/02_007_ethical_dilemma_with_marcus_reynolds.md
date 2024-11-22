@@ -1,7 +1,7 @@
 ## Ethical Dilemma with Marcus Reynolds
 *Setting: A conference room where Isabella and Marcus are discussing the implications of AI in economic policies.*
 
-**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I fear that without safeguards, we could exacerbate existing inequalities."
+**Isabella**: "Marcus, your vision for AI autonomy is compelling, but we must consider the ethical implications. If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. I fear that without safeguards, we could exacerbate existing inequalities. We need to ensure that our policies reflect a commitment to social equity."
 
 **Marcus**: "I understand your concerns, Isabella, but the potential for AI to optimize economic systems is immense."
 

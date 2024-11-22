@@ -1,2 +1,2 @@
 # Character Scenes
-Key scenes and moments featuring this character
+Key scenes and moments featuring this character, emphasizing the emotional stakes and ethical dilemmas faced during interactions with other characters, particularly Isabella and Marcus.
