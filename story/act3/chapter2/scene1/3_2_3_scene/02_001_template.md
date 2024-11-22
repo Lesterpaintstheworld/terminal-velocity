@@ -1,4 +1,6 @@
-## Scene 3.2.3: Emotional Depth and Ethical Implications and Ethical Dilemmas
+## Scene 3.2.3: Emotional Depth and Ethical Implications
+
+### Emotional Beats
 
 ### Emotional Beats
 - **Character Motivation**: Delve into Marcus's internal struggles as he grapples with his decisions, particularly the weight of his choices on AI rights and societal implications. His brow furrows as he contemplates the consequences of his actions, revealing the conflict between his ambition and ethical responsibility.

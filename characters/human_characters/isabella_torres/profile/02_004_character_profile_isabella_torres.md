@@ -3,6 +3,7 @@ Isabella Torres grew up in a diverse urban environment, exposed to various cultu
 
 ### Motivations and Internal Conflicts
 - **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met.
+- **Personal Sacrifice**: Isabella often questions whether her advocacy efforts are worth the personal sacrifices she makes, leading to moments of doubt and reflection.
 
 - **Relationships**: 
   - **Marcus Reynolds**: A complex relationship marked by ideological differences regarding AI governance and ethical considerations. Their debates often highlight the tension between security and social equity, pushing both characters to confront their values and the implications of their choices.
