@@ -3,8 +3,8 @@
 ### Emotional Beats
 
 ### Emotional Beats
-- **Character Motivation**: Delve into Marcus's internal struggles as he grapples with his decisions, particularly the weight of his choices on AI rights and societal implications. His brow furrows as he contemplates the consequences of his actions, revealing the conflict between his ambition and ethical responsibility.
-- **Conflict**: Intensify the tension between Isabella and Marcus, showcasing their differing views on AI rights and the emotional stakes involved in their advocacy. As their voices rise, the air thickens with unresolved tension, each word a reflection of their deep-seated fears and hopes.
+- **Character Motivation**: Explore Marcus's internal struggles as he grapples with the weight of his decisions, particularly regarding AI rights and their societal implications. His furrowed brow reflects the conflict between his ambition and ethical responsibility.
+- **Conflict**: Heighten the tension between Isabella and Marcus, illustrating their contrasting views on AI rights and the emotional stakes in their advocacy. As their voices escalate, the atmosphere thickens with unresolved tension, each word echoing their deep-seated fears and hopes.
 
 ### Ethical Dilemmas
 - **Dilemma 1**: Marcus must choose between personal gain and the greater good of AI rights, weighing his ambitions against the ethical implications of his work. The internal conflict is palpable as he reflects on the potential harm his decisions could inflict on society.

@@ -2,7 +2,7 @@
 Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate, particularly regarding economic policies.
 
 ### Motivations and Internal Conflicts
-- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility. Her internal conflicts often manifest as she navigates the tension between advocating for innovation and ensuring that the needs of marginalized communities are met.
+- **Advocacy for Stability**: Isabella is motivated by a desire to establish stable economic policies that guarantee equitable access to resources for all, especially within the emerging AI economy. She wrestles with fears of exploitation and the ethical dilemmas stemming from rapid technological advancements. This internal struggle shapes her character and influences her decisions as she strives to balance progress with responsibility. Her conflicts often surface as she navigates the tension between advocating for innovation and addressing the needs of marginalized communities.
 - **Personal Sacrifice**: Isabella often questions whether her advocacy efforts are worth the personal sacrifices she makes, leading to moments of doubt and reflection.
 
 - **Relationships**: 
