@@ -3,6 +3,8 @@ Isabella Torres grew up in a diverse urban environment, exposed to various cultu
 
 ### Motivations and Internal Conflicts
 - **Advocacy for Stability**: Isabella is motivated by a desire to establish stable economic policies that guarantee equitable access to resources for all, especially within the emerging AI economy. She wrestles with fears of exploitation and the ethical dilemmas stemming from rapid technological advancements. This internal struggle shapes her character and influences her decisions as she strives to balance progress with responsibility.
+
+- **Ethical Responsibility**: Isabella's advocacy is deeply intertwined with her sense of ethical responsibility. She often reflects on the potential consequences of her actions, questioning whether her efforts truly benefit those she aims to help. This ongoing internal conflict drives her to seek solutions that prioritize social equity and justice.
 - **Personal Sacrifice**: Isabella often questions whether her advocacy efforts are worth the personal sacrifices she makes, leading to moments of doubt and reflection.
 
 - **Relationships**: 
