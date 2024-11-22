@@ -8,7 +8,7 @@
 - [Supporting characters if any]
 
 ## Scene Summary
-[1-2 paragraphs describing the key events and purpose of the scene]
+In this climactic scene, Isabella and Marcus confront the consequences of their previous decisions. The emotional stakes are at an all-time high as they grapple with the fallout from the public demonstration advocating for AI rights. Their relationship is tested as they navigate the complexities of their beliefs and the ethical responsibilities they bear.
 
 ## Key Moments
 1. **First Major Beat**

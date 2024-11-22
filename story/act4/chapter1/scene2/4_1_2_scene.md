@@ -8,7 +8,7 @@
 - [Supporting characters if any]
 
 ## Scene Summary
-[1-2 paragraphs describing the key events and purpose of the scene]
+In this pivotal scene, Isabella and Marcus reflect on their journey and the challenges they have faced. Their dialogue reveals the growth they have experienced, both individually and as advocates for AI rights. The emotional weight of their decisions lingers as they prepare for the next phase of their advocacy.
 
 ## Key Moments
 1. **First Major Beat**

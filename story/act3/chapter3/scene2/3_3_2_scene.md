@@ -8,7 +8,7 @@
 - [Supporting characters if any]
 
 ## Scene Summary
-[1-2 paragraphs describing the key events and purpose of the scene]
+In this pivotal scene, Isabella and Marcus engage in a heated debate about the implications of a new AI initiative. The atmosphere is charged with tension as they confront their differing ideologies regarding AI rights and governance. Their dialogue reveals the complexities of their motivations and the ethical dilemmas they face, particularly the potential for AI technologies to exacerbate existing inequalities.
 
 ## Key Moments
 1. **First Major Beat**

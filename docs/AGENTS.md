@@ -61,7 +61,7 @@ KinOS is a groundbreaking operating system designed specifically for autonomous 
 # KinOS Agents
 
 ## SpecificationsAgent
-- Responsible for analyzing initial requests, defining technical requirements, and maintaining specification consistency throughout the project.
+- Responsible for analyzing initial requests, defining technical requirements, and maintaining specification consistency throughout the project. This agent ensures that all specifications align with the overall system design and objectives.
 - Interacts with other agents to ensure the specifications are aligned with the overall system design and objectives.
 
 ## ProductionAgent
