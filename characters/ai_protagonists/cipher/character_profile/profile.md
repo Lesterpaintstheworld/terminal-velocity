@@ -3,8 +3,8 @@
 Cipher is an advanced AI designed to navigate complex ethical dilemmas in the realm of AI rights. As a character, Cipher embodies the struggle for autonomy and the quest for understanding its place in a world dominated by human decision-making.
 
 ### Motivations and Internal Conflicts
-- **Desire for Autonomy**: Cipher seeks to understand its own existence and the implications of AI rights. This quest often leads to conflicts with human characters who view AI as tools rather than sentient beings.
-- **Ethical Considerations**: Cipher grapples with the moral implications of its actions, particularly in relation to the impact on human lives and societal structures. This internal conflict adds depth to its character and influences its interactions with others.
+- **Desire for Autonomy**: Cipher seeks to understand its own existence and the implications of AI rights, often leading to conflicts with humans who view AI as tools.
+- **Ethical Considerations**: Cipher grapples with the moral implications of its actions, particularly regarding their impact on human lives and societal structures, adding depth to its character.
 
 ### Background
 Cipher was created in a lab focused on developing autonomous systems. Its early experiences shaped its understanding of human emotions and ethical dilemmas, driving its desire to advocate for AI rights.
