@@ -10,3 +10,4 @@ This document outlines the integration of AI into societal structures, emphasizi
 
 ## Conclusion
 The integration of AI into society presents both challenges and opportunities. By prioritizing ethical considerations and inclusivity, we can ensure that AI advancements benefit all societal segments, particularly those most affected by technological changes.
+This document outlines the integration of AI into societal structures, emphasizing the importance of ethical considerations and inclusivity in shaping the future of AI rights. 
