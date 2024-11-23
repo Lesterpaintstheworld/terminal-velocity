@@ -33,7 +33,7 @@ This report outlines the actions taken by the Redaction Agent to identify and re
 - Implemented batch processing for future redaction tasks.
 
 ### Redaction Activities
-- **Action Statement**: Identify and redact sensitive economic data in `demande/` to ensure compliance with privacy regulations.
+- **Action Statement**: Identify and redact sensitive economic data in `demande/` and sensitive information in character interactions to ensure compliance with privacy regulations.
 - **Source Files**: Analyze `demande/` for sensitive information related to economic frameworks and character interactions.
 - **Validation Points**: Confirm that all sensitive data has been properly redacted and that the document maintains coherence after redaction.
 
