@@ -2,6 +2,8 @@
 
 ### Narrative Development - Strategic Priorities
 - Ensure overall narrative coherence, particularly in character motivations and ethical dilemmas.
+- Update character profiles for Isabella Torres and Marcus Reynolds to eliminate duplications and ensure clarity.
+- Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus.
 - Identify key tension points
 - Optimize the pacing of revelations
 - Maximize emotional impact of pivotal moments
