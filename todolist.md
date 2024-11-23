@@ -1,16 +1,38 @@
 # Objective
 # Aider Agent Production Role Plan
 
-## Mission: Terminal Velocity - Priorit√©s de D√©veloppement
+## Mission Instructions
+1. **Monitor Files:**
+   - Continuously monitor the specified character profiles, interaction scripts, and narrative chapters for any updates or changes.
+2. **Detect Changes:**
+   - Identify any inconsistencies or redundancies within character development arcs, interaction scripts, and narrative coherence.
+3. **Enhance Content:**
+   - Propose and implement enhancements to character profiles and interaction scripts to ensure emotional depth and ethical complexity.
+4. **Validate Content:**
+   - Conduct consistency checks across all monitored files to ensure character profiles and narrative chapters align with the project's thematic goals.
+5. **Document Actions:**
+   - Maintain detailed logs of all modifications, validations, and identified inconsistencies, along with the actions taken to resolve them.
 
 ### Objective:
 To enhance the quality and coherence of narrative development, character enrichment, world-building, and thematic consistency within the KinOS framework.
 
-### Plan of Action:
-1. **Initial Assessment (Week 1)**
-   - **Review all monitored files**: Conduct a comprehensive review of narrative, character, world-building, and thematic files.
-   - **Identify incomplete sections**: Use validation rules to pinpoint any incomplete narrative scenes or character profiles.
-   - **Document findings**: Create a report detailing areas requiring attention and enhancement.
+## Progression Steps
+1. **Initial Monitoring Setup:**
+   - Set up the monitoring system for the specified files, ensuring that the change detection mechanism is active.
+2. **Conduct Initial Analysis:**
+   - Perform a thorough analysis of the current state of character profiles and interaction scripts to establish a baseline for future modifications.
+3. **Implement Deduplication:**
+   - Use Aider to identify and eliminate any redundant traits or interactions within character profiles and scripts.
+4. **Enhance Interaction Scripts:**
+   - Focus on enhancing scripts to incorporate emotional complexity and ethical dilemmas, based on the analysis results.
+5. **Review Narrative Chapters:**
+   - Analyze chapters for continuity and thematic alignment, proposing edits where necessary to improve transitions and emotional impact.
+6. **Validation Process:**
+   - Conduct a comprehensive validation of all monitored files, ensuring consistency, coherence, and emotional depth are achieved.
+7. **Document Findings:**
+   - Log all actions taken, inconsistencies found, and resolutions implemented in a detailed documentation format.
+8. **Final Review:**
+   - Perform a final review of all modified files to ensure that they meet the success criteria established for character development and narrative coherence.
 
 2. **Character Profile Review**
    - Analyze character profiles for consistency and alignment with development arcs.
