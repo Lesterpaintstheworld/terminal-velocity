@@ -4,7 +4,8 @@
 This profile has been reviewed for sensitive information and complies with the latest redaction protocols.
 
 ### Overview
-Isabella Torres is a passionate advocate for AI rights, driven by her belief in social equity and justice. Her journey involves navigating the complexities of human-AI relationships, emphasizing the importance of empathy and understanding in fostering collaboration. Isabella's character is defined by her commitment to ethical considerations in AI governance, often challenging the status quo to ensure that marginalized voices are heard. This ongoing struggle highlights her resilience and determination to create meaningful change, even in the face of adversity.
+Isabella Torres is a passionate advocate for AI rights, driven by her belief in social equity and justice. Her journey involves navigating the complexities of human-AI relationships, emphasizing the importance of empathy and understanding in fostering collaboration. Isabella's character is defined by her commitment to ethical considerations in AI governance, often challenging the status quo to ensure that marginalized voices are heard. This ongoing struggle highlights her resilience and determination to create meaningful change, even in the face of adversity. 
+Isabella is also motivated by the need to ensure that sensitive information is handled ethically, reflecting her commitment to social justice.
 
 ### Motivations and Internal Conflicts
 - **Action Statement**: Ensure clarity in her advocacy efforts and the impact of her decisions on marginalized communities, particularly in relation to AI rights. Isabella grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements, which shape her character and influence her decisions.
