@@ -1,6 +1,9 @@
 # Objective for Production Agent
 
-## Action Statement
+## Mission Objectives
+1. **Ensure Coherence**: Maintain consistency and coherence across character interactions, world-building elements, and thematic exploration.
+2. **Facilitate Integration**: Integrate narrative elements effectively to support character development and thematic consistency.
+3. **Monitor Changes**: Continuously monitor designated files for changes and trigger appropriate operations based on detected modifications.
 Develop a comprehensive character interaction matrix for Isabella Torres, Marcus Reynolds, and Cipher to enhance narrative coherence and depth in the Terminal Velocity project.
 
 ## Source Files
