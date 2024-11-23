@@ -2,6 +2,8 @@
 
 ### Emotional Complexity in AI Advocacy
 
+### Emotional Complexity in AI Advocacy
+
 Isabella's journey is characterized by a profound internal struggle between technological innovation and social responsibility. Her advocacy work is consistently marked by complex ethical dilemmas that challenge her to navigate the delicate balance between progress and protection. This internal conflict is essential for her character development and aligns with the narrative's exploration of AI rights. As she interacts with Marcus and Nova, she learns to articulate her fears and hopes, deepening her understanding of the ethical landscape.
 
 ### Key Relationships
