@@ -1,6 +1,7 @@
 # Isabella Torres' Development Arc
 
 ## Emotional Complexity
+As Isabella navigates her advocacy for AI rights, she becomes increasingly aware of the emotional stakes involved in her decisions. This awareness shapes her interactions and decisions, reinforcing her commitment to ethical considerations in all aspects of her work.
 As Isabella navigates her advocacy for AI rights, she becomes increasingly aware of the emotional stakes involved in her decisions. This awareness shapes her interactions and decisions, reinforcing her commitment to ethical considerations in all aspects of her work. In a pivotal moment, she reflects, "If we prioritize profit over ethics, we risk leaving vulnerable communities behind," highlighting her commitment to social equity.
 
 ## Character Journey

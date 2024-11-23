@@ -16,7 +16,7 @@ This document contains redacted content to ensure compliance with privacy regula
 - Exploration of an emerging autonomous economy directed by AIs [REDACTED]
 - Universal Basic Compute (UBC) System [REDACTED: sensitive economic data]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED] This includes details on the ethical implications of AI rights and the societal impacts of the Universal Basic Compute (UBC) framework.
-- This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED]
+- This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED: sensitive economic data]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
 - Narrative period: evolution of human-AI relationships

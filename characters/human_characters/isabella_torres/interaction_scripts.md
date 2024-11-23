@@ -2,3 +2,6 @@
 
 - Isabella: "We must ensure that our policies uplift everyone, not just the privileged."
 - Marcus: "I understand your concerns, but we must also consider the broader implications of our decisions."
+
+- Isabella: "We must ensure that our policies uplift everyone, not just the privileged."
+- Marcus: "I understand your concerns, but we must also consider the broader implications of our decisions."
