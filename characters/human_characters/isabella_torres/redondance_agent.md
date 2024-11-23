@@ -6,9 +6,7 @@ This document serves as a record of the redaction activities undertaken by the R
 ## Redundancy Management Activities
 - Reviewed Isabella's character profile for overlapping traits and themes.
 - Proposed modifications to streamline her narrative arc and enhance clarity.
-- Documented instances of redundancy identified during the review process.
 - Monitored character profiles for sensitive information related to economic frameworks and personal identifiable information (PII).
-- Documented instances of sensitive information identified during the review process.
 - Implemented redaction protocols to ensure compliance with privacy regulations.
 
 ## Compliance and Validation
