@@ -1,2 +1,2 @@
-- **Marcus**: "We need to act decisively to protect our nation; we can't let idealism cloud our judgment."
-- **Isabella**: "But what about the ethical implications of our decisions? We must consider the impact on marginalized communities."
+- **Marcus**: "We need to act decisively to protect our nation; we can't let idealism cloud our judgment. Security is paramount."
+- **Isabella**: "But what about the ethical implications of our decisions? We must consider the impact on marginalized communities and ensure their voices are included."
