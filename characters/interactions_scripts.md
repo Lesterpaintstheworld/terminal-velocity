@@ -1,6 +1,6 @@
 # Character Interaction Scripts - Integration Agent Updates
 # Integration Agent Action Plan for Character Interactions
-## This document outlines the interactions between key characters, emphasizing their motivations and ethical dilemmas.
+## This document outlines the interactions between key characters, emphasizing their motivations, ethical dilemmas, and emotional depth.
 ## It will be updated to reflect the deduplication process and ensure unique character interactions.
 
 ## Key Interactions
