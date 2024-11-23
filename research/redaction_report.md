@@ -1,5 +1,7 @@
 ## Change Log Updates
 
+1. **Redaction Notice**: Sensitive information has been redacted in accordance with the protocols outlined in `research/redaction_agent_config.md`.
+
 ### Character Profile Updates
 - **Isabella Torres**: Revised to clarify her motivations and internal conflicts related to AI rights and economic policies, ensuring a deeper understanding of her character.
 - **Marcus Reynolds**: Updated to remove duplicate sections and improve clarity regarding his ideological differences with Isabella, resulting in a more coherent narrative.
