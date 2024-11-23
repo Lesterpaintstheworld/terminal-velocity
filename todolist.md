@@ -109,12 +109,11 @@
 
 ### Required Files
 ### Context Files (read-only)
-- ./chapters/act1/act1_scenes.md 📖 Scene Descriptions
-- ./characters/character_interaction_matrix.md 🧑‍🤝‍🧑 Character Interactions Overview
-- ./world_building/AI_Lifestyle_and_Society_Integration.md 🌍 Societal Integration Context
-- ./world_building/cultural_landscape.md 🎨 Cultural Elements Overview
-- ./research/economic_framework.md 💰 Economic Context
-- ./research/sociological/human_ai_coexistence.md 🤝 Human-AI Relations Context
+- ./aider.agent.redondance.md 📄 Aider agent documentation that may provide insights into redundancy management.
+- ./evaluation_report.md 📊 Report evaluating the current state of character profiles and narratives, useful for understanding existing redundancies.
+- ./characters/character_interaction_matrix.md 🔗 A matrix that outlines interactions between characters, which can help identify inconsistencies in character development.
+- ./characters/relationships_map.md 🗺️ A visual representation of character relationships that may reveal redundancies in character arcs.
+- ./chapters/act1/act1_timeline.md ⏳ Timeline of events in Act 1, helpful for assessing narrative coherence and identifying overlaps.
 
 ### Write Files (to be modified)
 - ./characters/cipher_character_profile.md 📝 Character Profile Updates
