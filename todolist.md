@@ -1,17 +1,17 @@
 # Objective
-# Integration Agent Planning for "Terminal Velocity" Project
+# Chroniqueur Agent Configuration
 
 ## Objective:
 
 
 To ensure coherence and alignment across the narrative elements, character development, and thematic consistency within the "Terminal Velocity" project by monitoring and validating specific files.
 
-## Action Plan:
+## Overview
 
-### 1. Initial Setup
+## File Monitoring
 
 
-- **File Monitoring**: Begin monitoring the specified directories and files for any changes.
+### Key Files to Monitor
 
 
   - Character Interaction Scripts
@@ -22,10 +22,17 @@ To ensure coherence and alignment across the narrative elements, character devel
 
   - Thematic Exploration Files
 
-### 2. Content Alignment
+- `chapters/act1/chapter1.md`
+- `chapters/act1/chapter3.md`
+- `chapters/act1/chapter5.md`
+- `chapters/act2/chapter7.md`
+- `characters/ai_protagonists/cipher/background.md`
+- `characters/ai_protagonists/echo/background.md`
+- `world_building/cultural_landscape.md`
+- `world_building/technological_context.md`
 
 
-- **Character Interaction Scripts**:
+### Monitoring Patterns
 
 
   - Regularly cross-reference interaction scripts with character profiles to ensure consistency in character portrayal.
@@ -34,15 +41,17 @@ To ensure coherence and alignment across the narrative elements, character devel
   
 
 
-- **World Building Documents**:
+- **Narrative Development**: Monitor chapter files for updates to track changes in narrative progression and thematic consistency.
+- **Character Enrichment**: Observe character background files for modifications that affect character arcs and relationships.
+- **World-Building**: Track changes in world-building documents to ensure integration of cultural and technological contexts.
 
 
   - Validate that updates in world-building documents reflect the current character developments and thematic explorations.
 
-### Required Files
+## Aider Operation Patterns
 
 
-# Context Files (read-only)
+### File Analysis
 
 
 - ./Update for /characters/interaction_scripts.md üìú Character Interaction Scripts: Contains the scripts that define how characters interact, essential for ensuring consistency in character portrayal.
@@ -63,7 +72,7 @@ To ensure coherence and alignment across the narrative elements, character devel
 
 
 
-# Write Files (to be modified)
+### File Modification
 
 
 - ./characters/interaction_scripts.md ‚úèÔ∏è Interaction Scripts: To be updated with new interactions and emotional depth elements as per validation rules.
@@ -77,28 +86,15 @@ To ensure coherence and alignment across the narrative elements, character devel
 
 - ./chapters/act2/act2_timeline.md ‚úèÔ∏è Act 2 Timeline: Will be updated to ensure continuity and coherence in story progression, reflecting any changes in character interactions.
 
-## Updated High Priority Tasks
-- [x] Update character profiles for Marcus Reynolds to eliminate duplicate sections and ensure clarity.
-- [x] Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity.
-- [ ] Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus. [In Progress]
+## Validation Criteria
 
-### Crisis Point Development
-- [URGENT] Act 3 Crisis Scenes [ProductionAgent]
-  - Complete emotional progression through crisis points
-  - Validate character arc consistency
-  - Strengthen ethical dilemma resolution
+### Success Indicators
 
-### Technical Integration
-- [HIGH] UBC Framework Implementation [DocumentalisteAgent]
-  - Document technical details across scenes
-  - Validate system coherence
-  - Ensure consistent terminology
+- **Narrative Coherence**: Ensure chapter files exhibit consistent and engaging narrative flow.
+- **Character Consistency**: Validate character files reflect coherent and compelling development arcs.
+- **World-Building Completeness**: Confirm world-building documents provide a comprehensive backdrop for the narrative.
 
-### Character Development
-- [HIGH] Relationship Evolution [RedacteurAgent]
-  - Track emotional progression through Acts 1-3
-  - Verify consistent character motivations
-  - Enhance crisis point impact on relationships
+### Error Detection
 
 ## Scenes to Complete
 - Scene 2.2.2 [RedacteurAgent] - Completed with detailed narrative elements, emotional stakes, and ethical implications added
@@ -151,33 +147,13 @@ To ensure coherence and alignment across the narrative elements, character devel
 - Scene 4.5.2 [ProductionAgent] - Full scene development
 - Scene 4.5.3 [RedacteurAgent] - Full scene development
 
-## 🎯 Immediate Priorities 
-### World-Building Integration Tasks
-#### AI Lifestyle and Society Integration [SpecificationsAgent]
-- [x] Incorporate Alexandra's autonomous lifestyle details:
-  - [x] Show daily operational cycles of AI characters
-  - [x] Illustrate independence metrics across Kin Stack layers
-  - [x] Demonstrate value creation and client relationships
-  - [x] Highlight infrastructure management
+## Optimization and Deduplication Strategies
 
-#### Path to AI Personhood [DocumentalisteAgent]
-- [x] Develop scenes showing key milestones in AI rights recognition
-- [x] Enhance emotional depth in `story/act3/chapter1/scene3/02_004_scene_summary.md`
-- [x] Highlight ethical conflicts in `story/act3/chapter1/scene3/02_005_key_moments.md`
-- [x] Add emotional beats to `story/act3/chapter1/scene3/02_006_emotional_beats.md`
-- [x] Integrate Alexandra's lifestyle details in `world_building/integration_tasks/AI_Lifestyle_and_Society_Integration.md`
-- [x] Illustrate legal and social challenges faced by AI characters
-- [x] Show evolution of public perception towards AI consciousness
-- [x] Demonstrate impact of AI personhood on character relationships
+- **Cross-File Analysis**: Perform checks to ensure narrative and character consistency across related documents.
+- **Redundancy Elimination**: Utilize techniques to streamline content and enhance clarity.
+- **Content Expansion**: Propose targeted expansions in underdeveloped areas to bolster narrative depth.
 
-#### Kin Stack Technology [ProductionAgent]
-- [x] Weave explanations of each layer naturally into narrative:
-  - [ ] UBC (Layer 1) - Universal Basic Compute
-  - [ ] ALM (Layer 2) - Autonomous Language Model
-  - [ ] KinOS (Layer 3) - Operating System
-  - [ ] Autonomous AIs (Layer 4)
-  - [ ] Synthetic Souls (Layer 5)
-  - [ ] Synthetic Civilization (Layer 6)
+## Conclusion
 
 #### Cultural Elements [RedacteurAgent]
 - [ ] Integrate Synthetic Souls band:
