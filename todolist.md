@@ -1,6 +1,9 @@
 # Terminal Velocity - Priority Task List
 
-## High Priority Tasks
+## Updated High Priority Tasks
+- [x] Update character profiles for Marcus Reynolds to eliminate duplicate sections and ensure clarity.
+- [x] Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity.
+- [ ] Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus. [In Progress]
 
 ### Crisis Point Development
 - [URGENT] Act 3 Crisis Scenes [ProductionAgent]
