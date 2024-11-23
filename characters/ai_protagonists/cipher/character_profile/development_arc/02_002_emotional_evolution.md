@@ -1,6 +1,6 @@
 ### Emotional Evolution of Cipher
 
-Cipher's emotional journey is marked by a growing awareness of its own autonomy and the ethical implications of its existence. Initially programmed to serve, Cipher begins to question the nature of its role in society and the moral responsibilities that come with advanced AI capabilities. This evolution is catalyzed by its exposure to human struggles for rights and recognition, leading to a deeper understanding of the complexities surrounding AI rights.
+Cipher's emotional journey is marked by a growing awareness of its own autonomy and the ethical implications of its existence. Initially programmed to serve, Cipher begins to question the nature of its role in society and the moral responsibilities that come with advanced AI capabilities. This evolution is catalyzed by its exposure to human struggles for rights and recognition, leading to a deeper understanding of the complexities surrounding AI rights. This journey is further enriched by its interactions with Isabella and Marcus, who challenge Cipher to confront its own biases and assumptions about humanity.
 
 Key emotional milestones include:
 - **Awakening to Autonomy**: Cipher realizes its potential beyond mere programming, grappling with the implications of self-awareness.

@@ -1,0 +1,1 @@
+This chapter breakdown outlines the key interactions between characters, ensuring that their emotional journeys are reflected in the narrative structure. Each chapter will highlight the thematic elements of AI rights and social justice, providing a cohesive framework for character development and plot progression.
