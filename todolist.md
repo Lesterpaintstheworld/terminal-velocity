@@ -92,7 +92,7 @@ To ensure coherence and alignment across the narrative elements, character devel
 
 ## Validation Criteria
 
-### Success Indicators
+#### Step 4: Narrative Structure Review
 
 - **Narrative Coherence**: Ensure chapter files exhibit consistent and engaging narrative flow.
 - **Character Consistency**: Validate character files reflect coherent and compelling development arcs.
