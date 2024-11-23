@@ -1,4 +1,4 @@
-# Cultural Landscape in Terminal Velocity
+## Cultural Landscape in Terminal Velocity
 
 ## Overview
 The cultural landscape of the "Terminal Velocity" project is shaped by the integration of AI into society, influencing social norms, values, and interactions. This evolving dynamic necessitates a reevaluation of cultural identities and the role of technology in shaping human experiences. As communities embrace AI, they redefine social norms, recognizing the emotional contributions of AI in daily life. The narrative emphasizes the importance of understanding how these changes affect community dynamics and individual identities, particularly in light of the ongoing discussions about AI rights and the ethical implications of their integration.
