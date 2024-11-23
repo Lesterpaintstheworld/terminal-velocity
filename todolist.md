@@ -1,5 +1,5 @@
 # Objective
-# Planning for Redondance Agent Operations
+# Chroniqueur Agent Action Plan
 
 ## Mission Objectives
 
