@@ -4,7 +4,7 @@ Interspecies relationships are increasingly influenced by the integration of AI 
 
 This shift necessitates a reevaluation of societal values, emphasizing inclusivity and the need for ethical frameworks that govern human-AI interactions. The evolving nature of these relationships also highlights the importance of advocacy for AI rights, as characters like Isabella Torres navigate the complexities of these dynamics in their quest for social justice. 
 
-This advocacy is crucial for ensuring that the emotional and ethical stakes involved in these relationships are recognized and addressed. Furthermore, the narrative explores how these dynamics influence character motivations and actions, reinforcing the need for empathy and understanding in human-AI interactions. 
+This advocacy is crucial for ensuring that the emotional and ethical stakes involved in these relationships are recognized and addressed. Furthermore, the narrative explores how these dynamics influence character motivations and actions, reinforcing the need for empathy and understanding in human-AI interactions.
 
 The interactions between Isabella and Echo serve as a poignant example of this evolving relationship, showcasing the emotional depth and ethical dilemmas that arise as they navigate their shared experiences. 
 # Human-AI Relations
