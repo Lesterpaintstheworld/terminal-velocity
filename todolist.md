@@ -1,13 +1,16 @@
 # Objective
-## Evaluation Agent Planning for "Terminal Velocity" Project
+# Aider Agent Production Role Plan
 
-### Objective
-To ensure narrative coherence, character consistency, and thematic alignment in the "Terminal Velocity" project by monitoring specified files and utilizing Aider for validation and analysis.
+## Mission: Terminal Velocity - Priorit√©s de D√©veloppement
 
-### Step-by-Step Plan
-1. **Initial Setup**
-   - Configure Aider to monitor the specified directories and files for changes.
-   - Establish a baseline for character profiles, interaction scripts, narrative structure, and thematic elements.
+### Objective:
+To enhance the quality and coherence of narrative development, character enrichment, world-building, and thematic consistency within the KinOS framework.
+
+### Plan of Action:
+1. **Initial Assessment (Week 1)**
+   - **Review all monitored files**: Conduct a comprehensive review of narrative, character, world-building, and thematic files.
+   - **Identify incomplete sections**: Use validation rules to pinpoint any incomplete narrative scenes or character profiles.
+   - **Document findings**: Create a report detailing areas requiring attention and enhancement.
 
 2. **Character Profile Review**
    - Analyze character profiles for consistency and alignment with development arcs.
