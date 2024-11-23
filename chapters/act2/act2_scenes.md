@@ -1,6 +1,6 @@
 # Act 2 Scenes
 ## Scene 1: Rising Tension
-- The stakes are raised as Nova's abilities are put to the test.
+- The stakes are raised as Nova's abilities are put to the test, revealing her internal conflicts about AI rights.
 - Marcus and Isabella's relationship becomes more complicated.
 
 ## Scene 2: Climax
