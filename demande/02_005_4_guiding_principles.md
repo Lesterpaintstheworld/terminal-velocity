@@ -3,7 +3,7 @@
 ### Strategic Axes
 - Responsible technological innovation that prioritizes ethical considerations.
 - Ethical and social balance
-- Economic viability
+- Economic viability [REDACTED]
 - Systemic sustainability
 
 ### Key Metrics
