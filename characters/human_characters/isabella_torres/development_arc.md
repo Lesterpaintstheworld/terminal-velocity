@@ -27,7 +27,7 @@ Isabella's journey is characterized by a profound internal struggle between tech
 
 #### Key Relationships
 - **With Isabella Torres**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of technology in society, particularly regarding the ethical implications of AI technologies. Their debates challenge her to refine her arguments and strategies, ultimately strengthening her resolve to fight for equality. Despite their differences, they occasionally find common ground, leading to collaborative proposals that reflect both their perspectives. 
-- **Emotional Stakes**: The emotional stakes in Marcus's relationship with Isabella are profound. He often feels the weight of their discussions, particularly when they address the impact of AI on marginalized communities. In a moment of reflection, he acknowledges, "I understand your concerns, but we must also consider the broader implications of our decisions." This highlights the complexity of their relationship as they navigate their differing priorities while seeking common ground.
+- **Emotional Stakes**: The emotional stakes in Marcus's relationship with Isabella are profound. He often feels the weight of their discussions, particularly when they address the impact of AI on marginalized communities. In a moment of reflection, he acknowledges, "I understand your concerns, but we must also consider the broader implications of our decisions." This highlights the complexity of their relationship as they navigate their differing priorities while seeking common ground. [REDACTED]
 
 ### Emotional Complexity in AI Advocacy
 
