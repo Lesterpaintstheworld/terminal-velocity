@@ -5,7 +5,7 @@ This report outlines the actions taken by the Redaction Agent to identify and re
 
 ### Key Findings
 - **Narrative Consistency**: The narrative across chapters shows a coherent flow, but some character motivations need further development.
-- **Sensitive Information Redacted**: All identified sensitive information related to economic frameworks and character interactions has been successfully redacted.
+- **Sensitive Information Redacted**: All identified sensitive information related to economic frameworks, AI rights, and character interactions has been successfully redacted.
 - **Character Development**: Isabella and Marcus's arcs are compelling but require deeper exploration of their internal conflicts.
 - **World-Building**: The cultural landscape is rich, yet some elements lack integration with character narratives.
 
