@@ -1,4 +1,5 @@
-# Objective
+## Objective
+## Revised Objective for Chapter and Scene Structure Presentation
 ## Revised Objective for Chapter and Scene Structure Presentation
 
 ### Action Items
