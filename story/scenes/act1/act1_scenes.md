@@ -1,6 +1,6 @@
 ## Scene 1: The Opening
-- **Setting**: A bustling city square where citizens gather to discuss AI rights.
-- **Description**: The atmosphere is electric with anticipation as community members express their hopes and fears about AI integration. Isabella stands at the forefront, advocating for the rights of marginalized communities, while Marcus counters with a focus on security and stability. Their dialogue reveals the complexities of their relationship and the ethical dilemmas they face, setting the stage for deeper exploration of their motivations.
+- **Setting**: A bustling city square where citizens gather to discuss AI rights and the future of technology.
+- **Description**: The atmosphere is electric with anticipation as community members express their hopes and fears about AI integration. Isabella stands at the forefront, passionately advocating for the rights of marginalized communities, while Marcus counters with a focus on security and stability. Their dialogue reveals the complexities of their relationship and the ethical dilemmas they face, setting the stage for a deeper exploration of their motivations and the societal implications of their actions.
 
 ## Scene 2: The Confrontation
 - **Setting**: A tense meeting room where Isabella and Marcus debate their differing views.

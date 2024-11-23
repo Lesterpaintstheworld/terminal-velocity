@@ -1,10 +1,10 @@
 # Economic Models - Updated for narrative alignment
 ## Overview
-This document integrates the Universal Basic Compute (UBC) into existing economic models, highlighting its impact on resource distribution and equity.
+This document integrates the Universal Basic Compute (UBC) into existing economic models, highlighting its impact on resource distribution and equity. It emphasizes the importance of equitable access to resources and the role of technology in shaping economic interactions.
 ## Updated Frameworks
-1. **Decentralized Market Model**: An exploration of how UBC facilitates decentralized markets, allowing for more equitable resource distribution.
-2. **Collaborative Consumption Model**: Analysis of how UBC supports collaborative consumption, enhancing community engagement and resource sharing.
-3. **Sustainable Economic Practices**: Discussion on how UBC promotes sustainability in resource management and economic interactions.
+1. **Decentralized Market Model**: An exploration of how UBC facilitates decentralized markets, allowing for more equitable resource distribution and reducing barriers to entry for marginalized communities.
+2. **Collaborative Consumption Model**: Analysis of how UBC supports collaborative consumption, enhancing community engagement and resource sharing, while promoting social equity.
+3. **Sustainable Economic Practices**: Discussion on how UBC promotes sustainability in resource management and economic interactions, ensuring that economic growth does not come at the expense of environmental health.
 ## Overview
 This document integrates the Universal Basic Compute (UBC) into existing economic models, highlighting its impact on resource distribution and equity.
 ## Updated Frameworks
