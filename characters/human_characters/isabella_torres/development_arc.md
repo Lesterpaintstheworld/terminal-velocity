@@ -1,4 +1,4 @@
-## Character Development Arc: Ethical Evolution and Professional Growth (Updated)
+## Character Development Arc: Ethical Evolution and Professional Growth
 Isabella's journey is characterized by an internal struggle between technological innovation and social responsibility. Her advocacy work faces complex ethical dilemmas that challenge her to balance progress and protection. This conflict is crucial for her character development and aligns with the narrative's exploration of AI rights. Interactions with Marcus and Nova help her articulate her fears and hopes, deepening her understanding of the ethical landscape. Her relationship with Marcus is complex, marked by collaboration and conflict, shaping her advocacy strategies.
 
 ### Key Relationships
