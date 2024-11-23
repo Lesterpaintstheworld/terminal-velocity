@@ -2,6 +2,7 @@
 
 ## Overview
 This document integrates the Universal Basic Compute (UBC) into existing economic models, highlighting its impact on resource distribution and equity. It emphasizes the importance of equitable access to resources and the role of technology in shaping economic interactions. The updated frameworks will reflect the evolving dynamics of character interactions and the implications of AI rights on economic structures.
+- The models will also consider the socio-economic impacts of AI integration, ensuring that they align with the narrative's themes of equity and justice.
 
 ## Updated Economic Models
 1. **Decentralized Market Model**: An exploration of how UBC facilitates decentralized markets, allowing for more equitable resource distribution and reducing barriers to entry for marginalized communities.
