@@ -1,0 +1,1 @@
+Isabella Torres is a passionate advocate for AI rights, driven by her commitment to social equity. She often finds herself torn between the urgency of technological advancement and the need to ensure that marginalized communities are not left behind. Her internal struggles reflect her deep sense of responsibility and the emotional weight of her advocacy.
