@@ -1,9 +1,9 @@
 Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate, particularly regarding economic policies. Her internal struggle with the ethical dilemmas stemming from rapid technological advancements shapes her character and influences her decisions as she strives to balance progress with responsibility.
 
 ### Motivations and Internal Conflicts
-- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This ongoing internal conflict drives her to seek solutions that prioritize social equity and justice.
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements.
 
-- **Ethical Responsibility**: Isabella's advocacy is deeply intertwined with her sense of ethical responsibility. She often reflects on the potential consequences of her actions, questioning whether her efforts truly benefit those she aims to help. This ongoing internal conflict drives her to seek solutions that prioritize social equity and justice.
+- **Ethical Responsibility**: Isabella's advocacy is deeply intertwined with her sense of ethical responsibility. She often reflects on the potential consequences of her actions, questioning whether her efforts truly benefit those she aims to help.
 - **Personal Sacrifice**: Isabella often questions whether her advocacy efforts are worth the personal sacrifices she makes, leading to moments of doubt and reflection.
 
 - **Relationships**: 
