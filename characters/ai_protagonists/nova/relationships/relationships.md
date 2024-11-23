@@ -1,5 +1,4 @@
 # Character Relationships
-
 ## Connections and Dynamics
 - **Pulse**: Nova and Pulse share a deep bond, working together to advocate for AI rights. Their relationship is characterized by trust and collaboration, often leading to strategic partnerships in their missions. Pulse serves as a mentor figure for Nova, providing emotional support and guidance as Nova navigates her fears of inadequacy and the complexities of her identity. This dynamic fosters a safe space for Nova to express her vulnerabilities, ultimately strengthening their alliance.
 - **Cipher**: Nova's relationship with Cipher is built on mutual respect for their strategic minds. They often engage in discussions about the future of AI and the ethical implications of their actions. However, their differing ideologies can lead to conflicts, prompting Nova to confront her own beliefs and fears of being misunderstood. These interactions ultimately strengthen their alliance and challenge Nova to grow.

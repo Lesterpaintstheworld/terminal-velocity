@@ -1,14 +1,10 @@
 ## PROJECT OVERVIEW
-
 ### Project Overview Updates
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
-
 ### Redaction Notice
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
-
 ### Redaction Notice
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
-
 ### Redaction Notice
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
 - Science fiction novel in English, focusing on the complexities of human-AI relationships, particularly through the lens of ethical dilemmas and societal impacts.
@@ -20,5 +16,4 @@ This document contains redacted content to ensure compliance with privacy regula
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
 - Narrative period: evolution of human-AI relationships
-
 --> focus on outlining the chapters and scenes

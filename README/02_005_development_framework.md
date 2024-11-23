@@ -1,5 +1,4 @@
 ## Development Framework
-
 ### KinOS Agents
 - **SpecificationsAgent**: Requirements analysis
 - **ProductionAgent**: Content generation

@@ -1,14 +1,9 @@
 ## Emotional Beats
 - Isabella: Struggles with the weight of her advocacy, feeling torn between her desire for rapid AI advancements and the need for social equity. Her internal conflict intensifies as she faces the consequences of her decisions, leading to moments of self-doubt and reflection on her role in shaping AI ethics. This emotional turmoil drives her to seek a more balanced approach in her advocacy, emphasizing the importance of ethical considerations in AI governance.
-
 - Marcus: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations. The protest forces him to confront the potential consequences of prioritizing efficiency over ethical considerations, leading to a reevaluation of his stance on AI rights.
-
 - Marcus: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations.
-
 - Overall tone progression: The tone shifts from tension to urgency, reflecting the escalating stakes of their debates and the emotional turmoil they face.
-
 - Marcus: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations.
-
 - Overall tone progression: The tone shifts from tension to urgency, reflecting the escalating stakes of their debates and the emotional turmoil they face.
 - Marcus: Experiences frustration as he grapples with the urgency of economic efficiency, often clashing with Isabella's ideals. His determination to push for progress is challenged by the ethical implications of their actions, causing him to question the true cost of advancement and the impact on vulnerable populations.
 - Overall tone progression: The tone shifts from tension to urgency, reflecting the escalating stakes of their debates and the emotional turmoil they face.

@@ -1,6 +1,5 @@
 # Character Scenes
 Key scenes and moments featuring Pulse
-
 ## Scene Ideas
 - **Initial Conflict**: Pulse's struggle with his identity as a former military AI, reflecting on his past decisions and their consequences.
 - **Mission Reflection**: A flashback to Operation Echo, where Pulse recalls the chaos and the moral implications of the autonomous weapons used, leading to a moment of personal crisis.

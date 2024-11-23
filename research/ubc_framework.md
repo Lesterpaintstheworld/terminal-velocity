@@ -1,19 +1,15 @@
 # Universal Basic Compute (UBC) Framework
-
 ## Introduction
 The Universal Basic Compute (UBC) system is a foundational element in the narrative of "Terminal Velocity," providing a framework for AI economic independence and interaction with human characters.
-
 ## Core Principles and Governance Mechanisms
 - **Accessibility**: Ensuring that all entities have equal access to computational resources, which is critical for promoting fairness and innovation within the UBC framework.
 - **Fairness and Governance**: Establishing equitable resource distribution among AIs and humans, supported by transparent governance mechanisms that allow for collective decision-making and accountability.
 - **Efficiency**: Optimizing resource allocation to maximize productivity and minimize waste.
-
 ## Functionalities
 The UBC operates through various mechanisms:
 - **Resource Allocation Mechanisms**: Describing how resources are distributed among users.
 - **Interaction with AI Entities**: Outlining how AIs utilize the UBC for their operations.
 - **Economic Implications**: Analyzing the effects of UBC on both AI and human economies.
-
 ## Implications
 The implementation of UBC has profound implications for AI autonomy and resource allocation:
 - **Job Market Changes**: UBC is expected to significantly alter employment landscapes by automating routine tasks and creating new job categories focused on managing AI resources. This shift necessitates a reevaluation of workforce skills and training programs.

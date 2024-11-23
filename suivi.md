@@ -1,116 +1,82 @@
 # Résumé des logs précédents
-
 # Project Progress Summary
-
 ## Mission Progress
-The project is advancing well towards its mission objectives, particularly in the outlining of chapters and scenes that delve into the evolving dynamics of human-AI relationships. The recent focus has been on refining Act 3, which is pivotal for addressing ethical dilemmas and character interactions. However, ongoing technical issues related to file encoding have caused some setbacks, impacting narrative coherence and character development.
-
+The project is making substantial progress towards its mission objectives, particularly in the outlining of chapters and scenes that explore human-AI relationships. The focus has been primarily on refining Act 3, which is crucial for addressing ethical dilemmas and character interactions. However, persistent technical issues with file encoding have caused some delays, affecting narrative coherence and character development.
 ## Key Achievements
-- **Act 3 Scene Outlining**: Significant progress has been made in outlining key scenes in Act 3, with a strong emphasis on the ethical implications surrounding AI rights, which is central to the novel's themes.
-- **Character Profile Enhancements**: Updates to character profiles for Isabella and Marcus have been completed, ensuring their development arcs are coherent and impactful, aligning with the mission's focus on character depth.
-- **Crisis Point Development**: Critical scenes that integrate emotional stakes and ethical discussions have been successfully outlined, enriching the narrative's philosophical depth.
+- **Act 3 Scene Outlining**: Significant advancements have been made in outlining pivotal scenes in Act 3, emphasizing the ethical implications of AI rights, which aligns closely with the novel's core themes.
+- **Character Profile Enhancements**: Updates to character profiles for Isabella and Marcus have been finalized, ensuring their development arcs are coherent and impactful, consistent with the mission's focus on character depth.
+- **Crisis Point Development**: Key scenes integrating emotional stakes and ethical discussions have been successfully outlined, enriching the narrative's philosophical depth.
 - **Ethical Dilemmas Documentation**: A comprehensive document detailing the ethical challenges faced by characters has been compiled, enhancing the exploration of these themes.
-
 ## Technical Changes
 - **File Modifications**:
   - Multiple files have been converted to UTF-8 to resolve encoding issues, ensuring compatibility for character development maps and world-building validations.
   - Scene templates have been updated to better articulate emotional stakes and clarify ethical dilemmas.
   - Changes in character interactions and ethical dilemmas have been documented for future reference.
 - **Error Handling**: The team is actively addressing recurring file encoding issues that have caused task failures, particularly in agent cycles, with ongoing efforts to identify and rectify the source of these errors.
-
 ## Coordination Notes
 - **Agent Interactions**: Collaboration among agents has been effective, particularly in deduplication and integration tasks, which have streamlined character profiles and enhanced narrative coherence.
 - **Feedback Integration**: Continuous updates based on team feedback, especially regarding character development and ethical considerations, have been implemented, ensuring alignment with mission objectives.
 - **Communication**: Regular mission summaries have been maintained to ensure all team members remain aligned with project objectives, fostering a collaborative environment.
-
 ## Next Steps
 - **Resolve Technical Issues**: Focus on fixing remaining encoding errors to ensure all context files are accessible for seamless development.
 - **Continue Scene Outlining**: Prioritize further outlining of remaining chapters and scenes, emphasizing emotional depth and ethical implications.
 - **Refine Character Interactions**: Ongoing refinement of character interactions will ensure they resonate with the overarching themes of AI rights and social equity.
 - **Final Review and Adjustments**: Conduct a thorough review of all modifications to ensure alignment with mission objectives before progressing to the next phase of writing.
-
 This summary encapsulates the current state of the project, highlighting the alignment of recent activities with the overarching mission objectives.
-
 # Nouveaux logs
-
-2024-11-23 23:16:45 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:16:45 - SUCCESS - ✨ Converted .aider.agent.specification.md from ascii to UTF-8
-2024-11-23 23:16:46 - SUCCESS - ✨ Converted .aider.objective.specification.md from utf-8 to UTF-8
-2024-11-23 23:16:46 - SUCCESS - ✨ Converted .aider.objective.specification.md from utf-8 to UTF-8
-2024-11-23 23:16:46 - SUCCESS - ✨ Converted .aider.agent.specification.md from ascii to UTF-8
-2024-11-23 23:16:46 - SUCCESS - 🔨 Git commit: dcd5ee16 - style: Update document headers for clarity.
-2024-11-23 23:17:22 - SUCCESS - Agent 🏭 production: I'm enhancing character development and emotional evolution in the narrative to ensure coherence and depth ✍️ [characters/ai_protagonists/echo/development_arc.md, characters/human_characters/isabella_torres/profile.md, chapters/act1/chapter3.md]
-2024-11-23 23:17:22 - SUCCESS - ✨ Converted .aider.objective.production.md from MacRoman to UTF-8
-2024-11-23 23:17:22 - SUCCESS - ✨ Converted .aider.agent.production.md from utf-8 to UTF-8
-2024-11-23 23:17:22 - SUCCESS - ✨ Converted .aider.objective.production.md from utf-8 to UTF-8
-2024-11-23 23:17:22 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:17:22 - SUCCESS - ✨ Converted .aider.agent.production.md from utf-8 to UTF-8
-2024-11-23 23:17:23 - SUCCESS - ✨ Converted .aider.objective.production.md from utf-8 to UTF-8
-2024-11-23 23:17:23 - SUCCESS - ✨ Converted .aider.objective.production.md from utf-8 to UTF-8
-2024-11-23 23:17:23 - SUCCESS - ✨ Converted .aider.agent.production.md from utf-8 to UTF-8
-2024-11-23 23:17:23 - SUCCESS - 🔨 Git commit: dcd5ee16 - style: Update document headers for clarity.
-2024-11-23 23:17:52 - SUCCESS - Agent 🧭 management: I'm enhancing character profiles and revising scene descriptions to ensure narrative coherence and depth ✍️ [characters/ai_protagonists/cipher_character_profile/profile.md, characters/human_characters/isabella_torres/profile.md, story/scenes/act1/act1_scenes.md]
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.objective.management.md from MacRoman to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.agent.management.md from ascii to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.objective.management.md from utf-8 to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.agent.management.md from ascii to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.objective.management.md from utf-8 to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.objective.management.md from utf-8 to UTF-8
-2024-11-23 23:17:52 - SUCCESS - ✨ Converted .aider.agent.management.md from ascii to UTF-8
-2024-11-23 23:17:52 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:17:52 - ERROR - Error in agent cycle for chroniqueur: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:17:52 - ERROR - Error in agent cycle for chroniqueur: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:17:52 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:18:25 - SUCCESS - Agent 📜 chroniqueur: I'm conducting initial file analysis to establish a baseline for narrative consistency and character development ✍️ [chapters/act1/chapter1.md, chapters/act1/chapter3.md, chapters/act1/chapter5.md, chapters/act2/chapter7.md, characters/ai_protagonists/cipher/background.md, characters/ai_protagonists/echo/background.md, world_building/cultural_landscape.md, world_building/technological_context.md]
-2024-11-23 23:18:25 - SUCCESS - ✨ Converted .aider.objective.chroniqueur.md from utf-8 to UTF-8
-2024-11-23 23:18:25 - SUCCESS - ✨ Converted .aider.agent.chroniqueur.md from ascii to UTF-8
-2024-11-23 23:18:25 - SUCCESS - ✨ Converted .aider.objective.chroniqueur.md from utf-8 to UTF-8
-2024-11-23 23:18:26 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:18:26 - SUCCESS - ✨ Converted .aider.agent.chroniqueur.md from ascii to UTF-8
-2024-11-23 23:18:26 - SUCCESS - ✨ Converted .aider.objective.chroniqueur.md from utf-8 to UTF-8
-2024-11-23 23:18:26 - SUCCESS - ✨ Converted .aider.objective.chroniqueur.md from MacRoman to UTF-8
-2024-11-23 23:18:26 - SUCCESS - ✨ Converted .aider.agent.chroniqueur.md from ascii to UTF-8
-2024-11-23 23:18:26 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:18:26 - ERROR - Error in agent cycle for specification: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:18:26 - ERROR - Error in agent cycle for specification: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:18:26 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
-2024-11-23 23:18:56 - SUCCESS - Agent 👥 deduplication: I'm conducting a comprehensive review of character profiles and interaction scripts to establish a baseline for redundancy ✍️ [./characters/interaction_scripts.md, ./characters/interactions_scripts.md, ./characters/cipher_character_profile.md, ./characters/nova_character_profile.md]
-2024-11-23 23:18:56 - SUCCESS - ✨ Converted .aider.objective.deduplication.md from MacRoman to UTF-8
-2024-11-23 23:18:56 - SUCCESS - ✨ Converted .aider.agent.deduplication.md from ascii to UTF-8
-2024-11-23 23:18:56 - SUCCESS - ✨ Converted .aider.objective.deduplication.md from utf-8 to UTF-8
-2024-11-23 23:18:57 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:18:57 - SUCCESS - ✨ Converted .aider.agent.deduplication.md from ascii to UTF-8
-2024-11-23 23:18:57 - SUCCESS - ✨ Converted .aider.objective.deduplication.md from utf-8 to UTF-8
-2024-11-23 23:18:58 - SUCCESS - ✨ Converted .aider.objective.deduplication.md from utf-8 to UTF-8
-2024-11-23 23:18:58 - SUCCESS - ✨ Converted .aider.agent.deduplication.md from ascii to UTF-8
-2024-11-23 23:19:10 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe0 in position 24: invalid continuation byte
-2024-11-23 23:19:10 - ERROR - Error in agent cycle for management: 'utf-8' codec can't decode byte 0xe0 in position 24: invalid continuation byte
-2024-11-23 23:19:10 - ERROR - Error in agent cycle for management: 'utf-8' codec can't decode byte 0xe0 in position 24: invalid continuation byte
-2024-11-23 23:19:10 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe0 in position 24: invalid continuation byte
-2024-11-23 23:19:46 - SUCCESS - Agent 🎭 redondance: I'm conducting a comprehensive review of character profiles and narrative documents to identify and eliminate redundancies ✍️ [./characters/cipher_character_profile.md, ./characters/nova_character_profile.md, ./chapters/act1/chapter1.md, ./chapters/act1/chapter3.md, ./chapters/act2/act2_timeline.md]
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.objective.redondance.md from MacRoman to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.agent.redondance.md from ascii to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.objective.redondance.md from utf-8 to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.agent.redondance.md from ascii to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.objective.redondance.md from utf-8 to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.objective.redondance.md from utf-8 to UTF-8
-2024-11-23 23:19:47 - SUCCESS - ✨ Converted .aider.agent.redondance.md from ascii to UTF-8
-2024-11-23 23:20:34 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe9 in position 40: invalid continuation byte
-2024-11-23 23:20:34 - ERROR - Error in agent cycle for production: 'utf-8' codec can't decode byte 0xe9 in position 40: invalid continuation byte
-2024-11-23 23:20:34 - ERROR - Error in agent cycle for production: 'utf-8' codec can't decode byte 0xe9 in position 40: invalid continuation byte
-2024-11-23 23:20:34 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe9 in position 40: invalid continuation byte
-2024-11-23 23:21:20 - SUCCESS - Agent ⚖️ evaluation: I'm analyzing character profiles and interaction scripts for consistency and thematic alignment ✍️ [characters/ai_protagonists/cipher/character_profile/development_arc/02_002_emotional_evolution.md, characters/human_characters/isabella_torres/development_arc.md, characters/human_characters/marcus_reynolds/development_arc.md]
-2024-11-23 23:21:20 - SUCCESS - ✨ Converted .aider.objective.evaluation.md from utf-8 to UTF-8
-2024-11-23 23:21:20 - SUCCESS - ✨ Converted .aider.agent.evaluation.md from ascii to UTF-8
-2024-11-23 23:21:20 - SUCCESS - ✨ Converted .aider.objective.evaluation.md from utf-8 to UTF-8
-2024-11-23 23:21:21 - SUCCESS - ✨ Converted todolist.md from utf-8 to UTF-8
-2024-11-23 23:21:21 - SUCCESS - ✨ Converted .aider.agent.evaluation.md from ascii to UTF-8
-2024-11-23 23:21:21 - SUCCESS - ✨ Converted .aider.objective.evaluation.md from utf-8 to UTF-8
-2024-11-23 23:21:21 - SUCCESS - ✨ Converted .aider.objective.evaluation.md from utf-8 to UTF-8
-2024-11-23 23:21:21 - SUCCESS - ✨ Converted .aider.agent.evaluation.md from ascii to UTF-8
-2024-11-23 23:21:23 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe9 in position 28: invalid continuation byte
-2024-11-23 23:21:23 - ERROR - Error in agent cycle for chroniqueur: 'utf-8' codec can't decode byte 0xe9 in position 28: invalid continuation byte
-2024-11-23 23:21:23 - ERROR - Error in agent cycle for chroniqueur: 'utf-8' codec can't decode byte 0xe9 in position 28: invalid continuation byte
-2024-11-23 23:21:23 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe9 in position 28: invalid continuation byte
+2024-11-23 23:26:24 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1084783 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:24 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1084783 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:24 - ERROR - Error in agent cycle for management: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1084783 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:24 - ERROR - Error in agent cycle for management: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1084783 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:36 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1086170 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:36 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1086170 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:36 - ERROR - Error in agent cycle for chroniqueur: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1086170 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:36 - ERROR - Error in agent cycle for chroniqueur: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1086170 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:57 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1087557 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:57 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1087557 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:57 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1087557 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:26:57 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1087557 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:17 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1088943 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:17 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1088943 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:17 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1088943 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:17 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1088943 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:38 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1090332 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:38 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1090332 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:38 - ERROR - Error in agent cycle for specification: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1090332 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:27:38 - ERROR - Error in agent cycle for specification: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1090332 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:51:27 - SUCCESS - 🌟 Starting KinOS...
+2024-11-23 23:52:13 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1091773 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:52:13 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1091773 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:52:13 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1091773 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:52:13 - ERROR - Error in agent cycle for production: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1091773 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:52:13 - ERROR - Agent task failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1091773 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:53:38 - SUCCESS - 🌟 Starting KinOS...
+2024-11-23 23:53:52 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1093545 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:53:52 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1093545 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:53:52 - ERROR - Error in agent cycle for management: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1093545 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:53:52 - ERROR - Error in agent cycle for management: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1093545 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:55:10 - SUCCESS - 🌟 Starting KinOS...
+2024-11-23 23:55:23 - ERROR - GPT API call failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1094985 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:55:23 - ERROR - ❌ Objective generation failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1094985 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:55:23 - ERROR - Error in agent cycle for deduplication: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1094985 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:55:23 - ERROR - Error in agent cycle for deduplication: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1094985 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-23 23:55:23 - ERROR - Agent task failed: Error code: 400 - {'error': {'message': "Invalid 'messages[2].content': string too long. Expected a string with maximum length 1048576, but got a string with length 1094985 instead.", 'type': 'invalid_request_error', 'param': 'messages[2].content', 'code': 'string_above_max_length'}}
+2024-11-24 00:05:28 - SUCCESS - 🌟 Starting KinOS...
+2024-11-24 00:05:28 - SUCCESS - 🚀 Starting with 1 agents in parallel
+2024-11-24 00:06:00 - SUCCESS - Agent 🌐 integration: I'm updating interaction scripts to enhance emotional depth and conflict resolution in character dynamics ✍️ [characters/human_characters/isabella_torres/interaction_scripts/02_018_interaction_script_for_isabella_torres_and_marcus_reynolds.md, characters/human_characters/marcus_reynolds/interaction_scripts.md]
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.objective.integration.md from MacRoman to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.agent.integration.md from ascii to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.objective.integration.md from utf-8 to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted todolist.md from ascii to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.agent.integration.md from ascii to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.objective.integration.md from utf-8 to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.objective.integration.md from utf-8 to UTF-8
+2024-11-24 00:06:01 - SUCCESS - ✨ Converted .aider.agent.integration.md from ascii to UTF-8
+2024-11-24 00:06:50 - ERROR - Aider operation failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
+2024-11-24 00:06:50 - ERROR - Error in agent cycle for integration: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
+2024-11-24 00:06:50 - ERROR - Error in agent cycle for integration: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
+2024-11-24 00:06:50 - ERROR - Agent task failed: 'utf-8' codec can't decode byte 0xe9 in position 23: invalid continuation byte
+2024-11-24 00:16:49 - SUCCESS - 🌟 Starting KinOS...
+2024-11-24 00:17:26 - SUCCESS - Agent 📜 chroniqueur: I'm monitoring key files for updates and analyzing chapter narratives for consistency and thematic alignment 📖🔍 [chapters/act3/chapter3.md, characters/cipher_character_profile.md, characters/nova_character_profile.md, world_building/AI_Lifestyle_and_Society_Integration.md]
+2024-11-24 00:17:54 - SUCCESS - 🔨 Git commit: 219c623c - feat: Update narrative and character profiles for emotional depth.
+2024-11-24 00:18:32 - SUCCESS - Agent 🔬 chercheur: I'm analyzing character motivations and relationships to ensure consistency and enhance emotional depth in the narrative ✍️ [characters/ai_protagonists/cipher/character_profile/development_arc/02_002_emotional_evolution.md, characters/human_characters/isabella_torres/development_arc.md, characters/human_characters/marcus_reynolds/development_arc.md]

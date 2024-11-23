@@ -1,8 +1,6 @@
 # Autonomous Weapons
 Weapons systems research
-
 ## Specifications Summary
-
 ### Ethical Considerations
 The development and deployment of autonomous weapons systems raise significant ethical questions, including:
 - **Accountability**: [REDACTED]

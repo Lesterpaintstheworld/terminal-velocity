@@ -1,7 +1,6 @@
 # Timeline of Events - Reviewed for Coherence
 ## Key Events
 - **Act 1**: Introduction of Isabella and Marcus, establishing their backgrounds and motivations.
-
 ## Key Events
 - **Act 1**: Introduction of Isabella and Marcus, establishing their backgrounds and motivations. This act sets the stage for the ethical dilemmas they will face as the story progresses, particularly regarding AI rights and societal equity. Key events include their first debate on AI rights, which reveals their differing perspectives and sets the tone for their relationship.
 - **Act 1.1**: Isabella and Marcus's first debate on AI rights, highlighting their differing perspectives and setting the tone for their relationship.
