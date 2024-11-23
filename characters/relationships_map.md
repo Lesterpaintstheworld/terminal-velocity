@@ -1,4 +1,4 @@
-# Character Relationship Map - Updated for Development Arcs
+# Character Relationship Map - Updated for Development Arcs - Enhanced for Emotional Depth
 ## This map outlines the relationships between characters, reflecting recent changes and developments.
 ## This map outlines the relationships between characters, reflecting recent changes and developments.
 
