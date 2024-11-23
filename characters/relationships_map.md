@@ -3,7 +3,7 @@
 ## This map outlines the relationships between characters, reflecting recent changes and developments.
 
 ## Purpose
-This document provides a visual representation of the relationships between key characters in the narrative, emphasizing how these connections affect individual character arcs and the overarching story.
+This document provides a visual representation of the relationships between key characters in the narrative, emphasizing how these connections affect individual character arcs and the overarching story. Recent modifications have clarified the dynamics between Isabella and Marcus, highlighting their ideological clashes and mutual respect, which evolve throughout the narrative.
 
 ## Key Characters
 ### Isabella Torres
