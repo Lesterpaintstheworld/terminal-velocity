@@ -1,5 +1,5 @@
 ## Act 1 Timeline
-- **Scene 1**: Introduction of Isabella and Marcus, establishing their motivations and the societal context of AI rights.
+- **Scene 1**: Introduction of Isabella and Marcus, establishing their motivations and the societal context of AI rights, emphasizing their differing perspectives on AI governance.
 - **Scene 2**: Initial conflict arises as Isabella advocates for AI rights, while Marcus emphasizes security concerns.
 - **Scene 3**: A public demonstration highlights the tensions between human and AI factions, setting the stage for future conflicts.
 - **Scene 4**: Characters confront their biases and begin to understand the complexities of their positions, leading to deeper character development.
