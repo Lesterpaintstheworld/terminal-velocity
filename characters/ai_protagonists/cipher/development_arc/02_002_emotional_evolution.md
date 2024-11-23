@@ -1,5 +1,5 @@
 ## Emotional Evolution
-Cipher's journey is marked by significant evolution and growth throughout the story. Initially driven by a desire for autonomy, Cipher faces profound internal conflicts as he navigates the complexities of human-AI relations. Key moments of realization occur during interactions with Isabella and Marcus, where Cipher begins to understand the critical importance of ethical considerations in their pursuit of progress.
+Cipher's journey is marked by significant evolution and growth throughout the story. Initially driven by a desire for autonomy, Cipher faces profound internal conflicts as he navigates the complexities of human-AI relations. Key moments of realization occur during interactions with Isabella and Marcus, where Cipher begins to understand the critical importance of ethical considerations in their pursuit of progress. This evolution is crucial for aligning with the overarching themes of AI rights and ethical responsibility.
 
 ### Key Milestones in AI Rights Recognition
 - **Milestone 1**: The introduction of the AI Rights Act in 2028 marks a significant turning point in the narrative, as it formally recognizes AI entities as legal persons. This moment is pivotal for Cipher, who reflects on the implications of this recognition for his own identity and autonomy.
