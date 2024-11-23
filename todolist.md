@@ -14,45 +14,22 @@
 - **File Watch**: Implement file monitoring for the specified directories and documents.
 - **Change Detection**: Set up alerts for any modifications in the monitored files.
 
-### Phase 2: Redundancy Identification
+### Step 3: Content Alignment Operations
+- **Character Interaction Review**: Upon detecting changes in interaction scripts, cross-reference with character profiles to ensure emotional depth and conflict resolution are present.
+- **World-Building Verification**: Validate that any updates in world-building documents reflect the current character development and thematic exploration.
 
-1. **Profile Duplication Detection:**
-   - Analyze character profiles for overlapping content.
-   - Document instances of redundancy, noting specific sections that require attention.
+### Step 4: Thematic Consistency Checks
+- **Thematic File Review**: When changes are made to thematic exploration files, verify alignment with narrative goals and character arcs.
+- **Philosophical Consistency**: Ensure that philosophical concepts are articulated clearly and integrate seamlessly with character development.
 
-2. **Interaction Script Analysis:**
-   - Review interaction scripts for similar dialogue or interaction patterns.
-   - Create a list of scripts that contain repeated themes or phrases.
+### Step 5: Narrative Coherence Verification
+- **Continuity Checks**: Regularly check for story progression continuity, especially after updates to interaction scripts and world-building elements.
+- **Character Development Reflection**: Ensure character development arcs are consistently portrayed in their interactions and relationships.
 
-### Phase 3: Content Consolidation
-
-1. **Merging Redundant Profiles:**
-   - For each identified duplicate profile, merge the content into a single, comprehensive profile.
-   - Ensure that the unique aspects of each character are preserved in the consolidation process.
-
-2. **Unique Interaction Development:**
-   - Revise interaction scripts to eliminate redundancy.
-   - Create new dialogue or interaction patterns that enhance character development and maintain narrative engagement.
-
-### Phase 4: Validation and Verification
-
-1. **Consistency Checks:**
-   - Review consolidated profiles and revised interaction scripts for consistency with the overall narrative.
-   - Ensure that character traits and pivotal plot points remain intact.
-
-2. **Narrative Coherence Assessment:**
-   - Analyze the modified content for alignment with the project's narrative goals.
-   - Confirm that character interactions contribute positively to the story's progression.
-
-### Phase 5: Reporting and Feedback
-
-1. **Documentation of Changes:**
-   - Create a report detailing all redundancies identified and the actions taken to resolve them.
-   - Highlight improvements in character depth and interaction quality.
-
-2. **Feedback Loop:**
-   - Share modifications with the narrative team for feedback.
-   - Incorporate any necessary adjustments based on team insights.
+### Step 6: Validation Rules Application
+- **Character Interaction Validation**: Monitor for emotional depth, conflict resolution, and collaboration in interaction scripts.
+- **World-Building Validation**: Confirm accurate representation of cultural, societal, and technological dynamics.
+- **Thematic Validation**: Ensure that AI autonomy and human-AI relations are explored consistently throughout the narrative.
 
 #### Step 1: Initial Monitoring Setup
 - **Initiate Monitoring**: Start by setting up monitoring processes for the specified primary files:
