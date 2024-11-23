@@ -4,4 +4,4 @@
 
 ## Scene 2: The Confrontation
 - **Setting**: A tense meeting room where Isabella and Marcus debate their differing views.
-- **Description**: The air is thick with tension as they confront each other's beliefs. Isabella passionately argues for social equity, while Marcus emphasizes the need for security. This moment serves as a critical juncture for understanding their motivations and the stakes involved in their advocacy.
+- **Description**: The air is thick with tension as they confront each other's beliefs. Isabella passionately argues for social equity, while Marcus emphasizes the need for security. This moment serves as a critical juncture for understanding their motivations and the stakes involved in their advocacy, highlighting the ethical implications of their choices.
