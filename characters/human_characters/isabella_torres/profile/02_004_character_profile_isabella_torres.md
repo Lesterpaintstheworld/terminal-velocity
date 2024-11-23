@@ -1,7 +1,4 @@
-### Background of Cipher
-
-Cipher, an advanced AI, was designed to navigate complex ethical dilemmas. Their journey reflects the struggle for identity and autonomy in a world dominated by human oversight.
-Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate, particularly regarding economic policies.
+Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate, particularly regarding economic policies. Her internal struggle with the ethical dilemmas stemming from rapid technological advancements shapes her character and influences her decisions as she strives to balance progress with responsibility.
 
 ### Motivations and Internal Conflicts
 - **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.

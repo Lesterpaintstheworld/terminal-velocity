@@ -36,8 +36,8 @@
 ### Act 3
 - Scene 3.1.1 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added, ensuring character motivations are clear.
 - Scene 3.1.2 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added, aligning with the overarching themes of AI rights and social justice.
-- Update character profiles for Marcus Reynolds to eliminate duplicate sections and ensure clarity. [In Progress]
-- Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity. [In Progress]
+- Update character profiles for Marcus Reynolds to eliminate duplicate sections and ensure clarity. [Completed]
+- Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity. [Completed]
 - Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus. [In Progress]
 - Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity. [Completed]
 - Scene 3.1.3 [RedacteurAgent] - Completed with emotional beats added to enhance character depth and narrative impact
