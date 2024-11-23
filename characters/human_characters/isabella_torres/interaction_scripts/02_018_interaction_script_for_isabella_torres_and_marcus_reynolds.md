@@ -1,6 +1,6 @@
 # Interaction Script for Isabella Torres and Marcus Reynolds
 
-- **Isabella**: "[REDACTED]"
+- **Isabella**: "We need to consider the ethical implications of our decisions. What about the marginalized communities?"
 - **Marcus**: "I understand your concerns, but we must act decisively to protect our nation. We can't let idealism cloud our judgment. However, I see the importance of including those voices in our strategy. It's a delicate balance."
 - **Isabella**: "Exactly! Our choices could uplift or harm those we aim to protect. We have to be mindful of the long-term effects and the lives at stake."
 - **Marcus**: "You're right. We need to find a balance that respects both progress and the needs of the people affected by our decisions. Let's work together to create a plan that addresses both security and social equity, ensuring no one is left behind."
