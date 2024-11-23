@@ -1,6 +1,6 @@
 # Redacted Document
 
-This document contains redacted content to ensure compliance with privacy regulations. All sensitive information has been removed or obscured.
+This document may contain sensitive information that has been redacted to ensure compliance with privacy regulations. All sensitive information has been removed or obscured.
 
 ## Redaction Agent Action Plan Summary
 This document outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project.

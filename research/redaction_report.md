@@ -3,7 +3,7 @@
 ## Redaction Report
 
 ### Redaction Agent Action Plan Summary
-This report outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project.
+This report outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy regulations.
 
 ### Step 1: Initial Assessment
 - Monitored target files for changes indicating sensitive information.
