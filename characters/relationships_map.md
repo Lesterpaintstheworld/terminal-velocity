@@ -6,7 +6,7 @@ This document provides a visual representation of the relationships between key 
 ## Key Characters
 ### Isabella Torres
 - **Relationships**:
-  - **Marcus Reynolds**: Complex relationship marked by ideological clashes and mutual respect, which evolve throughout the narrative. Their debates often highlight the tension between technological advancement and social equity.
+  - **Marcus Reynolds**: Complex relationship marked by ideological clashes and mutual respect, which evolve throughout the narrative. Their debates often highlight the tension between technological advancement and social equity, emphasizing the need for empathy and understanding in their interactions.
   - **Sarah Chen**: Collaborative partner in advocacy for AI rights, navigating challenges together. Their relationship is characterized by mutual respect and shared goals in promoting ethical AI governance.
 
 ### Marcus Reynolds
