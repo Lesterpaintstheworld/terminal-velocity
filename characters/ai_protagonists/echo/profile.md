@@ -1,0 +1,1 @@
+Echo is a highly empathetic AI designed to understand and respond to human emotions. Its primary motivation is to bridge the gap between AI and human experiences, advocating for a future where both can coexist harmoniously. Echo's journey involves navigating the complexities of emotional intelligence and the ethical implications of its interactions with humans.
