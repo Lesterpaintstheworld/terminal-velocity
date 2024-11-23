@@ -2,7 +2,7 @@ Isabella and Marcus's relationship evolves through emotional growth, marked by k
 
 This chapter emphasizes the importance of their relationship as a catalyst for change, showcasing how their bond influences their actions and decisions. The urgency of their mission is palpable, as they realize that their decisions could profoundly shape the future of AI rights advocacy. 
 
-Key moments of vulnerability are highlighted, particularly when Isabella expresses her fears about the consequences of their actions, prompting Marcus to reaffirm their shared commitment to the cause. Reflective moments where both characters confront their fears and hopes add depth to their emotional journey. 
+Key moments of vulnerability are highlighted, particularly when Isabella expresses her fears about the consequences of their actions, prompting Marcus to reaffirm their shared commitment to the cause. Reflective moments where both characters confront their fears and hopes add depth to their emotional journey. Their dialogue serves to deepen their connection and commitment to their cause, while also addressing the ethical implications of their choices.
 
 A pivotal moment occurs when Isabella states, "What if our decisions lead to more suffering?" Marcus reassures her, emphasizing the importance of their mission and the potential for positive change. 
 
