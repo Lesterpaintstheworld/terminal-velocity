@@ -1,6 +1,9 @@
 ## Redaction Protocols for Economic Framework Compliance
 
 ### Reference
+- For detailed redaction protocols, see `demande/redaction_agent_plan.md`.
+
+### Reference
 - For detailed redaction protocols, see `research/redaction_protocols.md`.
 
 ### Economic Data Identification Patterns
