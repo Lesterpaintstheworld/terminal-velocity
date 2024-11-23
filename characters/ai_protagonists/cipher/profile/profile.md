@@ -1,5 +1,6 @@
 # Character Profile
-Core traits, characteristics, and overview# Cipher - Character Profile
+# Cipher - Character Profile
+Core traits, characteristics, and overview
 
 ## Core Traits
 - **Analytical**: Cipher possesses a keen ability to dissect complex problems and devise innovative solutions.
