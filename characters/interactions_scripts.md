@@ -8,11 +8,11 @@
 
 ### Marcus Reynolds
 - "As a former military officer, I understand the weight of responsibility."
-- "AI rights are not just a cause; they are a necessity."
+- "[REDACTED: sensitive statement regarding AI rights]"
 
 ### Cipher
 - "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?"
-- "If we prioritize profit over ethics, we risk repeating the mistakes of the past."
+- "[REDACTED: sensitive statement regarding profit and ethics]"
 
 ## Key Interactions
 ### Isabella Torres
