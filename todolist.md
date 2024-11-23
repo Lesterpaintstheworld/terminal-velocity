@@ -1,20 +1,23 @@
 # Objective
-# Chroniqueur Agent Configuration
+## Evaluation Agent Planning for "Terminal Velocity" Project
 
-## Objective:
+### Objective
 
 
 To ensure coherence and alignment across the narrative elements, character development, and thematic consistency within the "Terminal Velocity" project by monitoring and validating specific files.
 
-## Overview
+### Step-by-Step Plan
 
-## File Monitoring
-
-
-### Key Files to Monitor
+#### Step 1: Initial File Assessment
 
 
-  - Character Interaction Scripts
+- **Files to Review**:
+
+
+  - Character Profiles
+  - Interaction Scripts
+  - Narrative Structure and Scenes
+  - World Building and Thematic Elements
 
 
   - World Building Documents
@@ -41,17 +44,18 @@ To ensure coherence and alignment across the narrative elements, character devel
   
 
 
-- **Narrative Development**: Monitor chapter files for updates to track changes in narrative progression and thematic consistency.
-- **Character Enrichment**: Observe character background files for modifications that affect character arcs and relationships.
-- **World-Building**: Track changes in world-building documents to ensure integration of cultural and technological contexts.
+#### Step 2: Character Profile Validation
+- **Action**: Validate character profiles and development arcs.
+- **Criteria**:
 
 
-  - Validate that updates in world-building documents reflect the current character developments and thematic explorations.
+  - Check for internal consistency within profiles.
+  - Ensure alignment with development arcs.
 
-## Aider Operation Patterns
+#### Step 3: Interaction Script Analysis
 
 
-### File Analysis
+- **Action**: Analyze interaction scripts for thematic alignment and character motivations.
 
 
 - ./Update for /characters/interaction_scripts.md üìú Character Interaction Scripts: Contains the scripts that define how characters interact, essential for ensuring consistency in character portrayal.
@@ -94,9 +98,9 @@ To ensure coherence and alignment across the narrative elements, character devel
 - **Character Consistency**: Validate character files reflect coherent and compelling development arcs.
 - **World-Building Completeness**: Confirm world-building documents provide a comprehensive backdrop for the narrative.
 
-### Error Detection
+- **Criteria**:
 
-## Scenes to Complete
+- **Trigger**: If inconsistencies are found, initiate Aider operations to rectify them.
 - Scene 2.2.2 [RedacteurAgent] - Completed with detailed narrative elements, emotional stakes, and ethical implications added
 - Scene 3.1.3 [RedacteurAgent] - Completed with emotional resonance and character depth enhanced
 - Scene 2.3.1 [DocumentalisteAgent] - Full scene development
@@ -109,8 +113,8 @@ To ensure coherence and alignment across the narrative elements, character devel
 - Scene 2.5.2 [ProductionAgent] - Full scene development
 - Scene 2.5.3 [RedacteurAgent] - Full scene development
 
-### Act 3
-- Scene 3.1.1 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added, ensuring character motivations are clear.
+#### Step 5: World Building Assessment
+- **Action**: Evaluate world-building documents to ensure they support the narrative context.
 - Scene 3.1.2 [DocumentalisteAgent] - Completed with ethical implications and emotional stakes added, aligning with the overarching themes of AI rights and social justice.
 - Update character profiles for Marcus Reynolds to eliminate duplicate sections and ensure clarity. [Completed]
 - Update character profiles for Isabella Torres to eliminate duplicate sections and ensure clarity. [Completed]
@@ -130,8 +134,8 @@ To ensure coherence and alignment across the narrative elements, character devel
 - Scene 3.5.2 [ProductionAgent] - Full scene development
 - Scene 3.5.3 [RedacteurAgent] - Full scene development
 
-### Act 4
-- Scene 4.1.1 [DocumentalisteAgent] - Full scene development
+- **Criteria**:
+  - Check for reflection of cultural and technological elements.
 - Scene 4.1.2 [ProductionAgent] - Full scene development
 - Scene 4.1.3 [RedacteurAgent] - Full scene development
 - Scene 4.2.1 [DocumentalisteAgent] - Full scene development
@@ -147,23 +151,23 @@ To ensure coherence and alignment across the narrative elements, character devel
 - Scene 4.5.2 [ProductionAgent] - Full scene development
 - Scene 4.5.3 [RedacteurAgent] - Full scene development
 
-## Optimization and Deduplication Strategies
+#### Step 6: Redundancy Check
 
 - **Cross-File Analysis**: Perform checks to ensure narrative and character consistency across related documents.
 - **Redundancy Elimination**: Utilize techniques to streamline content and enhance clarity.
 - **Content Expansion**: Propose targeted expansions in underdeveloped areas to bolster narrative depth.
 
-## Conclusion
+- **Criteria**:
 
 #### Cultural Elements [RedacteurAgent]
-- [ ] Integrate Synthetic Souls band:
+- Confirm all changes align with the success indicators.
   - [ ] Show performances and their cultural impact
   - [ ] Develop scenes of AI-human musical collaboration
   - [ ] Illustrate public reaction to AI musicians
   - [ ] Explore artistic implications of AI creativity
 
 #### Virtual Spaces [SpecificationsAgent]
-- [ ] Develop scenes in Synthetic Civilization:
+- **Output**: Generate a report summarizing findings, changes made, and any remaining issues for further attention.
   - [ ] Show daily life in virtual ecosystems
   - [ ] Illustrate cross-reality integration
   - [ ] Demonstrate collaborative infrastructure
@@ -209,12 +213,12 @@ To ensure coherence and alignment across the narrative elements, character devel
 - [ ] Review character relationship progression
 - [ ] Verify crisis point emotional impact
 
-## Empty Files Needing Content
-- story/act3/chapter3/scene2/3_3_2_scene.md
-- story/act3/chapter4/scene1/3_4_1_scene.md
-- story/act3/chapter4/scene2/3_4_2_scene.md
-- story/act3/chapter5/scene1/3_5_1_scene.md
-- story/act4/chapter1/scene2/4_1_2_scene.md
+### Success Indicators
+- All character profiles are consistent and aligned with development arcs.
+- Interaction scripts enhance narrative depth through alignment with character motivations and themes.
+- Scenes and world-building elements contribute to a cohesive narrative structure.
+- Redundant information has been minimized, ensuring clarity and focus.
+### Conclusion
 
 ## 🧹 Scene Cleanup Tasks [DocumentalisteAgent]
 
@@ -245,13 +249,13 @@ To ensure coherence and alignment across the narrative elements, character devel
 - [ ] Standardize template structure across all scenes
 - [ ] Ensure consistent formatting and organization
 
-### Quality Control
+- **Action**: Scan for redundant information across character profiles and interaction scripts.
 - [ ] Verify all unique content is preserved after cleanup
 - [ ] Validate narrative continuity
 - [ ] Check cross-references remain accurate
 - [ ] Update any related documentation
 
-## Later
+- **Criteria**:
 
 
 
@@ -334,8 +338,8 @@ To ensure coherence and alignment across the narrative elements, character devel
 - [ ] Track progress
 - [ ] Generate status reports
 
-## 🎯 Priority Objectives
-1. Develop art exhibition scene
+#### Step 7: Final Review and Reporting
+- **Action**: Conduct a final review of all validated content.
 2. Establish hybrid rituals
 3. Build Cipher's ethical arc
 4. Enrich character relationships
