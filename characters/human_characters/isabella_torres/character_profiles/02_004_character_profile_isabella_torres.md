@@ -25,7 +25,7 @@ Isabella Torres grew up in a diverse urban environment, where she was exposed to
 ### Overview
 
 ### Motivations and Internal Conflicts
-- **Action Statement**: Ensure clarity in her advocacy efforts and the impact of her decisions on marginalized communities, particularly in relation to AI rights.
+- **Action Statement**: Ensure clarity in her advocacy efforts and the impact of her decisions on marginalized communities, particularly in relation to AI rights. Isabella is also motivated by the need to ensure that sensitive information is handled ethically, reflecting her commitment to social justice.
 - **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 
 ### Background
