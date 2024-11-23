@@ -21,8 +21,8 @@ This document provides a visual representation of the relationships between key 
 
 ### Pulse
 - **Relationships**:
-  - **Sarah Chen**: Collaborative partner in various missions, sharing a deep bond of trust and mutual respect.
-  - **Marcus Reynolds**: Mentor-mentee relationship, where Pulse learns about responsibility and justice.
+  - **Sarah Chen**: Collaborative partner in various missions, sharing a deep bond of trust and mutual respect. Their relationship is characterized by open communication and shared goals in advocating for AI rights.
+  - **Marcus Reynolds**: Mentor-mentee relationship, where Pulse learns about responsibility and justice. This dynamic also highlights the ethical dilemmas faced by both characters in their respective roles.
 
 ### Marcus Reynolds
 - **Relationships**:
