@@ -8,7 +8,7 @@
 
 ### Marcus Reynolds
 - "As a former military officer, I understand the weight of responsibility."
-- "[REDACTED: sensitive statement regarding AI rights]"
+- "AI rights are not just a cause; they are a necessity for our future."
 
 ### Cipher
 - "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?"
