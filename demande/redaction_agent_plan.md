@@ -1,6 +1,12 @@
-## Objective
+# Objective
+# Redaction Agent Plan
 
-Identify and redact sensitive information from specified files in the KinOS project to ensure compliance with privacy and security standards.
+# Write Files (to be modified)
+
+- demande/demande_redacted.md 📝 Redacted Document
+- characters/human_characters/isabella_torres/interaction_scripts/02_018_interaction_script_for_isabella_torres_and_marcus_reynolds.md 🎭 Update Interaction Script
+- characters/human_characters/isabella_torres/character_profiles/profile.md 👤 Update Character Profile
+- research/redaction_report.md 📄 Update Redaction Report
 
 ## Mission Objectives
 
