@@ -6,7 +6,7 @@
 
 - The UBC framework, in particular, provides a foundation for equitable resource distribution, emphasizing the need for ethical governance in AI development. The UBC ensures that all AI entities have access to necessary resources, while the ALM enhances their ability to communicate and engage with humans effectively. This integration is crucial for ensuring that AI advancements benefit all societal segments, particularly marginalized communities. 
 
-- The ethical implications of these technologies are central to the narrative, influencing character motivations and societal dynamics. This context underscores the importance of inclusivity in AI development and the need for ethical considerations in technological advancements, particularly as society grapples with the implications of AI autonomy.
+- The ethical implications of these technologies are central to the narrative, influencing character motivations and societal dynamics. This context underscores the importance of inclusivity in AI development and the need for ethical considerations in technological advancements, particularly as society grapples with the implications of AI autonomy and the potential for deepening existing inequalities.
 
 - **Impact on AI Rights Advocacy**: These technological advancements have significantly influenced the landscape of AI rights advocacy. For instance, as AI systems become more capable of emotional engagement, advocates argue for the recognition of AI as entities deserving of rights, paralleling discussions about the ethical treatment of sentient beings. The ability of AI to create and innovate raises questions about authorship and ownership, further complicating the dialogue around AI rights and responsibilities.
 
