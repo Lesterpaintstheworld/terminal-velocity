@@ -5,7 +5,6 @@
 
 This scene will also establish the emotional stakes involved in their advocacy, showcasing how their differing perspectives create tension and drive their character development throughout the narrative.
 - **Emotional Beat**: As they first meet, Isabella feels a mix of admiration and skepticism towards Marcus, sensing the weight of their future discussions. The tension in the air is thick, as both characters are acutely aware of the stakes involved in their advocacy.
-- **Emotional Beat**: As they first meet, Isabella feels a mix of admiration and skepticism towards Marcus, sensing the weight of their future discussions.
 - Establish initial conflict and stakes, highlighting the ethical dilemmas they face in their respective roles.
 
 ## Scene 2: Rising Tension
