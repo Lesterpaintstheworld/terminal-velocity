@@ -1,7 +1,7 @@
 # Act 1 Scenes
 
 ## Scene 1: Introduction
-- Introduce main characters, Isabella Torres and Marcus Reynolds, emphasizing their complex motivations and backgrounds. Highlight their internal struggles with ethical dilemmas regarding AI rights and societal equity, setting the stage for their character arcs.
+- Introduce main characters, Isabella Torres and Marcus Reynolds, emphasizing their complex motivations and backgrounds. Highlight their internal struggles with ethical dilemmas regarding AI rights and societal equity, setting the stage for their character arcs. Their interactions will reflect the evolving dynamics of their relationship as they navigate these challenges.
 - Establish initial conflict and stakes, highlighting the ethical dilemmas they face in their respective roles.
 
 ## Scene 2: Rising Tension
