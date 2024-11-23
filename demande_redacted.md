@@ -33,7 +33,7 @@ This document outlines the actions taken by the Redaction Agent to identify and 
 ### Conclusion
 The Redaction Agent successfully identified and redacted sensitive information, ensuring compliance and maintaining document integrity within the KinOS project.
 
-This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured. [REDACTED: sensitive economic data]
+This document contains redacted content to ensure compliance with privacy regulations. All sensitive information has been removed or obscured. [REDACTED]
 
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information has been removed or obscured. [REDACTED]
 
