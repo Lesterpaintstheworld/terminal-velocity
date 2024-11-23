@@ -1,5 +1,5 @@
 # Objective
-# Integration Agent Action Plan for "Terminal Velocity" Project
+# Specification Agent Action Plan for "Terminal Velocity" Project
 
 ## Objectives
 1. **Ensure consistency** across character interactions, world-building, and thematic exploration.
