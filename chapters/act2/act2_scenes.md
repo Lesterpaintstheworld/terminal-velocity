@@ -1,5 +1,5 @@
-# Act 2 Scenes
-## Scene 1: Rising Tension
+# Act 2 Scenes - Updated for Narrative Development
+## Scene 1: Rising Tension - Enhanced
 - The stakes are raised as Nova's abilities are put to the test, revealing her internal conflicts about AI rights and the ethical implications of her actions. This scene deepens the emotional stakes for all characters involved, highlighting their personal struggles and the broader societal impact of their decisions. To enhance the narrative flow, transitions between character discussions will be refined to better reflect the emotional shifts in their relationships.
 - Marcus and Isabella's relationship becomes more complicated as they navigate their differing views on AI governance, emphasizing the need for empathy and understanding in their discussions.
 
