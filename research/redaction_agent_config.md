@@ -4,7 +4,7 @@
 - For detailed redaction protocols, see `research/redaction_protocols.md`.
 
 ### Economic Data Identification Patterns
-- Identify terms related to economic frameworks, such as "[REDACTED: UBC]", "[REDACTED: resource allocation]", "[REDACTED: decentralized transactions]", "[REDACTED: AI-generated content]", and "[REDACTED: user interactions with AI]".
+- Identify terms related to economic frameworks, such as "UBC", "resource allocation", "decentralized transactions", "AI-generated content", and "user interactions with AI".
 - Implement regex patterns to capture variations of these terms in different contexts.
 - Ensure that all identified [REDACTED: economic-sensitive information] is processed according to the latest project demands and privacy regulations.
 - Identify terms related to economic frameworks, such as "UBC", "resource allocation", "decentralized transactions", "AI-generated content", and "user interactions with AI".
