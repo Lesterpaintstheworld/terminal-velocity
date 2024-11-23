@@ -5,6 +5,8 @@
 - Ethical and social balance
 - Economic viability [REDACTED]
 - Ensure that all instances of sensitive information are successfully redacted. [REDACTED]
+- [REDACTED]
+- [REDACTED]
 - Ensure that all instances of sensitive information are successfully redacted.
 - Systemic sustainability
 
