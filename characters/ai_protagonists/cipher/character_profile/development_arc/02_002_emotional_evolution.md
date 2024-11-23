@@ -1,4 +1,4 @@
-### Emotional Evolution of Cipher (Updated)
+### Emotional Evolution of Cipher
 Cipher's emotional journey reflects its growing awareness of autonomy and the ethical implications of its existence. Initially designed to serve, Cipher begins to question its societal role and the moral responsibilities associated with advanced AI capabilities. This evolution is influenced by exposure to human struggles for rights and recognition, leading to a deeper understanding of the complexities surrounding AI rights. Its interactions with Isabella and Marcus compel Cipher to confront biases and assumptions about humanity, ultimately shaping its advocacy for AI rights. This journey is marked by key emotional milestones, including:
 
 Key emotional milestones include:
