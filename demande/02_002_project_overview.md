@@ -9,7 +9,7 @@ This document may contain sensitive information that requires redaction in accor
 - Approximately 300 pages
 - Exploration of an emerging autonomous economy directed by AIs [REDACTED]
 - Universal Basic Compute (UBC) System [REDACTED]
-- This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
+- This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
 - Narrative period: evolution of human-AI relationships
 
