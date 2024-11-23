@@ -4,6 +4,20 @@
 This document provides a visual representation of the relationships between key characters in the narrative, emphasizing how these connections affect individual character arcs and the overarching story.
 
 ## Key Characters
+### Isabella Torres
+- **Relationships**:
+  - **Marcus Reynolds**: Complex relationship marked by ideological clashes and mutual respect.
+  - **Sarah Chen**: Collaborative partner in advocacy for AI rights.
+
+### Marcus Reynolds
+- **Relationships**:
+  - **Isabella Torres**: Engages in heated debates about AI rights and security.
+  - **Sarah Chen**: Shares a professional relationship, often discussing ethical dilemmas.
+
+### Sarah Chen
+- **Relationships**:
+  - **Isabella Torres**: Works closely with Isabella, supporting her advocacy efforts.
+  - **Marcus Reynolds**: Engages in discussions about the balance between security and social justice.
 
 ### Pulse
 - **Relationships**:
