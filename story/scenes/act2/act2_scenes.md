@@ -5,3 +5,4 @@
 ## Scene 2: The Aftermath
 - **Setting**: A quiet café where Isabella and Marcus reflect on the debate.
 - **Description**: The weight of their discussion lingers in the air. Isabella expresses her fears about the future of AI rights, while Marcus grapples with the ethical implications of his stance. This moment of vulnerability deepens their connection and sets the stage for future collaboration, highlighting the importance of empathy in their relationship.
+- **Emotional Stakes**: As they share their thoughts, the emotional stakes rise. Isabella's concerns about the implications of AI policies weigh heavily on her, while Marcus's internal conflict about balancing security and ethical considerations becomes apparent. This exchange not only strengthens their bond but also emphasizes the need for ongoing dialogue in their advocacy efforts.
