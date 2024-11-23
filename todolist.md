@@ -1,13 +1,13 @@
 # Objective
-## Planning for Deduplication Role in "Terminal Velocity"
+## Deduplication Agent Action Plan for "Terminal Velocity" Project
 
-### Phase 1: Initial Assessment
+### Phase 1: Initial Analysis
 
 1. **File Review:**
    - Conduct a thorough review of all monitored files to establish a baseline for content.
    - Identify sections that are likely candidates for redundancies, particularly focusing on character motivations, backgrounds, and relationships.
 
-2. **Redundancy Detection Setup:**
+2. **Profile Duplication Detection:**
    - Implement text comparison algorithms to prepare for redundancy detection.
    - Establish similarity thresholds for identifying potential duplicates (e.g., 80% similarity).
 
