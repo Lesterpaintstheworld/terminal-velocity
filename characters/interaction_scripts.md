@@ -1,6 +1,6 @@
 In this pivotal scene, Isabella and Marcus engage in a heated debate about the implications of the Universal Basic Compute (UBC) framework on AI rights. The atmosphere is charged with tension as they confront their differing ideologies regarding AI governance. Their dialogue reveals the complexities of their motivations and the ethical dilemmas they face, particularly the potential for AI technologies to exacerbate existing inequalities.
 
-- **Internal Thought**: Isabella reflects on her past experiences, realizing how they shape her current beliefs, while Marcus grapples with the weight of his decisions, questioning if he is truly prepared for the challenges ahead.
+- **Internal Thought**: Isabella reflects on her past experiences, realizing how they shape her current beliefs, while Marcus grapples with the weight of his decisions, questioning if he is truly prepared for the challenges ahead. This moment highlights their emotional stakes and the urgency of their advocacy for AI rights.
 
 - **Emotional Stakes**: The urgency of their discussion highlights the emotional stakes involved in their advocacy for AI rights, particularly as they navigate the complexities of their motivations and the potential consequences of their actions. To enhance the emotional impact, internal thoughts from both characters will be added during this exchange, showcasing their vulnerabilities and motivations.
 
