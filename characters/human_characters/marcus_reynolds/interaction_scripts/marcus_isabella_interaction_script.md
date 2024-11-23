@@ -1,2 +1,2 @@
 - **Marcus**: "I want to protect our future, but I fear the consequences of our decisions on those who are already vulnerable."
-- **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society?"
+- **Isabella**: "Sometimes I wonder if my push for ethical AI is too idealistic. Can we truly balance innovation with the needs of society? I fear we might lose sight of our humanity."
