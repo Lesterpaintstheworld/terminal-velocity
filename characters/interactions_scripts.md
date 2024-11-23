@@ -20,7 +20,7 @@
 - "Every ethical dilemma I face shapes my advocacy."
 ### Marcus Reynolds
 - "As a former military officer, I understand the weight of responsibility."
-- "AI rights are not just a cause; they are a necessity."
+- "AI rights are not just a cause; they are a necessity. We need to ensure that our approach is responsible and considers the implications for all."
 
 ## Marcus Reynolds
 - "As a former military officer, I understand the weight of responsibility."
