@@ -4,7 +4,7 @@
 This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
 
 ### Redaction Notice
-This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
+This document contains redacted content to ensure compliance with privacy regulations. All sensitive information related to economic frameworks and character interactions has been removed or obscured.
 - Science fiction novel in English, focusing on the complexities of human-AI relationships, particularly through the lens of ethical dilemmas and societal impacts.
 - Approximately 300 pages
 - Exploration of an emerging autonomous economy directed by AIs [REDACTED]

@@ -5,7 +5,7 @@ This document contains redacted content to ensure compliance with privacy regula
 This document outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy regulations.
 
 ## Redaction Agent Action Plan Summary
-This document outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project.
+This document outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy regulations.
 
 ### Step 1: Initial Assessment
 - Monitored target files for changes indicating sensitive information.
