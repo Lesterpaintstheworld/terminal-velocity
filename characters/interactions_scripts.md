@@ -1,5 +1,6 @@
 # Character Interaction Scripts - Integration Agent Updates
 ## This document outlines the interactions between key characters, emphasizing their motivations and ethical dilemmas.
+## This document will be updated to reflect the deduplication process and ensure unique character interactions.
 
 ## Key Interactions
 ### Isabella Torres
