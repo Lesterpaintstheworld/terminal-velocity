@@ -10,7 +10,7 @@ The integration of AI technologies has transformed societal structures. Key inno
   3. **KinOS**: The operating system that integrates various AI functionalities, ensuring seamless operation across different platforms.
 
 ## Overview of Technology in Terminal Velocity
-- The world of Terminal Velocity is shaped by advanced AI technologies that influence daily life and societal structures.
+- The world of Terminal Velocity is shaped by advanced AI technologies that influence daily life and societal structures, raising ethical questions about AI rights and responsibilities.
 
 ## Key Technologies
 1. **Universal Basic Compute (UBC)**: Provides equitable access to computational resources for all citizens.
