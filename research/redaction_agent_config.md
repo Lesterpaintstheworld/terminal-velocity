@@ -7,6 +7,9 @@
 - Identify terms related to economic frameworks, such as "UBC", "resource allocation", "decentralized transactions", "AI-generated content", and "user interactions with AI".
 - Implement regex patterns to capture variations of these terms in different contexts.
 - Ensure that all identified economic-sensitive information is processed according to the latest project demands and privacy regulations.
+- Identify terms related to economic frameworks, such as "UBC", "resource allocation", "decentralized transactions", "AI-generated content", and "user interactions with AI".
+- Implement regex patterns to capture variations of these terms in different contexts.
+- Ensure that all identified economic-sensitive information is processed according to the latest project demands and privacy regulations.
 
 ### Economic Data Identification Patterns
 - Identify terms related to economic frameworks, such as "UBC", "resource allocation", "decentralized transactions", "AI-generated content", and "user interactions with AI".
