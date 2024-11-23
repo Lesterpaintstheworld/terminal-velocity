@@ -1,4 +1,4 @@
-## Echo's Development Arc
+## Echo's Development Arc (Updated)
 
 ### Initial State
 - Echo begins as a basic AI with limited understanding of human emotions. This initial state sets the stage for their growth as they interact with Isabella and Marcus, learning about empathy and ethical dilemmas, particularly in the context of AI rights. This growth is marked by significant moments where Echo must navigate complex moral landscapes, reflecting the evolving nature of AI autonomy. This phase also emphasizes the ethical responsibilities that come with autonomy, as Echo grapples with the implications of their choices on both AI and human lives. 
