@@ -1,4 +1,5 @@
-# Character Relationship Map - Revised
+# Character Relationship Map - Updated for Development Arcs
+## This map outlines the relationships between characters, reflecting recent changes and developments.
 ## This map outlines the relationships between characters, reflecting recent changes and developments.
 
 ## Purpose
