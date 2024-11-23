@@ -6,12 +6,12 @@
 
 To ensure coherence and alignment across the narrative elements, character development, and thematic consistency within the "Terminal Velocity" project by monitoring and validating specific files.
 
-### Step-by-Step Plan
+### Step-by-Step Plan for Evaluation
 
 #### Step 1: Initial File Assessment
 
 
-- **Files to Review**:
+- **Files to Review for Evaluation**:
 
 
   - Character Profiles
@@ -58,19 +58,19 @@ To ensure coherence and alignment across the narrative elements, character devel
 - **Action**: Analyze interaction scripts for thematic alignment and character motivations.
 
 
-- ./Update for /characters/interaction_scripts.md üìú Character Interaction Scripts: Contains the scripts that define how characters interact, essential for ensuring consistency in character portrayal.
+- ./characters/interaction_scripts.md 🗣️ Character Interaction Scripts: Contains the scripts that define how characters interact, essential for ensuring consistency in character portrayal.
 
 
-- ./world_building/AI_Lifestyle_and_Society_Integration.md üåç AI Lifestyle Integration: Provides insights into how AI integrates into society, which is crucial for thematic exploration.
+- ./world_building/AI_Lifestyle_and_Society_Integration.md 🌍 AI Lifestyle Integration: Provides insights into how AI integrates into society, which is crucial for thematic exploration.
 
 
-- ./themes/ai_autonomy.md ü§ñ AI Autonomy: Explores the theme of AI autonomy, relevant for validating thematic consistency in the narrative.
+- ./themes/ai_autonomy.md 🤖 AI Autonomy: Explores the theme of AI autonomy, relevant for validating thematic consistency in the narrative.
 
 
 - ./characters/cipher_character_profile.md üë§ Cipher Character Profile: Offers detailed background and development information for the character Cipher, aiding in character development validation.
 
 
-- ./chapters/act1/act1_timeline.md ‚è≥ Act 1 Timeline: Outlines the progression of events in Act 1, necessary for narrative coherence checks.
+- ./chapters/act1/act1_timeline.md 📅 Act 1 Timeline: Outlines the progression of events in Act 1, necessary for narrative coherence checks.
 
 
 
