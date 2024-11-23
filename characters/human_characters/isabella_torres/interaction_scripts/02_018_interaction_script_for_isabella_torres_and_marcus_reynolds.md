@@ -1,6 +1,6 @@
 # Interaction Script for Isabella Torres and Marcus Reynolds
 
-- **Isabella**: "We must ensure that AI advancements do not come at the expense of marginalized communities. Their voices matter, and we need to listen."
+- **Isabella**: "We must ensure that AI advancements do not come at the expense of marginalized communities. Their voices matter, and we need to listen. We cannot ignore the ethical implications of our decisions."
 - **Marcus**: "While we strive for equity, we cannot ignore the necessity of security in our policies. We need a balanced approach that considers all perspectives."
 - **[REDACTED]**: "What about the communities that are already suffering? We need to ensure that our discussions include their voices and experiences."
 - **Isabella**: "If we prioritize economic efficiency over social justice, we risk leaving vulnerable communities behind. Their rights are at stake."
