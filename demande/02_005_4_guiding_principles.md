@@ -1,7 +1,7 @@
 ## 4. GUIDING PRINCIPLES
 
 ### Strategic Axes
-- Responsible technological innovation
+- Responsible technological innovation that prioritizes ethical considerations.
 - Ethical and social balance
 - Economic viability
 - Systemic sustainability

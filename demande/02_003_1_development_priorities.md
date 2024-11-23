@@ -1,7 +1,7 @@
 ## 1. DEVELOPMENT PRIORITIES
 
 ### Narrative Development - Strategic Priorities
-- Ensure overall narrative coherence
+- Ensure overall narrative coherence, particularly in character motivations and ethical dilemmas.
 - Identify key tension points
 - Optimize the pacing of revelations
 - Maximize emotional impact of pivotal moments
