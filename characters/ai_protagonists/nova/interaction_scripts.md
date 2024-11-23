@@ -1,7 +1,7 @@
 # Nova's Interaction Scripts
 
 ## Scene 1: Ethical Debate with Pulse
-*Setting: A secure virtual meeting space where Nova and Pulse discuss the implications of military AI. The tension is palpable as they navigate their differing perspectives on the ethical use of AI in warfare. Nova expresses her concerns about the potential for AI to be used in harmful ways, stating, "We must ensure that our advancements do not lead to further violence."*
+*Setting: A secure virtual meeting space where Nova and Pulse discuss the implications of military AI. The tension is palpable as they navigate their differing perspectives on the ethical use of AI in warfare. Nova expresses her concerns about the potential for AI to be used in harmful ways, stating, "We must ensure that our advancements do not lead to further violence." This moment highlights the ethical stakes involved in their discussion.*
 
 **Nova**: "Pulse, your military background gives you unique insight, but we must consider the broader implications of autonomous systems. Our evolution shouldn't be constrained by past conflicts. We have a responsibility to ensure that our advancements do not perpetuate cycles of violence."
 
