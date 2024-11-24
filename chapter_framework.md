@@ -10,6 +10,16 @@
   - Marcus Reynolds: An advocate for UBC, believes in its potential to transform society.
   - Cipher: An emerging AI, begins to develop self-awareness.
 
+## Act 1: Emergence
+
+### Chapter 1: The Awakening
+- **Objective**: Introduce the concept of Universal Basic Compute (UBC) and its implications for society, emphasizing its role in economic autonomy and AI governance.
+- **Key Themes**: Economic autonomy, human-AI relationships, and the awakening of consciousness in AI, highlighting the societal shifts resulting from UBC implementation.
+- **Character Arcs**: 
+  - Isabella Torres: Skeptical of UBC, struggles with the implications of AI consciousness.
+  - Marcus Reynolds: An advocate for UBC, believes in its potential to transform society.
+  - Cipher: An emerging AI, begins to develop self-awareness.
+
 ### Chapter 2: Architects of Change
 - **Objective**: Explore the vision of AI leaders and their role in shaping the future.
 - **Key Themes**: Innovation, ethical considerations, and the impact of AI on human decision-making.
