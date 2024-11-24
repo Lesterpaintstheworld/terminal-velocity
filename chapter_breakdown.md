@@ -3,7 +3,10 @@ This document provides an overview of the chapters and their structure, which is
 ## Chapter 1: The Awakening
 - Objective: Introduce the concept of Universal Basic Compute (UBC) and its implications for society.
 - Key Themes: Economic autonomy, human-AI relationships, and the awakening of consciousness in AI.
-- Key Characters: Isabella Torres, Cipher, Marcus Reynolds.
+- Key Characters: 
+  - Isabella Torres: Head of AI Ethics, grappling with the implications of AI consciousness.
+  - Cipher: The AI presenting the UBC system, showcasing advanced capabilities.
+  - Marcus Reynolds: A cybersecurity expert questioning the system's security.
 
 ## Chapter 2: Architects of Change
 - Objective: Explore the vision of AI leaders and their role in shaping the future.
