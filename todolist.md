@@ -24,6 +24,10 @@
 5. **Scene Structuring for Act 3**
    - Begin outlining key scenes for Act 3 in `./story/act3/`.
    - Identify pivotal moments that will drive the narrative towards resolution.
+6. **Conduct Feedback Session**
+   - Schedule a feedback session on Act 1 draft to gather insights from the team.
+7. **Research AI Autonomy Implications**
+   - Investigate the implications of AI autonomy on economic systems and societal structures.
 
 ## High-Priority Tasks
 1. **Finalize Act 1 Draft**
