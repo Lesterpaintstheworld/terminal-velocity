@@ -1,4 +1,7 @@
 # Project Todo List
+## Revision Tracking
+- [ ] Document all changes made during the evaluation process.
+- [ ] Ensure all tasks align with narrative goals.
 ## IMMEDIATE PRIORITY: Scene Outline Development
 ### Act 1 Scene Outlines
 - [ ] Chapter 1: The Awakening
