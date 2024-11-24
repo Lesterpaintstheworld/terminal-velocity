@@ -7,7 +7,7 @@
 **Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. I often find myself torn between my ambition to drive progress and the ethical implications of our decisions. It's a constant struggle."
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 ### Scene: Finding Common Ground
-*Setting: A quiet café after a long day of meetings.*
+*Setting: A quiet caf√© after a long day of meetings.*
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
 **Marcus**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 **Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."

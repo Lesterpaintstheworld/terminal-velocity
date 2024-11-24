@@ -12,7 +12,7 @@
 **Marcus**: "I see your point, but we also need to think about the bigger picture. If we don't act decisively, we risk falling behind in the global economy. But I understand your concerns; perhaps we can find a way to balance both."
 
 ### Scene 2: Finding Common Ground - Enhanced
-*Setting: A quiet café after a long day of meetings.*
+*Setting: A quiet cafÃ© after a long day of meetings.*
 
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. We need to ensure that our economic models reflect the values of inclusivity and fairness. I believe that if we can show the benefits of this approach, it might resonate with the public. Protecting vulnerable populations is not just ethical, but also beneficial for everyone."
 
@@ -48,7 +48,7 @@
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 
 ### Scene 2: Finding Common Ground - Enhanced
-*Setting: A quiet café after a long day of meetings.*
+*Setting: A quiet cafÃ© after a long day of meetings.*
 
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. We need to ensure that our economic models reflect the values of inclusivity and fairness. I believe that if we can show the benefits of this approach, it might resonate with the public. Protecting vulnerable populations is not just ethical, but also beneficial for everyone."
 
@@ -96,7 +96,7 @@
 **Isabella**: "Falling behind shouldn't come at the expense of our values. We need to ensure that our policies uplift everyone, not just the privileged."
 
 ### Scene 2: Finding Common Ground - Enhanced
-*Setting: A quiet café after a long day of meetings.*
+*Setting: A quiet cafÃ© after a long day of meetings.*
 
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity. We need to ensure that our economic models reflect the values of inclusivity and fairness. I believe that if we can show the benefits of this approach, it might resonate with the public."
 

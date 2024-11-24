@@ -29,14 +29,14 @@
 - [ ] Compile a report summarizing the changes made, improvements observed, and any outstanding issues that require further attention.
 
 ### Required Files
-- ./chapters/act1/act1_scenes.md 📖 Scene Overview
-- ./characters/cipher_character_profile.md 👤 Character Profile
-- ./characters/nova_character_profile.md 👤 Character Profile
-- ./world_building/AI_Lifestyle_and_Society_Integration.md 🌍 World-Building Context
-- ./research/economic_framework.md 📊 Economic Framework Reference
-- ./research/sociological/human_ai_coexistence.md 🤝 Sociological Context
-- ./themes/ai_autonomy.md 🤖 Thematic Exploration
-- ./documentation/AGENTS.md 📜 Agent Overview
+- ./chapters/act1/act1_scenes.md üìñ Scene Overview
+- ./characters/cipher_character_profile.md üë§ Character Profile
+- ./characters/nova_character_profile.md üë§ Character Profile
+- ./world_building/AI_Lifestyle_and_Society_Integration.md üåç World-Building Context
+- ./research/economic_framework.md üìä Economic Framework Reference
+- ./research/sociological/human_ai_coexistence.md ü§ù Sociological Context
+- ./themes/ai_autonomy.md ü§ñ Thematic Exploration
+- ./documentation/AGENTS.md üìú Agent Overview
 ### Mission Overview
 - [ ] Ensure narrative coherence, character consistency, and thematic alignment in the "Terminal Velocity" project by monitoring specified files and utilizing Aider for validation and analysis.
 - [ ] Systematic monitoring and validation of relevant files.

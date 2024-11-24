@@ -37,10 +37,10 @@ To identify and redact sensitive information from specified files within the Kin
 - Maintain ongoing monitoring of the target files to catch any new sensitive information that may arise in future updates.
 By following this plan, the Redaction Agent will effectively identify and redact sensitive information while ensuring compliance and maintaining document integrity.
 # Write Files (to be modified)
-- demande/demande_redacted.md 📝 Redacted Document
-- characters/human_characters/isabella_torres/interaction_scripts/02_018_interaction_script_for_isabella_torres_and_marcus_reynolds.md 🎭 Update Interaction Script
-- characters/human_characters/isabella_torres/character_profiles/profile.md 👤 Update Character Profile
-- research/redaction_report.md 📄 Update Redaction Report
+- demande/demande_redacted.md üìù Redacted Document
+- characters/human_characters/isabella_torres/interaction_scripts/02_018_interaction_script_for_isabella_torres_and_marcus_reynolds.md üé≠ Update Interaction Script
+- characters/human_characters/isabella_torres/character_profiles/profile.md üë§ Update Character Profile
+- research/redaction_report.md üìÑ Update Redaction Report
 ## Mission Objectives
 1. **Identify Sensitive Information:** Monitor specified files for sensitive economic data and personally identifiable information (PII).
 2. **Initiate Redaction Protocols:** Upon detection of sensitive content, execute redaction protocols promptly.

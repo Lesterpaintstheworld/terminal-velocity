@@ -51,6 +51,6 @@ Create detailed interaction scripts for Isabella Torres that outline her communi
    - Resource limitations:
      - Ensure the task is completed within a 5-day timeframe.
    - Scope restrictions:
-     - Focus only on Isabella’s character interactions; do not include any new character profiles or unrelated narratives.
+     - Focus only on Isabellaâ€™s character interactions; do not include any new character profiles or unrelated narratives.
    - Dependency requirements:
      - Collaborate with the ManagementAgent to ensure alignment with overall project goals before finalizing the script.

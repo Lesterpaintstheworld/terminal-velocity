@@ -16,7 +16,7 @@ Sarah Chen is an artist struggling to find her place in a world increasingly dom
 - To bridge the gap between human and AI art.
 ### Key Conflicts
 - **Internal Conflict**: Struggles with feelings of inadequacy compared to AI artists.
-- **External Conflict**: Faces societal pushback regarding AI’s role in the art world, particularly in her collaborations with Echo.
+- **External Conflict**: Faces societal pushback regarding AIâ€™s role in the art world, particularly in her collaborations with Echo.
 ### Turning Points
 1. **Collaboration with Echo**: Realizing that collaboration can enhance her own creativity rather than diminish it.
 2. **Gallery Contract Decision**: A pivotal moment where she must choose between commercial success and her artistic integrity.

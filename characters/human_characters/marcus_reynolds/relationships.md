@@ -102,7 +102,7 @@ Marcus's relationship with Sarah is characterized by mutual respect and shared g
 - **Evolving Dynamics**: Their relationship evolves as they confront the challenges posed by AI technology, forcing them to reassess their values and priorities.
 ### New Interaction Dynamics
 - **Scene 1**: In a conference room, Isabella emphasizes the need for ethical considerations in AI policies, while Cipher argues for the benefits of AI in the economy.
-- **Scene 2**: During a café meeting, they discuss potential policies that could balance security and equity.
+- **Scene 2**: During a caf√© meeting, they discuss potential policies that could balance security and equity.
 - **Scene 3**: At a public forum, their differing views lead to a climactic confrontation about the implications of AI on vulnerable populations.
 - **Scene 4**: In a reflective moment, Isabella questions her idealism and the balance between innovation and societal needs.
 - **Background**: Marcus and Isabella share a complex relationship marked by mutual respect and ideological conflict. They often engage in heated debates about the role of AI in society, with Marcus advocating for national security and Isabella emphasizing social equity.

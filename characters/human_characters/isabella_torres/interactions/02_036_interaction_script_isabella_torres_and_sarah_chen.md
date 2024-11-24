@@ -5,7 +5,7 @@
 **Sarah**: "But Isabella, if we don't advocate for AI rights now, we are complicit in their oppression. We can't let fear dictate our actions."
 **Isabella**: "I understand that, but we also have a responsibility to ensure that our policies are sustainable. We need to find a balance between innovation and stability."
 ### Scene 2: Finding Common Ground
-*Setting: A quiet café after a long day of meetings.*
+*Setting: A quiet caf√© after a long day of meetings.*
 **Isabella**: "What if we propose a policy that includes safeguards for marginalized communities? It could enhance our security narrative while promoting equity."
 **Sarah**: "That could work. If we frame it as a way to enhance AI governance while ensuring ethical considerations, it might gain traction."
 **Isabella**: "Exactly! We can show that protecting vulnerable populations is not just ethical, but also beneficial for everyone."
