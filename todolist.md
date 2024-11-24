@@ -2,7 +2,26 @@
 ## Revision Tracking
 - [ ] Document all changes made during the evaluation process.
 - [ ] Ensure all tasks align with narrative goals.
-## IMMEDIATE PRIORITY: Scene Outline Development
+## IMMEDIATE PRIORITY: Aider Agent Production Role
+### Phase 1: Initial Assessment
+- [ ] Monitor all specified narrative development, character enrichment, world-building, and thematic files for completeness and coherence.
+- [ ] Identify any incomplete sections, duplications, and inconsistencies.
+### Phase 2: Content Completion and Enhancement
+- [ ] For any identified incomplete sections in narrative files, initiate a content completion request through Aider.
+- [ ] Address any duplications and inconsistencies in character profiles.
+### Phase 3: Thematic and World-Building Validation
+- [ ] Review thematic files for alignment with narrative goals.
+- [ ] Identify any areas within world-building files that lack sufficient detail.
+### Phase 4: Final Validation
+- [ ] Cross-reference all narrative files to ensure emotional depth and logical transitions.
+- [ ] Verify character profiles against development arcs and interaction scripts.
+- [ ] Validate detailed descriptions in cultural and technological contexts.
+- [ ] Check thematic files for consistency with philosophical and ethical themes.
+### Phase 5: Reporting and Feedback
+- [ ] Document the outcomes of the validation processes.
+- [ ] Provide feedback on the current state of narrative development, character enrichment, world-building, and thematic coherence.
+### Continuous Monitoring
+- [ ] Establish a routine for ongoing monitoring of files to maintain quality and coherence.
 ### Act 1 Scene Outlines
 - [ ] Chapter 1: The Awakening
   - [ ] Scene 1: UBC Presentation
