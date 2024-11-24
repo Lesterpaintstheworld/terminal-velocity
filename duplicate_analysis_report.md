@@ -19,7 +19,7 @@ This section outlines the steps taken to identify duplicate content within the n
 
 ## Findings and Duplicates
 ### Summary of Identified Duplicates
-The following duplicates were identified during the analysis:
+The following duplicates were identified during the analysis, organized by category:
 
 #### Character Profiles
 - **Duplicate Profiles**: 
