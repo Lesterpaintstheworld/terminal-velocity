@@ -10,8 +10,8 @@
 2. **Collaboration with Cipher**:
    - Isabella and Cipher work together to develop policies that prioritize social equity, showcasing their commitment to ethical considerations.
    - Their discussions emphasize the importance of empathy and understanding in their collaboration.
-   - Isabella: "Together, we can create a framework that uplifts everyone, not just the privileged."
-   - Cipher: "Yes, empathy must guide our policies."
+   - Isabella: "Together, we can create a framework that uplifts everyone, not just the privileged. We must ensure that our policies reflect the voices of those who are often overlooked."
+   - Cipher: "Yes, empathy must guide our policies, but we also need to consider the practical implications of our decisions."
 3. **Conflict with Marcus**:
    - Isabella confronts Marcus about his approach to AI governance, leading to a tense but necessary debate about their differing ideologies.
    - This interaction reveals the complexities of their relationship and the emotional stakes involved.
