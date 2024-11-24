@@ -1,9 +1,32 @@
 # Requirements for "Terminal Velocity" Development
 
-## Explicit Requirements
-1. **Narrative Structure**
-   - Development of a coherent narrative spanning from 2025 to 2028.
-   - Integration of multiple perspectives throughout the story.
+## Key Deliverables and Requirements
+
+### 1. **Documentation and Research**
+   - **UBC Deployment Documentation**: Document the deployment strategies and methodologies for Universal Basic Compute (UBC).
+   - **UBC Economic Research**: Analyze the economic implications of UBC, including frameworks and models.
+   - **Technical Specifications**: Provide detailed specifications for AI systems and their integration into economic frameworks.
+
+### 2. **Narrative Development**
+   - **Story Structure**: Develop a cohesive narrative structure across acts and chapters, ensuring character arcs and thematic elements are integrated.
+   - **Character Profiles**: Create detailed profiles for AI and human characters, including motivations, development arcs, and relationships.
+   - **Scene Development**: Draft scenes that reflect the emotional beats and key moments in the story.
+
+### 3. **World-Building**
+   - **Cultural and Economic Frameworks**: Establish the societal and economic landscapes influenced by AI and UBC.
+   - **Integration Tasks**: Outline tasks for integrating AI into societal structures, addressing ethical considerations and governance frameworks.
+
+### 4. **Technical and Thematic Analysis**
+   - **AI Systems Capabilities**: Analyze the capabilities and implications of AI systems within the narrative.
+   - **Ethical Implications**: Explore the ethical dilemmas and societal impacts of AI autonomy and rights movements.
+
+### 5. **Actionable Tasks and Monitoring**
+   - **Actionable Tasks Documentation**: Maintain a list of actionable tasks to guide the development process.
+   - **Monitoring and Evaluation**: Implement monitoring strategies to assess the progress of the narrative and technical development.
+
+### 6. **Final Deliverables**
+   - **Final Text Compilation**: Compile and finalize the text for each act and chapter, ensuring narrative coherence and thematic alignment.
+   - **Visuals and Diagrams**: Create visuals to support the narrative and enhance understanding of complex concepts.
 
 2. **Character Development**
    - Detailed profiles for AI and human characters, including motivations, relationships, and development arcs.
