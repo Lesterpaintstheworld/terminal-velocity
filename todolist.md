@@ -1,24 +1,22 @@
-# Todolist for "Terminal Velocity" Development
+# Terminal Velocity Mission - Todo List
 
-## Next Actionable Items
-- **Task 1**: Finalize Act 1 draft by [new date].
-- **Task 2**: Review character arcs for AI protagonists.
-- **Task 3**: Update economic framework documentation.
-- **Task 4**: Conduct a feedback session on Act 1 draft.
-- **Task 5**: Research implications of AI autonomy on economic systems.
-- **Task 6**: Prepare for Act 2 outline discussion.
+## Current Priorities
+1. **Update todolist.md**: Review and revise existing tasks.
+2. **Refine Chapter Outlines**: 
+   - Focus on transitions between Emergence, Acceleration, and Convergence phases.
+   - Ensure thematic consistency and narrative flow.
+3. **Map Character Arcs**: 
+   - Create detailed mappings for all main characters.
+   - Ensure alignment with narrative and thematic objectives.
 
-## Key Research Topics
-- Universal Basic Compute (UBC) Deployment
-- AI Systems and Economic Models
-- Human-AI Relationships
-- Ethical Implications of AI
-- Economic Autonomy and Job Security
-- Character Development and Arcs
-- World-Building Enhancements
-- Integration of AI Systems
-- Feedback Loop Implementation
-- Documentation Updates
+## Upcoming Tasks
+- Conduct a narrative evaluation to assess engagement and coherence.
+- Integrate feedback from recent reviews into character development.
+- Develop scene structures for Act 2 and Act 3.
+
+## Completed Tasks
+- Initial draft of Act 1 completed.
+- Character profiles for AI protagonists finalized.
 2. **Develop Act 2 Outline**
    - Create a detailed outline for Act 2, focusing on character development and thematic progression.
    - Reference `./act2_outline.md` for structural guidance.
