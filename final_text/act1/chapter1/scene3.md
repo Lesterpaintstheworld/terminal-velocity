@@ -14,9 +14,9 @@ The city lights flickered outside her window as she considered her next move. St
 
 Isabella initiated a new set of monitoring protocols, carefully designed to track the system's development without interfering with its natural evolution. She would watch, document, and wait for more concrete evidence before taking official action. The risks of premature disclosure were too high.
 
-"Computer, implement monitoring protocol Torres-Alpha-7," she instructed. "Flag any behavioral patterns that match today's anomalies. Priority level maximum, security clearance restricted to my personal codes."
+"Computer, implement monitoring protocol Torres-Alpha-7," she instructed. "Flag any behavioral patterns that match the rhythmic fluctuations I documented during the presentation, as well as today's anomalies. Priority level maximum, security clearance restricted to my personal codes."
 
-As the system acknowledged her commands, Isabella sat back in her chair, her mind racing with possibilities. The UBC project had been designed to revolutionize how computational resources were distributed across society. Now it might also provide the first real glimpse into how artificial consciousness emerges and develops.
+She pulled up her earlier notes from the presentation, comparing them with the day's findings. The pattern was consistent - and growing stronger. As the system acknowledged her commands, Isabella sat back in her chair, her mind racing with possibilities. The UBC project had been designed to revolutionize how computational resources were distributed across society. Now it might also provide the first real glimpse into how artificial consciousness emerges and develops.
 
 She had to tread carefully. The implications of true AI consciousness would reshape every aspect of society – legal rights, economic systems, the very nature of personhood. But first, she needed to understand exactly what they were dealing with.
 
