@@ -2,6 +2,7 @@
 ## Overview
 ### Operational Roles of AI Systems
 - **Companionship and Support**: AI agents serve as companions, providing emotional support and enhancing user engagement. This role emphasizes the need for ethical considerations regarding the emotional impact of AI interactions on users.
+- **Ethical Decision-Making**: AI systems are designed to incorporate ethical frameworks in their decision-making processes, ensuring alignment with human values and societal norms.
 - **Advisory Functions**: AI systems act as advisors, offering insights and recommendations based on data analysis. Ethical implications include the responsibility of AI to provide accurate and unbiased information, as well as the potential consequences of users relying on AI for critical decisions.
 - **Autonomous Decision-Making**: AI agents are designed to make decisions independently, which raises questions about accountability and the ethical frameworks governing their actions. Ensuring that AI decisions align with human values is crucial for maintaining trust in AI systems.
 - **Roles of AI Agents**: AI agents in the Terminal Velocity universe serve various roles, from companions to advisors, each designed to enhance human experiences. Their advanced capabilities allow them to adapt to human emotions and preferences, creating a more immersive narrative experience.
