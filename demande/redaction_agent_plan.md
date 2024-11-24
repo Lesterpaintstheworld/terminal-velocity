@@ -85,7 +85,7 @@ By following this plan, the Redaction Agent will effectively identify and redact
   - Specific keywords or patterns related to the Universal Basic Compute (UBC) system or character financial details.
 # Redaction Agent Plan
 ## Objective
-To identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy and security standards, particularly concerning economic frameworks and character interactions.
+To identify and redact sensitive information related to economic frameworks and character interactions within specified files of the KinOS project, ensuring compliance with privacy and security standards.
 ## Step-by-Step Plan
 1. **File Monitoring Setup**
    - Initiate monitoring of the following target files:
