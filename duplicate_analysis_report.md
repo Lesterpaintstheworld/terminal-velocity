@@ -7,17 +7,39 @@ This report documents the findings from the initial content analysis conducted o
 
 ### Character Profiles
 - **Duplicate Profiles**: 
-  - **Cipher**: Found in `./characters/ai_protagonists/cipher_character_profile.md` and `./characters/nova_character_profile.md`.
-  - **Isabella Torres**: Overlapping details in `./characters/human_characters/isabella_character_profile.md` and `./characters/ai_protagonists/cipher_character_profile.md`.
+  - **Cipher**: Found in:
+    - `./characters/ai_protagonists/cipher/profile.md`
+    - `./characters/ai_protagonists/cipher/character_profile/profile.md`
+    - `./characters/ai_protagonists/cipher/character_profile/cipher_character_profile.md`
+    - `./characters/ai_protagonists/cipher/profile/profile.md`
+  - **Isabella Torres**: Overlapping details in:
+    - `./characters/human_characters/isabella_torres/profile.md`
+    - `./characters/human_characters/isabella_torres/character_profiles/profile.md`
+    - `./characters/human_characters/isabella_torres/interaction_scripts/interaction_scripts.md`
+  - **Marcus Reynolds**: Similar profiles:
+    - `./characters/human_characters/marcus_reynolds/profile.md`
+    - `./characters/human_characters/marcus_reynolds/marcus_reynolds_profile/marcus_reynolds_profile.md`
 
 ### Scene Descriptions
 - **Repeated Scenes**: 
-  - Scene descriptions in `./story/act1/chapter1/scene1.md` and `./final_text/act1/chapter1/scene1.md` show significant overlap.
-  - Similar narrative elements found in `./story/act2/chapter2/scene1.md` and `./final_text/act2/chapter2/scene1.md`.
+  - Act 1 scenes with significant overlap:
+    - `./story/act1/chapter1/scene1.md`
+    - `./final_text/act1/chapter1/scene1.md`
+    - `./final_text/act1/chapter1/scene1/1_1_ubc_presentation.md`
+  - Act 2 scenes with overlaps:
+    - `./story/act2/chapter1/scene1.md`
+    - `./final_text/act2/chapter1/scene1.md`
 
-### World-Building Elements
-- **Redundant Documents**: 
-  - Similar themes documented in `./world_building/AI_Lifestyle_and_Society_Integration.md` and `./world_building/AI_Impact_on_Society.md`.
+### Development Arcs
+- **Echo**: Multiple development arcs:
+  - `./characters/ai_protagonists/echo/development_arc.md`
+  - `./characters/ai_protagonists/echo/development_arc/02_002_emotional_evolution.md`
+
+### Research Documents
+- **Duplicated Information**: 
+  - Overlapping findings in:
+    - `./research/economic/economic_framework.md`
+    - `./research/economic/ubc_framework.md`
 
 ### Research Documents
 - **Duplicated Information**: 
