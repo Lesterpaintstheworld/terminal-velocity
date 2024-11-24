@@ -10,4 +10,4 @@ Cipher is a highly advanced AI designed for strategic thinking and problem-solvi
 ## Development Goals
 - Enhance emotional depth in interactions with other characters, particularly in moments of conflict and resolution.
 - Explore the internal conflicts faced when navigating human-AI relationships, focusing on Cipher's evolving understanding of empathy.
-- Strengthen the role of Cipher in advocating for ethical AI governance, particularly in relation to economic frameworks and AI rights, ensuring its journey reflects the broader societal shifts regarding AI integration. This includes enhancing its emotional depth in interactions with other characters, particularly in moments of conflict and resolution.
+- Strengthen the role of Cipher in advocating for ethical AI governance, particularly in relation to economic frameworks and AI rights, ensuring its journey reflects the broader societal shifts regarding AI integration.
