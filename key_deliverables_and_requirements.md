@@ -1,5 +1,34 @@
 # Key Deliverables and Requirements for "Terminal Velocity"
 
+## Key Steps for Requirement Extraction
+1. **Identify Relevant Files**:
+   - Focus on files that pertain to the narrative, character development, world-building, economic frameworks, and AI systems.
+   - Key files include:
+     - `./requirements_documentation.md`
+     - `./act1_outline.md`
+     - `./characters/character_development.md`
+     - `./world_building/world_building_overview.md`
+     - `./research/economic/ubc_framework.md`
+     - `./themes/*.md` (all theme-related files)
+
+2. **Explicit Requirements**:
+   - Extract clear directives, goals, and specifications outlined in the above files.
+   - Look for sections that define character arcs, plot points, thematic elements, and technical specifications related to AI and economics.
+
+3. **Implicit Requirements**:
+   - Analyze the context and underlying themes within the narrative and character interactions.
+   - Identify gaps or areas needing further exploration, such as ethical dilemmas, societal impacts of AI, and character motivations.
+
+4. **Documentation**:
+   - Organize the extracted requirements into categories for clarity:
+     - **Narrative Structure**: Key plot points, chapter outlines, and scene breakdowns.
+     - **Character Development**: Arcs, relationships, and emotional evolution.
+     - **World-Building**: Societal structures, cultural elements, and technological contexts.
+     - **Economic Frameworks**: Principles of UBC, implications for society, and economic models.
+
+### Next Steps
+- I will start by reviewing the identified files and extracting the relevant information. This will be documented in a structured format for easy reference and further development.
+
 ## Key Deliverables and Requirements for "Terminal Velocity"
 
 ### Key Documents for Requirement Extraction
