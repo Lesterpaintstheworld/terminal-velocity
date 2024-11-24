@@ -1,5 +1,6 @@
 # Project Progress Overview
 ## Act 1: Foundation
+- **Research Phase**: Completed the gathering of technical data regarding the UBC system and AI processes.
 - **Outline Status**: Completed
 - **Character Development**: Isabella Torres has advanced in her advocacy for AI rights.
 - **Scene Completion**: All scenes in Act 1 are drafted.

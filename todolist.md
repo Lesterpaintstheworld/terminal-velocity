@@ -63,6 +63,7 @@ Important: All agents must focus on completing chapter outlines before other tas
 
 ## Development Tasks
 - [ ] Conduct a preliminary review of narrative and technical elements.
+- [ ] Integrate researched data from `UBC_System_Research.md` into the narrative.
 - [ ] Document findings in the initial evaluation report.
 - [ ] Document key research questions related to AI systems and economic models.
 - [ ] Analyze character development and thematic clarity.
