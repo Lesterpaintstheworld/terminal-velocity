@@ -2,6 +2,41 @@
 
 ## Key Deliverables and Requirements for "Terminal Velocity"
 
+### Key Documents for Requirement Extraction
+1. **Narrative Structure**
+   - `./act1_outline.md`
+   - `./story/structure.md`
+   - `./final_text/act1/act1_draft.md`
+   - `./final_text/act2/act2_scenes.md`
+   - `./final_text/act3/act3_scenes.md`
+   - `./final_text/act4/act4_scenes.md`
+
+2. **Character Development**
+   - `./characters/character_development.md`
+   - `./characters/ai_protagonists/*.md`
+   - `./characters/human_characters/*.md`
+   - `./characters/interaction_scripts/*.md`
+
+3. **Economic Frameworks**
+   - `./UBC_AI_Economic_Research.md`
+   - `./research/economic/*.md`
+   - `./world_building/economic/framework/*.md`
+
+4. **World Building**
+   - `./world_building/*.md`
+   - `./themes/*.md`
+
+5. **Requirements Documentation**
+   - `./requirements_documentation.md`
+   - `./key_deliverables_and_requirements.md`
+
+### Steps for Extraction
+1. **Review Narrative Structure**: Identify the main plot points, character arcs, and thematic elements that need to be woven into the narrative.
+2. **Analyze Character Profiles**: Extract details about motivations, relationships, and development arcs of both AI and human characters.
+3. **Examine Economic Frameworks**: Summarize the economic theories and models that underpin the story, especially focusing on Universal Basic Compute (UBC).
+4. **World Building Insights**: Gather cultural, societal, and technological contexts that shape the narrative environment.
+5. **Consolidate Requirements**: Document both explicit requirements (clearly stated needs) and implicit requirements (underlying themes and connections).
+
 ### Key Deliverables and Requirements
 
 1. **Narrative Structure and Chapters**
