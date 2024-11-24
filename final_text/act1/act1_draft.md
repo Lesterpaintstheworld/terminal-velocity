@@ -1,5 +1,22 @@
 # Initial Draft for Act 1 of "Terminal Velocity"
 
+**Act 1: The Awakening**
+
+**Scene 1: The Presentation**
+
+*Setting: UBC Introduction Auditorium, a sleek, high-tech venue filled with industry leaders and curious students. The atmosphere is charged with anticipation.*
+
+Dr. Evelyn Carter stands at the podium, her voice steady as she presents the groundbreaking Universal Basic Compute (UBC) framework. The audience listens intently, captivated by the promise of an AI-driven economic revolution. 
+
+**Dialogue:**
+- **Evelyn:** "Imagine a world where AI not only enhances our productivity but also ensures equitable distribution of resources. The UBC framework is designed to make this vision a reality."
+
+*As she speaks, the camera pans to Isabella Torres, a young, idealistic researcher, who scribbles notes fervently. Her eyes sparkle with hope and ambition.*
+
+*Isabella's internal thoughts reflect her excitement and the weight of the moment, emphasizing her passion for AI rights and the potential impact of UBC on society.*
+
+---
+
 ---
 
 **Title: Terminal Velocity**
