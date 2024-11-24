@@ -1,6 +1,8 @@
 # PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+- [ ] Address redundancies identified in the evaluation report.
+- [ ] Streamline character motivations and dialogue based on analysis findings.
 ### Act 1, Chapter 1 Final Text Development
 - [ ] Create chapter framework for Chapter 1: "The Awakening"
 - [ ] Update chapter breakdown to reflect new framework
