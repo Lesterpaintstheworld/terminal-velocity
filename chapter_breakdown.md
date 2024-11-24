@@ -1,0 +1,1 @@
+This document provides an overview of the chapters and their structure, which is essential for developing the new chapter framework. It will be updated to reflect the new chapter framework outlined in `chapter_framework.md`.
