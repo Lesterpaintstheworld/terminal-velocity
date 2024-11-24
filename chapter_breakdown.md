@@ -1,4 +1,4 @@
-This document provides an overview of the chapters and their structure, which is essential for developing the new chapter framework. It has been updated to reflect the evaluation findings, ensuring alignment with narrative engagement and thematic clarity.
+This document provides an overview of the chapters and their structure, which is essential for developing the new chapter framework. It has been updated to reflect the evaluation findings, ensuring alignment with narrative engagement, thematic clarity, and economic accessibility.
 
 ## Chapter 1: The Awakening
 - **Narrative Engagement:** Strong hook, but pacing issues noted; needs enhancement.
