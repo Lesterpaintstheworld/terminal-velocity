@@ -2,3 +2,5 @@ This document outlines the overall structure of the story, helping to assess plo
 - [ ] Ensure alignment with updated character arcs, world-building elements, and thematic consistency throughout the narrative.
 - [ ] Incorporate objectives and themes from `chapter_framework.md` into the overall story structure.
 - [ ] Validate scene contributions to overarching themes, ensuring that each scene effectively advances the plot and character development.
+- [ ] Incorporate objectives and themes from `chapter_framework.md` into the overall story structure.
+- [ ] Validate scene contributions to overarching themes, ensuring that each scene effectively advances the plot and character development.
