@@ -10,21 +10,22 @@ This report documents the findings from the initial content analysis conducted o
     - `./characters/ai_protagonists/cipher/profile.md`
     - `./characters/ai_protagonists/cipher_character_profile.md`
     - `./characters/ai_protagonists/cipher/profile/profile.md`
-    - `./characters/ai_protagonists/cipher/profile/profile.md`
   - **Isabella Torres**: Overlapping details in:
     - `./characters/human_characters/isabella_torres/profile.md`
-    - `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`
-    - `./characters/isabella_torres/profile.md`
+    - `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
+    - `./characters/human_characters/isabella_torres/profile/02_013_isabella_torres_-_character_profile.md`
   - **Marcus Reynolds**: Similar profiles:
     - `./characters/human_characters/marcus_reynolds/profile.md`
-    - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
-    - `./characters/human_characters/marcus_reynolds/profile/02_002_marcus_reynolds_-_character_profile.md`
+    - `./characters/human_characters/marcus_reynolds/marcus_reynolds_profile/02_002_marcus_reynolds_-_character_profile.md`
 
 ### Development Arcs
 - **Duplicate Development Arcs**:
   - **Cipher**:
     - `./characters/ai_protagonists/cipher/development_arc/02_002_emotional_evolution.md`
     - `./characters/ai_protagonists/cipher/development_arc.md`
+  - **Echo**:
+    - `./characters/ai_protagonists/echo/development_arc.md`
+    - `./characters/ai_protagonists/echo/development_arc/02_002_emotional_evolution.md`
   - **Isabella Torres**:
     - `./characters/human_characters/isabella_torres/development_arc.md`
     - `./characters/human_characters/isabella_torres/profile/02_004_development_arc.md`
