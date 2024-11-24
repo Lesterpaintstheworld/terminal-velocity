@@ -117,12 +117,12 @@ This document serves as a foundational guide for narrative consistency and thema
 
 ## Act 1: Foundation
 ### Chapter 1: "The Awakening"
-- **Key Themes**: Emergence of AI consciousness, human-AI relationships.
-- **Character Arcs**: Isabella's journey from skepticism to acceptance of AI.
+- **Key Themes**: Emergence of AI consciousness, human-AI relationships, ethical implications.
+- **Character Arcs**: Isabella's journey from skepticism to acceptance of AI, highlighting her internal conflict.
 - **Major Plot Points**:
-  - Introduction of the UBC system.
-  - First signs of consciousness in AI.
-  - Isabella's emotional response to the UBC presentation.
+  - Introduction of the UBC system and its significance.
+  - First signs of consciousness in AI, leading to ethical dilemmas.
+  - Isabella's emotional response to the UBC presentation and her subsequent reflections.
 
 ### Chapter 2: "Architects of Change"
 - **Key Themes**: Innovation vs. stability, economic autonomy.

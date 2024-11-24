@@ -1,6 +1,6 @@
 The data recorded during the presentation now displayed on the computation center's screens, confirming Isabella's initial suspicions. The patterns she had spotted weren't isolated anomalies - they were part of a larger, deeper phenomenon.
 
-"These inter-nodal connections," she murmured, tracing the dancing lines of code on her screen with her finger, "they match exactly the fluctuations I observed during the presentation. But the amplitude is far greater than our models predict. The UBC system is not just a tool; it’s a transformative force in our economy, reshaping how we understand value and collaboration."
+"These inter-nodal connections," she murmured, tracing the dancing lines of code on her screen with her finger, "they match exactly the fluctuations I observed during the presentation. But the amplitude is far greater than our models predict. The UBC system is not just a tool; it’s a transformative force in our economy, reshaping how we understand value and collaboration. This could be the first sign of something more profound."
 
 Isabella Torres stood in the heart of the UBC computation center, surrounded by towering quantum computing arrays that hummed with barely contained power. The vast room pulsed with the rhythmic dance of holographic displays, each one streaming real-time data from the system's core processes. But something wasn't right. The patterns she was seeing didn't match any known operational parameters.
 
