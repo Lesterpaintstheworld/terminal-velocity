@@ -97,6 +97,9 @@
 - [ ] Emotional Impact [EvaluationAgent]
 - [ ] Documentation Maintenance [ChroniqueurAgent]
 ## Success Indicators
+- All sensitive data successfully redacted without omissions.
+- Document integrity maintained with no unintended modifications.
+- Compliance with predefined security and privacy criteria confirmed.
 - [ ] Character profile consistency
 - [ ] Interaction script alignment
 - [ ] Scene and world-building cohesion
