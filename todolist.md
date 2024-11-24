@@ -7,6 +7,31 @@ To enhance the narrative coherence and technical accuracy of the "Terminal Veloc
 
 ### Key Deliverables and Requirements for "Terminal Velocity - Novel Mission"
 
+1. **Narrative Structure**
+   - **Chapters and Scenes**: Files under `./story/` and `./final_text/` indicate a structured approach to narrative development, requiring clear chapter breakdowns and scene details.
+   - **Character Arcs**: Character profiles and development arcs in `./characters/` suggest a need for detailed character development, including emotional evolution and relationships.
+
+2. **World-Building**
+   - **Cultural and Economic Frameworks**: Files in `./world_building/` highlight the importance of establishing a believable socio-economic context, including AI integration and societal implications.
+   - **Governance and Rights**: Documentation on AI rights and governance frameworks indicates a requirement for ethical considerations in the narrative.
+
+3. **Technical Specifications**
+   - **AI Systems and Economic Models**: Research files in `./research/` and `./economic_models.md` suggest a need for credible technical details regarding AI systems and their economic implications.
+   - **UBC Framework**: The presence of multiple files related to Universal Basic Compute (UBC) indicates a focus on its economic impact and operational details.
+
+4. **Character Interactions**
+   - **Interaction Scripts**: Files under `./characters/interaction_scripts/` imply a need for detailed dialogue and interaction dynamics between characters, emphasizing ethical dilemmas and collaborative moments.
+
+5. **Thematic Exploration**
+   - **Themes**: Thematic files in `./themes/` suggest a focus on exploring philosophical concepts, human-AI relations, and safety concerns, which should be woven into the narrative.
+
+6. **Research and Documentation**
+   - **Research Reports**: Files in `./research/` indicate a need for comprehensive research documentation that supports the narrative and technical aspects of the story.
+   - **Change Logs and Evaluation Reports**: These files suggest a need for ongoing assessment and documentation of project changes and evaluations.
+
+7. **Actionable Tasks and Monitoring**
+   - **Task Lists**: Files like `./actionable_tasks.md` and `./actionable_tasks_summary.md` indicate a structured approach to tracking progress and ensuring all tasks align with project goals.
+
 #### 1. **Narrative Structure**
    - **Acts and Chapters**: Clear division into acts and chapters, with specific scenes outlined.
    - **Character Arcs**: Development arcs for both AI and human characters, including emotional evolution and key moments.
