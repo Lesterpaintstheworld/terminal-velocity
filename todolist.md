@@ -2,7 +2,19 @@
 ## Revision Tracking
 - [ ] Document all changes made during the evaluation process.
 - [ ] Ensure all tasks align with narrative goals.
-## IMMEDIATE PRIORITY: Aider Agent Production Role
+## IMMEDIATE PRIORITY: Evaluation Agent Planning
+### Mission Overview
+- [ ] Ensure narrative coherence, character consistency, and thematic alignment of the "Terminal Velocity" project.
+- [ ] Systematic monitoring and validation of relevant files.
+### Step-by-Step Plan
+- [ ] Conduct a comprehensive review of all monitored files.
+- [ ] Validate character profiles and development arcs.
+- [ ] Analyze interaction scripts for thematic alignment.
+- [ ] Review narrative structure and scenes for coherence.
+- [ ] Evaluate world-building documents for cultural and technological context.
+- [ ] Conduct a redundancy and duplication check.
+- [ ] Compile a comprehensive final report summarizing findings.
+- [ ] Establish a routine for ongoing monitoring of files.
 ### Phase 1: Initial Assessment
 - [ ] Monitor all specified narrative development, character enrichment, world-building, and thematic files for completeness and coherence.
 - [ ] Identify any incomplete sections, duplications, and inconsistencies.
