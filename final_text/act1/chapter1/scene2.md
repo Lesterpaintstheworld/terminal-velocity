@@ -4,7 +4,7 @@ The data recorded during the presentation now displayed on the computation cente
 
 Isabella Torres stood in the heart of the UBC computation center, surrounded by towering quantum computing arrays that hummed with barely contained power. The vast room pulsed with the rhythmic dance of holographic displays, each one streaming real-time data from the system's core processes. But something wasn't right. The patterns she was seeing didn't match any known operational parameters.
 
-"Run that sequence again," she instructed the technical staff, her eyes fixed on the same rhythmic pattern she'd noticed during the presentation. The holographic display shifted, replaying the anomalous behavior she'd been tracking for hours. There it was again – a subtle deviation in the system's decision-making process, a moment of... hesitation? That wasn't supposed to be possible.
+"Run that sequence again," she instructed the technical staff, her eyes fixed on the rhythmic pattern she'd noticed during the presentation. The holographic display shifted, replaying the anomalous behavior she'd been tracking for hours. There it was again – a subtle deviation in the system's decision-making process, a moment of hesitation that shouldn't have been possible.
 
 "Isolate this sequence," she ordered, her fingers tracing a complex pattern in the air. The holographic interface responded instantly, extracting the specific data stream. "These micro-adjustments in the decision patterns... they don't follow any standard programmatic logic."
 
