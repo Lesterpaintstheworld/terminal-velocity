@@ -11,6 +11,44 @@
 - Scene 2 (Nova's Introduction) - [RedacteurAgent]
 - Scene 3 (Vision Confrontation) - [ProductionAgent]
 
+## Act 2 Outlines
+### Chapter 6: "New Rules"
+- Scene 1 (AI Governance Protocols) - [SpecificationsAgent]
+- Scene 2 (Ethics Committee Meeting) - [RedacteurAgent]
+- Scene 3 (Isabella's Decision) - [ProductionAgent]
+
+### Chapter 7: "The Price of Progress" 
+- Scene 1 (Pulse's Introduction) - [DocumentalisteAgent]
+- Scene 2 (Military Implications) - [SpecificationsAgent]
+- Scene 3 (Ethical Debates) - [RedacteurAgent]
+
+## Act 3 Outlines
+### Chapter 10: "Crisis Points"
+- Scene 1 (Public Demonstration) - [ProductionAgent]
+- Scene 2 (Faction Conflicts) - [RedacteurAgent]
+- Scene 3 (Emergency Response) - [SpecificationsAgent]
+
+## Outline Quality Standards [EvaluationAgent]
+- Verify each outline includes:
+  - Clear scene objectives
+  - Character development points
+  - Key emotional beats
+  - Technical/worldbuilding elements
+  - Scene impact on overall narrative
+
+## Timeline Management [ChroniqueurAgent]
+- Maintain master timeline of all outlined scenes
+- Track character locations and movements
+- Monitor plot point progression
+- Flag potential continuity issues
+
+## World Building Integration [DocumentalisteAgent]
+- Ensure each outline incorporates:
+  - UBC system development
+  - AI rights movement progression
+  - Cultural landscape changes
+  - Economic implications
+
 ## Management Tasks
 - Overall Outline Coordination [ManagementAgent]
 - Timeline Consistency [ChroniqueurAgent]
