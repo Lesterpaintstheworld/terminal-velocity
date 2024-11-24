@@ -15,7 +15,10 @@ To identify and redact sensitive information related to economic frameworks and 
 ## Step 3: Detect and Identify Sensitive Information
 - Analyze the content for any sensitive economic data or personally identifiable information (PII).
 - Pay particular attention to keywords or patterns related to the Universal Basic Compute (UBC) system or character financial details.
-## Step 4: Redaction Protocols
+## Step 4: Validation of AI Decision-Making
+- **Action**: Validate the portrayal of AI decision-making processes in the narrative against established research on AI capabilities and decision-making frameworks.
+- **Locate Relevant Sections**: Identify sections in the narrative that discuss AI decision-making.
+- **Research Validation**: Cross-reference these sections with current research to ensure they reflect realistic AI behaviors and decision-making processes.
 - Upon detection of sensitive information:
   - Initiate redaction protocols using Aider.
   - Replace sensitive sections with placeholders or anonymized data while ensuring document coherence.
