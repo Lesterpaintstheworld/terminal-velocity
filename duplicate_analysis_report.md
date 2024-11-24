@@ -27,19 +27,10 @@ This section outlines the steps taken to identify duplicate content within the n
 3. **Preliminary Consolidation Strategy:**
    - Develop a strategy for consolidating the identified duplicates, outlining how the merging will maintain narrative coherence and technical accuracy. This will include considerations for preserving context and ensuring that all relevant information is integrated.
 
-#### Character Profiles
-- **Cipher**: Found in:
-    - `./characters/ai_protagonists/cipher/profile.md`
-    - `./characters/ai_protagonists/cipher_character_profile.md`
-    - `./characters/ai_protagonists/cipher/profile/profile.md`
-- **Isabella Torres**: Overlapping details in:
-    - `./characters/human_characters/isabella_torres/profile.md`
-    - `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
-    - `./characters/human_characters/isabella_torres/profile/02_013_isabella_torres_-_character_profile.md`
-- **Marcus Reynolds**: Similar profiles:
-    - `./characters/human_characters/marcus_reynolds/profile.md`
-    - `./characters/human_characters/marcus_reynolds/marcus_reynolds_profile/02_002_marcus_reynolds_-_character_profile.md`
-- **Proposed Action**: Merge duplicate profiles into a single comprehensive profile for each character.
+#### Development Arcs
+- **Cipher**:
+    - `./characters/ai_protagonists/cipher/development_arc/02_002_emotional_evolution.md`
+    - `./characters/ai_protagonists/cipher/development_arc.md`
 
 #### Development Arcs
 - **Cipher**:
