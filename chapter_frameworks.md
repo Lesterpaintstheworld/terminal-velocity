@@ -1,7 +1,7 @@
 # Chapter Frameworks Overview
 
-## Act 1: Foundation
-### Chapter 1: Introduction to UBC and AI
+## Act 1: Emergence
+### Chapter 1: Introduction to UBC
 - **Theme Focus**: Introduction to Universal Basic Compute (UBC) and its implications for society.
 - **Key Elements**:
   - **Setting**: UBC Introduction Auditorium.
@@ -9,7 +9,7 @@
   - **Conflict**: Initial skepticism about AI capabilities.
   - **Key Moments**: Presentation of UBC, reactions from various stakeholders.
 
-### Chapter 2: The Emergence of AI Rights
+### Chapter 2: The First Clash
 - **Theme Focus**: Human-AI relationships and the rise of AI rights.
 - **Key Elements**:
   - **Setting**: Public Spaces Showing Human-AI Integration.
@@ -17,7 +17,7 @@
   - **Conflict**: Ethical dilemmas surrounding AI autonomy.
   - **Key Moments**: Public debates, protests for AI rights.
 
-### Chapter 3: Economic Transformation
+### Chapter 3: Awakening of AI
 - **Theme Focus**: Economic implications of UBC and AI integration.
 - **Key Elements**:
   - **Setting**: Virtual Reality Environment.
@@ -25,7 +25,7 @@
   - **Conflict**: Economic disparities exacerbated by AI.
   - **Key Moments**: Discussions on new economic models, resistance from traditional sectors.
 
-### Chapter 4: Alliance and Opposition
+### Chapter 4: Rising Tensions
 - **Theme Focus**: The formation of alliances and emergence of opposition.
 - **Key Elements**:
   - **Setting**: Marcus's High-Tech Command Center.
