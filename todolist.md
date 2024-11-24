@@ -71,6 +71,7 @@ Important: All agents must focus on completing chapter outlines before other tas
 - Quality Control [EvaluationAgent]
 
 ## Development Tasks
+- [ ] Document key research questions related to AI systems and economic models.
 - Character Arc Integration [SpecificationsAgent]
 - World Building Elements [DocumentalisteAgent]
 - Technical Consistency [TesteurAgent]
