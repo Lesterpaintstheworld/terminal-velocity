@@ -8,10 +8,17 @@
 - **Task 5**: Research implications of AI autonomy on economic systems.
 - **Task 6**: Prepare for Act 2 outline discussion.
 
-## High-Priority Tasks
-1. **Finalize Act 1 Draft**
-   - Review and integrate feedback from the last evaluation.
-   - Ensure all scenes in `./final_text/act1/` are cohesive and align with the narrative arc.
+## Key Research Topics
+- Universal Basic Compute (UBC) Deployment
+- AI Systems and Economic Models
+- Human-AI Relationships
+- Ethical Implications of AI
+- Economic Autonomy and Job Security
+- Character Development and Arcs
+- World-Building Enhancements
+- Integration of AI Systems
+- Feedback Loop Implementation
+- Documentation Updates
 2. **Develop Act 2 Outline**
    - Create a detailed outline for Act 2, focusing on character development and thematic progression.
    - Reference `./act2_outline.md` for structural guidance.
