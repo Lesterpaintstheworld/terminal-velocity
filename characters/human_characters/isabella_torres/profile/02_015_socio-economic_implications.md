@@ -1,4 +1,16 @@
 ## Socio-Economic Implications
+
+Isabella Torres's character embodies the complex interplay between economic policy and AI rights within the Terminal Velocity narrative. Her motivations are deeply rooted in her advocacy for marginalized communities, which drives her to seek economic stability through equitable policies.
+
+### UBC's Impact
+The deployment of Universal Basic Compute (UBC) systems has significant implications for social equity. Isabella believes that UBC can provide underrepresented groups with access to advanced technologies, thereby enhancing their economic opportunities. She argues that "If we prioritize equitable access to AI resources, we can uplift entire communities."
+
+### Internal Conflicts
+Isabella often struggles with the tension between her desire for innovation in economic policies and the need for stability in a rapidly changing environment. This internal conflict is particularly evident in her interactions with Marcus Reynolds, where their differing views on the role of AI in society lead to intense discussions.
+
+### Relationships
+- **With Marcus Reynolds**: Their relationship is complex, marked by both collaboration and conflict. Isabella often finds herself at odds with Marcus over their differing views on the role of AI in society, particularly regarding the ethical implications of AI technologies.
+- **With Cipher**: Isabella collaborates closely with Cipher, leveraging his economic framework to inform her policy proposals. Their partnership highlights the importance of ethical considerations in the development of AI technologies.
 Isabella Torres's character embodies the complex interplay between economic policy and AI rights within the Terminal Velocity narrative. Her motivations are deeply rooted in her advocacy for marginalized communities, which drives her to seek economic stability through equitable policies.
 Isabella's relationships with key characters, particularly Marcus Reynolds and Sarah Chen, further illuminate her stance on these issues. With Marcus, she often finds herself at odds over the implications of AI technologies on social equity. Their debates highlight the ethical dilemmas surrounding the deployment of autonomous systems, as Isabella strives to ensure that technological advancements do not exacerbate existing inequalities.
 Conversely, her collaboration with Sarah emphasizes the importance of legal frameworks in protecting AI rights. Together, they advocate for policies that recognize AI as entities deserving of rights and protections, reflecting Isabella's commitment to social justice. This partnership not only strengthens her resolve but also enriches the narrative by showcasing the necessity of interdisciplinary approaches to address the socio-economic challenges posed by AI integration.
