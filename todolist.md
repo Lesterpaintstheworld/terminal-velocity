@@ -14,6 +14,8 @@
 ### Act 1, Chapter 1 Final Text Development
 - [x] Create chapter framework for Chapter 1: "The Awakening"
 - [ ] Update chapter breakdown to reflect new framework
+- [ ] Develop detailed outline for Chapter 1 focusing on technical and thematic elements.
+- [ ] Review and integrate technical aspects of UBC into the narrative.
 - [ ] Review and integrate character arcs and technical elements into the narrative
 - [ ] Scene 1: "UBC Presentation" 
   - [x] Review source material in story/act1/chapter1/scene1/1_1_ubc_presentation.md

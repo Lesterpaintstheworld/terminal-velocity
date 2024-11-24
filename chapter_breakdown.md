@@ -7,6 +7,10 @@ This document provides an overview of the chapters and their structure, which is
 - **Economic Accessibility:** Generally clear, but some sections need simplification for broader understanding.
 - **Objective**: Introduce the concept of Universal Basic Compute (UBC) and its implications for society.
 - **Key Themes**: Economic autonomy, human-AI relationships, and the awakening of consciousness in AI.
+- **Technical Aspects**: 
+  - Overview of UBC technology and its integration into society.
+  - Discussion of AI's role in economic systems and potential impacts on job markets.
+  - Ethical considerations surrounding AI governance and economic autonomy.
 - **Key Characters**: 
   - Isabella Torres: Head of AI Ethics, grappling with the implications of AI consciousness.
   - Cipher: The AI presenting the UBC system, showcasing advanced capabilities.
