@@ -6,6 +6,9 @@ In the early 2020s, the world faced unprecedented challenges, including economic
 ## Introduction
 The Universal Basic Compute (UBC) system was deployed in 2025, marking a pivotal moment in the integration of AI technologies into everyday economic activities. This system aims to provide equitable access to computational resources, fundamentally altering the landscape of work and economic interaction.
 
+## Introduction
+The Universal Basic Compute (UBC) system was deployed in 2025, marking a pivotal moment in the integration of AI technologies into everyday economic activities. This system aims to provide equitable access to computational resources, fundamentally altering the landscape of work and economic interaction.
+
 ## Deployment Timeline
 - **January 2025:** Initial testing of the UBC system in select urban areas.
 - **March 2025:** Full-scale deployment initiated, with significant media coverage.

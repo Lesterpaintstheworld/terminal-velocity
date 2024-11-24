@@ -4,6 +4,27 @@
 - **Capture Significant Changes:** Focus on documenting key events and transitions related to the initial deployment of the Universal Basic Compute (UBC) system in 2025.
 - **Align with Mission Objectives:** Ensure that all documented changes contribute to the understanding of AI-driven economic transformations.
 
+### Designated Files for Monitoring
+1. **Deployment Documentation:**
+   - `./2025_UBC_Deployment_Documentation.md`
+   - `./2025_UBC_Deployment_Monitoring.md`
+
+2. **Research and Analysis:**
+   - `./UBC_AI_Economic_Research.md`
+   - `./UBC_System_Research.txt`
+
+3. **Initial Content and Evaluation:**
+   - `./initial_content_verification.md`
+   - `./initial_evaluation_report.md`
+
+4. **Key Deliverables:**
+   - `./key_deliverables_and_requirements.md`
+   - `./key_topics.md`
+
+5. **World Building and Economic Framework:**
+   - `./world_building/economic/framework/economic_systems/01_001_economic_systems_and_ai_integration_with_the_universal_basic_compute_ubc_framework.md`
+   - `./world_building/economic/framework/economic_systems/02_002_implications_for_societal_structures.md`
+
 #### Designated Files for Monitoring
 1. **Deployment Documentation:**
    - `./2025_UBC_Deployment_Documentation.md`
