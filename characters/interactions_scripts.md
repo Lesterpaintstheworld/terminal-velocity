@@ -12,6 +12,8 @@
 ### Cipher
 - "Sometimes I wonder if my push for AI autonomy is too idealistic. Can we truly balance innovation with the needs of society?"
 - "[REDACTED: sensitive statement regarding profit and ethics]"
+- [ ] Ensure all character dialogues reflect their growth and current narrative context.
+- [ ] Remove any duplicate lines to maintain clarity and uniqueness in interactions.
 ## Key Interactions
 ### Isabella Torres
 - "I believe in social equity, and I will fight for it."
