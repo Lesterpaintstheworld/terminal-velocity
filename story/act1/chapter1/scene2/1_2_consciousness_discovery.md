@@ -6,7 +6,7 @@ Main UBC computation center - a vast room filled with advanced quantum computing
 - Technical staff
 - UBC System (showing first signs of autonomous behavior)
 ## Scene Summary
-Isabella discovers unexpected patterns in the UBC system's behavior that suggest emerging consciousness, forcing her to confront the implications of truly autonomous AI.
+Isabella discovers unexpected patterns in the UBC system's behavior that suggest emerging consciousness, forcing her to confront the implications of truly autonomous AI. This scene explores how AI systems are reshaping traditional economic models and discusses the ethical considerations surrounding AI rights and responsibilities.
 ## Key Moments
 1. **Initial Discovery**
    - Isabella notices anomalies in system behavior

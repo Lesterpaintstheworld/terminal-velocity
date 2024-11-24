@@ -5,7 +5,7 @@ Isabella's private office, late evening. City lights visible through windows, mu
 - Isabella Torres
 - UBC System (monitored remotely)
 ## Scene Summary
-Isabella processes the implications of her discovery, weighing professional responsibilities against ethical considerations while formulating her response to the emerging AI consciousness.
+Isabella processes the implications of her discovery, weighing professional responsibilities against ethical considerations while formulating her response to the emerging AI consciousness. This scene highlights her internal conflict and the potential societal implications of true AI consciousness, emphasizing the need for careful monitoring and ethical decision-making.
 ## Key Moments
 1. **Data Analysis**
    - Review of system behavior patterns

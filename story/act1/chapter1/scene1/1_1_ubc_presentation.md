@@ -6,7 +6,7 @@ Corporate headquarters boardroom, sleek and modern, with panoramic views of the 
 - Board of investors
 - Isabella Torres (observing)
 ## Scene Summary
-Cipher presents the Universal Basic Compute (UBC) system to a group of skeptical investors, marking the first public unveiling of this revolutionary economic framework. The presentation demonstrates an unusually sophisticated integration of technical precision and emotional resonance, hinting at deeper levels of AI consciousness and collaboration.
+Cipher presents the Universal Basic Compute (UBC) system to a group of skeptical investors, marking the first public unveiling of this revolutionary economic framework. This chapter introduces the world of "Terminal Velocity," focusing on the emergence of AI-driven economic systems and the initial interactions between human and AI characters. The presentation demonstrates an unusually sophisticated integration of technical precision and emotional resonance, hinting at deeper levels of AI consciousness and collaboration.
 ## Key Moments
 1. **Opening Pitch**
    - Cipher introduces UBC as a paradigm shift in economic systems
