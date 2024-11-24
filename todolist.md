@@ -1,6 +1,10 @@
 # PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+- [ ] Address redundancies identified in the evaluation report.
+- [ ] Implement changes based on identified redundancies in Act 1 scenes.
+- [ ] Streamline character motivations and dialogue based on analysis findings.
+- [ ] Review and integrate character arcs and technical elements into the narrative.
 - [ ] Address pacing issues in Chapter 2 based on evaluation feedback.
 - [ ] Simplify technical jargon in the narrative for better accessibility.
 - [ ] Further develop themes of economic autonomy in later chapters.
