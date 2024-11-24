@@ -1,6 +1,11 @@
 # PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+### Initial Draft Prioritization for "Terminal Velocity"
+
+#### Objectives
+1. **Identify Content Gaps**: Review existing documents to determine what is missing for a cohesive narrative.
+2. **Cohesive Narrative Structure**: Ensure the three acts are well-defined and interconnected.
 
 ## Immediate Focus
 ### Initial Content Mapping Analysis for "Terminal Velocity"
@@ -53,8 +58,9 @@ The objective of this initial content mapping is to identify valuable informatio
      - Clarify the technical aspects of AI systems and their implications on the economy and society within the narrative.
 
 #### Next Steps
-1. **Detailed Analysis:** Conduct a deeper analysis of the identified clusters to extract specific insights and content that can be integrated.
-2. **Content Integration:** Begin
+1. **Review Drafts**: Begin with the initial drafts for each act, focusing on coherence and engagement.
+2. **Identify Missing Elements**: Use the project structure to pinpoint any missing scenes or character developments.
+3. **Integrate Feedback**: Plan for iterative feedback loops to refine the narrative based on character and thematic consistency.
 
 #### Overview of Project Structure
 The project structure contains a variety of files organized into categories such as chapters, characters, world-building, research, and themes. Each category contains multiple documents that delve into specific aspects of the narrative, character development, and the economic framework surrounding Universal Basic Compute (UBC).
