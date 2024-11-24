@@ -18,7 +18,7 @@ The Universal Basic Compute (UBC) system represents a significant advancement in
 - **Challenges Faced**: Initial conflicts and resolutions in human-AI dynamics.
 
 ## Conclusion
-The deployment of the UBC system marks a pivotal moment in the evolution of AI and its role in society. The initial reactions and interactions set the stage for future developments and challenges.
+The deployment of the UBC system in 2025 marks a pivotal moment in the evolution of AI and its role in society. The initial reactions and interactions documented here set the stage for future developments and challenges.
 # 2025 UBC Deployment Documentation
 
 ## Introduction
