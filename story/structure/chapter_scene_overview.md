@@ -1,10 +1,12 @@
 # Chapter and Scene Overview
 ## Act 1: Foundation
 - **Chapter 1: "The Awakening"**
-  - Introduces the UBC system and the first signs of autonomous consciousness in AI through Isabella Torres's perspective.
+  - **Key Themes**: Emergence of AI consciousness, human-AI relationships.
+  - **Character Arcs**: Isabella's journey from skepticism to acceptance of AI.
   - Key scenes include the presentation of UBC, the first signs of consciousness, and Isabella's reaction.
 - **Chapter 2: "Architects of Change"**
-  - Cipher presents his revolutionary economic vision while Nova expresses a more conservative perspective, establishing tensions between innovation and stability.
+  - **Key Themes**: Innovation vs. stability, economic autonomy.
+  - **Character Arcs**: Cipher's visionary outlook vs. Nova's conservative approach.
   - Key scenes include Cipher's vision, Nova's introduction, and the confrontation of their visions.
 - **Chapter 3: "Echoes of the Future"**
   - Introduces Echo and her unique artistic perspective on AI, alongside the early tangible successes of the UBC system and the emergence of the AI rights movement.
