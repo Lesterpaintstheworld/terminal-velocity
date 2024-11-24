@@ -1,13 +1,24 @@
 # Terminal Velocity Mission - Todo List
 
-## Current Priorities
-1. **Update todolist.md**: Review and revise existing tasks.
-2. **Refine Chapter Outlines**: 
-   - Focus on transitions between Emergence, Acceleration, and Convergence phases.
-   - Ensure thematic consistency and narrative flow.
-3. **Map Character Arcs**: 
-   - Create detailed mappings for all main characters.
-   - Ensure alignment with narrative and thematic objectives.
+## Current Phase: [Specify Current Phase]
+
+### Review Existing Tasks
+- [ ] Assess tasks in the **story** section.
+- [ ] Review tasks in the **characters** section.
+- [ ] Check the **world building** tasks for alignment with narrative goals.
+
+### New Tasks
+- [ ] Integrate feedback on AI system capabilities from recent evaluations.
+- [ ] Develop character arcs for **Isabella Torres** and **Marcus Reynolds**.
+- [ ] Explore thematic elements related to **economic autonomy** in upcoming chapters.
+
+### Track Task Status
+- [ ] Mark completed tasks in **act1** and **act2**.
+- [ ] Update ongoing tasks related to **act3** development.
+- [ ] Review dependencies between character interactions and plot developments.
+
+## Notes
+- Ensure alignment with overarching themes of **human-AI relationships** and **economic transformation**.
 
 ## Upcoming Tasks
 - Conduct a narrative evaluation to assess engagement and coherence.
