@@ -146,7 +146,7 @@ Based on the provided project structure, here are the key deliverables and requi
 - **Economic and Cultural Insights:** Weaving in economic frameworks and cultural contexts will enrich the world-building and provide a more immersive experience for readers.
 - **Scene Enhancements:** Utilizing emotional beats and key moments from scene breakdowns can enhance the pacing and emotional impact of the story.
 
-### Next Tasks
+### Current Tasks
 
 1. **Content Integration:** Begin integrating identified elements into the narrative structure, focusing on character development and thematic coherence.
 2. **Structural Refinement:** Validate and refine the chapter frameworks and scene breakdowns to ensure logical flow and engagement.
