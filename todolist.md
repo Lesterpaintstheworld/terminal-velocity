@@ -2,6 +2,8 @@
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
 
+## Current Tasks
+
 ### Proposed Action
 Conduct an initial evaluation of the narrative elements in "Terminal Velocity," focusing on narrative engagement and character development. This will involve reviewing the current draft to assess how effectively the story captivates the reader and how well the characters are developed throughout the narrative. 
 
