@@ -3,8 +3,25 @@
 ## Overview
 This report documents the findings from the initial content analysis conducted on the narrative files of "Terminal Velocity." The analysis focused on identifying duplicate content across character profiles, scene descriptions, world-building elements, and research documents.
 
+## Initial Content Analysis
+This section outlines the steps taken to identify duplicate content within the narrative files of "Terminal Velocity."
+
+1. **Identify Duplicate Content**:
+   - Reviewed files for similar titles, content, or themes.
+   - Focused on character profiles, interaction scripts, and narrative scenes, as these are likely to have overlapping information.
+
+2. **Document Findings**:
+   - Created a report outlining identified duplicates, including file paths and a brief description of the content.
+
+3. **Assess Duplication Extent**:
+   - Determined if duplicates are exact matches or variations.
+   - Noted any contextual differences that may affect consolidation.
+
 ## Findings and Duplicates
-### Character Profiles
+### Summary of Identified Duplicates
+The following duplicates were identified during the analysis:
+
+#### Character Profiles
 - **Duplicate Profiles**: 
   - **Cipher**: Found in:
     - `./characters/ai_protagonists/cipher/profile.md`
