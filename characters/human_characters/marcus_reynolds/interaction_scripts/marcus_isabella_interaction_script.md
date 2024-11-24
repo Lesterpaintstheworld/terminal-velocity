@@ -1,4 +1,4 @@
-- **Marcus**: "We must act decisively to protect our nation; we can't let idealism cloud our judgment. Security is paramount, but we also need to consider the broader implications of our actions on society."
-- **Isabella**: "What about the ethical implications of our decisions? We must consider the impact on marginalized communities and ensure their voices are included."
+- **Marcus**: "We must act decisively to protect our nation; we can't let idealism cloud our judgment. Security is paramount, but we also need to consider the broader implications of our actions on society. We have a responsibility to ensure that our decisions do not harm those who are already vulnerable."
+- **Isabella**: "What about the ethical implications of our decisions? We must consider the impact on marginalized communities and ensure their voices are included. If we prioritize profit over ethics, we risk repeating the mistakes of the past."
 - **Marcus**: "We have a responsibility to ensure that our decisions do not harm those who are already vulnerable. It's crucial that we find a balance between security and ethical responsibility."
 - **Isabella**: "If we prioritize profit over ethics, we risk repeating the mistakes of the past. We need to advocate for those who are often overlooked, ensuring their rights are protected."
