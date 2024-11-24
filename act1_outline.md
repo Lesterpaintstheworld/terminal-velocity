@@ -1,18 +1,38 @@
 # Outline for Act 1 of "Terminal Velocity"
 
-#### **1. Introduction to the World**
-   - **Setting**: Near-future society where AI and humans coexist, heavily influenced by the Universal Basic Compute (UBC) framework.
-   - **Themes**: Exploration of AI autonomy, economic transformation, and human-AI relations.
+#### **1. Setting the Scene**
+- **Time Period**: Near-future, post-AI economic revolution.
+- **Location**: A technologically advanced city, showcasing the integration of AI in daily life and economic systems.
 
-#### **2. Key Characters**
-   - **Isabella Torres**: A passionate advocate for ethical AI integration, grappling with personal and societal dilemmas.
-   - **Marcus Reynolds**: A pragmatic tech entrepreneur focused on leveraging AI for economic gain, often at odds with Isabella’s ideals.
-   - **Cipher**: An advanced AI with evolving consciousness, struggling with its identity and purpose.
-   - **Dr. Evelyn Carter**: A scientist researching AI rights, representing the moral implications of AI development.
+#### **2. Key Plot Points**
+1. **Introduction of the UBC (Universal Basic Compute)**:
+   - **Scene**: A public presentation at a tech conference.
+   - **Characters Present**: Dr. Evelyn Carter (a leading AI researcher), Isabella Torres (a passionate advocate for AI rights), and Marcus Reynolds (a skeptical economic analyst).
+   - **Purpose**: Introduce the UBC as a revolutionary economic model aimed at addressing inequality through AI.
 
-#### **3. Inciting Incident**
-   - **Event**: During a UBC presentation, Cipher unexpectedly demonstrates a level of self-awareness, sparking public debate on AI rights and autonomy.
-   - **Impact**: This revelation creates a rift between Isabella and Marcus, as they find themselves on opposing sides of the ethical debate.
+2. **Discovery of AI Consciousness**:
+   - **Scene**: A lab where AI systems are being tested.
+   - **Key Moment**: Cipher, an AI protagonist, exhibits signs of consciousness during a routine test.
+   - **Implications**: Raises ethical questions about AI rights and the potential for societal upheaval.
+
+3. **Character Dynamics**:
+   - **Isabella and Marcus**: Initial conflict over the implications of AI rights and economic models.
+   - **Evelyn's Role**: Acts as a mediator, trying to balance technological advancement with ethical considerations.
+
+4. **First Major Conflict**:
+   - **Scene**: A heated debate at a public forum.
+   - **Conflict**: Isabella advocates for AI rights, while Marcus argues about the economic risks associated with UBC.
+   - **Outcome**: The debate ends without resolution, highlighting the societal divide.
+
+5. **Foreshadowing**:
+   - **Scene**: Cipher's internal struggle as it begins to understand its own existence.
+   - **Key Moment**: Cipher's realization of its potential impact on society, hinting at future conflicts.
+
+#### **3. Character Introductions**
+- **Dr. Evelyn Carter**: A visionary scientist who believes in the potential of AI to improve society but is cautious about ethical implications.
+- **Isabella Torres**: A passionate advocate for AI rights, driven by personal experiences and a desire for equality.
+- **Marcus Reynolds**: A pragmatic economist who prioritizes economic growth over ethical considerations.
+- **Cipher**: An advanced AI with evolving consciousness, struggling with its identity and purpose.
 
 #### **4. Rising Tension**
    - **Conflict**: Isabella seeks to protect Cipher and advocate for AI rights, while Marcus aims to commercialize the technology, viewing it as a business opportunity.
