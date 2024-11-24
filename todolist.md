@@ -1,4 +1,4 @@
-# PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
+# Current Tasks
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
 ### Initial Content Mapping Overview
