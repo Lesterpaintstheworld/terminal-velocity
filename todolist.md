@@ -31,10 +31,23 @@
 ## Notes
 - Ensure alignment with overarching themes of **human-AI relationships** and **economic transformation**.
 
-## Upcoming Tasks
-- Conduct a narrative evaluation to assess engagement and coherence.
-- Integrate feedback from recent reviews into character development.
-- Develop scene structures for Act 2 and Act 3.
+## Key Research Topics
+- Universal Basic Compute (UBC) Deployment
+- AI Economic Models
+- Human-AI Relationships
+- World Building
+- Character Development
+- Research on AI Rights Movement
+- Technical Specifications
+
+## Prioritization
+1. UBC Deployment (High)
+2. AI Economic Models (High)
+3. Human-AI Relationships (Medium)
+4. World Building (Medium)
+5. Character Development (Medium)
+6. AI Rights Movement (Low)
+7. Technical Specifications (Low)
 
 ## Completed Tasks
 - Initial draft of Act 1 completed.
