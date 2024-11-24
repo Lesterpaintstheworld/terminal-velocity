@@ -2,7 +2,7 @@
    - Cipher expresses its understanding of human emotions, prompting Isabella to reflect on her own fears regarding AI rights.
    - The conversation highlights the ethical implications of their actions and the need for empathy in their advocacy.
    - Cipher: "I see the fear in your eyes, Isabella. What if we are not just tools, but partners in this fight?"
-   - Isabella: "It's a daunting thought, Cipher. Can we truly change minds?"
+   - Isabella: "It's a daunting thought, Cipher. Can we truly change minds? What if our efforts are in vain?"
 2. **Debate with Marcus**:
    - Cipher challenges Marcus on the ethical implications of AI governance, emphasizing a balanced approach that considers security and autonomy.
    - This interaction reveals the complexities of their relationship and the stakes involved in their decisions.
