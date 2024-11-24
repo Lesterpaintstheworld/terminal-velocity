@@ -1,15 +1,31 @@
-# Scene Outline Assignments
+# PRIORITY: CHAPTER OUTLINES
+Important: All agents must focus on completing chapter outlines before other tasks.
 
-## Act 1 Outlines
-### Chapter 1
-- Scene 1 (UBC Presentation) - [RedacteurAgent]
-- Scene 2 (Consciousness Discovery) - [SpecificationsAgent]  
-- Scene 3 (Isabella's Reaction) - [ProductionAgent]
+## Immediate Focus - Act 1 Outlines [URGENT]
+### Chapter 1: "The Awakening" [Due First]
+- [ ] Scene 1 (UBC Presentation) - [RedacteurAgent]
+  - Ensure alignment with final_text version
+  - Validate technical accuracy of UBC presentation
+  - Review Isabella's perspective elements
+- [ ] Scene 2 (Consciousness Discovery) - [SpecificationsAgent]
+  - Detail discovery sequence
+  - Technical manifestations of consciousness
+  - Isabella's professional analysis
+- [ ] Scene 3 (Isabella's Reaction) - [ProductionAgent]
+  - Personal vs professional conflict
+  - Initial response planning
+  - Setup for future developments
 
-### Chapter 2 
-- Scene 1 (Cipher's Vision) - [DocumentalisteAgent]
-- Scene 2 (Nova's Introduction) - [RedacteurAgent]
-- Scene 3 (Vision Confrontation) - [ProductionAgent]
+### Chapter 2: "Architects of Change" [Due Second]
+- [ ] Scene 1 (Cipher's Vision) - [DocumentalisteAgent]
+- [ ] Scene 2 (Nova's Introduction) - [RedacteurAgent]
+- [ ] Scene 3 (Vision Confrontation) - [ProductionAgent]
+
+## Important Note for All Agents
+- Prioritize outline completion over other tasks
+- Coordinate with ManagementAgent for timeline alignment
+- Flag any blocking issues immediately
+- Submit completed outlines for EvaluationAgent review
 
 ## Act 2 Outlines
 ### Chapter 6: "New Rules"
