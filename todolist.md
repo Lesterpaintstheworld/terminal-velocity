@@ -1,6 +1,9 @@
 # PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+- [ ] Address pacing issues in Chapter 2 based on evaluation feedback.
+- [ ] Simplify technical jargon in the narrative for better accessibility.
+- [ ] Further develop themes of economic autonomy in later chapters.
 - [ ] Address redundancies identified in the evaluation report.
 - [ ] Streamline character motivations and dialogue based on analysis findings.
 ### Act 1, Chapter 1 Final Text Development
