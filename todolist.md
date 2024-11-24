@@ -3,7 +3,7 @@
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
 ### Initial Content Mapping Overview
 
-To enhance the narrative coherence and technical accuracy of the "Terminal Velocity" project, I've conducted an initial content mapping of the project files. This process involves identifying valuable information and isolated clusters that can be integrated for improved narrative structure.
+To enhance the narrative coherence and technical accuracy of the "Terminal Velocity" project, I will conduct an initial content mapping of the project files. This process will involve identifying valuable information and isolated clusters that can be integrated for improved narrative structure.
 
 ### Key Deliverables and Requirements for "Terminal Velocity - Novel Mission"
 
