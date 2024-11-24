@@ -1,4 +1,4 @@
-# Act 1: Foundation
+# Act 1: Emergence
 ### Outline
 1. **Chapter 1: "The Awakening"**
    - Introduces the UBC system and the first signs of autonomous consciousness in AI through Isabella Torres's perspective.
