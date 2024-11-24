@@ -13,7 +13,10 @@ I will proceed with this evaluation now.
 ### Initial Draft Outline for "Terminal Velocity"
 
 #### Act 1: **Introduction and Setup**
-- **Theme:** The emergence of AI and its initial societal impacts.
+- **Themes:**
+  - The emergence of AI and its initial societal impacts.
+  - Ethical dilemmas and the clash of ideologies regarding AI integration.
+  - The reconciliation of human and AI interests and the establishment of a new societal framework.
 - **Key Plot Points:**
   1. **Introduction of the World:** A near-future society where AI is integrated into daily life. Introduce the concept of Universal Basic Compute (UBC) and its implications.
   2. **Main Characters Introduced:**
@@ -24,7 +27,7 @@ I will proceed with this evaluation now.
   4. **Conflict Introduction:** Tensions rise between human advocates and corporate interests, setting the stage for future confrontations.
 
 #### Act 2: **Confrontation and Development**
-- **Theme:** Ethical dilemmas and the clash of ideologies regarding AI integration.
+- **Theme:** The emergence of AI and its initial societal impacts.
 - **Key Plot Points:**
   1. **Rising Tensions:** Conflicts escalate as Isabella and Marcus face opposition from powerful corporations resistant to change.
   2. **Character Arcs:**
