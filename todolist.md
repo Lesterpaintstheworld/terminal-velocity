@@ -99,6 +99,9 @@
 - [ ] Integrate findings from `UBC_System_Research.md` into the narrative framework.
 - [ ] Validate the UBC system architecture against current technological trends.
 - [ ] Document key research questions and findings in `key_questions.md`.
+- [ ] Document findings from the UBC system research to inform character development and plot progression.
+- [ ] Validate the UBC system architecture against current technological trends.
+- [ ] Document key research questions and findings in `key_questions.md`.
 - [ ] Integrate researched data from `UBC_System_Research.md` into the narrative, focusing on technical accuracy and thematic alignment.
 - [ ] Document findings from the UBC system research to inform character development and plot progression.
 - [ ] Document findings in the initial evaluation report.
