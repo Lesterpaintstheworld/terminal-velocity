@@ -44,19 +44,14 @@ This document provides an overview of the chapters and their structure, which is
   - Marcus Reynolds: A cybersecurity expert questioning the system's security.
 
 ## Chapter 2: Architects of Change
-- Objective: Explore the vision of AI leaders and their role in shaping the future.
-- Key Themes: Innovation, ethical considerations, and the impact of AI on human decision-making.
-- **Narrative Engagement:** Pacing issues noted; needs enhancement.
-- **Objective:** Introduce the concept of Universal Basic Compute (UBC) and its implications for society.
-- **Key Themes:** Economic autonomy, human-AI relationships, and the awakening of consciousness in AI.
-- Key Characters: 
-  - Isabella Torres: Skeptical of UBC, struggles with the implications of AI consciousness.
+- **Objective**: Explore the vision of AI leaders and their role in shaping the future.
+- **Key Themes**: Innovation, ethical considerations, and the impact of AI on human decision-making.
+- **Narrative Engagement**: Pacing issues noted; needs enhancement.
+- **Key Characters**: 
+  - Nova: A visionary AI leader, grapples with the ethical implications of her decisions.
+  - Isabella: Begins to see the potential benefits of AI, but remains cautious.
   - Cipher: An emerging AI, begins to develop self-awareness.
   - Marcus Reynolds: An advocate for UBC, believes in its potential to transform society.
-
-## Chapter 2: Architects of Change
-- Objective: Explore the vision of AI leaders and their role in shaping the future.
-- Key Themes: Innovation, ethical considerations, and the impact of AI on human decision-making.
 
 ## Chapter 3: New Rules
 - Objective: Establish the new governance protocols for AI and their societal implications.
