@@ -333,7 +333,6 @@ This evaluation will help identify strengths and areas for improvement in "Termi
 - [ ] Emotional Impact [EvaluationAgent]
 - [ ] Documentation Maintenance [ChroniqueurAgent]
 ## Success Indicators
-- All sensitive data successfully redacted without omissions.
 - Document integrity maintained with no unintended modifications.
 - Compliance with predefined security and privacy criteria confirmed.
 - [ ] Character profile consistency
