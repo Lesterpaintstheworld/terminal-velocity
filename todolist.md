@@ -8,9 +8,12 @@
 - [ ] Check the **world building** tasks for alignment with narrative goals.
 
 ### New Tasks
-- [ ] Integrate feedback on AI system capabilities from recent evaluations.
-- [ ] Develop character arcs for **Isabella Torres** and **Marcus Reynolds**.
-- [ ] Explore thematic elements related to **economic autonomy** in upcoming chapters.
+1. **Integrate Feedback**: Integrate feedback on AI system capabilities from recent evaluations.
+2. **Character Development**: Develop character arcs for **Isabella Torres** and **Marcus Reynolds**.
+3. **Thematic Exploration**: Explore thematic elements related to **economic autonomy** in upcoming chapters.
+4. **Scene Structuring**: Begin outlining key scenes for Act 2 and Act 3.
+5. **Technical Validation**: Ensure that all technical elements are plausible and well-integrated into the narrative.
+6. **Narrative Evaluation**: Conduct a narrative evaluation to assess engagement and coherence.
 
 ### Track Task Status
 - [ ] Mark completed tasks in **act1** and **act2**.
