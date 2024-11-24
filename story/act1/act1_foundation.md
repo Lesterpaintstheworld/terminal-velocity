@@ -1,14 +1,14 @@
 # Act 1: Foundation
 ### Outline
-1. **Chapter 1: "L'Éveil"**
+1. **Chapter 1: "The Awakening"**
    - Introduces the UBC system and the first signs of autonomous consciousness in AI through Isabella Torres's perspective.
    - Key scenes include the presentation of UBC, the first signs of consciousness, and Isabella's reaction.
-2. **Chapter 2: "Architectes du Changement"**
+2. **Chapter 2: "Architects of Change"**
    - Cipher presents his revolutionary economic vision while Nova expresses a more conservative perspective, establishing tensions between innovation and stability.
    - Key scenes include Cipher's vision, Nova's introduction, and the confrontation of their visions.
-3. **Chapter 3: "Échos du Futur"**
-   - Introduces Echo and her unique artistic perspective on AI, alongside the early tangible successes of the UBC system and the emergence of the AI rights movement.
-   - Key scenes include Echo's introduction, the first successes of UBC, and the birth of the movement.
+3. **Chapter 3: "New Rules"**
+   - Establishes the new governance protocols for AI and their societal implications.
+   - Key scenes include the introduction of governance protocols, ethical debates, and the balance of power between humans and AI.
 4. **Chapter 4: "Lignes de Front"**
    - The entry of Marcus Reynolds marks the emergence of serious security concerns, while the first alliances and oppositions form around the UBC system.
    - Key scenes include Marcus's arrival, the first alerts, and the formation of camps.
