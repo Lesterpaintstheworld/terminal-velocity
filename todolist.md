@@ -63,6 +63,8 @@ Important: All agents must focus on completing chapter outlines before other tas
 
 ## Development Tasks
 - [ ] Document key research questions related to AI systems and economic models.
+- [ ] Conduct redundancy analysis on UBC system explanations.
+- [ ] Review character interactions for repetitive dialogue.
 - Character Arc Integration [SpecificationsAgent]
 - World Building Elements [DocumentalisteAgent]
 - Technical Consistency [TesteurAgent]

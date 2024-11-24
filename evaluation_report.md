@@ -2,6 +2,9 @@
 ## Summary of Findings
 - **Inconsistencies Detected**: 
 - **Redundancies Found**:
+  - Identify sections with repetitive explanations of the UBC system.
+  - Highlight overlapping themes in character arcs.
+  - Document any redundant dialogue in character interactions.
   - Redundant character motivations in Isabella and Marcus profiles.
   - Overlapping themes in character arcs that need clarification.
   - Emotional depth lacking in character interactions, particularly between Isabella and Marcus. Enhancements are needed to deepen their emotional stakes. 
