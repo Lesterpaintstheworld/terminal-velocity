@@ -1,5 +1,9 @@
 # Key AI and Economic Claims
 
+## Verification Notes
+- **AI Systems**: Claims regarding AI capabilities need to be cross-referenced with established research to ensure accuracy.
+- **Economic Models**: The implications of UBC on job displacement should be further explored with current economic data.
+
 ## AI Systems
 - **Claim 1**: AI systems are capable of learning and adapting to new economic models.
 - **Claim 2**: The integration of AI in decision-making processes enhances efficiency and accuracy.
