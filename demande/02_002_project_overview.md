@@ -16,4 +16,5 @@ This document contains redacted content to ensure compliance with privacy regula
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`. [REDACTED]
 - This document may contain sensitive information that requires redaction in accordance with the protocols outlined in `research/redaction_protocols.md`.
 - Narrative period: evolution of human-AI relationships
+- Key questions related to AI systems and economic models are documented in `key_questions.md`.
 --> focus on outlining the chapters and scenes
