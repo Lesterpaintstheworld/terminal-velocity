@@ -1,6 +1,9 @@
 # PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+- [ ] Create a new document titled `UBC_Economic_Impact_Research.md` to compile insights on UBC systems.
+- [ ] Update `research_questions.md` with new questions related to UBC.
+- [ ] Modify `02_005_key_innovations_and_implications_of_ubc_economic_framework.md` to include new findings on UBC's economic implications.
 - [ ] Address redundancies identified in the evaluation report.
 - [ ] Implement changes based on identified redundancies in Act 1 scenes.
 - [ ] Streamline character motivations and dialogue based on analysis findings.
