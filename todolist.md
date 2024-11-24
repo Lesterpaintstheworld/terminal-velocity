@@ -84,12 +84,17 @@
     - Compile a list of references and inspirations in `./research/references/`.
     - Update `./research/research_questions.md` with new insights.
 
-## Ongoing Tasks
-- **Regular Team Meetings**
-  - Schedule weekly check-ins to discuss progress and address any blockers.
-  
-- **Continuous Evaluation**
-  - Monitor the integration of feedback and adjust tasks
+## Key Research Topics
+- Universal Basic Compute (UBC) Deployment
+- AI Systems and Economic Models
+- Human-AI Relationships
+- Ethical Implications of AI
+- Economic Autonomy and Job Security
+- Character Development and Arcs
+- World-Building Enhancements
+- Integration of AI Systems
+- Feedback Loop Implementation
+- Documentation Updates
 
 2. **Character Development**
    - Detailed profiles for AI and human characters, including motivations, relationships, and development arcs.
