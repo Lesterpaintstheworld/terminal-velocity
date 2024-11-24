@@ -1,35 +1,37 @@
 # Key Topics Extracted from todolist.md
 
-## Immediate Drafting Tasks
-- Narrative engagement and character development in "Terminal Velocity."
-- Evaluation of strengths and areas for improvement in the current draft.
+## Universal Basic Compute (UBC) Deployment
+- Research on the implications of UBC implementation.
+- Case studies on early adopters and their outcomes.
 
-## Chapter Frameworks and Character Arcs
-- Act 1: Introduction to the World
-  - Chapter 1: Awakening
-  - Chapter 2: Conflict Emerges
-  - Chapter 3: The Alliance
-  - Chapter 4: The Revelation
-  - Chapter 5: The Confrontation
-- Act 2: Rising Tensions
-  - Chapter 6: Diverging Paths
+## AI Systems and Economic Models
+- Analysis of AI-driven economic models.
+- Exploration of potential new economic paradigms.
 
-## Narrative Engagement
-- Captivating opening scenes.
-- Pacing and tension throughout the narrative.
-- Conflict development and climactic moments.
-- Resolution of the narrative.
+## Human-AI Relationships
+- Investigation of evolving dynamics between humans and AI.
+- Ethical considerations in human-AI interactions.
+
+## World-Building Elements
+- Development of cultural and societal impacts of AI integration.
+- Framework for governance and rights in AI systems.
 
 ## Character Development
-- Character arcs and relationships.
-- Backstory integration and dialogue authenticity.
-- Emotional resonance in character actions and thoughts.
+- Profiles and arcs of key characters involved in the narrative.
+- Emotional and ethical dilemmas faced by characters.
 
-## Analysis Phase
-- Identifying redundant content and inconsistencies.
-- Reviewing thematic elements for clarity.
+## Research on AI Rights Movement
+- Historical context and milestones of the AI rights movement.
+- Societal impacts and future directions.
+
+## Technical Specifications and Frameworks
+- Detailed documentation of UBC technical specifications.
+- Integration protocols for AI systems.
+
+## Visual and Narrative Elements
+- Creation of visuals to support storytelling.
+- Structuring narrative arcs and key scenes.
 
 ## Next Steps
-- Focus on character profiles and development arcs.
-- Examine scene files for repeated content.
-- Review thematic documents for coherence.
+- Prioritize these topics based on urgency and relevance to the mission.
+- Begin gathering information and validating sources for each topic.
