@@ -8,10 +8,10 @@ This document will compile findings related to the architecture of Universal Bas
 - Functional elements of UBC systems
 - Integration with existing economic frameworks
 
-## Societal Impacts
-- Implications of UBC on labor markets
-- Effects on economic policies
-- Ethical considerations surrounding UBC deployment
+## Key Findings
+- UBC systems can lead to significant changes in labor markets, potentially displacing traditional jobs while creating new opportunities in tech management.
+- Economic policies will need to adapt to the realities of UBC deployment, focusing on resource distribution and societal equity.
+- Ethical considerations include ensuring that UBC systems are deployed fairly and do not exacerbate existing inequalities.
 
 ## Conclusion
 This research aims to enhance the narrative's credibility regarding AI-driven economic systems by providing a thorough understanding of UBC architecture and its societal implications.
