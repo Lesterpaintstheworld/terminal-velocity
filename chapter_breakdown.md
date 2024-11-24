@@ -10,8 +10,8 @@ This document provides an overview of the chapters and their structure, which is
 - Objective: Explore the vision of AI leaders and their role in shaping the future.
 - Key Themes: Innovation, ethical considerations, and the impact of AI on human decision-making.
 - **Narrative Engagement:** Pacing issues noted; needs enhancement.
-- Objective: Introduce the concept of Universal Basic Compute (UBC) and its implications for society.
-- Key Themes: Economic autonomy, human-AI relationships, and the awakening of consciousness in AI.
+- **Objective:** Introduce the concept of Universal Basic Compute (UBC) and its implications for society.
+- **Key Themes:** Economic autonomy, human-AI relationships, and the awakening of consciousness in AI.
 - Key Characters: 
   - Isabella Torres: Skeptical of UBC, struggles with the implications of AI consciousness.
   - Cipher: An emerging AI, begins to develop self-awareness.
