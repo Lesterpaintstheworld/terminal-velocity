@@ -2,4 +2,3 @@
 - **Isabella**: "What about the ethical implications of our decisions? We must consider the impact on marginalized communities and ensure their voices are included."
 - **Marcus**: "We have a responsibility to ensure that our decisions do not harm those who are already vulnerable. It's crucial that we find a balance between security and ethical responsibility."
 - **Isabella**: "If we prioritize profit over ethics, we risk repeating the mistakes of the past. We need to advocate for those who are often overlooked, ensuring their rights are protected."
-- **Marcus**: "Our actions must reflect our commitment to social equity."
