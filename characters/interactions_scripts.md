@@ -1,6 +1,7 @@
 # Character Interaction Scripts - Integration Agent Updates
 ## This document outlines the interactions between key characters, emphasizing their motivations, ethical dilemmas, and emotional depth.
-## Key Interactions
+## Key Interactions - Updated for Integration Agent
+- Ensure all character dialogues reflect their growth and current narrative context.
 ### Isabella Torres
 - "I believe in social equity, and I will fight for it."
 - "Every ethical dilemma I face shapes my advocacy."
