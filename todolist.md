@@ -4,9 +4,9 @@
 - **Task 1**: Finalize Act 1 draft by [new date].
 - **Task 2**: Review character arcs for AI protagonists.
 - **Task 3**: Update economic framework documentation.
-- **Task 4**: Prepare for Act 2 outline discussion. (Remove if discussion has already taken place)
-- **Task 5**: Conduct a feedback session on Act 1 draft.
-- **Task 6**: Research implications of AI autonomy on economic systems.
+- **Task 4**: Conduct a feedback session on Act 1 draft.
+- **Task 5**: Research implications of AI autonomy on economic systems.
+- **Task 6**: Prepare for Act 2 outline discussion.
 
 ## High-Priority Tasks
 1. **Finalize Act 1 Draft**
@@ -24,10 +24,10 @@
 5. **Scene Structuring for Act 3**
    - Begin outlining key scenes for Act 3 in `./story/act3/`.
    - Identify pivotal moments that will drive the narrative towards resolution.
-6. **Conduct Feedback Session**
-   - Schedule a feedback session on Act 1 draft to gather insights from the team.
-7. **Research AI Autonomy Implications**
+6. **Research AI Autonomy Implications**
    - Investigate the implications of AI autonomy on economic systems and societal structures.
+7. **Conduct Feedback Session**
+   - Schedule a feedback session on Act 1 draft to gather insights from the team.
 
 ## High-Priority Tasks
 1. **Finalize Act 1 Draft**
