@@ -3,8 +3,6 @@
    - This exchange highlights the emotional stakes involved in their advocacy for AI rights.
    - Isabella: "Marcus, we need to think about the consequences of our actions. Are we truly considering everyone? What if our decisions hurt those we aim to protect?"
    - Marcus: "I hear you, Isabella. But we must also weigh the risks. We can't let idealism cloud our judgment."
-   - Isabella: "Marcus, we need to think about the consequences of our actions. Are we truly considering everyone? What if our decisions hurt those we aim to protect?"
-   - Marcus: "I hear you, Isabella. But we must also weigh the risks. We can't let idealism cloud our judgment."
 2. **Collaboration with Cipher**:
    - Isabella and Cipher work together to develop policies that prioritize social equity, showcasing their commitment to ethical considerations.
    - Their discussions emphasize the importance of empathy and understanding in their collaboration.
