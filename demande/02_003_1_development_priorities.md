@@ -20,6 +20,7 @@
 6. **Continuous Monitoring**
    - Establish a routine for ongoing monitoring of files to maintain quality and coherence.
 - Ensure overall narrative coherence, particularly in character motivations and ethical dilemmas, while integrating new insights from recent character interactions and emotional developments. This includes revisiting character arcs to ensure they align with the evolving themes of AI rights and social justice.
+- Review the key questions in `key_questions.md` to align research efforts with narrative goals.
 - Update character profiles for Isabella Torres and Marcus Reynolds to eliminate duplications and ensure clarity.
 - Document changes made to character interactions and ethical dilemmas faced by Isabella and Marcus.
 - Identify key tension points
