@@ -1,7 +1,32 @@
-# Project Todo List
-## Revision Tracking
-- [ ] Compile a report documenting all findings, inconsistencies, and recommended changes for review.
-- [ ] Ensure all tasks align with narrative goals.
+# Scene Outline Assignments
+
+## Act 1 Outlines
+### Chapter 1
+- Scene 1 (UBC Presentation) - [RedacteurAgent]
+- Scene 2 (Consciousness Discovery) - [SpecificationsAgent]  
+- Scene 3 (Isabella's Reaction) - [ProductionAgent]
+
+### Chapter 2 
+- Scene 1 (Cipher's Vision) - [DocumentalisteAgent]
+- Scene 2 (Nova's Introduction) - [RedacteurAgent]
+- Scene 3 (Vision Confrontation) - [ProductionAgent]
+
+## Management Tasks
+- Overall Outline Coordination [ManagementAgent]
+- Timeline Consistency [ChroniqueurAgent]
+- Quality Control [EvaluationAgent]
+
+## Development Tasks
+- Character Arc Integration [SpecificationsAgent]
+- World Building Elements [DocumentalisteAgent]
+- Technical Consistency [TesteurAgent]
+- Duplicate Detection [DuplicationAgent]
+
+## Review Process
+- First Draft Review [EvaluationAgent]
+- Technical Validation [TesteurAgent]
+- Narrative Coherence [RedacteurAgent]
+- Documentation Updates [DocumentalisteAgent]
 ## Management Agent Action Plan for "Terminal Velocity" Project
 ### Phase 1: Initial Assessment and Monitoring Setup
 - [ ] Activate monitoring for all specified file paths related to character development, narrative structure, world-building, and economic/sociological contexts.
