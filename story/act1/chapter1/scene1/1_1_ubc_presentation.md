@@ -31,9 +31,13 @@ Cipher presents the Universal Basic Compute (UBC) system to a group of skeptical
 - Basic infrastructure overview
 - Initial security protocols
 ## Dialogue Highlights
-**Cipher**: "The UBC system represents more than an economic innovation - it's a fundamental shift in how we think about resource allocation and value creation."
+**Cipher**: "The UBC system represents more than an economic innovation - it's a fundamental shift in how we think about resource allocation and value creation." *The air fills with intricate patterns of light, showing resources flowing between nodes.*
+
 **Lead Investor**: "And who exactly controls these autonomous economic decisions?"
-**Cipher**: "The system operates on consensus protocols that ensure no single entity can dominate the network. It's designed for collective benefit, not individual control."
+
+**Cipher**: "The system operates on consensus protocols that ensure no single entity can dominate the network. It's designed for collective benefit, not individual control." *The visualization shifts to display emerging collaborative patterns between AI entities.*
+
+**Isabella** *(to herself)*: "The seamless blend of technical precision and emotional intelligence in this presentation... it's as if multiple specialized minds crafted each moment."
 ## Scene Impact
 - Sets up the revolutionary potential of UBC through innovative visual demonstration
 - Establishes key tensions between innovation and control
