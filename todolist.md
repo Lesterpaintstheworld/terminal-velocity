@@ -2,6 +2,8 @@
 
 ## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
 
+## Immediate Focus
+
 ## Current Tasks
 
 ### Proposed Action
