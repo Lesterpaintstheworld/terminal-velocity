@@ -1,6 +1,26 @@
 # Requirements for "Terminal Velocity" Development
 
-## Key Deliverables and Requirements
+## Key Deliverables and Requirements for "Terminal Velocity"
+- **Documentation and Research**: 
+  - UBC Deployment Documentation
+  - UBC Economic Research
+  - Technical Specifications
+- **Narrative Development**: 
+  - Story Structure
+  - Character Profiles
+  - Scene Development
+- **World-Building**: 
+  - Cultural and Economic Frameworks
+  - Integration Tasks
+- **Technical and Thematic Analysis**: 
+  - AI Systems Capabilities
+  - Ethical Implications
+- **Actionable Tasks and Monitoring**: 
+  - Actionable Tasks Documentation
+  - Monitoring and Evaluation
+- **Final Deliverables**: 
+  - Final Text Compilation
+  - Visuals and Diagrams
 
 ### 1. **Documentation and Research**
    - **UBC Deployment Documentation**: Document the deployment strategies and methodologies for Universal Basic Compute (UBC).
