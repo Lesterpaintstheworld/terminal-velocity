@@ -1,12 +1,29 @@
 # Todolist for "Terminal Velocity" Development
 
-## Current Tasks
+## Next Actionable Items
 - **Task 1**: Finalize Act 1 draft by [new date].
 - **Task 2**: Review character arcs for AI protagonists.
 - **Task 3**: Update economic framework documentation.
 - **Task 4**: Prepare for Act 2 outline discussion. (Remove if discussion has already taken place)
 - **Task 5**: Conduct a feedback session on Act 1 draft.
 - **Task 6**: Research implications of AI autonomy on economic systems.
+
+## High-Priority Tasks
+1. **Finalize Act 1 Draft**
+   - Review and integrate feedback from the last evaluation.
+   - Ensure all scenes in `./final_text/act1/` are cohesive and align with the narrative arc.
+2. **Develop Act 2 Outline**
+   - Create a detailed outline for Act 2, focusing on character development and thematic progression.
+   - Reference `./act2_outline.md` for structural guidance.
+3. **Character Development**
+   - Update character profiles for key protagonists in `./characters/` to reflect recent developments.
+   - Focus on emotional arcs and ethical dilemmas, particularly for Isabella Torres and Marcus Reynolds.
+4. **World-Building Enhancements**
+   - Expand on the economic frameworks in `./world_building/economic/framework/`.
+   - Integrate insights from recent research in `./research/economic/`.
+5. **Scene Structuring for Act 3**
+   - Begin outlining key scenes for Act 3 in `./story/act3/`.
+   - Identify pivotal moments that will drive the narrative towards resolution.
 
 ## High-Priority Tasks
 1. **Finalize Act 1 Draft**
