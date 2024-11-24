@@ -20,6 +20,10 @@ This document provides a visual representation of the relationships between key 
   - **Sarah Chen**: Collaborative partner in various missions, sharing a deep bond of trust and mutual respect. Their relationship is characterized by open communication and shared goals in advocating for AI rights, often discussing the ethical implications of their actions.
   - **Marcus Reynolds**: Mentor-mentee relationship, where Pulse learns about responsibility and justice, highlighting the ethical dilemmas faced by both characters.
 ## Visual Representation
+- **Isabella Torres**: Engages in heated debates about AI rights and security, reflecting on the ethical implications of their decisions.
+- **Marcus Reynolds**: Shares a professional relationship, discussing ethical dilemmas and the balance between security and social justice.
+- **Sarah Chen**: Works closely with Isabella, supporting her advocacy efforts and emphasizing the importance of inclusivity in AI policies.
+- **Pulse**: Collaborative partner in various missions, sharing a deep bond of trust and mutual respect.
 ```
 ```
 ## Key Characters

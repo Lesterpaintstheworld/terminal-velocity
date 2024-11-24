@@ -62,7 +62,10 @@ Important: All agents must focus on completing chapter outlines before other tas
 - Quality Control [EvaluationAgent]
 
 ## Development Tasks
+- [ ] Conduct a preliminary review of narrative and technical elements.
 - [ ] Document key research questions related to AI systems and economic models.
+- [ ] Analyze character development and thematic clarity.
+- [ ] Review plot progression and technical credibility.
 - [ ] Conduct redundancy analysis on UBC system explanations.
 - [ ] Review character interactions for repetitive dialogue.
 - Character Arc Integration [SpecificationsAgent]
