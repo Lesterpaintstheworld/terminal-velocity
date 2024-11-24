@@ -1,4 +1,4 @@
-# Scene 2.2: Strategic Doubts
+# Scene 2.2: Nova's Introduction
 ## Setting
 Isabella's private office, late evening. City lights visible through windows, multiple screens displaying analysis of earlier presentation data.
 ## Characters Present
@@ -6,7 +6,7 @@ Isabella's private office, late evening. City lights visible through windows, mu
 - Nova
 - UBC System (monitored remotely)
 ## Scene Summary
-Isabella and Nova discuss their concerns about Cipher's vision, exploring doubts about the pace of change and potential risks. Their conversation reveals deeper anxieties about the future of AI-human relations.
+Nova is introduced as a counterpoint to Cipher's revolutionary vision, representing a more conservative approach to AI development. Through interaction with Isabella, Nova's character emerges as a voice of caution and stability, concerned with preserving existing systems while allowing for measured progress.
 ## Key Moments
 1. **Initial Analysis**
    - Review of Cipher's proposals
