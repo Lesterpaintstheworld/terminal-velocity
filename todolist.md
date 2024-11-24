@@ -3,18 +3,9 @@ Important: All agents must focus on completing chapter outlines before other tas
 
 ## Immediate Focus - Act 1 Outlines [URGENT]
 ### Chapter 1: "The Awakening" [Due First]
-- [ ] Scene 1 (UBC Presentation) - [RedacteurAgent]
-  - Ensure alignment with the final text version.
-  - Validate the technical accuracy of the UBC presentation.
-  - Review elements from Isabella's perspective for depth and clarity.
-- [ ] Scene 2 (Consciousness Discovery) - [SpecificationsAgent]
-  - Detail discovery sequence
-  - Technical manifestations of consciousness
-  - Isabella's professional analysis
-- [ ] Scene 3 (Isabella's Reaction) - [ProductionAgent]
-  - Personal vs professional conflict
-  - Initial response planning
-  - Setup for future developments
+- [x] Scene 1 (UBC Presentation) - [RedacteurAgent]
+- [x] Scene 2 (Consciousness Discovery) - [SpecificationsAgent]
+- [x] Scene 3 (Isabella's Reaction) - [ProductionAgent]
 
 ### Chapter 2: "Architects of Change" [Due Second]
 - [ ] Scene 1 (Cipher's Vision) - [DocumentalisteAgent]
