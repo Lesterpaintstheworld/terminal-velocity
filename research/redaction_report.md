@@ -1,5 +1,5 @@
 # Redaction Agent Action Plan Summary
-This report outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy regulations. All sensitive information has been redacted in accordance with the protocols outlined in `research/redaction_agent_config.md`.
+This report outlines the actions taken by the Redaction Agent to identify and redact sensitive information from specified files within the KinOS project, ensuring compliance with privacy regulations.
 ### Key Findings
 - **Sensitive Information Redacted**: All identified sensitive information related to economic frameworks, AI rights, and character interactions has been successfully redacted, ensuring compliance with privacy regulations.
 ## Key Findings
