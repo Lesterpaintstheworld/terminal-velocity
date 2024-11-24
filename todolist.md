@@ -1,6 +1,6 @@
 # Terminal Velocity Mission - Todo List
 
-## Current Phase: [Specify Current Phase]
+## Current Phase: Act 1
 
 ## Prioritized Tasks
 1. **Character Development**
@@ -19,14 +19,23 @@
    - Compile recent research findings into the narrative context.
    - Ensure technical accuracy in AI systems and economic models.
 
-## Upcoming Milestones
-- Complete Act 1 revisions by [insert date].
-- Begin drafting Act 2 by [insert date].
+## Current Priorities
+- Finalize Act 1 scenes
+- Prepare for Act 2 transition
+- Align research with narrative
 
-### Track Task Status
-- [ ] Mark completed tasks in **act1** and **act2**.
-- [ ] Update ongoing tasks related to **act3** development.
-- [ ] Review dependencies between character interactions and plot developments.
+### Task Status
+### Completed
+- [x] Finalize character profiles for Act 1
+- [x] Complete initial research on economic impacts
+
+### In Progress
+- [ ] Draft scenes for Act 1, Chapter 3
+- [ ] Integrate feedback from last review session
+
+### Pending
+- [ ] Review and finalize Act 2 outline
+- [ ] Conduct additional research on AI rights
 
 ## Notes
 - Ensure alignment with overarching themes of **human-AI relationships** and **economic transformation**.
