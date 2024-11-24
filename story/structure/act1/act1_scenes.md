@@ -2,7 +2,7 @@
 - Scene 1: Introduction of main characters and setting, establishing their motivations and backgrounds, particularly focusing on Isabella's advocacy and Marcus's technological perspectives.
 - Scene 2: Initial conflict introduction, highlighting the ethical dilemmas faced by the characters, particularly focusing on Isabella's advocacy and Marcus's technological perspectives.
 - Scene 3: Development of character relationships, focusing on the dynamics between Isabella, Marcus, and Nova. This scene will also explore the emotional stakes involved in their interactions, emphasizing the complexities of their relationships as they navigate the challenges posed by AI integration. Additionally, it will highlight the ethical dilemmas faced by the characters, particularly focusing on Isabella's advocacy and Marcus's technological perspectives.
-- Scene 4: A pivotal moment where characters confront their beliefs about AI rights, leading to a deeper understanding of their roles in the narrative.
+- Scene 4: A pivotal moment where characters confront their beliefs about AI rights, leading to a deeper understanding of their roles in the narrative. This scene will set the stage for the climax of Act 1, where the stakes are raised, and the characters must make critical decisions that will impact their relationships and the broader narrative.
 
 ### Scene 5: Climax of Act 1
 - A confrontation between Isabella and Marcus regarding the implications of their technological advancements on society, leading to a critical decision point for both characters.
