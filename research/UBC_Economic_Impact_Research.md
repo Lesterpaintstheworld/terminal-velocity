@@ -13,4 +13,4 @@ This document compiles insights and data related to Universal Basic Compute (UBC
 - **Educational Opportunities**: How UBC can facilitate access to education and training resources.
 
 ## Conclusion
-This document will serve as a foundation for integrating UBC-related elements into the narrative of "Terminal Velocity."
+This document will serve as a foundation for integrating UBC-related elements into the narrative of "Terminal Velocity." It will be continuously updated as new findings emerge from ongoing research and analysis.
