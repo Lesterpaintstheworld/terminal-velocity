@@ -3,13 +3,11 @@
 ## Introduction
 This document compiles insights and data related to Universal Basic Compute (UBC) systems and their societal impacts. It aims to provide a comprehensive understanding of how UBC influences economic models and societal structures.
 
-## Key Components of UBC and Insights
-- **Resource Allocation**: How resources are distributed among AI entities.
-- **User Interfaces**: The design and functionality of interfaces for interacting with UBC systems.
-- **Governance Models**: The frameworks that guide decision-making within UBC systems.
-- **Resource Allocation**: How resources are distributed among AI entities.
-- **User Interfaces**: The design and functionality of interfaces for interacting with UBC systems.
-- **Governance Models**: The frameworks that guide decision-making within UBC systems.
+## Key Components of UBC
+- **Resource Allocation**: How resources are distributed among AI entities, emphasizing equitable access.
+- **User Interfaces**: The design and functionality of interfaces for interacting with UBC systems, focusing on user experience and accessibility.
+- **Governance Models**: The frameworks that guide decision-making within UBC systems, highlighting the importance of ethical governance.
+- **Economic Implications**: The impact of UBC on economic models and societal structures, including the promotion of equity, transparency, and social justice.
 
 ## Societal Impacts
 - **Economic Empowerment**: UBC has the potential to enhance economic opportunities for individuals and communities, fostering innovation and entrepreneurship. This includes the creation of new job sectors and the promotion of small businesses that leverage UBC resources.
