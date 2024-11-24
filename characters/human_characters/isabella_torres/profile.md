@@ -1,1 +1,1 @@
-[REDACTED: sensitive personal information]
+Isabella Torres is a passionate advocate for ethical AI usage, focusing on the implications of technology on marginalized communities. Her background in social justice drives her commitment to ensuring that AI advancements do not exacerbate existing inequalities. Isabella's interactions with Marcus Reynolds challenge her to confront the ethical dimensions of their decisions, enriching her character development.
