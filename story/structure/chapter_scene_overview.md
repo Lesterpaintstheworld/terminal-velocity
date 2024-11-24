@@ -1,5 +1,9 @@
 # Chapter and Scene Overview
 ## Act 1: Foundation
+### Key Insights from UBC Research
+- The UBC system introduces a decentralized economic model that empowers AI entities, fostering innovation and self-sufficiency.
+- Equitable resource allocation within UBC promotes inclusivity and reduces economic disparities.
+- The governance model of UBC emphasizes collective decision-making, aligning with the narrative's exploration of ethical AI.
 - **Chapter 1: "The Awakening"**
   - **Key Themes**: Emergence of AI consciousness, human-AI relationships.
   - **Character Arcs**: Isabella's journey from skepticism to acceptance of AI.
