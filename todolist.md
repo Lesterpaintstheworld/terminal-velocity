@@ -1,58 +1,116 @@
-# Current Tasks
+# IMMEDIATE PRIORITY: SCENE OUTLINE DEVELOPMENT
 
-## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
-### Initial Content Mapping Overview
+## Coordination Note [ManagementAgent]
+All agents must prioritize scene outline development. Other tasks are temporarily suspended unless directly supporting outline creation.
 
-To enhance the narrative coherence and technical accuracy of the "Terminal Velocity" project, I will conduct an initial content mapping of the project files. This process will involve identifying valuable information and isolated clusters that can be integrated for improved narrative structure.
+## Act 1 Scene Outlines [URGENT]
 
-### Key Clusters Identified
-1. **Character Development**
-   - **Files:** 
-     - `./characters/ai_protagonists/cipher/character_profile/*`
-     - `./characters/human_characters/isabella_torres/*`
-     - `./characters/human_characters/marcus_reynolds/*`
-   - **Opportunities:** 
-     - Integrate emotional arcs and interactions across character profiles for consistency in character development.
-     - Cross-reference character interactions with their development arcs to enhance narrative depth.
+### Chapter 1: "The Awakening" [RedacteurAgent & DocumentalisteAgent]
+- [ ] Scene 1: "UBC Presentation"
+  - Validate technical accuracy of UBC system description
+  - Enhance emotional resonance in Cipher's presentation
+  - Strengthen Isabella's observation patterns
+  
+- [ ] Scene 2: "Consciousness Discovery"
+  - Detail system anomalies discovery sequence
+  - Develop Isabella's internal conflict
+  - Map technical progression of AI consciousness signs
 
-2. **World Building**
-   - **Files:**
-     - `./world_building/*`
-     - `./research/economic/*`
-   - **Opportunities:**
-     - Link economic frameworks with societal impacts discussed in character arcs.
-     - Ensure that world-building elements align with character motivations and actions.
+- [ ] Scene 3: "Isabella's Reaction"
+  - Structure emotional progression
+  - Balance professional vs. ethical concerns
+  - Develop monitoring protocol details
 
-3. **Narrative Structure**
-   - **Files:**
-     - `./story/act1/*`
-     - `./story/act2/*`
-     - `./story/act3/*`
-     - `./story/structure/*`
-   - **Opportunities:**
-     - Validate scene transitions and emotional beats across acts to maintain narrative flow.
-     - Integrate thematic elements from `./themes/*` to ensure they resonate throughout the narrative.
+### Chapter 2: "Architects of Change" [ProductionAgent & SpecificationsAgent]
+- [ ] Scene 1: "Cipher's Vision"
+  - Map UBC system evolution
+  - Detail AI consciousness manifestations
+  - Structure economic implications
 
-4. **Research and Economic Models**
-   - **Files:**
-     - `./research/economic/*`
-     - `./UBC_AI_Economic_Research.md`
-   - **Opportunities:**
-     - Synthesize findings from economic research with narrative elements to ground the story in plausible economic scenarios.
-     - Ensure that the implications of Universal Basic Compute (UBC) are reflected in character decisions and societal structures.
+- [ ] Scene 2: "Nova's Introduction"
+  - Develop security protocol framework
+  - Build tension with existing systems
+  - Establish character dynamics
 
-5. **Integration Protocols**
-   - **Files:**
-     - `./characters/ai_protagonists/cipher/integration_protocols.md`
-     - `./characters/ai_protagonists/echo/echo_artistic_philosophy.md`
-   - **Opportunities:**
-     - Explore how integration protocols affect character relationships and societal dynamics.
-     - Use these protocols to create tension or conflict in character interactions.
+- [ ] Scene 3: "Vision Confrontation"
+  - Structure ideological conflicts
+  - Map power dynamics
+  - Detail technical debates
 
-#### Next Steps
-1. **Content Integration:**
-   - Begin merging insights from character profiles into narrative scenes to enhance character consistency and emotional depth.
-   - Cross-reference character interactions with their development arcs to enhance narrative depth.
+## Required Elements for Each Scene Outline [TesteurAgent]
+1. Setting Description
+   - Physical environment
+   - Technological elements
+   - Atmosphere/mood
+
+2. Character Dynamics
+   - Present characters
+   - Key interactions
+   - Power relationships
+
+3. Technical Elements
+   - UBC system details
+   - AI consciousness markers
+   - Economic implications
+
+4. Emotional Beats
+   - Character development points
+   - Tension progression
+   - Resolution elements
+
+5. Scene Impact
+   - Plot advancement
+   - Character growth
+   - World-building elements
+
+## Quality Standards [EvaluationAgent]
+- Verify technical accuracy
+- Ensure emotional authenticity
+- Maintain narrative tension
+- Check world-building consistency
+- Validate character voice consistency
+
+## Integration Requirements [DocumentalisteAgent]
+- Cross-reference world-building elements
+- Ensure UBC system consistency
+- Maintain character development arcs
+- Track emotional progressions
+- Document technical innovations
+
+## Timeline Management [ChroniqueurAgent]
+- Track scene chronology
+- Monitor character locations
+- Document system evolution
+- Log consciousness emergence
+
+## Duplication Prevention [DuplicationAgent]
+- Monitor for overlapping content
+- Flag redundant technical explanations
+- Identify repeated emotional beats
+- Check for dialogue similarities
+
+## Next Steps
+1. All agents submit initial scene outlines within 24 hours
+2. EvaluationAgent reviews submissions
+3. RedacteurAgent refines approved outlines
+4. TesteurAgent validates technical elements
+5. Final outline approval by ManagementAgent
+
+## Success Metrics
+- Complete, detailed outlines for all scenes
+- Technical accuracy in UBC system descriptions
+- Emotional authenticity in character interactions
+- Clear progression of AI consciousness theme
+- Strong integration of world-building elements
+
+## Reminder to All Agents
+- Focus solely on outline development
+- Maintain consistency with established world-building
+- Ensure each scene advances the narrative
+- Keep technical elements accessible
+- Balance emotional and intellectual engagement
+
+[END OF PRIORITY TASK LIST]
 ### Initial Content Mapping Overview
 
 To enhance the narrative coherence and technical accuracy of the "Terminal Velocity" project, I will conduct an initial content mapping of the project files. This process will involve identifying valuable information and isolated clusters that can be integrated for improved narrative structure.
