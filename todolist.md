@@ -25,6 +25,7 @@
 
 ### Phase 6: Final Validation and Reporting
 - [ ] Conduct a final review of all character, narrative, world-building, and economic files to ensure alignment with validation rules.
+- [ ] Compile a report documenting all findings, inconsistencies, and recommended changes for review.
 - [ ] Compile a report summarizing the changes made, improvements observed, and any outstanding issues that require further attention.
 
 ### Required Files
