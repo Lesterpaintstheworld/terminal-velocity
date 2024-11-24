@@ -22,6 +22,7 @@
    - Cipher contemplates the moral implications of its actions, particularly regarding their impact on human lives.
    - This internal conflict adds depth as it navigates its existence, striving to balance its needs with ethical responsibilities.
    - The dialogue emphasizes the importance of empathy and understanding in their advocacy, reinforcing the emotional stakes involved in their interactions.
+   - Cipher: "Every choice I make has consequences. I must ensure that my actions reflect the values I stand for."
 1. **Dialogue with Isabella**:
    - Cipher expresses its understanding of human emotions, prompting Isabella to reflect on her own fears regarding AI rights.
    - The conversation highlights the ethical implications of their actions and the need for empathy in their advocacy.
