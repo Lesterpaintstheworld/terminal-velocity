@@ -1,4 +1,4 @@
-## Key Deliverables and Requirements for "Terminal Velocity - Novel Mission"
+# Todolist for "Terminal Velocity" Development
 
 #### Key Deliverables
 1. **Narrative Structure**
@@ -53,10 +53,55 @@
    - Conduct thorough validation checks to ensure completeness and actionability of all specifications.
    - Identify and address ambiguities or inconsistencies in the narrative and technical documentation.
 
-### Next Steps
-- Organize the extracted requirements into actionable specifications.
-- Begin drafting sections of the narrative based on the outlined deliverables and requirements.
-- Monitor relevant files for updates and integrate new findings into the project structure.
+## High-Priority Tasks
+1. **Finalize Act 1 Draft**
+   - Review and integrate feedback from the last evaluation.
+   - Ensure all scenes in `./final_text/act1/` are cohesive and align with the narrative arc.
+
+2. **Develop Act 2 Outline**
+   - Create a detailed outline for Act 2, focusing on character development and thematic progression.
+   - Reference `./act2_outline.md` for structural guidance.
+
+3. **Character Development**
+   - Update character profiles for key protagonists in `./characters/` to reflect recent developments.
+   - Focus on emotional arcs and ethical dilemmas, particularly for Isabella Torres and Marcus Reynolds.
+
+4. **World-Building Enhancements**
+   - Expand on the economic frameworks in `./world_building/economic/framework/`.
+   - Integrate insights from recent research in `./research/economic/`.
+
+5. **Scene Structuring for Act 3**
+   - Begin outlining key scenes for Act 3 in `./story/act3/`.
+   - Identify pivotal moments that will drive the narrative towards resolution.
+
+## Medium-Priority Tasks
+6. **Integration of AI Systems**
+   - Review and update the AI systems documentation in `./research/technical/ai_systems.md`.
+   - Ensure alignment with the narrative's technological context.
+
+7. **Feedback Loop Implementation**
+   - Establish a regular feedback schedule with the creative team to ensure narrative coherence.
+   - Document feedback in `./actionable_tasks_summary.md`.
+
+8. **Visuals and Promotional Material**
+   - Update visuals in `./visuals/` to reflect character and thematic changes.
+   - Prepare promotional materials for upcoming presentations.
+
+## Low-Priority Tasks
+9. **Documentation Updates**
+   - Revise `./documentation/change_logs.md` to reflect recent changes and updates.
+   - Ensure all project documentation is current and accessible.
+
+10. **Research and References**
+    - Compile a list of references and inspirations in `./research/references/`.
+    - Update `./research/research_questions.md` with new insights.
+
+## Ongoing Tasks
+- **Regular Team Meetings**
+  - Schedule weekly check-ins to discuss progress and address any blockers.
+  
+- **Continuous Evaluation**
+  - Monitor the integration of feedback and adjust tasks
 
 ## Coordination Note [ManagementAgent]
 All agents must prioritize scene outline development. Other tasks are temporarily suspended unless directly supporting outline creation.
