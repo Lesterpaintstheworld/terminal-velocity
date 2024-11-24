@@ -7,13 +7,12 @@
 1. **Identify Content Gaps**: Review existing documents to determine what is missing for a cohesive narrative.
 2. **Cohesive Narrative Structure**: Ensure the three acts are well-defined and interconnected.
 
-## Immediate Focus
-### Initial Content Mapping Analysis for "Terminal Velocity"
+### Act Structure Overview
+- **Act 1**: Introduction of characters, setting, and initial conflict.
+- **Act 2**: Development of the central conflict, character arcs, and thematic exploration.
+- **Act 3**: Climax and resolution of conflicts, character transformations, and thematic conclusions.
 
-#### Overview
-The objective of this initial content mapping is to identify valuable information and isolated clusters within the project files that can be integrated to enhance narrative coherence and technical accuracy.
-
-#### Key Clusters Identified
+### Key Clusters Identified
 1. **World Building**
    - **Files:**
      - `./world_building/AI_Lifestyle_and_Society_Integration.md`
