@@ -5,7 +5,58 @@
 
 To enhance the narrative coherence and technical accuracy of the "Terminal Velocity" project, I've conducted an initial content mapping of the project files. This process involves identifying valuable information and isolated clusters that can be integrated for improved narrative structure.
 
-### Key Findings from Initial Content Mapping Analysis
+### Key Deliverables and Requirements Extraction
+
+Based on the provided project structure, here are the key deliverables and requirements identified for the "Terminal Velocity - Novel Mission":
+
+#### 1. **Documentation and Research**
+   - **Economic Frameworks**: 
+     - UBC Economic Impact Research
+     - Economic Models and Principles
+     - Implications for Societal Structures
+   - **AI Systems**: 
+     - Technical specifications and capabilities
+     - Ethical implications of AI autonomy
+   - **World Building**: 
+     - Cultural and economic integration of AI in society
+     - Governance frameworks for AI rights and autonomous systems
+
+#### 2. **Narrative Structure**
+   - **Chapters and Scenes**: 
+     - Detailed breakdown of acts and chapters (e.g., `./story/act1/act1_scenes.md`)
+     - Emotional beats and key moments documented for character development
+   - **Character Profiles**: 
+     - In-depth profiles for AI and human characters (e.g., `./characters/human_characters/isabella_torres/profile.md`)
+     - Development arcs and interaction scripts
+
+#### 3. **Technical Specifications**
+   - **UBC Framework**: 
+     - Documentation on the Universal Basic Compute (UBC) system and its implications
+   - **Integration Protocols**: 
+     - Specifications for AI interaction and integration within the economic framework
+
+#### 4. **Actionable Tasks**
+   - **Task Lists**: 
+     - Actionable tasks and summaries to track progress (e.g., `./actionable_tasks.md`)
+   - **Next Steps**: 
+     - Identification of next actionable tasks and monitoring of ongoing tasks
+
+#### 5. **Visuals and Diagrams**
+   - **Character and Location Visuals**: 
+     - Visual representations of characters and settings to enhance narrative immersion
+   - **Diagrams**: 
+     - Structural diagrams to illustrate relationships and systems within the narrative
+
+#### 6. **Evaluation and Feedback**
+   - **Narrative Evaluation Reports**: 
+     - Assessments of narrative engagement and technical credibility
+   - **Change Logs**: 
+     - Documentation of changes and updates to the project
+
+### Next Steps
+- Organize the extracted deliverables into a structured format for clarity.
+- Ensure that all requirements are actionable and aligned with the mission's core themes.
+- Monitor the project files for updates and changes to maintain consistency across documentation.
 1. **Character Development**
    - **AI Protagonists**: Rich profiles and development arcs for characters like Cipher, Echo, and Nova. There are multiple documents detailing emotional evolution, motivations, and key moments.
    - **Human Characters**: Extensive documentation on characters such as Isabella Torres and Marcus Reynolds, including interaction scripts and development arcs. 
