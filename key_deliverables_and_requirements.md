@@ -2,6 +2,38 @@
 
 ## Key Deliverables and Requirements for "Terminal Velocity"
 
+### Key Deliverables and Requirements
+
+1. **Narrative Structure and Chapters**
+   - **Requirements**: 
+     - Establish a clear narrative arc across acts and chapters.
+     - Ensure character development aligns with the plot progression.
+
+2. **Character Profiles and Development**
+   - **Requirements**: 
+     - Detailed character arcs for both AI and human characters.
+     - Emotional evolution and ethical considerations in character interactions.
+
+3. **World-Building and Economic Framework**
+   - **Requirements**: 
+     - Comprehensive overview of the societal impact of Universal Basic Compute (UBC).
+     - Integration of economic models with narrative elements.
+
+4. **Research and Technical Specifications**
+   - **Requirements**: 
+     - Accurate depiction of AI systems and their economic implications.
+     - Technical specifications that support the narrative.
+
+5. **Actionable Tasks and Monitoring**
+   - **Requirements**: 
+     - Clear tasks for team members to ensure project milestones are met.
+     - Monitoring mechanisms for tracking progress.
+
+6. **Thematic Elements**
+   - **Requirements**: 
+     - Exploration of key themes such as AI autonomy, economic transformation, and human-AI relations.
+     - Integration of philosophical discussions related to AI rights and societal implications.
+
 ## Explicit Requirements
 1. **Narrative Structure**:
    - The novel should be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
