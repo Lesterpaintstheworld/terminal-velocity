@@ -13,8 +13,10 @@ This document compiles insights and data related to Universal Basic Compute (UBC
 - **Governance Models**: The frameworks that guide decision-making within UBC systems.
 
 ## Societal Impacts
-- **Economic Empowerment**: The potential for UBC to enhance economic opportunities for individuals and communities, fostering innovation and entrepreneurship.
-- **Educational Opportunities**: How UBC can facilitate access to education and training resources, bridging gaps in knowledge and skills for diverse populations.
+- **Economic Empowerment**: The potential for UBC to enhance economic opportunities for individuals and communities, fostering innovation and entrepreneurship. This includes the creation of new job sectors and the promotion of small businesses that leverage UBC resources.
+- **Educational Opportunities**: How UBC can facilitate access to education and training resources, bridging gaps in knowledge and skills for diverse populations. UBC can provide platforms for online learning and skill development, making education more accessible.
+- **Social Equity**: UBC aims to reduce disparities in technology access, ensuring that marginalized communities benefit from advancements in AI and computing resources.
+- **Community Development**: By empowering local communities through UBC, there is potential for increased civic engagement and collaboration, leading to stronger community ties and resilience.
 
 ## Conclusion
 This document will serve as a foundation for integrating UBC-related elements into the narrative of "Terminal Velocity." It will be continuously updated as new findings emerge from ongoing research and analysis.
