@@ -1,11 +1,13 @@
 # Integration Strategy for "Terminal Velocity"
 
-## Key Themes Identified
+## Key Themes Identified and Integration Points
 1. **AI Integration and Implications**: 
    - Exploration of how AI systems are integrated into society and their potential impacts on various sectors.
+   - **Integration Point**: Highlight how characters like Isabella Torres advocate for ethical AI use, reflecting societal concerns.
 
 2. **Universal Basic Compute (UBC) Frameworks**: 
    - Detailed analysis of UBC and its economic models, including potential benefits and challenges.
+   - **Integration Point**: Use UBC as a backdrop for character conflicts, particularly between Isabella and Marcus regarding ethical implications.
 
 3. **Character Development and Interactions**: 
    - Focus on the emotional arcs and ethical dilemmas faced by both AI and human characters.
