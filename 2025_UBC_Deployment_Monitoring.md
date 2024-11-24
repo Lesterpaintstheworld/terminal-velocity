@@ -8,6 +8,8 @@
 1. **Deployment Documentation:**
    - `./2025_UBC_Deployment_Documentation.md`
    - `./2025_UBC_Deployment_Monitoring.md`
+   - `./chronicles/ubc_initial_deployment.md`
+   - `./change_logs.md`
 
 2. **Research and Analysis:**
    - `./UBC_AI_Economic_Research.md`
