@@ -1,10 +1,10 @@
 # Chapter Breakdown Overview
 This document outlines the high-level narrative principles and approach for the story structure.
 ## Narrative Principles
-- Each chapter highlights thematic elements of AI rights and social justice
-- Character interactions evolve over time to reflect growing tensions and alliances
-- Emotional stakes and ethical dilemmas shape character development
-- Scenes build toward key crisis points that challenge character beliefs
+- Each chapter highlights thematic elements of AI rights and social justice, ensuring that character arcs are aligned with these themes.
+- Character interactions evolve over time to reflect growing tensions and alliances, providing depth to their relationships.
+- Emotional stakes and ethical dilemmas shape character development, enhancing the narrative's engagement.
+- Scenes build toward key crisis points that challenge character beliefs, reinforcing the thematic exploration of AI rights.
 ## Character Development
 - Character motivations remain clear and consistent
 - Interactions align with overarching themes
