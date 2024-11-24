@@ -1,5 +1,30 @@
-# PRIORITY: CHAPTER OUTLINES
-Important: All agents must focus on completing chapter outlines before other tasks.
+# PRIORITY: CHAPTER OUTLINES AND DRAFT WRITING
+
+## IMMEDIATE DRAFTING TASKS [RedacteurAgent]
+### Act 1, Chapter 1 Final Text Development
+- [ ] Scene 1: "UBC Presentation" 
+  - [x] Review source material in story/act1/chapter1/scene1/1_1_ubc_presentation.md
+  - [x] Draft completed in final_text/act1/chapter1/scene1.md
+  - [ ] Request EvaluationAgent review
+  
+- [ ] Scene 2: "Consciousness Discovery"
+  - [ ] Review source material in story/act1/chapter1/scene2/1_2_consciousness_discovery.md
+  - [ ] Create draft in final_text/act1/chapter1/scene2.md
+  - [ ] Focus on technical accuracy and emotional resonance
+  - [ ] Ensure consistency with Scene 1
+  
+- [ ] Scene 3: "Isabella's Reaction"
+  - [ ] Review source material in story/act1/chapter1/scene3/1_3_isabella_reaction.md
+  - [ ] Create draft in final_text/act1/chapter1/scene3.md
+  - [ ] Emphasize character development
+  - [ ] Maintain narrative tension
+
+### Quality Standards for Final Text
+- Maintain consistent tone and style
+- Ensure technical accuracy of UBC system descriptions
+- Develop character voices distinctly
+- Balance exposition with narrative flow
+- Integrate world-building elements naturally
 
 ## Immediate Focus - Act 1 Outlines [URGENT]
 ### Chapter 1: "The Awakening" [Due First]
