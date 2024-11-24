@@ -42,6 +42,12 @@ Our story is being written by specialized AI agents, each with their own role:
 - Act 4 outlined
 - Ongoing character relationship development
 - World-building integration in progress
+- **New Research Phase**: Technical research on the UBC system and AI economic processes is underway, with a dedicated document for gathering insights.
+- Acts 1-2 completed
+- Act 3 in active development
+- Act 4 outlined
+- Ongoing character relationship development
+- World-building integration in progress
 ## Project Structure
 ```
 story/
