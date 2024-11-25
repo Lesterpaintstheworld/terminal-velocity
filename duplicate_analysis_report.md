@@ -2,6 +2,17 @@
 
 ## Action Plan for Content Duplication Detection
 
+1. **Content Duplication Detection:**
+   - Begin by scanning the narrative files to identify semantically similar content. This will involve analyzing the text patterns to detect both exact and partial overlaps. Document the identified duplications for further tracking.
+
+2. **Safe Consolidation Strategy:**
+   - Once the duplicates are documented, formulate a strategy for merging the duplicate content. This will ensure that the context and meaning are preserved during the integration process.
+
+3. **Pre-consolidation Checks:**
+   - Conduct thorough pre-consolidation checks to assess the potential impacts on the system. This will include verifying that all necessary information is captured and ready for merging.
+
+These steps will ensure a structured approach to identifying and consolidating duplicate content while maintaining the integrity of the narrative.
+
 1. **Content Duplication Detection**:
    - Begin by scanning the narrative files, particularly focusing on the `./story/` and `./characters/` directories, as these are likely to contain overlapping content.
    - Identify and document instances of duplicate content, including semantically similar passages and any partial overlaps.
@@ -30,6 +41,9 @@ This section outlines the steps taken to identify duplicate content within the n
 3. **Assess Duplication Extent**:
    - Determined if duplicates are exact matches or variations.
    - Noted any contextual differences that may affect consolidation.
+
+## Documenting Findings
+- **Identified Duplicates**: Create a summary file that lists all identified duplications, including their locations and a brief description of the content. This will serve as a reference for the next steps in the consolidation process.
 
 ## Next Steps
 - Start with the analysis of files in the `./story/` directory, followed by the `./characters/` directory. 
