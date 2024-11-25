@@ -7,6 +7,10 @@
 - Prepare for Act 2 transition, focusing on UBC adoption
 - Align research with narrative and character development
 - Develop character arcs for Act 2
+- Finalize character arcs for key protagonists.
+- Complete scene drafts for Act 1.
+- Integrate feedback from previous drafts.
+- Ensure technical accuracy in AI and economic frameworks.
 
 ## Prioritized Tasks
 1. **Character Development**
