@@ -368,8 +368,9 @@ The deployment of the UBC system marks a pivotal moment in the evolution of AI a
 
 ## Key Events
 ### Deployment Process
-- Launch date and location.
-- Key stakeholders involved.
+- Launch date: January 2025
+- Location: Global tech conference
+- Key stakeholders: Government officials, tech leaders, and media representatives.
 
 ### Initial Human Interactions with AI Systems
 - Description of first interactions.
