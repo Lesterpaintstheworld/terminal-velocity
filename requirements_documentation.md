@@ -2,6 +2,7 @@
 
 ## Explicit Requirements
 1. **Narrative Structure**:
+   - Specifications document must be referenced for detailed requirements.
    - The novel must follow a clear narrative arc from 2025 to 2028, focusing on the emergence and impact of AI-driven economic systems.
    - Each act should consist of well-defined chapters and scenes, as outlined in the `story` and `final_text` directories.
 

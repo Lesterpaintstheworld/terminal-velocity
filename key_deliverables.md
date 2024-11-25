@@ -1,6 +1,7 @@
 # Key Deliverables for Terminal Velocity - Novel Mission
 
 ## Key Deliverables for Terminal Velocity - Novel Mission
+- Specifications document created to outline the requirements and deliverables for the project.
 
 ### 1. Narrative Structure
 - **Acts and Chapters**: Clearly defined acts and chapters with specific scenes that contribute to character development and thematic exploration.
