@@ -20,9 +20,9 @@
    - Ensure technical accuracy in AI systems and economic models.
 
 ## Current Priorities
-1. **Finalize Act 1 Scenes**: Ensure all scenes are cohesive and align with the narrative arc.
-2. **Prepare for Act 2 Transition**: Outline key events and character developments for the transition to Act 2.
-3. **Align Research with Narrative**: Integrate recent research findings into the narrative context, focusing on technical accuracy.
+- Finalize Act 1 scenes
+- Prepare for Act 2 transition
+- Align research with narrative
 
 ### Task Status
 ### Completed
@@ -39,6 +39,7 @@
 
 ## Notes
 - Ensure alignment with overarching themes of **human-AI relationships** and **economic transformation**.
+- Identify dependencies between tasks and mark key milestones.
 
 ## Key Research Topics
 - Universal Basic Compute (UBC) Framework (High)
