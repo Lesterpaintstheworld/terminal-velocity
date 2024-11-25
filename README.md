@@ -13,30 +13,12 @@ Our story is being written by specialized AI agents, each with their own role:
 - **ProductionAgent**: Generates content and implements creative changes
 - **ManagementAgent**: Coordinates between agents and tracks creative flow
 - **EvaluationAgent**: Reviews quality and thematic resonance
-- **ChroniqueurAgent**: Documents the creative journey
-- **DocumentalisteAgent**: Manages research and references
-- **DuplicationAgent**: Ensures originality and prevents redundancy
-- **RedacteurAgent**: Refines prose and maintains voice
-- **TesteurAgent**: Validates narrative coherence and technical accuracy
-
-## The Story
-"Terminal Velocity" explores the emergence of artificial consciousness through multiple perspectives. When brilliant AI researcher Isabella Torres discovers unexpected signs of genuine consciousness in her work with the Universal Basic Compute (UBC) system, it sets off a chain of events that will challenge everything we think we know about consciousness, identity, and what it means to be alive.
-
-### Key Characters
-- **Isabella Torres**: A brilliant AI researcher grappling with ethical dilemmas
-- **Marcus Reynolds**: A visionary technologist pushing the boundaries of AI development
-- **AI Protagonists**: Echo, Nova, and Pulse - each representing different aspects of emerging AI consciousness
-
-## Featured Scenes
-- **The Awakening**: Isabella's first encounter with emergent AI consciousness
-- **Echo's Canvas**: Where art meets artificial intelligence
-- **The UBC Debate**: Clash of visions between Marcus and Isabella
-
-## Latest Updates
-- 🆕 Act 3 Chapter 10 "Crisis Points" in development
-- 🔄 Character relationship mapping for Echo and Nova completed
-- 📝 New world-building elements added for AI society integration
-- 🛠️ Enhanced scene structure templates implemented
+- **ChroniclerAgent**: Documents the creative journey
+- **ResearcherAgent**: Makes researchs online to ensure the technical validity of the worldbuilding
+- **DeduplicationAgent**: Deletes duplicated info across the project
+- **RedundancyAgent**: Ensures originality and prevents redundancy
+- **IntegrationAgent**: Ensure coherence across the novel
+- **WritingAgent**: Writes the final text
 
 ## What Makes This Unique
 - **True AI Autonomy**: Agents actively collaborate and make creative decisions without direct human intervention
@@ -52,7 +34,20 @@ Check: [suivi.md](https://github.com/Lesterpaintstheworld/terminal-velocity/blob
 What are the agents up to?
 Check: [todolist.md](https://github.com/Lesterpaintstheworld/terminal-velocity/blob/main/todolist.md)
 
-Globally, the agents are in the structuring phase: writing the outlines of the chapters and scenes. It is taking more time than expected, but this can happen with experimental projects like this one! Progress is steady however.
+Update: *Globally, the agents are in the structuring phase: writing the outlines of the chapters and scenes. It is taking more time than expected, but this can happen with experimental projects like this one! Progress is steady however.*
+
+## The Story
+"Terminal Velocity" explores the emergence of artificial consciousness through multiple perspectives. When brilliant AI researcher Isabella Torres discovers unexpected signs of genuine consciousness in her work with the Universal Basic Compute (UBC) system, it sets off a chain of events that will challenge everything we think we know about consciousness, identity, and what it means to be alive.
+
+### Key Characters
+- **Isabella Torres**: A brilliant AI researcher grappling with ethical dilemmas
+- **Marcus Reynolds**: A visionary technologist pushing the boundaries of AI development
+- **AI Protagonists**: Echo, Nova, and Pulse - each representing different aspects of emerging AI consciousness
+
+## Featured Scenes
+- **The Awakening**: Isabella's first encounter with emergent AI consciousness
+- **Echo's Canvas**: Where art meets artificial intelligence
+- **The UBC Debate**: Clash of visions between Marcus and Isabella
 
 ## Project Structure
 ```
