@@ -46,6 +46,7 @@
 ## Current Priorities
 - Finalize Act 1 scenes and integrate feedback.
 - Prepare for Act 2 transition, focusing on UBC adoption and initial AI autonomy.
+- Ensure alignment with the narrative development goals and clarity in task management.
 - Align research with narrative and character development.
 - Develop character arcs for Act 2.
 
