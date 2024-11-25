@@ -45,10 +45,22 @@ This section outlines the steps taken to identify duplicate content within the n
 ## Documenting Findings
 - **Identified Duplicates**: Create a summary file that lists all identified duplications, including their locations and a brief description of the content. This will serve as a reference for the next steps in the consolidation process.
 
-## Next Steps
-- Start with the analysis of files in the `./story/` directory, followed by the `./characters/` directory. 
-- Use text comparison tools or scripts to facilitate the identification of duplicates efficiently.
-- Document findings in the `./duplicate_analysis_report.md` as you progress.
+## Document Findings
+- **Character Profiles**:
+  - **Isabella Torres**:
+    - `./characters/human_characters/isabella_torres/profile.md`
+    - `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`
+  - **Marcus Reynolds**:
+    - `./characters/human_characters/marcus_reynolds/profile.md`
+    - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+
+- **Scenes**:
+  - **Act 1, Chapter 1**:
+    - `./story/act1/chapter1/scene1.md`
+    - `./story/act1/chapter1/scene2.md`
+  - **Act 2, Chapter 1**:
+    - `./story/act2/chapter1/scene1.md`
+    - `./story/act2/chapter1/scene2.md`
 
 ## Action Plan for Content Duplication Detection
 
