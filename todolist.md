@@ -2,28 +2,23 @@
 
 ## Current Phase: Act 2
 
-## Current Tasks
-- Finalize Act 1 scenes and integrate feedback.
-- Prepare for Act 2 transition, focusing on UBC adoption.
-- Align research with narrative and character development.
-- Develop character arcs for Act 2.
-- Finalize character arcs for key protagonists.
-- Complete scene drafts for Act 1.
-- Integrate feedback from previous drafts.
-- Ensure technical accuracy in AI and economic frameworks.
-- **New Task**: Review and finalize Act 2 outline.
-- **New Task**: Conduct additional research on AI rights.
-- **New Task**: Schedule a feedback session on Act 1 draft.
-- **New Task**: Begin drafting Act 2 scenes.
+## Key Research Topics
+- Universal Basic Compute (UBC) Deployment
+- AI Economic Models
+- Human-AI Relationships
+- World Building
+- Character Development
+- Research on AI Rights Movement
+- Technical Specifications
 
-## Current Priorities
-- Finalize Act 1 scenes and integrate feedback.
-- Prepare for Act 2 transition, focusing on UBC adoption.
-- Align research with narrative and character development.
-- Develop character arcs for Act 2.
-- **New Priority**: Review and finalize Act 2 outline.
-- **New Priority**: Conduct additional research on AI rights.
-- **New Priority**: Schedule a feedback session on Act 1 draft.
+## Prioritization
+1. UBC Deployment (High)
+2. AI Economic Models (High)
+3. Human-AI Relationships (Medium)
+4. World Building (Medium)
+5. Character Development (Medium)
+6. AI Rights Movement (Low)
+7. Technical Specifications (Low)
 1. **Character Development**
    - Finalize emotional arcs for main characters.
    - Review character interactions for consistency.
