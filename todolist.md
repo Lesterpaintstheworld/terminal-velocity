@@ -1,7 +1,20 @@
 # Terminal Velocity Mission - Todo List
 
 ## Actionable Tasks
-1. **Narrative Structure**:
+1. **Key Deliverables Extraction**:
+   - **Narrative Structure**:
+   - Review files related to the **story outline** and **chapter frameworks** to understand the overall narrative flow.
+   - Extract details from **act outlines** and **scene breakdowns** to ensure coherence in the story's progression.
+   - **Character Arcs**:
+   - Analyze character profiles and development arcs for main characters (e.g., **Isabella Torres**, **Marcus Reynolds**, **Cipher**, etc.) to identify their motivations, relationships, and growth throughout the story.
+   - Look into interaction scripts and emotional evolution documents to capture character dynamics.
+   - **Thematic Elements**:
+   - Examine thematic documents (e.g., **human-AI relations**, **economic transformation**, **AI autonomy**) to ensure the narrative aligns with the central themes of the novel.
+   - Identify key philosophical concepts and ethical dilemmas that should be woven into the narrative.
+   - **Technical Accuracy**:
+   - Review the **technical accuracy check** and **economic models** to ensure that the depiction of AI systems and economic theories is credible and aligns with the narrative.
+   - **Integration of AI Systems**:
+   - Extract information from the **UBC framework** and **economic principles** to understand how AI-driven economic systems will be portrayed in the story.
    - Review and finalize the outlines for Act 1, Act 2, and Act 3.
    - Ensure that character arcs are clearly defined and integrated into the narrative structure.
 2. **UBC System Establishment**: 
