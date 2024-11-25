@@ -1,7 +1,16 @@
 # Initial Content Mapping for "Terminal Velocity"
 
 ## Key Areas for Integration
-1. **World Building**
+1. **AI Economic Research**
+   - **Files:**
+     - `./UBC_AI_Economic_Research.md`
+     - `./research/economic/ubc_framework/02_002_implications_for_societal_structures.md`
+     - `./research/economic/economic_models.md`
+     - `./research/economic/economic_principles.md`
+     - `./research/economic/02_002_implications_for_societal_structures.md`
+   - **Focus:** Extract insights on the economic implications of UBC and AI integration.
+
+2. **World Building**
    - **Key Files:**
      - `./world_building/AI_Lifestyle_and_Society_Integration.md`
      - `./world_building/economic/framework/economic_systems.md`
@@ -9,13 +18,27 @@
    - **Focus:** Explore how AI integrates into societal structures and the implications for governance and rights.
 
 2. **Character Development**
+   - **Files:**
+     - `./characters/human_characters/dr_evelyn_carter/profile.md`
+     - `./characters/human_characters/isabella_torres/profile.md`
+     - `./characters/ai_protagonists/cipher/profile.md`
+   - **Focus:** Understand character motivations and how they relate to AI's economic impact.
+
+3. **Narrative Structure**
    - **Key Files:**
      - `./characters/human_characters/dr_evelyn_carter/profile.md`
      - `./characters/ai_protagonists/cipher/profile.md`
      - `./characters/ai_protagonists/nova/profile.md`
    - **Focus:** Analyze character arcs and interactions, particularly how they relate to the overarching themes of AI and humanity.
 
-3. **Economic Research**
+3. **Narrative Structure**
+   - **Files:**
+     - `./story/act1/act1_scenes.md`
+     - `./story/act2/act2_scenes.md`
+     - `./story/act3/act3_scenes.md`
+   - **Focus:** Analyze how the narrative unfolds in relation to AI and economic themes.
+
+4. **Technical Documentation**
    - **Key Files:**
      - `./research/economic/economic_framework.md`
      - `./research/UBC_Economic_Impact_Research.md`

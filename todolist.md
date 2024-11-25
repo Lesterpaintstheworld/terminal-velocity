@@ -243,6 +243,10 @@
    - Integration of Universal Basic Compute (UBC) concepts into the narrative.
 
 4. **Technical Documentation**
+   - **Files:**
+     - `./technical_review/technical_review_materials.md`
+     - `./documentation/AGENTS.md`
+   - **Focus:** Ensure technical accuracy in the portrayal of AI systems and economic frameworks.
    - Accurate representation of AI systems and economic theories.
    - Documentation of UBC deployment strategies and monitoring.
 
