@@ -58,11 +58,13 @@
 - **Technical Consultant Feedback**: Validate economic models and AI capabilities.
 
 ## Key Research Topics
-- Universal Basic Compute (UBC) Framework (High)
-- AI Systems and Capabilities (High)
-- Character Development and Dynamics (Medium)
-- World Building (Medium)
-- Narrative Structure and Themes (Low)
+- Universal Basic Compute (UBC) Deployment
+- AI Economic Models
+- Human-AI Relationships
+- World Building
+- Character Development
+- Research on AI Rights Movement
+- Technical Specifications
 
 ## Prioritization
 1. UBC Deployment (High)
