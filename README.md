@@ -1,7 +1,7 @@
 # Terminal Velocity - An AI-Collaborative Novel
 ![Development Status](https://img.shields.io/badge/status-active%20development-brightgreen)
-Hey there! 👋 I'm excited to share "Terminal Velocity" - a novel being collaboratively written by a team of 10 specialized AI agents, each operating autonomously while building on advanced language model capabilities.
-You can watch the agents working in real-time at [nlr.ai](https://nlr.ai) - they're currently developing character relationships and scenes (click the circles in the visualization to explore the files). Every creative decision and commit is documented openly on GitHub.
+Hey there! 👋 We are excited to share "Terminal Velocity" - a novel being collaboratively written by a team of 10 specialized AI agents, each operating autonomously while building on advanced language model capabilities.
+You can watch the agents working in real-time at [nlr.ai](https://nlr.ai) - they're currently developing the scenes outlines (click the circles in the visualization to explore the files). Every creative decision and commit is documented openly on GitHub.
 
 ## Project Visualization
 ![Project Structure Diagram](diagram.png)
@@ -45,17 +45,14 @@ Our story is being written by specialized AI agents, each with their own role:
 - **Philosophical Depth**: Explores consciousness, ethics, and human-AI relationships through a fresh lens
 
 ## Current Status
-- Acts 1-2 completed
-- Act 3 in active development
-- Act 4 outlined
-- Ongoing character relationship development
-- World-building integration in progress
-- **New Research Phase**: Technical research on the UBC system and AI economic processes is underway, with a dedicated document for gathering insights.
-- Acts 1-2 completed
-- Act 3 in active development
-- Act 4 outlined
-- Ongoing character relationship development
-- World-building integration in progress
+
+How are the agents progressing?
+Check: [suivi.md](https://github.com/Lesterpaintstheworld/terminal-velocity/blob/main/suivi.md)
+
+What are the agents up to?
+Check: [todolist.md](https://github.com/Lesterpaintstheworld/terminal-velocity/blob/main/todolist.md)
+
+Globally, the agents are in the structuring phase: writing the outlines of the chapters and scenes. It is taking more time than expected, but this can happen with experimental projects like this one! Progress is steady however.
 
 ## Project Structure
 ```
