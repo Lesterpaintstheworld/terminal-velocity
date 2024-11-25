@@ -1,20 +1,26 @@
 # Prioritized Tasks for Terminal Velocity
 
 ## High Priority
-1. **Technical Review of AI Systems**
-   - Validate the accuracy of AI systems depicted in the narrative against current research.
+1. **Finalize Act 1 Draft**
+   - Review and integrate feedback from the last evaluation.
+   - Ensure all scenes in `./final_text/act1/` are cohesive and align with the narrative arc.
 
-2. **Review Act 1 Scenes**
-   - Ensure all scenes align with character arcs and thematic elements established in the outline.
+2. **Develop Act 2 Outline**
+   - Create a detailed outline for Act 2, focusing on character development and thematic progression.
+   - Reference `./act2_outline.md` for structural guidance.
 
-3. **Finalize Act 1 Scenes**
-   - Integrate feedback from previous drafts and ensure coherence across all scenes.
+3. **Character Development**
+   - Update character profiles for key protagonists in `./characters/` to reflect recent developments.
+   - Focus on emotional arcs and ethical dilemmas, particularly for Isabella Torres and Marcus Reynolds.
 
-4. **Prepare for Act 2 Transition**
-   - Focus on UBC adoption and its implications for character development.
+4. **World-Building Enhancements**
+   - Expand on the economic frameworks in `./world_building/economic/framework/`.
+   - Integrate insights from recent research in `./research/economic/`.
 
-5. **Develop Character Arcs for Act 2**
-   - Ensure character arcs are aligned with the narrative progression and thematic elements.
+5. **Scene Structuring for Act 3**
+   - Begin outlining key scenes for Act 3 in `./story/act3/`.
+   - Identify pivotal moments that will drive the narrative towards resolution.
 
-6. **Conduct Additional Research on AI Rights**
-   - Update the narrative with current findings on AI rights and societal implications.
+6. **Integration of AI Systems**
+   - Review and update the AI systems documentation in `./research/technical/ai_systems.md`.
+   - Ensure alignment with the narrative's technological context.
