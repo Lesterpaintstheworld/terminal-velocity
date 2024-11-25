@@ -35,6 +35,42 @@ This section outlines the steps taken to identify duplicate content within the n
 - Start with the analysis of files in the `./story/` directory, followed by the `./characters/` directory. 
 - Use text comparison tools or scripts to facilitate the identification of duplicates efficiently.
 - Document findings in the `./duplicate_analysis_report.md` as you progress.
+
+## Action Plan for Content Duplication Detection
+
+1. **Content Duplication Detection**:
+   - Begin by scanning the narrative files, particularly focusing on the `./story/` and `./characters/` directories, as these are likely to contain overlapping content.
+   - Identify and document instances of duplicate content, including semantically similar passages and any partial overlaps.
+
+2. **Document Duplication Findings**:
+   - Create a report titled `./duplicate_analysis_report.md` to detail the identified duplicates. This report should include:
+     - File paths of duplicates
+     - A brief description of the content
+     - The nature of the duplication (exact match, paraphrase, etc.)
+
+3. **Pre-Consolidation Check**:
+   - Review the identified duplicates to ensure all necessary context and meaning are captured. This will involve:
+     - Checking for variations in character profiles, scenes, or thematic elements that may affect narrative coherence.
+     - Ensuring that any unique contributions from each duplicate are noted for preservation during consolidation.
+
+## Initial Content Analysis
+This section outlines the steps taken to identify duplicate content within the narrative files of "Terminal Velocity."
+
+1. **Identify Duplicate Content**:
+   - Reviewed files for similar titles, content, or themes.
+   - Focused on character profiles, interaction scripts, and narrative scenes, as these are likely to have overlapping information.
+
+2. **Document Findings**:
+   - Created a report outlining identified duplicates, including file paths and a brief description of the content.
+
+3. **Assess Duplication Extent**:
+   - Determined if duplicates are exact matches or variations.
+   - Noted any contextual differences that may affect consolidation.
+
+## Next Steps
+- Start with the analysis of files in the `./story/` directory, followed by the `./characters/` directory. 
+- Use text comparison tools or scripts to facilitate the identification of duplicates efficiently.
+- Document findings in the `./duplicate_analysis_report.md` as you progress.
 1. **Identified Duplicates:**
    - **Character Profiles:**
      - **Cipher**: Found in multiple files, including:
