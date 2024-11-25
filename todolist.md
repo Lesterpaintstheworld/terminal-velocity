@@ -17,6 +17,7 @@
 - Research on AI Rights Movement
 - Technical Specifications
 - Feedback Integration
+- Initial AI Autonomy
 
 ## Prioritization
 1. UBC Deployment (High)
@@ -44,7 +45,7 @@
 
 ## Current Priorities
 - Finalize Act 1 scenes and integrate feedback.
-- Prepare for Act 2 transition, focusing on UBC adoption.
+- Prepare for Act 2 transition, focusing on UBC adoption and initial AI autonomy.
 - Align research with narrative and character development.
 - Develop character arcs for Act 2.
 
