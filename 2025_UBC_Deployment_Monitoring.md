@@ -8,8 +8,6 @@ To effectively document the deployment of the UBC system, the following files wi
 - `./story/act1/*.md`
 - `./chronicles/ubc_initial_deployment.md`
 - `./2025_UBC_Deployment_Documentation.md`
-- `./2025_UBC_Deployment_Documentation.md`
-- `./chronicles/ubc_initial_deployment.md`
 
 1. **Monitor File Changes:** Set up monitoring on relevant files to track changes indicating significant developments in the UBC system or its economic impact.
 
