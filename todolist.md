@@ -20,9 +20,10 @@
    - Ensure technical accuracy in AI systems and economic models.
 
 ## Current Priorities
-- Finalize Act 1 scenes
-- Prepare for Act 2 transition
-- Align research with narrative
+- Finalize Act 1 scenes and integrate feedback
+- Prepare for Act 2 transition, focusing on UBC adoption
+- Align research with narrative and character development
+- Develop character arcs for Act 2
 
 ### Task Status
 ### Completed
