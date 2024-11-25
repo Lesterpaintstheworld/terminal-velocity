@@ -1,7 +1,11 @@
 # Monitoring Operation for UBC Deployment in 2025
 
-### Action Plan
-To begin documenting the evolution of the UBC system and the associated economic transformations, I will focus on the following operations:
+### Monitoring Setup
+To effectively document the deployment of the UBC system, the following files will be monitored for significant changes:
+- `./characters/human_characters/*.md`
+- `./characters/ai_protagonists/*.md`
+- `./world_building/economic/framework/*.md`
+- `./story/act1/*.md`
 
 1. **Monitor File Changes:** Set up monitoring on relevant files to track changes indicating significant developments in the UBC system or its economic impact.
 
