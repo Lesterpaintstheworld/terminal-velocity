@@ -12,7 +12,11 @@
 - Integrate feedback from previous drafts.
 - Ensure technical accuracy in AI and economic frameworks.
 
-## Prioritized Tasks
+## Current Priorities
+- Finalize Act 1 scenes and integrate feedback.
+- Prepare for Act 2 transition, focusing on UBC adoption.
+- Align research with narrative and character development.
+- Develop character arcs for Act 2.
 1. **Character Development**
    - Finalize emotional arcs for main characters.
    - Review character interactions for consistency.
