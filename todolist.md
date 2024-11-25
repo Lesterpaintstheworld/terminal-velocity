@@ -1,12 +1,25 @@
 # Terminal Velocity Mission - Todo List
 
-## Mission Objectives
-1. **Draft Act 1 Outline**: Create a detailed outline for Act 1, establishing key plot points, character introductions, and thematic elements.
-2. **Draft Act 2 Outline**: Develop a comprehensive outline for Act 2, focusing on the escalation of conflicts, character development, and the introduction of AI-driven economic changes.
-3. **Draft Act 3 Outline**: Finalize the outline for Act 3, ensuring a satisfying resolution that ties together the narrative threads and aligns with the novel's themes.
-1. **Conduct Initial Content Verification**: Review the current draft of the novel to ensure that the technical aspects related to AI and economic systems are accurate and align with real-world research.
-2. **Document Quality Deviations**: Identify any inaccuracies or inconsistencies in the narrative, focusing on technical credibility and thematic clarity.
-3. **Provide Actionable Feedback**: Prepare a set of recommendations to enhance narrative quality and ensure alignment with the mission's objectives regarding engagement and credibility.
+## Actionable Tasks
+1. **Narrative Structure**:
+   - Review and finalize the outlines for Act 1, Act 2, and Act 3.
+   - Ensure that character arcs are clearly defined and integrated into the narrative structure.
+
+2. **Technical Accuracy**:
+   - Validate the depiction of AI systems and economic theories in the narrative.
+   - Cross-reference with existing research documents to ensure consistency.
+
+3. **Character Development**:
+   - Update character profiles based on recent developments in the narrative.
+   - Ensure that character interactions reflect their development arcs.
+
+4. **Thematic Consistency**:
+   - Review thematic elements across all acts to ensure coherence.
+   - Integrate feedback from previous evaluations on thematic clarity.
+
+5. **Scene Development**:
+   - Draft key scenes for each act, focusing on emotional beats and character dynamics.
+   - Ensure that scenes align with the overall narrative progression.
 
 ## Key Research Topics
 - Universal Basic Compute (UBC) Deployment
@@ -43,12 +56,13 @@
    - Compile recent research findings into the narrative context.
    - Ensure technical accuracy in AI systems and economic models.
 
-## Current Priorities
-- Finalize Act 1 scenes and integrate feedback.
-- Prepare for Act 2 transition, focusing on UBC adoption and initial AI autonomy.
-- Ensure alignment with the narrative development goals and clarity in task management.
-- Align research with narrative and character development.
-- Develop character arcs for Act 2.
+### Summary of Selected Tasks
+
+- Finalize narrative outlines for all acts.
+- Validate technical accuracy of AI and economic systems.
+- Update character profiles and interactions.
+- Review and integrate thematic elements.
+- Draft key scenes focusing on emotional and character dynamics.
 
 ### Task Status
 ### Completed
