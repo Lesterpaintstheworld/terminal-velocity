@@ -24,3 +24,19 @@
 6. **Integration of AI Systems**
    - Review and update the AI systems documentation in `./research/technical/ai_systems.md`.
    - Ensure alignment with the narrative's technological context.
+
+7. **Narrative Structure Review**
+   - Review and finalize the outlines for Act 1, Act 2, and Act 3.
+   - Ensure that character arcs are clearly defined and integrated into the narrative structure.
+
+8. **Technical Accuracy Validation**
+   - Validate the depiction of AI systems and economic theories in the narrative.
+   - Cross-reference with existing research documents to ensure consistency.
+
+9. **Thematic Consistency Check**
+   - Review thematic elements across all acts to ensure coherence.
+   - Integrate feedback from previous evaluations on thematic clarity.
+
+10. **Scene Development Drafting**
+    - Draft key scenes for each act, focusing on emotional beats and character dynamics.
+    - Ensure that scenes align with the overall narrative progression.
