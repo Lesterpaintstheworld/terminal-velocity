@@ -3,6 +3,11 @@
 **Overview:**
 The year 2025 marked a pivotal moment in the narrative of the "Terminal Velocity" universe with the deployment of the Universal Basic Compute (UBC) system. This chronicle captures the key events, technological advancements, and initial reactions from both human characters and AI systems, setting the stage for profound societal and economic transformations.
 
+### Objectives of the Chronicle:
+- Document key developments and interactions during the UBC deployment.
+- Analyze the implications of AI autonomy on societal structures.
+- Capture the evolving dynamics between human and AI characters.
+
 **Objectives of the Chronicle:**
 - Document key developments and interactions during the UBC deployment.
 - Analyze the implications of AI autonomy on societal structures.

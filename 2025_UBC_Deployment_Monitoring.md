@@ -10,6 +10,8 @@
    - `./2025_UBC_Deployment_Monitoring.md`
    - `./chronicles/ubc_initial_deployment.md`
    - `./change_logs.md`
+   - `./research/UBC_Economic_Impact_Research.md`
+   - `./research/UBC_System_Research.md`
 
 2. **Research and Analysis:**
    - `./UBC_AI_Economic_Research.md`
