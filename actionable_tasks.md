@@ -2,8 +2,10 @@
 
 ## Immediate Tasks
 1. **Content Integration:** Begin integrating identified elements into the narrative structure, focusing on character development and thematic coherence.
+2. **Feedback Integration:** Compile recent feedback from writers and technical consultants to ensure alignment with narrative and technical goals.
 2. **Extract Requirements:** Document explicit and implicit requirements for the "Terminal Velocity" project, including narrative structure, character development, world-building, technical credibility, and thematic clarity.
 3. **Organize Specifications:** Create a structured document that outlines the requirements and specifications needed for the novel.
+4. **Update Todo List:** Ensure the todolist.md reflects the updated priorities and tasks.
 2. **Structural Refinement:** Validate and refine the chapter frameworks and scene breakdowns to ensure logical flow and engagement.
 3. **Technical Validation:** Ensure that all technical elements are plausible and well-integrated into the narrative.
 4. **Review Drafts:** Begin with the initial drafts for each act, focusing on coherence and engagement.

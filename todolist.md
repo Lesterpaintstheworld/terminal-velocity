@@ -1,6 +1,6 @@
 # Terminal Velocity Mission - Todo List
 
-## Current Phase: Act 2
+## Current Phase: Act 2 - Transitioning to Act 3
 
 ## Key Research Topics
 - Universal Basic Compute (UBC) Deployment
@@ -10,6 +10,7 @@
 - Character Development
 - Research on AI Rights Movement
 - Technical Specifications
+- Feedback Integration
 
 ## Prioritization
 1. UBC Deployment (High)
