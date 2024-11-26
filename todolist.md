@@ -14,6 +14,8 @@
 1. **Review Existing Tasks**
    - Assess tasks related to Act 1 completion.
    - Identify any tasks that require adjustment or reprioritization.
+   - Extract actionable items related to the narrative structure of the three acts: Emergence, Acceleration, and Convergence.
+   - Prioritize these tasks to align with the critical mission needs.
 
 2. **New Tasks for Act 1 Completion**
    - Finalize UBC system specifications.
