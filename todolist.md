@@ -1,4 +1,4 @@
-# Terminal Velocity Mission - Todo List (Updated for Act 2)
+# Terminal Velocity Mission - Todo List (Updated for Act 1)
 
 ## Extracted Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
@@ -12,6 +12,9 @@
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ### Proposed Steps for Act 1 Completion
+- Finalize the chapter outline for Act 1.
+- Integrate feedback from the last review.
+- Prepare for the next phase by identifying any additional research or character development needed.
 
 ## Actionable Tasks
 1. **Establish UBC System**: Research and document the foundational elements of the UBC system.
