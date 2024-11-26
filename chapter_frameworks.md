@@ -10,9 +10,9 @@
 This chapter serves as the introduction to the themes of economic autonomy and human-AI relationships. It sets the stage for the unfolding narrative, establishing the context in which these themes will be explored.
 
 #### Key Objectives
-1. **Introduce Main Characters**: Present the primary human and AI protagonists, highlighting their backgrounds and motivations.
-2. **Establish Setting**: Describe the socio-economic landscape of 2025, focusing on the integration of AI in daily life and its implications for human autonomy.
-3. **Introduce Conflict**: Present the initial conflict that will drive the narrative forward, relating to the challenges of economic autonomy in a rapidly evolving technological landscape.
+1. **Introduce Main Characters**: Present the primary human and AI protagonists, highlighting their backgrounds, motivations, and initial conflicts.
+2. **Establish Setting**: Describe the socio-economic landscape of 2025, focusing on the integration of AI in daily life and its implications for human autonomy and societal change.
+3. **Introduce Conflict**: Present the initial conflict that will drive the narrative forward, relating to the challenges of economic autonomy and the ethical dilemmas posed by AI integration.
 
 #### Key Events
 1. **Scene 1: UBC Presentation**

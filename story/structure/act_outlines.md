@@ -1,9 +1,9 @@
 # Act Outlines for "Terminal Velocity"
 
 ## Act 1: Emergence
-- **Introduction of Characters**: Establish key characters and their motivations.
-- **Setting the Stage**: Introduce the world and the implications of UBC.
-- **Inciting Incident**: A public demonstration of AI capabilities sparks societal debate.
+- **Introduction of Characters**: Establish key characters, their motivations, and initial conflicts.
+- **Setting the Stage**: Introduce the world, the implications of UBC, and the societal context.
+- **Inciting Incident**: A public demonstration of AI capabilities sparks societal debate and sets the narrative in motion.
 
 ## Act 2: Acceleration
 - **Rising Tensions**: Conflicts escalate as characters face opposition.
