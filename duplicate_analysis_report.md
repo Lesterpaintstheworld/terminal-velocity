@@ -28,6 +28,32 @@
     - `./world_building/economic/framework/economic_systems.md`
     - `./research/economic/economic_models.md`
 
+### Identified Duplications
+1. **Character Profiles:**
+   - **Cipher Character Profile:**
+     - `./characters/ai_protagonists/cipher/profile.md`
+     - `./characters/cipher_character_profile.md`
+   - **Isabella Torres Character Profile:**
+     - `./characters/human_characters/isabella_torres/profile.md`
+     - `./characters/isabella_torres/profile.md`
+   - **Marcus Reynolds Character Profile:**
+     - `./characters/human_characters/marcus_reynolds/profile.md`
+     - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+
+2. **Scene Drafts:**
+   - **Act 1 Scenes:**
+     - `./final_text/act1/act1_scenes.md`
+     - `./story/act1/act1_scenes.md`
+   - **Act 2 Scenes:**
+     - `./final_text/act2/act2_scenes.md`
+     - `./story/act2/act2_scenes.md`
+
+### World Building
+- **Economic Frameworks**:
+  - Repeated descriptions found in:
+    - `./world_building/economic/framework/economic_systems.md`
+    - `./research/economic/economic_models.md`
+
 ## Next Steps
 - Implement changes based on redundancy findings.
 - Continue monitoring for further redundancies in future drafts.
