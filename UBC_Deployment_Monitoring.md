@@ -8,6 +8,7 @@ To monitor designated files for significant events related to the initial deploy
    - `./2025_UBC_Deployment_Documentation.md`
    - `./2025_UBC_Deployment_Monitoring.md`
    - `./chronicles/ubc_initial_deployment.md`
+   - `./UBC_Deployment_Monitoring.md`
 
 2. **Research and Economic Impact:**
    - `./research/UBC_Economic_Impact_Research.md`
