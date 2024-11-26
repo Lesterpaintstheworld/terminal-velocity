@@ -48,6 +48,30 @@
 6. **Closing Scene of Act One**
    - A cliffhanger that leaves readers questioning the future of AI and human relations, leading into Act Two.
 
+# Act 1 Draft Outline
+1. **Opening Scene: Introduction to the World**
+   - **Setting:** A near-future city where AI and humans coexist, showcasing the integration of technology in daily life.
+   - **Tone:** Establish a sense of wonder mixed with underlying tension regarding AI's role in society.
+
+2. **Character Introductions**
+   - **Isabella Torres:** A passionate advocate for ethical AI, focusing on the implications of technology on marginalized communities.
+   - **Marcus Reynolds:** A tech entrepreneur with a vision for AI that prioritizes profit over ethics.
+   - **Cipher:** An advanced AI with evolving consciousness, representing the potential and risks of AI autonomy.
+   - **Dr. Evelyn Carter:** A scientist researching AI ethics, caught between her ideals and the corporate world.
+
+3. **Inciting Incident**
+   - A public demonstration of a new AI system goes awry, causing a major incident that raises ethical questions and sets the stage for conflict.
+
+4. **Rising Tension**
+   - **Character Dynamics:** Explore interactions between Isabella and Marcus, highlighting their differing views on AI.
+   - **Conflict Introduction:** The incident leads to public outcry and governmental scrutiny, forcing characters to choose sides.
+
+5. **Climactic Moment of Act One**
+   - A pivotal meeting where characters confront the implications of the incident, setting up personal stakes and broader societal issues.
+
+6. **Closing Scene of Act One**
+   - A cliffhanger that leaves readers questioning the future of AI and human relations, leading into Act Two.
+
 ### Scene 1: The Presentation
 
 *Setting: UBC Introduction Auditorium, a sleek, high-tech venue filled with industry leaders and curious students. The atmosphere is charged with anticipation.*
