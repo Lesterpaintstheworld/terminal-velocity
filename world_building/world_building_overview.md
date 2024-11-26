@@ -8,3 +8,4 @@
 ## Cultural Landscape
 - **Cultural Integration of AI**: 
   - [Details from ./world_building/cultural/cultural_landscape.md]
+  - The evolving nature of these relationships highlights the importance of advocacy for AI rights, as characters navigate the complexities of these dynamics in their quest for social justice.
