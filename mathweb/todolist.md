@@ -3,6 +3,12 @@
 ## Actionable Tasks
 1. **Update todolist.md**: 
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
+2. **Refine Act 1 Chapter Outline**: 
+   - Create or refine chapter outlines for Act 1 to effectively establish the UBC system and initial AI autonomy.
+   - Ensure narrative flow and thematic consistency.
+3. **Document Character Arcs**: 
+   - Map out character journeys for key characters in Act 1.
+   - Align character arcs with the narrative and thematic goals of economic autonomy and human-AI relationships.
 2. **Draft Chapter Outline for Act 1**: 
    - Create a structured outline that encompasses the key events, character introductions, and thematic elements that will set the stage for the UBC system and AI-driven market prediction.
 3. **Review Feedback from Internal Reviewers**: 
