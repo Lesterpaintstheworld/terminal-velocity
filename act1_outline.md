@@ -11,6 +11,8 @@
   - Introduce main characters: Isabella Torres, Marcus Reynolds, Cipher, and others.
 - **Thematic Elements**:
   - Explore themes of economic autonomy, trust in AI, and human-AI relationships.
+- **Actionable Tasks**:
+  - Ensure alignment with the tasks extracted from `todolist.md`.
 
 #### 2. Key Plot Points
 1. **Introduction of the UBC (Universal Basic Compute)**:

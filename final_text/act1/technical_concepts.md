@@ -4,6 +4,8 @@
 1. **Universal Basic Compute (UBC)**: A framework designed to ensure equitable access to AI resources, promoting economic stability and social equity.
    - **Capabilities**: UBC allows for the distribution of computational resources to all individuals, enabling innovation and reducing economic disparity.
    - **Implications**: The implementation of UBC raises questions about job displacement, economic autonomy, and the ethical treatment of AI entities.
+2. **Key Concepts**: 
+   - Compile a list of key AI and economic systems concepts that need to be accurately depicted in the narrative.
 
 2. **Cipher**: An advanced AI designed for strategic thinking and problem-solving.
    - **Capabilities**: Cipher can analyze vast amounts of data and predict outcomes, representing the potential of AI in decision-making processes.
