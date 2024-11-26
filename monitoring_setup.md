@@ -10,3 +10,13 @@
 ## Next Steps
 - Set up a monitoring mechanism to track changes in the identified files.
 - Document any notable changes or updates that occur in these files.
+# Monitoring Setup for Terminal Velocity - Novel Mission
+
+## Files to Monitor
+1. **./aider.mission.md** - Key mission details and requirements.
+2. **./actionable_tasks.md** - Ongoing tasks and updates.
+3. **./key_deliverables.md** - Summary of deliverables and milestones.
+
+## Next Steps
+- Set up a monitoring mechanism to track changes in the identified files.
+- Document any notable changes or updates that occur in these files.
