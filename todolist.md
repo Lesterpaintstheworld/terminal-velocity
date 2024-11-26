@@ -12,7 +12,7 @@
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ### Proposed Steps for Act 1 Completion
-- Finalize the chapter outline for Act 1.
+- Finalize the chapter outline for Act 1, focusing on establishing the UBC system and initial AI autonomy.
 - Integrate feedback from the last review.
 - Prepare for the next phase by identifying any additional research or character development needed.
 
