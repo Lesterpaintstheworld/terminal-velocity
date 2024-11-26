@@ -1,4 +1,4 @@
-## Scene 1: The UBC Presentation
+## Act 1: Introduction and Setup
 *Setting*: A high-tech auditorium filled with industry leaders and innovators. The atmosphere buzzes with anticipation.
 
 - **Characters Introduced**: 
