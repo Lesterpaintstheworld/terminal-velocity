@@ -119,6 +119,8 @@ The Universal Basic Compute (UBC) system was deployed in 2025, marking a pivotal
 During the deployment, several key interactions were documented:
 - **Dr. Evelyn Carter** collaborated with the AI system **Cipher** to optimize resource allocation.
 - **Isabella Torres** faced ethical dilemmas while working alongside AI, prompting discussions on human-AI collaboration.
+- **Marcus Reynolds** raised concerns about the implications of AI autonomy on job security.
+- **Nova** expressed a desire for deeper collaboration with human counterparts.
 
 ## Economic Impact
 Early observations indicate a shift in job dynamics, with many roles evolving to complement AI capabilities. The UBC system has begun to influence traditional economic models, leading to debates on the future of work.
