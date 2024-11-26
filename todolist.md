@@ -8,6 +8,8 @@
 5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
 6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
 7. **Economic Models Post-UBC** - Low urgency; important for future planning.
+8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ### Proposed Steps for Deduplication Process
 
