@@ -22,6 +22,9 @@
 5. **Scene Development**
    - Begin drafting scenes for the first act, focusing on critical moments of interaction and conflict.
 
+6. **Map Character Arcs for Key Characters in Act 1**
+   - Outline character journeys for main characters introduced in Act 1, ensuring their development aligns with the narrative and thematic goals.
+
 ## Objective
 ### Step 1: Content Duplication Detection
 - **Action:** Scan all narrative files in the project directory to identify and document semantically similar content. This includes detecting partial overlaps and noting down all identified duplications for tracking purposes.
