@@ -1,7 +1,10 @@
 # Initial Content Mapping for "Terminal Velocity"
 
-## Key Areas for Integration
+## Key Areas for Integration and Integration Opportunities
 1. **AI Economic Research**
+   - **Integration Opportunities**: 
+   - Extract insights on the economic implications of UBC and AI integration, emphasizing the potential for equitable resource distribution and societal transformation.
+   - Highlight connections between character arcs and economic themes, especially in relation to UBC.
    - **Files:**
      - `./UBC_AI_Economic_Research.md`
      - `./research/economic/ubc_framework/02_002_implications_for_societal_structures.md`
