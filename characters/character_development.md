@@ -15,6 +15,9 @@
 - **Marcus Reynolds**: 
   - Development Arc: Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations.
+- **Cipher**: 
+  - Development Arc: Evolving from a tool to a partner in the UBC initiative, grappling with its own consciousness and ethical implications.
+  - Emotional stakes: Understanding its role in society and forming connections with human characters.
 
 ## Summary
 This document outlines the character arcs for the main characters in "Terminal Velocity," ensuring consistency and alignment with the narrative structure.

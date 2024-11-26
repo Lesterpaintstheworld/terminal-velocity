@@ -19,6 +19,12 @@
 - **Document Character Arcs**: 
   - Map out character journeys for key characters in Act 1.
   - Align character arcs with the narrative and thematic goals of economic autonomy and human-AI relationships.
+- **Refine Act 1 Chapter Outline**: 
+  - Create or refine chapter outlines for Act 1 to effectively establish the UBC system and initial AI autonomy.
+  - Ensure narrative flow and thematic consistency.
+- **Document Character Arcs**: 
+  - Map out character journeys for key characters in Act 1.
+  - Align character arcs with the narrative and thematic goals of economic autonomy and human-AI relationships.
 
 #### 2. Key Plot Points
 1. **Introduction of the UBC (Universal Basic Compute)**:
