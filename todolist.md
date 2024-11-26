@@ -1,24 +1,26 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 2)
 
 ## Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
-8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
-9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+1. **Establish UBC System** - High urgency; foundational for Act 1 completion.
+2. **Define AI Autonomy Parameters** - High urgency; critical for initial AI capabilities.
+3. **Universal Basic Compute (UBC) Framework Analysis** - Medium urgency; important for understanding UBC implications.
+4. **AI Systems Integration** - Medium urgency; relevant for UBC deployment.
+5. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
+6. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
+7. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
+8. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
+9. **Economic Models Post-UBC** - Low urgency; important for future planning.
+10. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+11. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
-### Proposed Steps for Deduplication Process
+### Proposed Steps for Act 1 Completion
 
 ## Actionable Tasks
 1. **Establish UBC System**: Research and document the foundational elements of the UBC system.
 2. **Define AI Autonomy Parameters**: Outline the initial capabilities and limitations of AI within the UBC framework.
 3. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
-2. **Draft Chapter Outlines for Act 2**: Create structured outlines for the chapters in Act 2, focusing on critical mass in UBC adoption and human adaptation dynamics.
-3. **Map Character Arcs for Key Characters**: Outline character journeys for main characters to ensure their development aligns with narrative progression and themes of autonomy vs. control.
+4. **Draft Chapter Outlines for Act 2**: Create structured outlines for the chapters in Act 2, focusing on critical mass in UBC adoption and human adaptation dynamics.
+5. **Map Character Arcs for Key Characters**: Outline character journeys for main characters to ensure their development aligns with narrative progression and themes of autonomy vs. control.
 
 ### Proposed Steps for Deduplication Process
 
