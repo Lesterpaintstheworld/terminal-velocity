@@ -1,6 +1,6 @@
 # Universal Basic Compute Documentation
 ## Objective and Societal Impact
-- To thoroughly document the UBC system, explaining its functionality, structure, and implications in the world of "Terminal Velocity." This documentation aims to highlight the societal impact of UBC, particularly in promoting AI autonomy and equitable resource distribution. This includes references to the following documents:
+- This documentation aims to thoroughly explain the UBC system's functionality, structure, and implications in the world of "Terminal Velocity." It highlights the societal impact of UBC, particularly in promoting AI autonomy and equitable resource distribution, and includes references to the following documents:
 - **Universal Basic Compute (UBC)** dans `research/technical/ubc_framework.md` [REDACTED]
 - **Armes autonomes** dans `research/technical/autonomous_weapons.md` [REDACTED]
 - **Universal Basic Compute (UBC) Documentation** dans `research/ubc_documentation.md` [REDACTED]
