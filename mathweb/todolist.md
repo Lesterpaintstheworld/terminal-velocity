@@ -1,32 +1,25 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
 ## Priorities
-1. **Initial Content Verification**
-   - Review the first chapter for technical accuracy regarding AI and economic systems.
-   - Document any inaccuracies or inconsistencies found during the review.
-   - Suggest improvements based on the findings.
-1. **Establish the UBC System**
-   - Finalize the technical specifications for the UBC system.
-   - Document the initial deployment strategies and monitoring protocols.
+1. **Update todolist.md**: 
+   - Review current tasks to ensure alignment with Act 1 objectives.
+   - Add any new tasks from recent discussions or feedback.
 
-2. **Initial AI Autonomy**
-   - Draft the foundational interactions between humans and AI.
-   - Outline the ethical considerations and implications of AI autonomy.
+2. **Draft Chapter Outline for Act 1**: 
+   - Create a detailed outline capturing key narrative elements, character arcs, and thematic explorations related to AI-driven market predictions and the UBC system.
 
-3. **Chapter Outline for Act 1**
-   - Draft a detailed chapter outline capturing:
-     - The emergence of the UBC system.
-     - Initial interactions between humans and AI.
-     - Key themes of economic autonomy and human-AI relationships.
+3. **Review Feedback from Internal Reviewers**: 
+   - Collect and analyze feedback regarding Act 1's narrative and technical elements.
+   - Document insights and necessary adjustments to ensure quality standards and thematic clarity.
 
-4. **Character Arcs Review**
+4. **Character Arcs Review**: 
    - Review existing character arcs to ensure alignment with the themes of economic autonomy and human-AI relationships.
    - Make necessary adjustments to character motivations and interactions.
 
-5. **Scene Development**
+5. **Scene Development**: 
    - Begin drafting scenes for the first act, focusing on critical moments of interaction and conflict.
 
-6. **Map Character Arcs for Key Characters in Act 1**
+6. **Map Character Arcs for Key Characters in Act 1**: 
    - Outline character journeys for main characters introduced in Act 1, ensuring their development aligns with the narrative and thematic goals.
 
 ## Objective
