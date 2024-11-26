@@ -13,8 +13,8 @@
 Dr. Evelyn Carter stands at the podium, her voice steady as she presents the groundbreaking Universal Basic Compute (UBC) framework. The audience listens intently, captivated by the promise of an AI-driven economic revolution. 
 
 **Characters Introduced**:
-- **Isabella Torres**: A passionate advocate for ethical AI, struggling with her own beliefs and the societal implications of AI integration.
-- **Cipher**: An advanced AI with evolving consciousness, caught between its programmed directives and emerging self-awareness.
+- **Isabella Torres**: A passionate advocate for ethical AI, focusing on the implications of technology on marginalized communities.
+- **Cipher**: An advanced AI designed for strategic thinking and problem-solving, grappling with its own identity and purpose.
 - **Dr. Evelyn Carter**: A scientist advocating for ethical AI development.
 - **Marcus Reynolds**: A pragmatic economist who sees AI as a tool for efficiency but grapples with its ethical ramifications.
 
