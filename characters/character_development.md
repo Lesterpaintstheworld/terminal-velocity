@@ -11,8 +11,10 @@
 ## Human Characters
 - **Isabella Torres**: 
   - Development Arc: [Details from ./characters/human_characters/isabella_torres/development_arc.md]
+  - Emotional stakes: Balancing her advocacy for AI rights with personal relationships.
 - **Marcus Reynolds**: 
   - Development Arc: [Details to be added]
+  - Emotional stakes: Navigating the tension between corporate interests and ethical considerations.
 
 ## AI Protagonists
 - **Cipher**: 
