@@ -1,29 +1,14 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
 ## Key Research Topics
-1. **World Building**
-   - Development of societal structures in the context of UBC.
-   - Exploration of cultural landscapes and integration of AI in daily life.
-
-2. **Character Development**
-   - Profiles and arcs for AI and human characters.
-   - Ethical dilemmas and emotional stakes in character interactions.
-
-3. **Story Structure**
-   - Outlining acts and chapters.
-   - Key scenes and emotional beats throughout the narrative.
-
-4. **Economic Framework**
-   - Analysis of economic implications of UBC.
-   - Exploration of new economic models and their societal impacts.
-
-5. **Research Areas**
-   - AI rights movement and its historical context.
-   - Technological advancements and their implications for society.
-
-6. **Technical Specifications**
-   - Detailed documentation of AI systems and their capabilities.
-   - Governance frameworks for AI integration.
+1. **Universal Basic Compute (UBC) Framework** - High urgency due to foundational importance.
+2. **AI Economic Impact Research** - Essential for evaluating the implications of UBC on the economy.
+3. **Human-AI Relationship Dynamics** - Important for narrative development and character interactions.
+4. **Societal Implications of AI Autonomy** - Relevant for ethical considerations and societal impact.
+5. **Character Development in AI Narratives** - Vital for engaging storytelling.
+6. **World Building in AI-Driven Economies** - Necessary for creating a believable setting.
+7. **Ethical Implications of AI Systems** - Important for ensuring responsible AI development.
+8. **Technical Specifications for UBC Implementation** - Necessary for practical deployment.
 
 ### Immediate Knowledge Gaps Identified
 1. **Integration of AI in Societal Structures**
