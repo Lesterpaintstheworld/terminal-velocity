@@ -22,6 +22,9 @@
 - Prepare for the next phase by identifying any additional research or character development needed.
 
 ## Prioritized Actionable Tasks
+1. **Document Redundancy Findings**:
+   - Create a new documentation file to log identified redundancies and their contexts.
+   - Include specific examples of redundancies found, along with the files they were located in.
 1. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
 2. **Establish UBC System**: Research and document the foundational elements of the UBC system.
 3. **Define AI Autonomy Parameters**: Outline the initial capabilities and limitations of AI within the UBC framework.
