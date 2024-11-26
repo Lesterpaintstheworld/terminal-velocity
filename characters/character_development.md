@@ -8,10 +8,21 @@
 - **Nova**: 
   - Emotional Evolution: [Details to be added]
 
+## AI Protagonists
+- **Cipher**: 
+  - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.
+- **Echo**: 
+  - Emotional Evolution: [Details to be added]
+- **Nova**: 
+  - Emotional Evolution: [Details to be added]
+
 ## Human Characters
 - **Isabella Torres**: 
-  - Development Arc: [Details from ./characters/human_characters/isabella_torres/development_arc.md]
+  - Development Arc: Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships.
+- **Marcus Reynolds**: 
+  - Development Arc: Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
+  - Emotional stakes: Navigating the tension between corporate interests and ethical considerations.
 - **Marcus Reynolds**: 
   - Development Arc: [Details to be added]
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations.
