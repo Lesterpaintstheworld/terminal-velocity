@@ -40,6 +40,20 @@
 
 5. **Technical Documentation**
    - Clarification needed on the operational capabilities of AI systems within the UBC framework.
+6. **Universal Basic Compute (UBC) Framework**
+   - Critical for understanding the foundation of the economic model.
+
+7. **AI Economic Impact Research**
+   - Essential for evaluating the implications of UBC on the economy.
+
+8. **Human-AI Relationship Dynamics**
+   - Important for narrative development and character interactions.
+
+9. **Societal Implications of AI Autonomy**
+   - Relevant for ethical considerations and societal impact.
+
+10. **Character Development in AI Narratives**
+    - Vital for engaging storytelling.
 
 1. **Universal Basic Compute (UBC) Framework**
    - Critical for understanding the foundation of the economic model.
