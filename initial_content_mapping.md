@@ -22,7 +22,7 @@
      - `./characters/human_characters/dr_evelyn_carter/profile.md`
      - `./characters/human_characters/isabella_torres/profile.md`
      - `./characters/ai_protagonists/cipher/profile.md`
-   - **Focus:** Understand character motivations and how they relate to AI's economic impact.
+   - **Focus:** Understand character motivations, relationships, and how they relate to AI's economic impact, highlighting emotional arcs and ethical dilemmas.
 
 3. **Narrative Structure**
    - **Key Files:**
