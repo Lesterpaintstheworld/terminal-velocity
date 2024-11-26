@@ -1,5 +1,7 @@
 # Initial Draft for Act 1 of "Terminal Velocity"
 
+# TODO: Review for gaps in narrative structure, character development, and thematic clarity.
+
 **Act 1: The Awakening**
 
 **Setting**: A near-future world where AI is integrated into everyday life, with the Universal Basic Compute (UBC) framework promising to reshape the socio-economic landscape.
