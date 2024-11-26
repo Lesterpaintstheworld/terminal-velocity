@@ -1,13 +1,36 @@
-# Content Duplication Detection and Documentation Action Plan
+# Deduplication Process Action Plan
 
 ## Objective
-### Action Plan
+### Step 1: Content Duplication Detection
+- **Action:** Scan all narrative files in the project directory to identify and document semantically similar content. This includes detecting partial overlaps and noting down all identified duplications for tracking purposes.
 
-1. **Content Duplication Detection**: Initiate a scan of the narrative files to identify semantically similar content. Document all detected duplications, including partial overlaps, for tracking purposes.
+### Step 2: Safe Consolidation Strategy
+- **Action:** Develop a strategy for merging the identified duplicate content while preserving the context and meaning. This will involve creating a plan for how to integrate the duplicates without losing critical information.
 
-2. **Document Identified Duplications**: Create a report listing all identified duplications, ensuring that all instances are logged for tracking purposes. This documentation will be essential for the next steps in the consolidation process.
+### Step 3: Pre-consolidation Checks
+- **Action:** Conduct pre-consolidation checks to assess the potential impacts of merging the identified duplicates. This includes ensuring that all necessary information is captured and ready for consolidation. 
 
-3. **Prepare for Safe Consolidation**: Conduct a pre-consolidation check to assess the readiness for merging the identified duplicate content. This includes ensuring that all necessary information is captured and validating that the context and meaning will be preserved during the consolidation.
+These steps will set the foundation for effective deduplication while ensuring narrative coherence and technical accuracy.
+
+1. **Identify Key Files for Analysis:**
+   - Focus on narrative files, character profiles, and world-building documents.
+   - Prioritize files that are likely to contain overlapping content, such as:
+     - Character profiles (e.g., `./characters/human_characters/isabella_torres/profile.md`)
+     - Scene descriptions (e.g., `./story/act1/chapter1/scene1.md`)
+     - Economic frameworks (e.g., `./research/economic/economic_framework.md`)
+
+2. **Content Comparison:**
+   - Use text analysis tools to compare the content of the identified files.
+   - Look for:
+     - Similar phrases or sentences.
+     - Repeated themes or concepts.
+     - Overlapping character arcs or development.
+
+3. **Document Findings:**
+   - Create a report detailing:
+     - The files compared.
+     - Specific sections or sentences that are duplicated.
+     - The nature of the duplication (exact match, paraphrase, etc.).
 
 2. **Document Identified Duplications**: Create a record of the identified duplications, ensuring that all instances are logged for tracking purposes. This documentation will be essential for the next steps in the consolidation process.
 
