@@ -1,5 +1,33 @@
 # Duplicate Analysis Report
 
+## Action Plan for Content Duplication Detection
+
+1. **Content Duplication Detection:**
+   - Begin scanning the narrative files for semantically similar content. Focus on files that are likely to contain overlapping themes, characters, or plot points. Key areas to check include:
+     - Character profiles (e.g., `./characters/ai_protagonists/cipher/profile.md`)
+     - Scene descriptions (e.g., `./story/act1/chapter1/scene1.md`)
+     - Interaction scripts (e.g., `./characters/interaction_scripts/combined_interactions.md`)
+
+2. **Document Duplicates:**
+   - Create a record of identified duplications, noting:
+     - File paths of the duplicates
+     - Nature of the overlaps (e.g., similar character arcs, repeated scenes)
+     - Context in which the duplicates occur
+
+3. **Prepare for Consolidation:**
+   - Conduct pre-consolidation checks to ensure that all necessary information is captured. This includes:
+     - Verifying that all relevant details from duplicates are documented
+     - Ensuring that merging will not result in loss of critical narrative elements
+
+### Next Steps
+- Start with a specific focus on character profiles and interaction scripts, as these are often the most prone to duplication.
+- Utilize tools or scripts to assist in identifying semantically similar text across the files.
+- Maintain a structured log of findings to facilitate the consolidation process later on. 
+
+### Monitoring and Reporting
+- Regularly update the `./duplicate_analysis_report.md` with findings and progress.
+- Ensure that all actions taken are documented for transparency and future reference. 
+
 ## Duplicate Analysis Report
 
 ### Proposed Actions for Deduplication Process
