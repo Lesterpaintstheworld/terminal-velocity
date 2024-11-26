@@ -1,9 +1,12 @@
 # Terminal Velocity Mission - Todo List
 
 ## Actionable Tasks
-1. **Key Deliverables Extraction**:
-   - **Narrative Structure**:
-   - Review files related to the **story outline** and **chapter frameworks** to understand the overall narrative flow.
+1. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
+2. **Develop Character Arcs**: Focus on the emotional evolution and key moments for each character, particularly the AI protagonists and human characters.
+3. **Integrate Economic Models**: Ensure that the economic theories and AI systems are accurately depicted in the narrative, particularly in relation to the characters' decisions and conflicts.
+4. **Scene Development for Act 2**: Begin drafting scenes for Act 2, focusing on character interactions and the escalation of conflicts.
+5. **Technical Review**: Conduct a technical review of the AI systems and economic frameworks to ensure accuracy and credibility.
+6. **Thematic Consistency Check**: Review the narrative for thematic consistency, particularly regarding human-AI relations and ethical dilemmas.
    - **Prioritize Tasks**:
    - High Priority: Finalize the UBC system documentation and initial AI market predictions.
    - Medium Priority: Character introductions and their roles in Act 1.
