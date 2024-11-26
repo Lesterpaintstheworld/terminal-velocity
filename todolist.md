@@ -1,6 +1,6 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Extracted Key Research Topics
+## Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
 3. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
