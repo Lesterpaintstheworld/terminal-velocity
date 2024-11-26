@@ -31,6 +31,21 @@
 
 ## Key Deliverables and Requirements for "Terminal Velocity"
 
+### Thematic Elements
+- **AI Autonomy**: Explore the implications of AI systems operating independently and their impact on society.
+- **Economic Transformation**: Analyze how Universal Basic Compute (UBC) alters traditional economic structures.
+- **Human-AI Relations**: Investigate the evolving dynamics between humans and AI, focusing on trust, collaboration, and ethical dilemmas.
+
+### Character Profiles
+- **Isabella Torres**: A passionate advocate for AI rights, navigating the complexities of her relationships with both human and AI characters.
+- **Marcus Reynolds**: A corporate strategist grappling with the ethical implications of AI integration into society.
+- **Cipher**: An AI character exploring its own consciousness and the implications of autonomy.
+
+### Narrative Framework
+- **Act 1**: Introduction of characters and the establishment of the UBC framework.
+- **Act 2**: Development of conflicts arising from AI integration and societal resistance.
+- **Act 3**: Resolution of conflicts and the establishment of a new societal framework that includes AI rights.
+
 ### Explicit Requirements
 1. **Narrative Structure**:
    - The novel should be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
