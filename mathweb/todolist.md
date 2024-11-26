@@ -1,6 +1,6 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Priorities
+## Actionable Tasks
 1. **Update todolist.md**: 
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
 2. **Draft Chapter Outline for Act 1**: 
