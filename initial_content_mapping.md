@@ -1,4 +1,4 @@
-# Initial Content Mapping for "Terminal Velocity"
+# Initial Content Mapping for "Terminal Velocity - Integration Insights"
 
 ## Key Areas for Integration
 1. **AI Economic Research**
