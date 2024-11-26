@@ -8,14 +8,14 @@
      - `./research/economic/economic_models.md`
      - `./research/economic/economic_principles.md`
      - `./research/economic/02_002_implications_for_societal_structures.md`
-   - **Focus:** Extract insights on the economic implications of UBC and AI integration.
+   - **Focus:** Extract insights on the economic implications of UBC and AI integration, emphasizing the potential for equitable resource distribution and societal transformation.
 
 2. **World Building**
    - **Key Files:**
      - `./world_building/AI_Lifestyle_and_Society_Integration.md`
      - `./world_building/economic/framework/economic_systems.md`
      - `./world_building/systems/governance/ai_rights_framework.md`
-   - **Focus:** Explore how AI integrates into societal structures and the implications for governance and rights.
+   - **Focus:** Explore how AI integrates into societal structures, emphasizing cultural dynamics and the implications for governance and rights.
 
 2. **Character Development**
    - **Files:**
@@ -56,7 +56,7 @@
    - **Key Files:**
      - `./integration_opportunities.md`
      - `./integration_strategy.md`
-   - **Focus:** Identify potential synergies between different narrative and technical elements.
+   - **Focus:** Identify potential synergies between different narrative and technical elements, ensuring a cohesive narrative flow and thematic depth.
 
 ## Relevant Files for Mapping
 - **AI and UBC Frameworks**:
