@@ -16,11 +16,11 @@
 - Define the integration of AI systems and economic theories.
 - Clarify the implications of Universal Basic Compute (UBC) on the storyline.
 
-### Document Ambiguities
-- Note any unclear areas or aspects that require further clarification, such as:
-  - Specific character motivations or backstories.
-  - Technical details regarding AI systems and their societal impact.
-  - The relationship dynamics between characters.
+### Knowledge Gaps
+- Identify areas requiring further research, such as:
+  - Detailed implications of UBC on labor markets.
+  - Ethical frameworks surrounding AI rights and integration.
+  - Societal impacts of AI systems on economic structures.
 
 ### Organized Requirements
 - Structure the extracted requirements into categories:
