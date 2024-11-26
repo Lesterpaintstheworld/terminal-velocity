@@ -378,6 +378,27 @@ This report serves as a foundation for the next steps in the deduplication proce
 ## Initial Redundancy Scan Findings
 
 ### Identified Duplications
+1. **Character Profiles**:
+   - **Isabella Torres**:
+     - Duplicate sections in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`.
+   - **Marcus Reynolds**:
+     - Similar content in `./characters/human_characters/marcus_reynolds/profile.md` and `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`.
+
+2. **Scene Descriptions**:
+   - **Act 1, Chapter 1**:
+     - Similar dialogue in `./story/act1/chapter1/scene1.md` and `./final_text/act1/chapter1/scene1.md`.
+   - **Act 2, Chapter 1**:
+     - Similar content in `./story/act2/chapter1/scene1.md` and `./final_text/act2/chapter1/scene1.md`.
+
+3. **World Building**:
+   - **Economic Frameworks**:
+     - Overlapping content in `./world_building/economic/framework/economic_systems.md` and `./research/economic/economic_framework.md`.
+
+### Next Steps
+- Implement changes based on redundancy findings.
+- Continue monitoring for further redundancies in future drafts.
+
+### Identified Duplications
 1. **Character Profiles:**
    - **Cipher Character Profile:**
      - `./characters/ai_protagonists/cipher/profile.md`
