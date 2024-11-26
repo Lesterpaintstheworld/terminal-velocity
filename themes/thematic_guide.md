@@ -2,7 +2,7 @@
 
 ## Core Themes
 - **AI Autonomy**: 
-  - Exploration of ethical dilemmas and societal impacts: [Details from ./themes/ai_autonomy.md]
+  - Exploration of ethical dilemmas and societal impacts: [Details from ./themes/ai_autonomy.md], focusing on the balance between innovation and ethical considerations in AI development.
 - **Economic Transformation**: 
   - The role of AI in reshaping economic structures and labor markets.
 - **Human-AI Relations**: 

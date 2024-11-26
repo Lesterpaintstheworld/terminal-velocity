@@ -18,7 +18,7 @@
 
 ## Human Characters
 - **Isabella Torres**: 
-  - Development Arc: Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader.
+  - Development Arc: Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships.
 - **Marcus Reynolds**: 
   - Development Arc: Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
