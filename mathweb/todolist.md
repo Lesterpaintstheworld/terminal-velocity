@@ -1,6 +1,45 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Actionable Tasks
+## Key Research Topics
+1. **World Building**
+   - Development of societal structures in the context of UBC.
+   - Exploration of cultural landscapes and integration of AI in daily life.
+
+2. **Character Development**
+   - Profiles and arcs for AI and human characters.
+   - Ethical dilemmas and emotional stakes in character interactions.
+
+3. **Story Structure**
+   - Outlining acts and chapters.
+   - Key scenes and emotional beats throughout the narrative.
+
+4. **Economic Framework**
+   - Analysis of economic implications of UBC.
+   - Exploration of new economic models and their societal impacts.
+
+5. **Research Areas**
+   - AI rights movement and its historical context.
+   - Technological advancements and their implications for society.
+
+6. **Technical Specifications**
+   - Detailed documentation of AI systems and their capabilities.
+   - Governance frameworks for AI integration.
+
+### Immediate Knowledge Gaps Identified
+1. **Integration of AI in Societal Structures**
+   - Need for deeper insights into how UBC will reshape existing societal frameworks.
+
+2. **Character Interactions**
+   - More detailed exploration of emotional dynamics between characters, particularly in ethical dilemmas.
+
+3. **Economic Models**
+   - Further research needed on the practical implementation of new economic models influenced by UBC.
+
+4. **AI Rights Movement**
+   - Comprehensive understanding of the milestones and challenges faced by the AI rights movement.
+
+5. **Technical Documentation**
+   - Clarification needed on the operational capabilities of AI systems within the UBC framework.
 1. **Update todolist.md**: 
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
 2. **Refine Act 1 Chapter Outline**: 
