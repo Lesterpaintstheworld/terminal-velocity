@@ -1,26 +1,29 @@
 # Duplicate Analysis Report
 
-## Initial Redundancy Scan Findings
+## Duplicate Analysis Report
 
-### Character Profiles
-- **Isabella Torres**:
-  - Found in:
-    - `./characters/human_characters/isabella_torres/profile.md`
-    - `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`
-- **Marcus Reynolds**:
-  - Found in:
-    - `./characters/human_characters/marcus_reynolds/profile.md`
-    - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+### Initial Redundancy Scan Findings
 
-### Scene Descriptions
-- **Act 1, Chapter 1**:
-  - Found in:
-    - `./story/act1/chapter1/scene1.md`
-    - `./story/act1/chapter1/scene2.md`
-- **Act 2, Chapter 1**:
-  - Found in:
-    - `./story/act2/chapter1/scene1.md`
-    - `./story/act2/chapter1/scene2.md`
+### Identified Duplications
+
+1. **Character Profiles:**
+   - **Cipher Character Profile:**
+     - `./characters/ai_protagonists/cipher/profile.md`
+     - `./characters/cipher_character_profile.md`
+   - **Isabella Torres Character Profile:**
+     - `./characters/human_characters/isabella_torres/profile.md`
+     - `./characters/isabella_torres/profile.md`
+   - **Marcus Reynolds Character Profile:**
+     - `./characters/human_characters/marcus_reynolds/profile.md`
+     - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+
+2. **Scene Drafts:**
+   - **Act 1 Scenes:**
+     - `./final_text/act1/act1_scenes.md`
+     - `./story/act1/act1_scenes.md`
+   - **Act 2 Scenes:**
+     - `./final_text/act2/act2_scenes.md`
+     - `./story/act2/act2_scenes.md`
 
 ### World Building
 - **Economic Frameworks**:
