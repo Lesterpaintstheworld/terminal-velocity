@@ -4,8 +4,19 @@
 1. **Review Existing Tasks**
    - Assess tasks related to Act 1 completion.
    - Identify any tasks that require adjustment or reprioritization.
+   - Outline the structure for Act 1, focusing on key plot points, character arcs, and thematic elements.
+   - Draft the initial scenes for Act 1, ensuring engagement and coherence.
+   - Review and refine the draft of Act 1 for technical accuracy and narrative flow.
+   - Assess tasks related to Act 1 completion.
+   - Identify any tasks that require adjustment or reprioritization.
 
 2. **New Tasks for Act 1 Completion**
+   - Establish UBC system elements.
+   - Develop initial AI autonomy components.
+   - Align narrative elements with thematic goals.
+   - Identify and document key themes and character arcs within the narrative based on the extracted tasks.
+   - Draft the initial scenes for Act 1, focusing on character introductions and the rising tension.
+   - Review the draft of Act 1 for coherence, engagement, and technical accuracy.
    - Establish UBC system elements.
    - Develop initial AI autonomy components.
    - Align narrative elements with thematic goals.
