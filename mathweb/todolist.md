@@ -11,6 +11,11 @@
 8. **World-Building Systems** - Low urgency
 9. **Economic Models and Frameworks** - Low urgency
 10. **Technical Specifications of AI Systems** - Low urgency
+11. **Integration of AI in Societal Structures** - High urgency
+12. **Character Interactions** - Medium urgency
+13. **Economic Models** - Medium urgency
+14. **AI Rights Movement** - Medium urgency
+15. **Technical Documentation** - High urgency
 
 ### Immediate Knowledge Gaps Identified
 - Review identified duplications in `duplicate_analysis_report.md` and plan for consolidation.
