@@ -1,6 +1,10 @@
 # Technical Accuracy Check
 
 ## AI Systems and Economic Frameworks
+
+### Findings Documentation
+- Document any inconsistencies or unsupported claims for further review.
+- Include details on the accuracy of AI capabilities and economic models.
 - Review the capabilities of AI systems as described in the drafts.
 - Ensure that the portrayal of AI consciousness aligns with current understanding.
 - Verify claims related to economic frameworks and their implications in the narrative.
