@@ -5,16 +5,22 @@
   - Integrate emotional arcs from character profiles into the narrative to enhance depth and relatability.
   - Use interaction scripts to highlight ethical dilemmas faced by characters, particularly in pivotal scenes.
   - Ensure character motivations and developments are reflected in the narrative.
+  - Develop character backstories that inform their decisions and relationships throughout the narrative.
+  - Create moments of vulnerability for characters to foster reader empathy and connection.
 
 - **World Building**: 
   - Weave cultural and economic frameworks into character motivations and actions to create a cohesive narrative.
   - Ensure that world-building elements reflect the societal implications of AI and UBC.
   - Analyze economic frameworks and societal implications to enhance narrative coherence.
+  - Incorporate sensory details to immerse readers in the world and its complexities.
+  - Highlight the contrasts between different societal responses to AI integration.
 
 - **Research Integration**: 
   - Cross-reference findings from research documents with narrative elements to maintain technical accuracy.
   - Incorporate economic theories into character dialogues and plot developments to enhance realism.
   - Validate the accuracy and relevance of sociological research within the narrative context.
+  - Ensure that all technical details align with the latest research to avoid inconsistencies.
+  - Document sources of inspiration and research findings for transparency and future reference.
 
 ## Key Themes
 - **AI Autonomy**: Explore the implications of AI autonomy on societal structures and individual lives.
