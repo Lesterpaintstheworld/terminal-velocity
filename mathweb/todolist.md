@@ -1,22 +1,25 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Key Research Topics
-1. **Universal Basic Compute (UBC) Framework** - High urgency
-2. **AI Economic Impact Analysis** - High urgency
-3. **Societal Implications of UBC** - High urgency
-4. **Human-AI Relationship Dynamics** - Medium urgency
-5. **Ethical Implications of AI Autonomy** - Medium urgency
-6. **AI Rights Movement** - Medium urgency
-7. **Character Development and Arcs** - Low urgency
-8. **World-Building Systems** - Low urgency
-9. **Economic Models and Frameworks** - Low urgency
-10. **Technical Specifications of AI Systems** - Low urgency
-11. **Integration of AI in Societal Structures** - High urgency
-12. **Character Interactions** - Medium urgency
-13. **Economic Models** - Medium urgency
-14. **AI Rights Movement** - Medium urgency
-15. **Technical Documentation** - High urgency
-16. **Integration Opportunities** - High urgency
+## Current Priorities
+1. **Review Existing Tasks**
+   - Assess tasks related to Act 1 completion.
+   - Identify any tasks that require adjustment or reprioritization.
+
+2. **New Tasks for Act 1 Completion**
+   - Establish UBC system elements.
+   - Develop initial AI autonomy components.
+   - Align narrative elements with thematic goals.
+
+3. **Organize Tasks by Project Phases**
+   - **Emergence Phase**
+     - Finalize initial UBC framework.
+     - Complete character introductions and motivations.
+   - **Acceleration Phase**
+     - Develop conflict scenarios involving AI and human characters.
+     - Integrate feedback from initial drafts into character arcs.
+   - **Convergence Phase**
+     - Prepare resolutions for character arcs and thematic conclusions.
+     - Finalize technical accuracy checks for economic models.
 
 ### Immediate Knowledge Gaps Identified
 - Review identified duplications in `duplicate_analysis_report.md` and plan for consolidation.
