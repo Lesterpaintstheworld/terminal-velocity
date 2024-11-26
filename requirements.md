@@ -1,5 +1,32 @@
 # Requirements for "Terminal Velocity" Development
 
+## Explicit Requirements
+- **Narrative Structure**: 
+  - The novel should be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
+  - Each chapter must contribute to character development and thematic exploration.
+
+- **Character Development**: 
+  - Characters should have well-defined arcs, including motivations, relationships, and ethical dilemmas.
+  - AI and human characters must be developed with depth, showcasing their interactions and conflicts.
+
+- **Thematic Elements**: 
+  - The narrative should explore themes such as AI autonomy, economic transformation, and human-AI relations.
+  - Philosophical concepts related to AI rights and societal implications should be integrated into the storyline.
+
+- **Technical Accuracy**: 
+  - The depiction of AI systems and economic theories must be credible and well-researched.
+  - The concept of Universal Basic Compute (UBC) should be accurately represented, including its implications for society and economics.
+
+- **Engagement and Audience Connection**: 
+  - The narrative should engage readers through relatable characters and compelling scenarios.
+  - Emotional beats and key moments should be strategically placed to enhance reader investment.
+
+## Implicit Requirements
+- The narrative should reflect the complexities of AI integration into society.
+- Character interactions must highlight the ethical dilemmas faced by both humans and AI.
+- The world-building should provide a realistic backdrop for the technological advancements depicted.
+- The pacing of the narrative should maintain reader engagement through strategic emotional beats.
+
 ## Key Deliverables and Requirements for "Terminal Velocity"
 - **Documentation and Research**: 
   - UBC Deployment Documentation
