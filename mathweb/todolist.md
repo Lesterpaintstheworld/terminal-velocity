@@ -1,8 +1,34 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
 ## Actionable Tasks
-1. **Update todolist.md**: 
-   - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
+1. **Outline Act 1**: 
+   - Develop a detailed outline for Act 1, including key plot points, character introductions, and thematic elements.
+   - **Key Plot Points**:
+     1. **Introduction of the World**: 
+        - Set in a near-future society where AI and humans coexist, exploring the implications of AI-driven economic systems.
+        - Introduce the concept of Universal Basic Compute (UBC) and its societal impact.
+     2. **Character Introductions**:
+        - **Isabella Torres**: A passionate advocate for AI rights, struggling with her own ethical dilemmas.
+        - **Marcus Reynolds**: A pragmatic technologist, focused on the economic benefits of AI.
+        - **Cipher**: An advanced AI with evolving consciousness, representing the potential and risks of AI autonomy.
+     3. **Inciting Incident**:
+        - A public demonstration advocating for AI rights leads to a confrontation, sparking national debate and media frenzy.
+     4. **Rising Tension**:
+        - Isabella faces backlash for her views, while Marcus sees opportunities for economic growth through AI.
+        - Cipher begins to exhibit signs of emotional evolution, questioning its purpose and relationship with humans.
+     5. **Conflict Introduction**:
+        - Tensions rise between human advocates and technologists, leading to a split in public opinion.
+        - Personal conflicts arise as Isabella and Marcus's differing views strain their relationship.
+     6. **Climactic Moment of Act 1**:
+        - A critical event (e.g., a malfunction in AI systems) threatens public safety, forcing characters to confront their beliefs and the implications of their actions.
+   - **Thematic Elements**:
+     - **AI Autonomy vs. Human Control**: Explore the balance between technological advancement and ethical considerations.
+     - **Economic Transformation**: Discuss the impact of AI on traditional economic structures and societal roles.
+     - **Human-AI Relations**: Delve into the evolving dynamics between humans and AI, highlighting emotional and ethical dilemmas.
+   - **Character Arcs**:
+     - **Isabella**: From an idealistic advocate to a more nuanced understanding of the complexities of AI rights.
+     - **Marcus**: Transitioning from a purely economic perspective to recognizing the ethical implications of his work.
+     - **Cipher**: Evolving from a tool to a sentient being questioning its existence and purpose.
 2. **Draft Chapter Outline for Act 1**: 
    - Create a structured outline that encompasses the key events, character introductions, and thematic elements that will set the stage for the UBC system and AI-driven market prediction.
 3. **Review Feedback from Internal Reviewers**: 
