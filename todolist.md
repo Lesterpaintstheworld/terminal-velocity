@@ -1,7 +1,9 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 2)
 
 ## Actionable Tasks
-1. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
+1. **Establish UBC System**: Research and document the foundational elements of the UBC system.
+2. **Define AI Autonomy Parameters**: Outline the initial capabilities and limitations of AI within the UBC framework.
+3. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
 2. **Draft Chapter Outlines for Act 2**: Create structured outlines for the chapters in Act 2, focusing on critical mass in UBC adoption and human adaptation dynamics.
 3. **Map Character Arcs for Key Characters**: Outline character journeys for main characters to ensure their development aligns with narrative progression and themes of autonomy vs. control.
 
