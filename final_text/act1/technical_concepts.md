@@ -1,4 +1,4 @@
-# Technical Concepts for Act 1
+# Technical Concepts for Act 1 (Revised)
 
 ## AI Systems
 1. **Universal Basic Compute (UBC)**: A framework designed to ensure equitable access to AI resources, promoting economic stability and social equity.

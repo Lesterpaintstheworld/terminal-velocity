@@ -1,4 +1,4 @@
-# Isabella Torres - Character Profile
+# Isabella Torres - Character Profile (Revised)
 ## Background Information
 - Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate.
 ## Motivations

@@ -1,4 +1,4 @@
-# UBC AI Economic Research
+# UBC AI Economic Research (Updated)
 
 ## Overview
 This document compiles relevant research and insights on the Universal Basic Compute (UBC) system and AI economic processes. It aims to ensure accurate representation in the narrative of "Terminal Velocity."

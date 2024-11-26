@@ -1,4 +1,4 @@
-# Economic Models (Updated)
+# Economic Models (Revised)
 
 ## Overview
 This document integrates the Universal Basic Compute (UBC) into existing economic models, highlighting its impact on resource distribution and equity. It emphasizes the importance of equitable access to resources and the role of technology in shaping economic interactions. The updated frameworks will reflect the evolving dynamics of character interactions and the implications of AI rights on economic structures, ensuring alignment with the narrative's themes of equity and justice.
