@@ -1,4 +1,26 @@
-# Deduplication Process Action Plan
+# Terminal Velocity Mission - Todo List (Updated for Act 1)
+
+## Priorities
+1. **Establish the UBC System**
+   - Finalize the technical specifications for the UBC system.
+   - Document the initial deployment strategies and monitoring protocols.
+
+2. **Initial AI Autonomy**
+   - Draft the foundational interactions between humans and AI.
+   - Outline the ethical considerations and implications of AI autonomy.
+
+3. **Chapter Outline for Act 1**
+   - Draft a detailed chapter outline capturing:
+     - The emergence of the UBC system.
+     - Initial interactions between humans and AI.
+     - Key themes of economic autonomy and human-AI relationships.
+
+4. **Character Arcs Review**
+   - Review existing character arcs to ensure alignment with the themes of economic autonomy and human-AI relationships.
+   - Make necessary adjustments to character motivations and interactions.
+
+5. **Scene Development**
+   - Begin drafting scenes for the first act, focusing on critical moments of interaction and conflict.
 
 ## Objective
 ### Step 1: Content Duplication Detection
