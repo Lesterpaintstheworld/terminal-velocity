@@ -1,9 +1,32 @@
 # Duplicate Analysis Report
 
 ## Initial Redundancy Scan Findings
-- Documented instances of semantic redundancy across narrative files.
-- Contextual evaluation of identified redundancies.
-- Recommendations for consolidation and optimization.
+
+### Character Profiles
+- **Isabella Torres**:
+  - Found in:
+    - `./characters/human_characters/isabella_torres/profile.md`
+    - `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`
+- **Marcus Reynolds**:
+  - Found in:
+    - `./characters/human_characters/marcus_reynolds/profile.md`
+    - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+
+### Scene Descriptions
+- **Act 1, Chapter 1**:
+  - Found in:
+    - `./story/act1/chapter1/scene1.md`
+    - `./story/act1/chapter1/scene2.md`
+- **Act 2, Chapter 1**:
+  - Found in:
+    - `./story/act2/chapter1/scene1.md`
+    - `./story/act2/chapter1/scene2.md`
+
+### World Building
+- **Economic Frameworks**:
+  - Repeated descriptions found in:
+    - `./world_building/economic/framework/economic_systems.md`
+    - `./research/economic/economic_models.md`
 
 ## Next Steps
 - Implement changes based on redundancy findings.
