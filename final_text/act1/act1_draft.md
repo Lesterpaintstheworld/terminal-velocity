@@ -6,7 +6,7 @@
    - **Tone:** Establish a sense of wonder mixed with underlying tension regarding AI's role in society.
 
 2. **Character Introductions**
-   - **Isabella Torres:** A passionate advocate for ethical AI, struggling with the implications of her work.
+   - **Isabella Torres:** A passionate advocate for ethical AI, focusing on the implications of technology on marginalized communities.
    - **Marcus Reynolds:** A tech entrepreneur with a vision for AI that prioritizes profit over ethics.
    - **Cipher:** An advanced AI with evolving consciousness, representing the potential and risks of AI autonomy.
    - **Dr. Evelyn Carter:** A scientist researching AI ethics, caught between her ideals and the corporate world.

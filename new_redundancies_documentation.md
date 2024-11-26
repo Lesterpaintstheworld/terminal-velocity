@@ -19,3 +19,6 @@
 - **File Path**: `./final_text/act1/act1_draft.md`
   - **Redundant Concept**: "The potential impact of UBC on society."
   - **Context**: Mentioned in both the introduction and conclusion of Act 1, which can be merged for clarity.
+- **File Path**: `./characters/human_characters/isabella_torres/profile.md`
+  - **Redundant Phrase**: "passionate advocate for ethical AI usage."
+  - **Context**: This phrase appears multiple times in her profile and in discussions about her advocacy.
