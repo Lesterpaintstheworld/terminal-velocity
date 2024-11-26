@@ -1,17 +1,19 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
-## Explicit Requirements
+## Key Deliverables and Requirements
+
+### Explicit Requirements
 1. **Narrative Structure**:
-   - The novel should be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
+   - The novel must be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
    - Each chapter must contribute to character development and thematic exploration.
 
 2. **Character Development**:
-   - Characters should have well-defined arcs, including motivations, relationships, and ethical dilemmas.
-   - AI and human characters must be developed with depth, showcasing their interactions and conflicts.
+   - Characters must have well-defined arcs, including motivations, relationships, and ethical dilemmas.
+   - Both AI and human characters should be developed with depth, showcasing their interactions and conflicts.
 
 3. **Thematic Elements**:
    - The narrative should explore themes such as AI autonomy, economic transformation, and human-AI relations.
-   - Philosophical concepts related to AI rights and societal implications should be integrated into the storyline.
+   - Philosophical concepts related to AI rights and societal implications must be integrated into the storyline.
 
 4. **Technical Accuracy**:
    - The depiction of AI systems and economic theories must be credible and well-researched.
@@ -19,13 +21,13 @@
 
 5. **Engagement and Audience Connection**:
    - The narrative should engage readers through relatable characters and compelling scenarios.
-   - Emotional beats and key moments should be strategically placed to enhance reader investment.
+   - Emotional beats and key moments must be strategically placed to enhance reader investment.
 
-## Implicit Requirements
-- The narrative should reflect the complexities of AI integration into society.
-- Character interactions must highlight the ethical dilemmas faced by both humans and AI.
-- The world-building should provide a realistic backdrop for the technological advancements depicted.
-- The pacing of the narrative should maintain reader engagement through strategic emotional beats.
+### Implicit Requirements
+1. The narrative must reflect the complexities of AI integration into society.
+2. Character interactions should highlight the ethical dilemmas faced by both humans and AI.
+3. The world-building must provide a realistic backdrop for the technological advancements depicted.
+4. The pacing of the narrative should maintain reader engagement through strategic emotional beats.
 
 ## Implicit Requirements
 1. **Narrative Consistency**
