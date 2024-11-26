@@ -1,6 +1,9 @@
 # Technical Accuracy Check
 
-## AI Systems
+## AI Systems and Economic Frameworks
+- Review the capabilities of AI systems as described in the drafts.
+- Ensure that the portrayal of AI consciousness aligns with current understanding.
+- Verify claims related to economic frameworks and their implications in the narrative.
 - Review the capabilities of AI systems as described in the drafts.
 - Ensure that the portrayal of AI consciousness aligns with current understanding.
 
