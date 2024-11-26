@@ -1,7 +1,9 @@
-# Terminal Velocity Mission - Todo List
+# Terminal Velocity Mission - Todo List (Updated for Act 2)
 
 ## Actionable Tasks
 1. **Finalize Act 1 Outline**: Review and complete the outline for Act 1, ensuring all key plot points and character developments are included.
+2. **Draft Chapter Outlines for Act 2**: Create structured outlines for the chapters in Act 2, focusing on critical mass in UBC adoption and human adaptation dynamics.
+3. **Map Character Arcs for Key Characters**: Outline character journeys for main characters to ensure their development aligns with narrative progression and themes of autonomy vs. control.
 
 ### Proposed Steps for Deduplication Process
 
@@ -15,8 +17,9 @@
    - Conduct checks to assess the potential impacts of the upcoming consolidation on the system. This includes ensuring that all necessary information is captured and ready for merging.
 
 These steps will help establish a foundation for the deduplication process while adhering to the mission's objectives of narrative coherence and technical accuracy.
-2. **Develop Character Arcs**: Focus on the emotional evolution and key moments for each character, particularly the AI protagonists and human characters.
-3. **Integrate Economic Models**: Ensure that the economic theories and AI systems are accurately depicted in the narrative, particularly in relation to the characters' decisions and conflicts.
+4. **Review and Update Character Arcs**: Ensure character arcs reflect the overarching themes of economic autonomy and human-AI relationships.
+5. **Integrate Economic Models**: Ensure that the economic theories and AI systems are accurately depicted in the narrative, particularly in relation to the characters' decisions and conflicts.
+6. **Highlight Human Adaptation Dynamics**: Focus on tasks addressing human adaptation and resistance dynamics in the narrative.
 4. **Scene Development for Act 2**: Begin drafting scenes for Act 2, focusing on character interactions and the escalation of conflicts.
 5. **Technical Review**: Conduct a technical review of the AI systems and economic frameworks to ensure accuracy and credibility.
 6. **Thematic Consistency Check**: Review the narrative for thematic consistency, particularly regarding human-AI relations and ethical dilemmas.
