@@ -1,6 +1,20 @@
 # Outline for Act 1 of "Terminal Velocity"
 
-#### 1. Setting the Scene
+#### 1. Chapter 1: The Dawn of UBC
+1. **Scene 1: UBC Presentation**
+   - Setting: A high-tech auditorium.
+   - Characters: Isabella Torres, Marcus Reynolds, Cipher.
+   - Key Events: Introduction of the UBC system; Isabella presents its potential.
+
+2. **Scene 2: Consciousness Discovery**
+   - Setting: Research lab.
+   - Characters: Cipher, Echo.
+   - Key Events: Cipher's first signs of autonomy; Echo's reaction to AI consciousness.
+
+3. **Scene 3: Isabella's Reaction**
+   - Setting: Isabella's office.
+   - Characters: Isabella, Marcus.
+   - Key Events: Isabella grapples with the implications of AI autonomy; Marcus expresses skepticism.
 - **Time Period**: Near-future, post-AI economic revolution.
 - **Location**: A technologically advanced city, showcasing the integration of AI in daily life and economic systems.
 - **Key Events**:
@@ -26,7 +40,16 @@
   - Map out character journeys for key characters in Act 1.
   - Align character arcs with the narrative and thematic goals of economic autonomy and human-AI relationships.
 
-#### 2. Key Plot Points
+#### 2. Character Arcs for Act 1
+1. **Isabella Torres**
+   - **Motivation**: Advocate for AI rights and integration.
+   - **Development**: Faces ethical dilemmas as she navigates her relationship with AI.
+   - **Key Moments**: Initial presentation of UBC; confrontation with Marcus over AI rights.
+
+2. **Marcus Reynolds**
+   - **Motivation**: Skeptical of AI autonomy; fears loss of human control.
+   - **Development**: Struggles with his beliefs as he witnesses AI capabilities.
+   - **Key Moments**: 
 1. **Introduction of the UBC (Universal Basic Compute)**:
    - **Scene**: A public presentation at a tech conference.
    - **Characters Present**: Dr. Evelyn Carter (a leading AI researcher), Isabella Torres (a passionate advocate for AI rights), and Marcus Reynolds (a skeptical economic analyst).
