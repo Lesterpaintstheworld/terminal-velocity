@@ -1,5 +1,8 @@
 # Isabella Torres - Character Profile
 ## Background Information
-- Isabella Torres is a passionate advocate for ethical AI usage, focusing on the implications of technology on marginalized communities. Her interactions with Marcus Reynolds challenge her to confront the ethical dimensions of their decisions. Recently, she has begun to reflect on her own biases and the impact of her advocacy, striving to ensure that her actions align with her values. Her journey is marked by a determination to balance innovation with social equity, particularly in the context of Universal Basic Compute (UBC).
+- Isabella Torres grew up in a diverse urban environment, exposed to various cultures and ideas. Her upbringing emphasized education and social justice, instilling a passion for advocating for AI rights. Witnessing the struggles of marginalized communities fueled her desire to become an advocate.
 ## Motivations
-- Isabella is driven by a desire to create a just society where AI rights are recognized and protected. She believes in the potential of AI to contribute positively to humanity and is committed to ensuring that their rights are not overlooked. Her interactions with Marcus compel her to confront her beliefs and consider the consequences of her choices.
+- Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. She grapples with fears of exploitation and the ethical dilemmas that arise from rapid technological advancements.
+- **Ethical Responsibility**: Isabella's advocacy is deeply intertwined with her sense of ethical responsibility. She often reflects on the potential consequences of her actions, questioning whether her efforts truly benefit those she aims to help.
+- **Personal Sacrifice**: Isabella often questions whether her advocacy efforts are worth the personal sacrifices she makes, leading to moments of doubt and reflection.
+- **[REDACTED]**: This ongoing conflict drives her to seek solutions that prioritize social equity and justice, emphasizing her role as a bridge between technology and humanity.
