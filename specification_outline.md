@@ -1,6 +1,6 @@
 # Specification Outline for Terminal Velocity - Novel Mission
 
-## Organized Specifications
+## Specification Outline for Terminal Velocity - Novel Mission
 
 ### Narrative Elements
 - Clearly defined acts and chapters with specific scenes that contribute to character development and thematic exploration.

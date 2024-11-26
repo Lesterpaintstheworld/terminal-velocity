@@ -16,6 +16,8 @@
 1. **./aider.mission.md** - Key mission details and requirements.
 2. **./actionable_tasks.md** - Ongoing tasks and updates.
 3. **./key_deliverables.md** - Summary of deliverables and milestones.
+4. **./extracted_requirements.md** - Documented requirements for the mission.
+5. **./specification_outline.md** - Organized specifications for clarity and usability.
 
 ## Next Steps
 - Set up a monitoring mechanism to track changes in the identified files.

@@ -1,6 +1,6 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
-## Extracted Requirements
+## Extracted Requirements for Terminal Velocity - Novel Mission
 
 ### Key Deliverables and Requirements
 1. **Narrative Structure**: The novel must be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.
@@ -8,6 +8,7 @@
 3. **Thematic Elements**: The narrative should explore themes such as AI autonomy, economic transformation, and human-AI relations.
 4. **Technical Accuracy**: The depiction of AI systems and economic theories must be credible and well-researched.
 5. **Engagement and Audience Connection**: The narrative should engage readers through relatable characters and compelling scenarios.
+6. **Actionable Requirements**: All extracted elements must be actionable and validated against the mission's success criteria.
 
 ### Implicit Requirements
 1. **Narrative Consistency**
