@@ -9,6 +9,13 @@ To effectively document the deployment of the UBC system, the following files wi
 - `./world_building/economic/framework/*.md`
 - `./story/act1/*.md`
 - `./change_logs.md`
+- `./2025_UBC_Deployment_Documentation.md`
+- `./chronicles/ubc_initial_deployment.md`
+- `./characters/human_characters/*.md`
+- `./characters/ai_protagonists/*.md`
+- `./world_building/economic/framework/*.md`
+- `./story/act1/*.md`
+- `./change_logs.md`
 - `./characters/human_characters/*.md`
 - `./characters/ai_protagonists/*.md`
 - `./world_building/economic/framework/*.md`
