@@ -4,6 +4,10 @@
 1. **Key Deliverables Extraction**:
    - **Narrative Structure**:
    - Review files related to the **story outline** and **chapter frameworks** to understand the overall narrative flow.
+   - **Prioritize Tasks**:
+   - High Priority: Finalize the UBC system documentation and initial AI market predictions.
+   - Medium Priority: Character introductions and their roles in Act 1.
+   - Low Priority: General world-building tasks that can be addressed later.
    - **Feedback Integration**:
    - Incorporate feedback from the creative team and technical consultants into the narrative.
    - **Transition Documentation**:
