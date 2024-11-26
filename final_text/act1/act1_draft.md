@@ -1,4 +1,5 @@
 # Initial Draft for Act 1 of "Terminal Velocity"
+# TODO: Review for gaps in narrative structure, character development, and thematic clarity.
 
 # Act 1 Draft Outline
 1. **Opening Scene: Introduction to the World**

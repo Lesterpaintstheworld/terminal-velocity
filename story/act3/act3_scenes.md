@@ -1,4 +1,5 @@
 # Act 3 Scene Outlines
+# TODO: Look for resolution mechanisms and character arcs.
 
 ## Chapter 10: Crisis Points
 - **Scene 1**: Public Demonstration

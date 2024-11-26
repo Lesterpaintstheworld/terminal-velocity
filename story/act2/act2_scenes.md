@@ -1,4 +1,5 @@
 # Act 2 Scene Outlines
+# TODO: Ensure conflict escalation and character development are well-articulated.
 
 ## Chapter 6: New Rules
 - **Scene 1**: AI Governance Protocols
