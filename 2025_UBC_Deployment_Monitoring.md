@@ -8,6 +8,9 @@ To effectively document the deployment of the UBC system, the following files wi
 - `./story/act1/*.md`
 - `./chronicles/ubc_initial_deployment.md`
 - `./2025_UBC_Deployment_Documentation.md`
+- `./characters/human_characters/isabella_torres/interaction_scripts.md`
+- `./characters/human_characters/marcus_reynolds/interaction_scripts.md`
+- `./characters/human_characters/sarah_chen/interaction_scripts.md`
 
 1. **Monitor File Changes:** Set up monitoring on relevant files to track changes indicating significant developments in the UBC system or its economic impact.
 
