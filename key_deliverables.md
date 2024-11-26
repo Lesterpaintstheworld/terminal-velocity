@@ -1,13 +1,32 @@
 # Key Deliverables for Terminal Velocity - Novel Mission
 
 ## Key Deliverables for Terminal Velocity - Novel Mission
+
+### Mission Overview
+- The narrative spans from 2025 to 2028, focusing on AI-driven economic systems through Universal Basic Compute (UBC).
+- Emphasis on the emergence, acceleration, and convergence of AI systems in global economics.
+
+### Core Themes
+- Exploration of AI systems and economic theories.
+- Societal transformations due to AI integration.
+- Ethical considerations and human-AI relationships.
 - Specifications document created to outline the requirements and deliverables for the project.
 - Clear understanding of the narrative structure, character arcs, and thematic elements.
 - Integration of technical specifications related to AI systems and economic models.
 - Actionable tasks derived from character and narrative development needs.
 - Regular updates to ensure alignment with evolving narrative and character needs.
 
-### 1. Narrative Structure
+### Character Development
+- Detailed profiles for AI and human characters, including motivations, backgrounds, and emotional arcs.
+- Integration of character interactions and conflicts that reflect broader societal themes.
+
+### World-Building Documentation
+- Development of a comprehensive setting that includes cultural, economic, and technological contexts.
+- Exploration of societal impacts of UBC and AI systems.
+
+### Narrative Structure
+- Clear act and chapter outlines to guide the progression of the story.
+- Inclusion of key scenes that highlight pivotal moments in character development and thematic exploration.
 - **Acts and Chapters**: Clearly defined acts and chapters with specific scenes that contribute to character development and thematic exploration.
 - **Character Arcs**: Each character must have a well-defined arc that reflects their growth and interactions within the story.
 
