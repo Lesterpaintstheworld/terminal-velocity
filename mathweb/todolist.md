@@ -1,6 +1,6 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Key Research Topics
+## Extracted Key Research Topics
 1. **World Building**
    - Development of societal structures in the context of UBC.
    - Exploration of cultural landscapes and integration of AI in daily life.
