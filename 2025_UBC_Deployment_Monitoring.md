@@ -2,6 +2,12 @@
 
 ### Monitoring Setup
 To effectively document the deployment of the UBC system, the following files will be monitored for significant changes:
+- `./2025_UBC_Deployment_Documentation.md`
+- `./chronicles/ubc_initial_deployment.md`
+- `./characters/human_characters/*.md`
+- `./characters/ai_protagonists/*.md`
+- `./world_building/economic/framework/*.md`
+- `./story/act1/*.md`
 - `./characters/human_characters/*.md`
 - `./characters/ai_protagonists/*.md`
 - `./world_building/economic/framework/*.md`
