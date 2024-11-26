@@ -1,4 +1,4 @@
-# Integration Opportunities
+## Integration Strategies
 
 ## Integration Strategies
 - **Character Development**: 
