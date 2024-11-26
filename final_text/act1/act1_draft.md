@@ -1,6 +1,49 @@
 # Initial Draft for Act 1 of "Terminal Velocity"
 
 # Act 1 Draft Outline
+1. **Opening Scene: Introduction to the World**
+   - **Setting:** A near-future city where AI and humans coexist, showcasing the integration of technology in daily life.
+   - **Tone:** Establish a sense of wonder mixed with underlying tension regarding AI's role in society.
+
+2. **Character Introductions**
+   - **Isabella Torres:** A passionate advocate for ethical AI, struggling with the implications of her work.
+   - **Marcus Reynolds:** A tech entrepreneur with a vision for AI that prioritizes profit over ethics.
+   - **Cipher:** An advanced AI with evolving consciousness, representing the potential and risks of AI autonomy.
+   - **Dr. Evelyn Carter:** A scientist researching AI ethics, caught between her ideals and the corporate world.
+
+3. **Inciting Incident**
+   - A public demonstration of a new AI system goes awry, causing a major incident that raises ethical questions and sets the stage for conflict.
+
+4. **Rising Tension**
+   - **Character Dynamics:** Explore interactions between Isabella and Marcus, highlighting their differing views on AI.
+   - **Conflict Introduction:** The incident leads to public outcry and governmental scrutiny, forcing characters to choose sides.
+
+5. **Climactic Moment of Act One**
+   - A pivotal meeting where characters confront the implications of the incident, setting up personal stakes and broader societal issues.
+
+6. **Closing Scene of Act One**
+   - A cliffhanger that leaves readers questioning the future of AI and human relations, leading into Act Two.
+
+### Scene 1: The Presentation
+
+*Setting: UBC Introduction Auditorium, a sleek, high-tech venue filled with industry leaders and curious students. The atmosphere is charged with anticipation.*
+
+Dr. Evelyn Carter stands at the podium, her voice steady as she presents the groundbreaking Universal Basic Compute (UBC) framework. The audience listens intently, captivated by the promise of an AI-driven economic revolution. 
+
+**Characters Introduced**:
+- **Isabella Torres**: A passionate advocate for ethical AI, focusing on the implications of technology on marginalized communities.
+- **Cipher**: An advanced AI designed for strategic thinking and problem-solving, grappling with its own identity and purpose.
+- **Dr. Evelyn Carter**: A scientist advocating for ethical AI development.
+- **Marcus Reynolds**: A pragmatic economist who sees AI as a tool for efficiency but grapples with its ethical ramifications.
+
+**Dialogue:**
+- **Evelyn:** "Imagine a world where AI not only enhances our productivity but also ensures equitable distribution of resources. The UBC framework is designed to make this vision a reality."
+
+*Isabella's internal thoughts reflect her excitement and the weight of the moment, emphasizing her passion for AI rights and the potential impact of UBC on society.*
+
+# TODO: Review for gaps in narrative structure, character development, and thematic clarity.
+
+# Act 1 Draft Outline
 1. **Setting the Scene**
    - **Location**: Describe a near-future cityscape where AI technologies are integrated into daily life.
    - **Atmosphere**: Convey a sense of optimism mixed with underlying tension regarding AI's impact on society.
