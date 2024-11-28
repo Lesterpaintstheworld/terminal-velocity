@@ -1,6 +1,7 @@
 # Specifications for Terminal Velocity - Novel Mission
 
-## Key Deliverables
+## Key Deliverables and Quality Metrics
+- Establish baseline quality metrics for narrative engagement, technical accuracy, and character development.
 
 ### Narrative Structure
 - Identify the overall narrative arc and key plot points.
