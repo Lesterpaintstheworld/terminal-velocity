@@ -7,6 +7,9 @@
 ### Quality Standards
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
+- Maintain consistency in chapter headings and scene breaks.
+- Ensure all technical elements related to AI and economics are accurately represented.
+- Validate claims with credible sources to maintain narrative integrity.
 
 ## Formatting
 - Use standard formatting for dialogue and character descriptions.
