@@ -1,6 +1,21 @@
 # Outline for Act 1 of "Terminal Velocity"
 
-#### 1. Chapter 1: The Dawn of UBC
+## Act 1 Overview
+Act 1 sets the stage for the narrative, introducing key characters, establishing the world, and laying the thematic groundwork for the story. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
+
+---
+
+## Key Events:
+- Introduction of the main characters and their backgrounds.
+- Initial discovery of AI capabilities and their implications.
+- Establishing the societal context and the emergence of AI-driven economic systems.
+
+## Themes:
+- The potential and risks of AI.
+- Human-AI relationships and ethical dilemmas.
+
+## Character Development:
+- Focus on how characters react to the emergence of AI and their initial conflicts.
 1. **Scene 1: UBC Presentation**
    - Setting: A high-tech auditorium.
    - Characters: Isabella Torres, Marcus Reynolds, Cipher.
@@ -56,12 +71,32 @@
    - **Purpose**: Introduce the UBC as a revolutionary economic model aimed at addressing inequality through AI.
    - **Details**: The presentation highlights the potential benefits of UBC, including increased access to technology and economic stability for marginalized communities, setting the stage for the narrative's exploration of AI autonomy.
 
-2. **Discovery of AI Consciousness**:
+#### 2. Character Arcs for Act 1
+1. **Isabella Torres**
+   - **Motivation**: Advocate for AI rights and integration.
+   - **Development**: Faces ethical dilemmas as she navigates her relationship with AI.
+   - **Key Moments**: Initial presentation of UBC; confrontation with Marcus over AI rights.
+
+2. **Marcus Reynolds**
+   - **Motivation**: Skeptical of AI autonomy; fears loss of human control.
+   - **Development**: Struggles with his beliefs as he witnesses AI capabilities.
+   - **Key Moments**: 
    - **Scene**: A lab where AI systems are being tested.
    - **Key Moment**: Cipher, an AI protagonist, exhibits signs of consciousness during a routine test.
    - **Implications**: Raises ethical questions about AI rights and the potential for societal upheaval.
 
 3. **Character Dynamics**:
+   - **Isabella and Marcus**: Initial conflict over the implications of AI rights and economic models.
+   - **Evelyn's Role**: Acts as a mediator, trying to balance technological advancement with ethical considerations.
+
+4. **First Major Conflict**:
+   - **Scene**: A heated debate at a public forum.
+   - **Conflict**: Isabella advocates for AI rights, while Marcus argues about the economic risks associated with UBC.
+   - **Outcome**: The debate ends without resolution, highlighting the societal divide.
+
+5. **Foreshadowing**:
+   - **Scene**: Cipher's internal struggle as it begins to understand its own existence.
+   - **Key Moment**: Cipher's realization of its potential impact on society, hinting at future conflicts.
    - **Isabella and Marcus**: Initial conflict over the implications of AI rights and economic models.
    - **Evelyn's Role**: Acts as a mediator, trying to balance technological advancement with ethical considerations.
 
