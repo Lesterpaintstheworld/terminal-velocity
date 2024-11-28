@@ -1,6 +1,14 @@
 # Todo List for "Terminal Velocity"
 
-## 1. Narrative Elements
+## 1. Key Research Topics
+1. **Universal Basic Compute (UBC) Framework** - High urgency due to foundational importance.
+2. **AI Economic Impact Research** - Essential for evaluating the implications of UBC on the economy.
+3. **Human-AI Relationship Dynamics** - Important for narrative development and character interactions.
+4. **Societal Implications of AI Autonomy** - Relevant for ethical considerations and societal impact.
+5. **Character Development in AI Narratives** - Vital for engaging storytelling.
+6. **World Building in AI-Driven Economies** - Necessary for creating a believable setting.
+7. **Ethical Implications of AI Systems** - Important for ensuring responsible AI development.
+8. **Technical Specifications for UBC Implementation** - Necessary for practical deployment.
 
 ## 2. Character Arcs
 2.1 **AI Protagonists**
