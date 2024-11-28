@@ -576,3 +576,39 @@ This section outlines the steps taken to identify duplicate content within the n
   - **Act 2, Chapter 1**:
     - `./story/act2/chapter1/scene1.md`
     - `./story/act2/chapter1/scene2.md`
+# Duplicate Analysis Report
+
+## Action Plan for Content Duplication Detection
+
+### 1. Identify Similar Content
+- **Objective**: Scan narrative files for semantically similar content.
+- **Method**: Utilize text analysis tools to evaluate thematic relevance and contextual overlap across the following key files:
+  - `./story/act1/act1_outline.md`
+  - `./story/act1/act1_scenes.md`
+  - `./story/act2/act2_scenes.md`
+  - `./story/act3/act3_scenes.md`
+  - `./characters/character_development.md`
+  - `./characters/interaction_scripts.md`
+
+### 2. Detect Partial Overlaps
+- **Objective**: Examine file structures for partial duplications.
+- **Method**: Focus on identifying repeated phrases or similar narrative arcs in:
+  - `./characters/human_characters/isabella_torres/profile.md`
+  - `./characters/human_characters/marcus_reynolds/profile.md`
+  - `./final_text/act1/act1_draft.md`
+  - `./final_text/act2/act2_scenes.md`
+  - `./final_text/act3/act3_scenes.md`
+
+### 3. Document Findings
+- **Objective**: Compile a report detailing identified duplicates and overlaps.
+- **Method**: Create a structured report in `./duplicate_analysis_report.md` summarizing:
+  - Types of duplicates found (full and partial)
+  - Specific files and sections affected
+  - Recommendations for consolidation
+
+### Execution Timeline
+- **Week 1**: Complete the identification of similar content.
+- **Week 2**: Finish detecting partial overlaps.
+- **Week 3**: Document findings and prepare for the consolidation phase.
+
+This structured approach will ensure clarity and coherence in the narrative while enhancing information retrieval for character and plot development.
