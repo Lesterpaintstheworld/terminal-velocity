@@ -6,8 +6,7 @@
 - Key turning points that challenge the characters’ beliefs and relationships.
 
 ## Themes:
-- The consequences of unchecked technological growth.
-- The struggle for control and autonomy in a rapidly changing world.
+- The consequences of unchecked technological growth and the struggle for control and autonomy in a rapidly changing world.
 
 ## Character Development:
 - Deepening character arcs as they face moral dilemmas and personal challenges.
