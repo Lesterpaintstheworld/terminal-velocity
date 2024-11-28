@@ -1,14 +1,15 @@
-# Terminal Velocity Mission - Todo List (Updated for Act 1)
+# Todo List for "Terminal Velocity"
 
-## Key Research Topics
-1. **Universal Basic Compute (UBC) Framework** - High urgency due to foundational importance.
-2. **AI Economic Impact Research** - Essential for evaluating the implications of UBC on the economy.
-3. **Human-AI Relationship Dynamics** - Important for narrative development and character interactions.
-4. **Societal Implications of AI Autonomy** - Relevant for ethical considerations and societal impact.
-5. **Character Development in AI Narratives** - Vital for engaging storytelling.
-6. **World Building in AI-Driven Economies** - Necessary for creating a believable setting.
-7. **Ethical Implications of AI Systems** - Important for ensuring responsible AI development.
-8. **Technical Specifications for UBC Implementation** - Necessary for practical deployment.
+## 1. Narrative Elements
+
+## 2. Character Arcs
+2.1 **AI Protagonists**
+   - [ ] Review and refine emotional beats for Cipher.
+   - [ ] Assess character dynamics between Nova and Isabella.
+
+2.2 **Human Characters**
+   - [ ] Develop ethical dilemmas faced by Marcus.
+   - [ ] Explore relationships and conflicts for Isabella.
 
 ## Narrative Elements
 1. **World Building**
@@ -63,17 +64,13 @@
 1. **Integration of AI in Societal Structures**
    - Need for deeper insights into how UBC will reshape existing societal frameworks.
 
-2. **Character Interactions**
-   - More detailed exploration of emotional dynamics between characters, particularly in ethical dilemmas.
+## 4. Phase Transitions
+- [ ] Mark completion of Act 1 and readiness for Act 2.
+- [ ] Prepare transition documentation for Act 3.
 
-3. **Economic Models**
-   - Further research needed on the practical implementation of new economic models influenced by UBC.
-
-4. **AI Rights Movement**
-   - Comprehensive understanding of the milestones and challenges faced by the AI rights movement.
-
-5. **Technical Documentation**
-   - Clarification needed on the operational capabilities of AI systems within the UBC framework.
+## 5. Quality Assurance
+- [ ] Schedule evaluations with beta readers for narrative engagement.
+- [ ] Conduct a technical review for accuracy in AI and economic concepts.
 1. **Update todolist.md**: 
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
 2. **Refine Act 1 Chapter Outline**: 
