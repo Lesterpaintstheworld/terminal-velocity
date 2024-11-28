@@ -1,21 +1,36 @@
 # Outline for Act 1 of "Terminal Velocity"
 
 ## Act 1 Overview
-Act 1 sets the stage for the narrative, introducing key characters, establishing the world, and laying the thematic groundwork for the story. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
+Act 1 introduces the main characters, setting, and initial conflict, focusing on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
 
----
-
-## Key Events:
+### Key Events:
 - Introduction of the main characters and their backgrounds.
 - Initial discovery of AI capabilities and their implications.
 - Establishing the societal context and the emergence of AI-driven economic systems.
 
-## Themes:
+### Themes:
 - The potential and risks of AI.
 - Human-AI relationships and ethical dilemmas.
 
-## Character Development:
+### Character Development:
 - Focus on how characters react to the emergence of AI and their initial conflicts.
+
+---
+
+## Narrative Structure
+- **Outline**: 
+  - Act 1: Introduction and setup.
+  - Act 2: Conflict and development.
+  - Act 3: Climax and resolution.
+  - Act 4: Conclusion and implications.
+
+## Character Development
+- **Character Profiles**: Detailed profiles for each main character, including motivations, background, and relationships.
+- **Character Interaction Matrix**: Overview of interactions and dynamics between characters.
+
+## Thematic Analysis
+- **Key Themes**: Documented themes such as AI autonomy, economic transformation, and human-AI relations.
+- **Philosophical Concepts**: Exploration of ethical implications and societal impacts of AI.
 1. **Scene 1: UBC Presentation**
    - Setting: A high-tech auditorium.
    - Characters: Isabella Torres, Marcus Reynolds, Cipher.
