@@ -8,6 +8,7 @@
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
 - Maintain consistency in chapter headings and scene breaks.
+- Emphasize the importance of technical accuracy and consistency throughout the narrative.
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
 
