@@ -1,48 +1,40 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
+## Key Research Topics
+1. **Universal Basic Compute (UBC) Framework** - High urgency due to foundational importance.
+2. **AI Economic Impact Research** - Essential for evaluating the implications of UBC on the economy.
+3. **Human-AI Relationship Dynamics** - Important for narrative development and character interactions.
+4. **Societal Implications of AI Autonomy** - Relevant for ethical considerations and societal impact.
+5. **Character Development in AI Narratives** - Vital for engaging storytelling.
+6. **World Building in AI-Driven Economies** - Necessary for creating a believable setting.
+7. **Ethical Implications of AI Systems** - Important for ensuring responsible AI development.
+8. **Technical Specifications for UBC Implementation** - Necessary for practical deployment.
+
 ## Current Priorities
 1. **Review Existing Tasks**
    - Assess tasks related to Act 1 completion.
    - Identify any tasks that require adjustment or reprioritization.
-   - Outline the structure for Act 1, focusing on key plot points, character arcs, and thematic elements.
-   - Draft the initial scenes for Act 1, ensuring engagement and coherence.
-   - Review and refine the draft of Act 1 for technical accuracy and narrative flow.
+   - Extract actionable items related to the narrative structure of the three acts: Emergence, Acceleration, and Convergence.
+   - Prioritize these tasks to align with the critical mission needs.
 
-2. **New Tasks for Act 1 Completion**
-   - Establish UBC system elements.
-   - Develop initial AI autonomy components.
-   - Align narrative elements with thematic goals.
-   - Identify and document key themes and character arcs within the narrative based on the extracted tasks.
-   - Draft the initial scenes for Act 1, focusing on character introductions and the rising tension.
-   - Review the draft of Act 1 for coherence, engagement, and technical accuracy.
+## Narrative Elements
+- Define key narrative components.
+- Outline character development paths.
+- List technical aspects to address.
 
-3. **Organize Tasks by Project Phases**
-   - **Emergence Phase**
-     - Finalize initial UBC framework.
-     - Complete character introductions and motivations.
-   - **Acceleration Phase**
-     - Develop conflict scenarios involving AI and human characters.
-     - Integrate feedback from initial drafts into character arcs.
-   - **Convergence Phase**
-     - Prepare resolutions for character arcs and thematic conclusions.
-   - Update the narrative outline to reflect the insights gained from the review and documentation, ensuring that the structure aligns with the mission objectives and enhances the overall coherence of the manuscript.
-     - Finalize technical accuracy checks for economic models.
+## Character Arcs
+- Outline character development paths.
 
-### Immediate Knowledge Gaps Identified
-1. **Integration of AI in Societal Structures**
-   - Need for deeper insights into how UBC will reshape existing societal frameworks.
+## Technical Requirements
+- List technical aspects to address.
 
-2. **Character Interactions**
-   - More detailed exploration of emotional dynamics between characters, particularly in ethical dilemmas.
+## Act Transition Markers
+- Clearly mark transitions between acts.
+- List completion criteria for prior tasks to indicate readiness for the next phase.
 
-3. **Economic Models**
-   - Further research needed on the practical implementation of new economic models influenced by UBC.
-
-4. **AI Rights Movement**
-   - Comprehensive understanding of the milestones and challenges faced by the AI rights movement.
-
-5. **Technical Documentation**
-   - Clarification needed on the operational capabilities of AI systems within the UBC framework.
+## Feedback Mechanism
+- Create a section for integrating feedback from beta readers and editors.
+- Outline how this feedback will influence task adjustments and prioritize quality improvements.
 - Review identified duplications in `duplicate_analysis_report.md` and plan for consolidation.
 1. **Integration of AI in Societal Structures**
    - Need for deeper insights into how UBC will reshape existing societal frameworks.
