@@ -1,37 +1,41 @@
-# Terminal Velocity Mission - Todo List
+# Terminal Velocity Mission - Todo List (Updated)
 
-## 1. Narrative Elements
-- **1.1** Finalize chapter frameworks for Act 1
-- **1.2** Draft initial scenes for Act 1
-- **1.3** Outline key themes for Act 1
-- **1.4** Extract key themes and perspectives for chapter frameworks
-- **1.5** Create chapter frameworks in `chapter_frameworks.md`
-- **1.6** Key Themes:
-  - AI Autonomy
-  - Economic Transformation
-  - Human-AI Relationships
-  - Ethical Dilemmas
-  - Societal Implications
-  - Trust in Technology
-  - Character Development
-  - Cultural Shifts
+## Narrative Elements
+1. **World Building**
+   - 1.1 Review and update the **AI Lifestyle and Society Integration** document. *(In Progress)*
+   - 1.2 Finalize **Cultural Landscape** overview. *(Pending)*
+   - 1.3 Integrate **Economic Framework** insights into world-building documents. *(Pending)*
 
-## 2. Character Arcs
-- **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
-- **2.2** Develop emotional evolution arcs for AI protagonists
-- **2.3** Integrate character interactions into scene drafts
+2. **Character Development**
+   - 2.1 Complete **Character Profiles** for all main characters. *(In Progress)*
+   - 2.2 Update **Character Arcs Summary** based on recent feedback. *(Pending)*
+   - 2.3 Review **Character Interaction Matrix** for consistency. *(Pending)*
 
-## 3. Technical Requirements
-- **3.1** Validate technical accuracy of AI and economic concepts
-- **3.2** Review integration of economic models within the narrative
-- **3.3** Ensure consistency in world-building elements
+3. **Story Structure**
+   - 3.1 Finalize **Act 1 Outline** and ensure alignment with character arcs. *(In Progress)*
+   - 3.2 Draft **Act 2 Scenes** based on completed outlines. *(Pending)*
+   - 3.3 Review **Act 3 Crisis** elements for thematic consistency. *(Pending)*
 
-## 4. Feedback Integration
-- **4.1** Create a section for feedback integration
-  - **4.1.1** Document feedback from beta readers
-  - **4.1.2** Outline necessary adjustments based on feedback
-  - **4.1.3** Schedule regular feedback sessions with editors
-  - **4.1.4** Integrate feedback into character arcs and narrative elements.
+#### Technical Requirements
+4. **Technical Accuracy**
+   - 4.1 Validate **Technical Concepts** against current research. *(In Progress)*
+   - 4.2 Review **AI Systems Capabilities** documentation for updates. *(Pending)*
+
+5. **Integration Tasks**
+   - 5.1 Assess **Integration Opportunities** for character interactions. *(Pending)*
+   - 5.2 Finalize **Technical Implementation** details for AI systems. *(Pending)*
+
+#### Task Dependencies
+- **1.1** is dependent on the completion of **4.1**.
+- **2.1** must be completed before **2.2** can begin.
+- **3.1** must be finalized before drafting **3.2**.
+
+#### Progress Tracking
+- **Milestone 1**: Complete chapter frameworks and character arcs by Q1 2025.
+  - Status: **In Progress**
+- **Milestone 2**: Draft initial scenes for Act 1 by Q2 2025.
+  - Status: **Pending**
+- **Milestone 3**: Integrate feedback and polish drafts by Q3 2025.  
 
 ## 5. Phase Transitions
 - **Current Phase**: Act 1 Development

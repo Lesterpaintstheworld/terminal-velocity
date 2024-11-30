@@ -1,4 +1,4 @@
-# Chapter Frameworks Overview
+# Chapter Frameworks Overview (Updated)
 
 ## Chapter Outlines
 
@@ -13,24 +13,40 @@
 - **Key Points**:
   - Case studies of human-AI collaborations.
   - Ethical dilemmas faced by characters.
+- **Character Development**:
+  - **Isabella**: Navigates her relationship with AI and her advocacy for their rights.
+  - **Marcus**: Struggles with his skepticism and the potential benefits of AI.
+  - **Cipher**: Represents the AI perspective, grappling with its identity and rights.
 
 ### Chapter 3: Economic Autonomy
 - **Theme**: The concept of economic autonomy in a world influenced by AI.
 - **Key Points**:
   - Implications of AI on job markets.
   - Perspectives from different characters on economic independence.
+- **Character Perspectives**:
+  - **Isabella**: Advocates for AI rights and economic independence.
+  - **Marcus**: Questions the sustainability of AI-driven economies.
+  - **Cipher**: Seeks to understand its role in the economic landscape.
 
 ### Chapter 4: Ethical Considerations
 - **Theme**: Ethical challenges posed by AI technologies.
 - **Key Points**:
   - Conflicts arising from AI decision-making.
   - Character dilemmas regarding AI ethics.
+- **Character Conflicts**:
+  - **Isabella**: Faces moral dilemmas in advocating for AI rights.
+  - **Marcus**: Struggles with the implications of AI decisions on society.
+  - **Cipher**: Questions the ethical framework governing its actions.
 
 ### Chapter 5: Conclusion and Future Projections
 - **Theme**: Speculations on the future of AI and society.
 - **Key Points**:
   - Predictions on AI's impact on economic systems.
   - Reflections on human-AI relationships moving forward.
+- **Character Resolutions**:
+  - **Isabella**: Envisions a future where AI and humans coexist harmoniously.
+  - **Marcus**: Learns to embrace the potential of AI while addressing ethical concerns.
+  - **Cipher**: Finds its place in a society that recognizes AI rights.
 
 ## Chapter Outlines
 
