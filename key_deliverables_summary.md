@@ -11,6 +11,17 @@
      - `./research/economic/ubc_framework.md`
      - `./themes/*.md` (all theme-related files)
 
+## Key Steps for Requirement Extraction
+1. **Identify Relevant Files**:
+   - Focus on files that pertain to the narrative, character development, world-building, economic frameworks, and AI systems.
+   - Key files include:
+     - `./requirements_documentation.md`
+     - `./act1_outline.md`
+     - `./characters/character_development.md`
+     - `./world_building/world_building_overview.md`
+     - `./research/economic/ubc_framework.md`
+     - `./themes/*.md` (all theme-related files)
+
 ### Mission Overview
 - The narrative spans from 2025 to 2028, focusing on AI-driven economic systems through Universal Basic Compute (UBC).
 - Emphasis on the emergence, acceleration, and convergence of AI systems in global economics.
