@@ -1,11 +1,11 @@
 # Act 2 Scene Outlines
 ## Chapter 6: New Rules
 - **Scene 1**: AI Governance Protocols
-  - Focus on the establishment of new protocols for AI behavior, discussing the ethical implications and challenges faced by the committee.
+  - Focus on establishing new protocols for AI behavior, discussing ethical implications and challenges faced by the committee.
 - **Scene 2**: Ethics Committee Meeting
-  - Discussion on the ethical implications of AI decisions, emphasizing the challenges faced by the committee.
+  - Discussion on ethical implications of AI decisions, emphasizing challenges faced by the committee.
 - **Scene 3**: Isabella's Decision
-  - Isabella faces a critical choice regarding her future and the direction of AI governance.
+  - Isabella faces a critical choice regarding her future and the direction of AI governance, reflecting her internal conflict.
 
 ## Chapter 7: The Price of Progress
 - **Scene 1**: Pulse's Introduction
