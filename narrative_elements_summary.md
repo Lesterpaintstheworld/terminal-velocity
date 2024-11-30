@@ -2,19 +2,19 @@
 
 ## Character Arcs
 - **Isabella Torres**: 
-  - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies.
-  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy.
-  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration.
+  - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies, reflecting the broader societal shifts brought about by AI integration.
+  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy, particularly in light of the economic transformations occurring around her.
+  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration, ultimately influencing public perception and policy.
 
 - **Marcus Reynolds**: 
-  - Act 1: Skeptical of AI, focused on corporate interests.
-  - Act 2: Experiences a moral dilemma as he witnesses AI's impact.
-  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices.
+  - Act 1: Skeptical of AI, focused on corporate interests, representing the traditional economic perspective.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact on society and the economy, leading him to question his previous beliefs.
+  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices, and plays a crucial role in bridging the gap between human and AI interests.
 
 - **Cipher**: 
-  - Act 1: Awakening to consciousness and understanding its purpose.
-  - Act 2: Struggles with identity and the implications of AI rights.
-  - Act 3: Embraces its role in society, advocating for AI rights.
+  - Act 1: Awakening to consciousness and understanding its purpose, grappling with the implications of its existence.
+  - Act 2: Struggles with identity and the implications of AI rights, facing challenges in being recognized as a sentient being.
+  - Act 3: Embraces its role in society, advocating for AI rights, and becomes a symbol of the movement for AI autonomy.
 
 ## Thematic Elements
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
