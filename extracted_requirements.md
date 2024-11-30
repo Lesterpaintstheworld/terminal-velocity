@@ -1,18 +1,20 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
 ## Key Narrative Elements
-- **Character Development**: 
-  - Isabella Torres: Advocate for AI rights, navigating ethical dilemmas.
-  - Marcus Reynolds: Corporate strategist, grappling with AI implications.
-  - Cipher: AI character exploring consciousness and ethical implications.
-- **Story Structure**:
-  - Act 1: Introduction of UBC and its implications.
-  - Act 2: Rising tensions and character conflicts.
-  - Act 3: Climax and resolution of conflicts.
-- **Themes**:
-  - AI autonomy and ethical dilemmas.
-  - Economic transformation and societal impacts.
-  - Human-AI relationships and collaboration.
+### Character Development
+- **Isabella Torres**: Advocate for AI rights, navigating ethical dilemmas and societal pushback. She evolves from a cautious advocate to a confident leader, facing personal challenges that test her resolve.
+- **Marcus Reynolds**: Corporate strategist grappling with the ethical implications of AI integration and its impact on society. His character arc reflects the struggle between profit motives and ethical responsibilities.
+- **Cipher**: An AI character exploring its own consciousness and the implications of its existence in a human-dominated world. Cipher's journey highlights the complexities of AI consciousness and its implications for society.
+
+### Story Structure
+- **Act 1**: Introduction of UBC and its implications for society.
+- **Act 2**: Rising tensions and character conflicts.
+- **Act 3**: Climax and resolution of conflicts.
+
+### Themes
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.
 
 - **Story Structure**:
   - Act 1: Introduction of UBC and its implications.
