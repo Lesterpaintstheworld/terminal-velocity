@@ -13,7 +13,6 @@
 ## Documented Findings
 - **Character Profiles**: 
   - Overlapping traits and arcs for Isabella Torres and Marcus Reynolds found in multiple files.
-  - Similar motivations and ethical dilemmas presented in different contexts.
 
 - **Story Structure**:
   - Repeated narrative elements across chapters, particularly in the introduction of AI systems and their societal impacts.
