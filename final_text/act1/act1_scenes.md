@@ -1,4 +1,4 @@
-# Act 1 Scenes
+# Act 1: Scenes Overview
 
 ## Identified Redundancies
 - Streamline UBC system explanations to a single, clear description.

@@ -1,4 +1,4 @@
-# Character Development Insights and Mapping for "Terminal Velocity"
+# Character Development Insights for "Terminal Velocity"
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:

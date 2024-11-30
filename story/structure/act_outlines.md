@@ -1,4 +1,4 @@
-# Act Outlines for "Terminal Velocity"
+# Act Outlines
 
 ## Act 1: Emergence
 - **Introduction of Characters**: Establish key characters, their motivations, and initial conflicts.
