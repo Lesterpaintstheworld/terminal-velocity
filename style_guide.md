@@ -12,6 +12,11 @@
 - **Detailed Examples**: 
   - Provide examples of character dialogue that reflect their unique voices.
   - Include sample descriptions that illustrate the desired tone and atmosphere.
+- **Quality Assessment Criteria**: 
+  - Ensure all technical elements related to AI and economics are accurately represented.
+  - Validate claims with credible sources to maintain narrative integrity.
+      - Maintain consistency in chapter headings and scene breaks.
+      - Foster narrative engagement through character development and emotional depth.
 
 ## Tone and Voice
 - Maintain a consistent tone that reflects the themes of the narrative.
