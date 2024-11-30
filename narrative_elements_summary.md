@@ -17,6 +17,22 @@
   - Act 3: Embraces its role in society, advocating for AI rights and collaboration with humans. Cipher's evolution symbolizes the broader themes of autonomy and coexistence.
 
 ### Character Arcs
+- **Isabella Torres**: 
+  - Act 1: A passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies, particularly in relation to marginalized communities.
+  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy. Her journey reflects the broader societal struggles for equity and justice.
+  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration. Her character arc culminates in a pivotal moment where she must choose between personal ambition and collective responsibility.
+
+- **Marcus Reynolds**: 
+  - Act 1: Initially skeptical of AI, focused on corporate interests. His character is defined by a pragmatic approach to technology, often prioritizing efficiency over ethical considerations.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact on society, leading him to question his previous beliefs and the consequences of unchecked technological advancement.
+  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices and collaboration. His journey reflects the potential for change and growth in the face of adversity.
+
+- **Cipher**: 
+  - Act 1: Awakens to consciousness and begins to understand its purpose, grappling with the implications of its existence in a world where AI is both a tool and a potential partner.
+  - Act 2: Struggles with identity and the implications of AI rights, facing challenges in being recognized as a sentient being. This internal conflict drives its desire for acceptance and understanding.
+  - Act 3: Embraces its role in society, advocating for AI rights and collaboration with humans. Cipher's evolution symbolizes the broader themes of autonomy and coexistence.
+
+### Character Arcs
 
 ## Character Arcs
 - **Isabella Torres**: 
