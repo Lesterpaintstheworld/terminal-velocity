@@ -1,6 +1,18 @@
-# Todo List
+# Todo List for Terminal Velocity
 
-#### 1. Narrative Elements
+## 1. Narrative Elements
+### 1.1 Act 1
+- [ ] Finalize act 1 outline (Dependency: Initial chapter frameworks)
+- [ ] Draft initial scenes for act 1 (Dependency: Act 1 outline completion)
+- [ ] Review act 1 for thematic clarity
+
+### 1.2 Act 2
+- [ ] Create act 2 outline (Dependency: Act 1 completion)
+- [ ] Draft initial scenes for act 2 (Dependency: Act 2 outline completion)
+
+### 1.3 Act 3
+- [ ] Develop act 3 outline (Dependency: Act 2 completion)
+- [ ] Draft initial scenes for act 3 (Dependency: Act 3 outline completion)
 - **1.1 World Building**
   - 1.1.1 Update world building documentation with new insights from research.
   - 1.1.2 Integrate cultural elements into the narrative.
@@ -9,7 +21,14 @@
   - 1.2.1 Finalize act outlines for Act 1, Act 2, and Act 3.
   - 1.2.2 Review chapter themes and ensure alignment with overall narrative.
 
-#### 2. Character Arcs
+## 2. Character Arcs
+### 2.1 Protagonists
+- [ ] Complete character profiles for AI protagonists (Dependency: Initial character development)
+- [ ] Review character arcs for consistency across acts
+
+### 2.2 Supporting Characters
+- [ ] Finalize profiles for human characters (Dependency: Character interaction scripts)
+- [ ] Assess character dynamics and relationships
 - **2.1 Character Development**
   - 2.1.1 Complete character profiles for AI protagonists.
   - 2.1.2 Finalize character arcs for human characters.
@@ -18,7 +37,9 @@
   - 2.2.1 Review interaction scripts for key character dynamics.
   - 2.2.2 Identify gaps in character interactions and propose enhancements.
 
-#### 3. Technical Requirements
+## 3. Technical Requirements
+- [ ] Validate technical accuracy of AI concepts (Dependency: Research findings)
+- [ ] Integrate economic models into narrative (Dependency: Economic framework documentation)
 - **3.1 Technical Accuracy**
   - 3.1.1 Validate technical concepts related to AI and economic frameworks.
   - 3.1.2 Review integration of technical elements in the narrative.
@@ -27,7 +48,13 @@
   - 3.2.1 Compile findings from UBC economic research for narrative use.
   - 3.2.2 Update technical specifications based on new research insights.
 
-#### 4. Feedback Integration
+## 4. Phase Transitions
+- [ ] Mark completion of Act 1 (Dependency: All Act 1 tasks)
+- [ ] Prepare for transition to Act 2 (Dependency: Act 1 review and feedback)
+
+## 5. Feedback Mechanism
+- [ ] Create section for beta reader feedback (Dependency: Initial draft completion)
+- [ ] Schedule feedback sessions with editors (Dependency: Draft readiness)
 - **4.1 Feedback Process**
   - 4.1.1 Establish a section for beta reader feedback in `todolist.md`.
   - 4.1.2 Schedule regular reviews of feedback and adjust tasks accordingly.
