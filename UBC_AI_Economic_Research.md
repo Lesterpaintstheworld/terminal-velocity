@@ -11,6 +11,8 @@ This document compiles relevant research and insights on the Universal Basic Com
 - Economic Frameworks
 - Societal Implications of UBC
 - Innovations in AI Economic Processes
+- **Governance and Regulation**: Frameworks for governing AI technologies and policies for ethical AI deployment.
+- **Cultural Implications**: How AI and UBC influence cultural dynamics and societal narratives.
 
 ### UBC System Specifications
 - Detailed technical specifications of the UBC framework and its operational capabilities, ensuring alignment with current technological trends.
