@@ -8,6 +8,10 @@
   - Some character motivations lack depth and clarity, particularly in Act 1.
   - A few technical claims regarding AI capabilities need further verification against current research.
   - The pacing in some scenes could be improved to maintain reader interest.
+- **Quality Issues Identified**: 
+  - Some character motivations lack depth and clarity, particularly in Act 1.
+  - A few technical claims regarding AI capabilities need further verification against current research.
+  - The pacing in some scenes could be improved to maintain reader interest.
 
 ## Findings from Initial Assessment
 - **Strengths**: The specifications document outlines key deliverables and quality metrics effectively.
