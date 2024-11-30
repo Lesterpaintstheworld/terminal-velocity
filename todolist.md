@@ -15,6 +15,14 @@
   - Trust in Technology
   - Character Development
   - Cultural Shifts
+  - AI Autonomy
+  - Economic Transformation
+  - Human-AI Relationships
+  - Ethical Dilemmas
+  - Societal Implications
+  - Trust in Technology
+  - Character Development
+  - Cultural Shifts
 
 ## 2. Character Arcs
 - **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
@@ -51,6 +59,8 @@
   - **4.1** Complete all scene drafts for Act 1
   - **4.2** Gather feedback from beta readers on Act 1 drafts
   - **4.3** Revise drafts based on feedback
+- **Transition to Act 2**: Ensure all tasks related to Act 1 are completed before moving to Act 2.
+- **Transition to Act 3**: Review Act 2 scenes and ensure thematic consistency before proceeding to Act 3.
 
 ---
 
@@ -59,6 +69,7 @@
   - **5.1.1** Document feedback from beta readers
   - **5.1.2** Outline necessary adjustments based on feedback
   - **5.1.3** Schedule regular feedback sessions with editors
+  - **5.1.4** Integrate feedback into character arcs and narrative elements.
 
 ## 1. Narrative Elements
 - [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
