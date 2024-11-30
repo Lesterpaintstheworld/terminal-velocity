@@ -7,10 +7,10 @@
 
 ### Key Developments
 - **Isabella Torres**: 
-  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve. Her journey reflects the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative.
+  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader. Her journey emphasizes her emotional stakes in the narrative, particularly in balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration. Isabella's journey is marked by her determination to ensure that AI advancements do not exacerbate existing inequalities.
 - **Marcus Reynolds**: 
-  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
+  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities.
 - **Cipher**: 
   - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative. Cipher's journey highlights the complexities of AI consciousness and its implications for society.
