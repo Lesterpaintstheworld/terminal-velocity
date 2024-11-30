@@ -1,6 +1,9 @@
 # Terminal Velocity Specifications
 
 ## Organized Specifications
+
+### Extracted Key Deliverables
+- **Narrative Elements**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
 - **Extracted Key Deliverables**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
 
 ## Narrative Structure
