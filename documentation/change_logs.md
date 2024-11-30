@@ -32,3 +32,5 @@
 - [2024-11-26] Documented findings and suggestions for revisions based on the review process.
 - [2024-11-26] Integrated insights from initial content mapping to enhance narrative coherence and technical accuracy.
 - [2024-11-26] Reviewed existing drafts for Act 1, identifying gaps in narrative structure and thematic alignment.
+- [2024-11-30] Extracted key themes and perspectives from `todolist.md` for incorporation into chapter frameworks.
+- [2024-11-30] Outlined initial chapter frameworks in `chapter_frameworks.md` based on extracted themes.
