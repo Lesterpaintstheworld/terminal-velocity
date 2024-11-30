@@ -1,24 +1,19 @@
 # Duplicate Analysis Report
 
-## Action Plan for Content Duplication Detection
+## Duplicate Analysis Report
 
-1. **Content Duplication Detection:**
-   - Scan narrative files for semantically similar content, focusing on areas likely to contain overlaps, such as:
-     - Character profiles (e.g., `./characters/ai_protagonists/cipher/profile.md`)
-     - Scene descriptions (e.g., `./story/act1/chapter1/scene1.md`)
-     - Interaction scripts (e.g., `./characters/interaction_scripts/combined_interactions.md`)
-     - Ensure a systematic approach to identify and document all instances of duplication.
+### Action Plan for Content Duplication Detection
 
-2. **Document Duplicates:**
-   - Create a record of identified duplications, noting:
-     - File paths of the duplicates
-     - Nature of the overlaps (e.g., similar character arcs, repeated scenes)
-     - Context in which the duplicates occur
+1. **Identify Duplicate Content**:
+   - Scan narrative files to detect semantically similar content, focusing on areas likely to contain overlaps, such as:
+     - Act outlines and drafts (e.g., `./story/act1/act1_outline.md`, `./final_text/act1/act1_draft.md`)
+     - Character profiles and development arcs (e.g., `./characters/human_characters/isabella_torres/profile.md`, `./characters/ai_protagonists/cipher/profile.md`)
 
-3. **Prepare for Consolidation:**
-   - Conduct pre-consolidation checks to ensure that all necessary information is captured. This includes:
-     - Verifying that all relevant details from duplicates are documented
-     - Ensuring that merging will not result in loss of critical narrative elements
+2. **Detect Partial Overlaps**:
+   - Check the file structures for any partial duplications, focusing on repeated phrases or similar narrative arcs that may need consolidation.
+
+3. **Prepare for Consolidation**:
+   - Create a plan for merging the content, ensuring that all relevant information is captured and that the narrative integrity is maintained.
 
 ## Action Plan for Content Duplication Detection
 
