@@ -9,7 +9,7 @@
 
 ## Act 1: The Awakening
 ### Setting the Scene
-*Setting: A near-future city where AI and humans coexist, showcasing the integration of technology in daily life. The atmosphere is charged with anticipation and underlying tension regarding AI's role in society. This integration raises ethical questions about AI rights and societal impacts, particularly for marginalized communities.*
+*Setting: A near-future city where AI and humans coexist, showcasing the integration of technology in daily life. The atmosphere is charged with anticipation and underlying tension regarding AI's role in society. This integration raises ethical questions about AI rights and societal impacts, particularly for marginalized communities. The initial draft will focus on establishing the tone and style while integrating the technical aspects of AI systems and economic models.*
 
 ## Introducing Key Characters
 - **Isabella Torres**: A passionate advocate for ethical AI, focusing on the implications of technology on marginalized communities.

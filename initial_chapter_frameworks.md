@@ -17,6 +17,7 @@
 
 ## Chapter Frameworks Overview
 This document outlines the key themes and character arcs for each chapter, ensuring balanced coverage across all perspectives. Each chapter will explore the implications of AI integration and the ethical dilemmas faced by characters, focusing on the following key themes:
+- Ensure that each perspective on AI's impact is represented in the outline.
 1. **AI Autonomy**: The implications of AI systems operating independently.
 2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
