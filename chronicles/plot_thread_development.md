@@ -1,7 +1,7 @@
-**Initial Plot Threads Established:**
-- The chapter introduces the central conflict surrounding the integration of AI into society, setting the stage for future developments.
-- Establishes a tension between characters that will drive the narrative forward, particularly focusing on the ethical implications of AI rights.
-
-**Connections to Future Developments:**
-- The groundwork laid in this chapter will influence character decisions and conflicts in subsequent chapters, particularly in Act 2, where the stakes will escalate.
-- The introduction of supporting characters hints at broader societal implications that will be explored in later chapters.
+- **Plot Threads Introduced:**
+  - The central conflict surrounding AI rights and societal implications.
+  - Character dynamics between Isabella and Marcus, setting the stage for future confrontations.
+  
+- **Interconnections:**
+  - The introduction of the UBC framework as a backdrop for the AI rights movement.
+  - The evolving relationship between Isabella and Marcus serves as a microcosm for broader societal debates on AI.
