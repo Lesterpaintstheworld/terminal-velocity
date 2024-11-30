@@ -1,6 +1,13 @@
 # Chapter Outlines for "Terminal Velocity"
 
 ## Act 1: Introduction to AI-Driven Economic Systems
+
+### Key Themes
+- AI Autonomy
+- Economic Transformation
+- Human-AI Relationships
+- Ethical Dilemmas
+- Cultural Shifts
 ### Chapter 1: The UBC Presentation
 - **Key Themes**: Emergence of AI, Ethical Dilemmas, Trust in Technology
 - **Key Events**: 
