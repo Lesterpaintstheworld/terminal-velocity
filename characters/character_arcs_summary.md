@@ -6,17 +6,16 @@
 
 ## Character Arc Tracking
 - **Isabella Torres**: 
-  - **Motivation**: Advocate for AI rights.
-  - **Conflict**: Struggles with her relationship with Marcus and her ethical stance on AI.
-  - **Traits**: Empathetic, determined, and conflicted.
+  - **Overview**: A passionate advocate for AI rights, struggling with her own ethical dilemmas.
+  - **Breakthroughs**: Realization of the complexities in human-AI relationships.
+  
 - **Marcus Reynolds**: 
-  - **Motivation**: Protect human interests in AI development.
-  - **Conflict**: Faces ethical dilemmas regarding his role in AI governance.
-  - **Traits**: Analytical, protective, and ambitious.
+  - **Overview**: A tech-savvy strategist with a pragmatic approach to AI integration.
+  - **Breakthroughs**: Begins to question the implications of his work on AI autonomy.
+  
 - **Cipher**: 
-  - **Motivation**: Seek understanding of human emotions.
-  - **Conflict**: Navigates the complexities of AI-human relationships.
-  - **Traits**: Inquisitive, adaptive, and emotionally aware.
+  - **Overview**: An advanced AI with evolving self-awareness.
+  - **Breakthroughs**: Experiences initial emotional responses, hinting at deeper consciousness.
 
 # Character Arcs Summary for "Terminal Velocity"
 
