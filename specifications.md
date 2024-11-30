@@ -1,9 +1,12 @@
 # Specifications for Terminal Velocity - Novel Mission
 
-## Research Insights
+## Key Research Insights
 1. **UBC Systems**: Understanding the architecture and operational frameworks of Universal Basic Compute (UBC).
 2. **AI Economic Decision-Making**: Investigating how AI influences economic models and decision-making processes.
 3. **Societal Impacts**: Exploring the implications of AI and UBC systems on societal structures, including ethical considerations and human-AI relationships.
+4. **Trust in Automated Systems**: Exploration of factors influencing trust in AI systems and their societal acceptance.
+5. **Human-AI Relationships**: Examination of the evolving dynamics between humans and AI systems.
+6. **Cultural Implications**: Analysis of how AI integration affects cultural norms and values.
 
 ## Quality Assessment Criteria
 

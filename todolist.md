@@ -1,4 +1,9 @@
-# Todo List
+# Todo List for Terminal Velocity Research Phase
+
+#### Key Research Areas
+- **UBC Systems**: Understanding the architecture and operational frameworks of Universal Basic Compute (UBC).
+- **AI Economic Decision-Making**: Investigating how AI influences economic models and decision-making processes.
+- **Societal Impacts**: Exploring the implications of AI and UBC systems on societal structures, including ethical considerations and human-AI relationships.
 
 #### Narrative Elements
 - **1.1** Develop chapter frameworks for Act 1.
