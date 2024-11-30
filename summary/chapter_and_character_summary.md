@@ -1,6 +1,6 @@
 # Chapter and Character Summary for "Terminal Velocity"
 
-## Current Chapters Overview
+# Current Chapters Overview
 ### Act 1: Introduction to AI and Economic Revolution
 - **Chapter 1: The Awakening**
   - Introduces the world and key characters.

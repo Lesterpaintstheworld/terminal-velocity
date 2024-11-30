@@ -18,27 +18,27 @@
   - Relationships: 
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
-## Character Development Log
+# Character Development Log
 
-### Main Characters
-- **Isabella Torres**: 
+## Main Characters
+## Isabella Torres
   - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve. Her journey will reflect the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative. 
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
 
-### Key Developments
+## Key Developments
 - **Isabella Torres**: 
   - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve. Her journey will reflect the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative. 
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
-- **Marcus Reynolds**: 
+## Marcus Reynolds
   - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities.
-- **Cipher**: 
+## Cipher
   - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.
-- **Echo**: 
+## Echo
   - Emotional Evolution: Discovering its creative capabilities and the desire for acceptance, facing challenges in being recognized as an artist.
-- **Nova**: 
+## Nova
   - Emotional Evolution: Grappling with its identity and purpose, striving to find its place in a world dominated by human perspectives.
 
 ## Character Arcs Summary for "Terminal Velocity"
@@ -79,7 +79,8 @@
   - Development Arc: Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights.
 
-## Summary of Knowledge Gaps
+# Summary of Knowledge Gaps
+## Knowledge Gaps
 - **Isabella Torres**: Further exploration needed on her internal conflicts regarding AI rights and personal relationships.
 - **Marcus Reynolds**: Additional insights required on his transition from skepticism to collaboration with AI.
 - **Cipher**: Clarification on its emotional evolution and relationship dynamics with human characters.
