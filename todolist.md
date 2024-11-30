@@ -3,6 +3,8 @@
 ## 1. Narrative Elements
 - [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
 - [ ] Document findings in `research_topics_documentation.md`.
+- [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
+- [ ] Document findings in `research_topics_documentation.md`.
 1.1 Develop Act 1 Outline  
 1.2 Draft Initial Scenes for Act 1  
 1.3 Integrate Feedback from Beta Readers  
