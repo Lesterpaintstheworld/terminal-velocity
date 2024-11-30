@@ -5,6 +5,14 @@
   - Isabella Torres: Advocate for AI rights, navigating ethical dilemmas.
   - Marcus Reynolds: Corporate strategist, grappling with AI implications.
   - Cipher: AI character exploring consciousness and ethical implications.
+- **Story Structure**:
+  - Act 1: Introduction of UBC and its implications.
+  - Act 2: Rising tensions and character conflicts.
+  - Act 3: Climax and resolution of conflicts.
+- **Themes**:
+  - AI autonomy and ethical dilemmas.
+  - Economic transformation and societal impacts.
+  - Human-AI relationships and collaboration.
 
 - **Story Structure**:
   - Act 1: Introduction of UBC and its implications.
