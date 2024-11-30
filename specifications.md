@@ -168,7 +168,7 @@
 
 ## Specifications for Terminal Velocity - Novel Mission
 
-## Key Deliverables and Quality Metrics
+## Quality Assessment Criteria
 ### Extracted Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Economic Decision-Making** - High relevance as it directly impacts UBC deployment.
