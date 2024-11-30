@@ -7,7 +7,7 @@
 
 ### Key Developments
 - **Isabella Torres**: 
-  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve.
+  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve. Her journey reflects the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration. Isabella's journey is marked by her determination to ensure that AI advancements do not exacerbate existing inequalities.
 - **Marcus Reynolds**: 
   - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.

@@ -3,7 +3,7 @@
 ## Chapter Frameworks Overview
 
 ## Act 1: Emergence
-### Chapter 1: Introduction to AI and Society
+### Chapter 1: Introduction to AI and Economic Revolution
 #### Key Themes
 - **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
 - **Economic Transformation**: Exploration of how UBC reshapes economic structures.
