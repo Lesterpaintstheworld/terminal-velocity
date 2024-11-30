@@ -8,6 +8,22 @@ This document serves as the primary log for tracking the writing process of "Ter
 - **Key Developments**:
   - Introduction of main characters: Isabella Torres, Marcus Reynolds, and Cipher.
   - Establishment of the central conflict regarding AI rights and human collaboration.
+  - Initial setting described: A high-tech command center juxtaposed with public spaces showing human-AI integration.
+- **Challenges Faced**:
+  - Balancing character development with world-building.
+  - Ensuring clarity in the introduction of complex themes related to AI ethics.
+- **Significant Decisions**:
+  - Decision to open with a dialogue-heavy scene to establish character dynamics.
+  - Inclusion of a flashback to provide background on Isabella's motivations.
+
+## Documentation Process Overview
+This document serves as the primary log for tracking the writing process of "Terminal Velocity," including key decisions, character developments, and plot progressions.
+
+## Initial Draft Completion
+### Chapter: Act 1, Chapter 1
+- **Key Developments**:
+  - Introduction of main characters: Isabella Torres, Marcus Reynolds, and Cipher.
+  - Establishment of the central conflict regarding AI rights and human collaboration.
   - Initial setting described: A high-tech command center and a public space showcasing human-AI integration.
 - **Challenges Faced**:
   - Balancing character development with world-building.
