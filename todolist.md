@@ -14,6 +14,11 @@
 - [ ] Validate technical accuracy in AI concepts
 - [ ] Review economic models for plausibility
 - [ ] Ensure consistency in world-building elements
+- [ ] Research UBC systems integration
+- [ ] Investigate AI economic decision-making frameworks
+- [ ] Explore societal impacts of AI
+- [ ] Address ethical considerations in AI
+- [ ] Analyze cultural implications of AI integration
 
 ## Task Priority System
 - [ ] 1.1 Develop chapter frameworks

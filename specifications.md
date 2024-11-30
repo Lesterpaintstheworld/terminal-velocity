@@ -7,6 +7,9 @@
 4. **Trust in Automated Systems**: Exploration of factors influencing trust in AI systems and their societal acceptance.
 5. **Human-AI Relationships**: Examination of the evolving dynamics between humans and AI systems.
 6. **Cultural Implications**: Analysis of how AI integration affects cultural norms and values.
+4. **Trust in Automated Systems**: Exploration of factors influencing trust in AI systems and their societal acceptance.
+5. **Human-AI Relationships**: Examination of the evolving dynamics between humans and AI systems.
+6. **Cultural Implications**: Analysis of how AI integration affects cultural norms and values.
 
 ## Quality Assessment Criteria
 
