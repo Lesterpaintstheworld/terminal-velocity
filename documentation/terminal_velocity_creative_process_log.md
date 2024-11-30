@@ -131,3 +131,25 @@ This documentation serves as a foundational record for the creative process and 
 ## Objectives
 - Document key decisions, character arcs, and plot developments.
 - Track the evolution of the narrative throughout the writing process.
+# Terminal Velocity Creative Process Log
+
+## Documentation Framework
+
+### 1. Character Development
+- Document character profiles, arcs, and interactions.
+
+### 2. Plot Progression
+- Track key plot developments and chapter outlines.
+
+### 3. Team Dynamics
+- Record notable interactions and collaborative efforts.
+
+### 4. Milestones
+- Establish a timeline of significant events and achievements.
+
+## Initial Observations
+- Document initial thoughts on the writing process, including character and plot developments.
+
+## Objectives
+- Document key decisions, character arcs, and plot developments.
+- Track the evolution of the narrative throughout the writing process.
