@@ -1,6 +1,10 @@
 ## Style Guide for Terminal Velocity
 
 ### Tone and Voice Examples
+
+### Additional Examples
+- **Character Dialogue**: Provide examples of character dialogue that reflect their unique voices. For instance, Isabella might say, "We must embrace AI as partners, not threats," while Marcus might counter, "But at what cost to our humanity?"
+- **Active Voice Usage**: Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
 - **Detailed Examples**: 
   - Provide examples of character dialogue that reflect their unique voices. For instance, Isabella might say, "We must embrace AI as partners, not threats," while Marcus might counter, "But at what cost to our humanity?"
   - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
