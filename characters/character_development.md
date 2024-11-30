@@ -7,9 +7,9 @@
 
 ### Key Developments
 - **Isabella Torres**: 
-  - Notable breakthroughs and shifts in her arc.
+  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader.
 - **Marcus Reynolds**: 
-  - Notable breakthroughs and shifts in his arc.
+  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
 - **Cipher**: 
   - Notable breakthroughs and shifts in its arc.
 - **Echo**: 
