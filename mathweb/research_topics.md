@@ -1,4 +1,9 @@
-# Key Research Topics for Terminal Velocity
+# Key Research Topics for "Terminal Velocity"
+
+## Research Strategy
+1. **Information Sources**: A balance between using the LLM's knowledge and potential external sources.
+2. **Research Methods**: Suggested approaches for gathering information (e.g., literature review, expert interviews).
+3. **Timeline**: A rough timeline for completing the research on each topic.
 
 ## Key Research Topics for Terminal Velocity
 
