@@ -8,7 +8,9 @@
 - [x] Complete act 1 outline.
 - [x] Draft act 2 scenes.
 - [x] Review act 3 character dynamics.
-- [ ] Extract key themes and perspectives related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
+- [x] Extract key themes and perspectives related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
+- [ ] Gather foundational information on UBC systems and AI economic principles.
+- [ ] Document findings in a structured format for future reference.
 - [ ] Develop AI Lifestyle and Society Integration.
 - [ ] Create cultural landscape documentation.
 - [ ] Outline economic systems integration.
