@@ -1,4 +1,4 @@
-# Comprehensive World-Building Document
+# World-Building Overview
 
 ## Economic Framework Overview and UBC Implications
 - **Universal Basic Compute (UBC)**: 

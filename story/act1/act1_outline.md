@@ -1,4 +1,4 @@
-# Act 1: Introduction and Setup
+# Act 1 Outline
 
 ## Key Events:
 - **Introduction of the main characters**: Establish their backgrounds, motivations, and conflicts.

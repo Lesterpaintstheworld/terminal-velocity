@@ -1,4 +1,4 @@
-# Content Mapping Insights for Terminal Velocity
+# Content Mapping Insights
 
 ## Overview
 This document summarizes the insights gathered from the initial content mapping process related to AI's impact on global economics and Universal Basic Compute (UBC). It highlights key areas for integration and thematic coherence, ensuring a structured approach to narrative development. The insights will guide the integration of character arcs, economic frameworks, and ethical considerations throughout the narrative.

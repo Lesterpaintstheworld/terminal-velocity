@@ -1,4 +1,4 @@
-# Document Findings for Terminal Velocity Narrative
+# Document Findings
 
 ## Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance and its implications for economic models.

@@ -1,4 +1,4 @@
-# Document Findings Analysis for Terminal Velocity Narrative
+# Document Findings Analysis
 
 ## Semantic Mapping and Redundancy Analysis
 
