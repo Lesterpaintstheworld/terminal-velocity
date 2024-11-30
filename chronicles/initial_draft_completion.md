@@ -1,4 +1,4 @@
-**Date:** 2024-11-30
+**Date:** [Insert Date]
 
 **Chapter:** Act 1, Chapter 1
 
