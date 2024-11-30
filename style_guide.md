@@ -10,6 +10,7 @@
 - Validate claims with credible sources to maintain narrative integrity.
 - Maintain consistency in chapter headings and scene breaks.
 - Foster narrative engagement through character development and emotional depth.
+- Review and revise sections of the narrative to align with the tone and formatting guidelines.
 - Maintain a consistent tone that reflects the themes of the narrative.
 - Use clear and concise language to enhance readability.
 - Emphasize the importance of technical accuracy and consistency throughout the narrative.
