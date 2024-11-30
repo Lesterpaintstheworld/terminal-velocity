@@ -1,5 +1,21 @@
 # Research Topics for "Terminal Velocity"
 
+## Identified Research Topics
+1. **Universal Basic Compute (UBC) Framework**:
+   - Economic implications of UBC.
+   - Integration of AI within the UBC framework.
+   - Case studies illustrating UBC's impact on traditional economic models.
+
+2. **AI Economic Decision-Making**:
+   - Mechanisms of AI in economic decision-making.
+   - Ethical considerations in AI-driven economic systems.
+   - Analysis of AI's role in shaping economic policies.
+
+3. **Societal Impacts of AI**:
+   - Effects of AI on job markets and employment.
+   - Societal changes due to AI integration in daily life.
+   - Public perception and acceptance of AI technologies.
+
 ## Introduction
 This document outlines the key research topics identified for the "Terminal Velocity" project, focusing on Universal Basic Compute (UBC) systems and AI economic principles.
 

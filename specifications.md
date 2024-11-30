@@ -1,5 +1,19 @@
 # Specifications for Terminal Velocity - Novel Mission
 
+## Key Research Topics
+1. **Universal Basic Compute (UBC) Framework Analysis**
+   - Technical specifications for UBC systems.
+   - Requirements for AI economic models.
+   - Ethical considerations in AI deployment.
+
+2. **AI Economic Decision-Making**
+   - Mechanisms of AI in economic decision-making.
+   - Ethical considerations in AI-driven economic systems.
+
+3. **Societal Impacts of AI**
+   - Effects of AI on job markets and employment.
+   - Societal changes due to AI integration in daily life.
+
 ## Organized Specifications
 - **Extracted Key Deliverables**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
 

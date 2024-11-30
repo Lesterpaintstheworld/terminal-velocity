@@ -1,5 +1,10 @@
 # Todo List for Terminal Velocity Project
 
+## Key Research Topics
+- Research on UBC systems and their implications.
+- Exploration of AI economic decision-making frameworks.
+- Analysis of societal impacts of AI integration.
+
 ## 1. Narrative Elements
 ### Key Research Topics
 - Universal Basic Compute (UBC) Framework Analysis
