@@ -1,17 +1,16 @@
 # Terminal Velocity Mission - Todo List
 
-## Narrative Elements
-- **1.1 World Building**
-  - 1.1.1 Finalize cultural landscape documentation.
-  - 1.1.2 Integrate economic systems into world-building framework.
-  
-- **1.2 Character Development**
-  - 1.2.1 Complete character arcs for AI protagonists.
-  - 1.2.2 Develop emotional evolution profiles for human characters.
-
-- **1.3 Story Structure**
-  - 1.3.1 Outline Act 1 scenes.
-  - 1.3.2 Draft key moments for Act 2.
+## Research Topics
+- **Key Research Topics for Terminal Velocity**
+  - 1. Universal Basic Compute (UBC) Framework Analysis - High urgency due to foundational importance.
+  - 2. AI Systems Integration - High relevance as it directly impacts UBC deployment.
+  - 3. Economic Autonomy and UBC - Medium urgency; important for understanding user empowerment.
+  - 4. Trust in Automated Systems - Medium urgency; crucial for user adoption.
+  - 5. Human-AI Relationships - Medium relevance; important for ethical considerations.
+  - 6. Sociological Impacts of UBC - Low urgency; valuable for long-term implications.
+  - 7. Economic Models Post-UBC - Low urgency; important for future planning.
+  - 8. AI Rights Movement - Medium urgency; critical for ethical frameworks.
+  - 9. Impact of UBC on Labor Markets - High urgency; essential for understanding economic shifts.
 
 ## Character Arcs
 - **2.1 AI Protagonists**
