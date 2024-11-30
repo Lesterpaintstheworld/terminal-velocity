@@ -1,10 +1,17 @@
-# Todo List
+# Todo List for Terminal Velocity Project
 
 ## 1. Narrative Elements
-- **1.1 World Building**
-  - 1.1.1 Finalize world-building systems
-  - 1.1.2 Integrate cultural and societal landscapes
-  - 1.1.3 Develop economic frameworks related to AI integration
+- **1.1 Chapter Frameworks**
+  - Draft outlines for each chapter in Act 1.
+  - Identify key themes and character arcs for each chapter.
+  
+- **1.2 Character Arcs**
+  - Develop character arcs for main characters: 
+    - **1.2.1** Isabella Torres
+    - **1.2.2** Marcus Reynolds
+    - **1.2.3** Cipher
+    - **1.2.4** Echo
+    - **1.2.5** Nova
 
 - **1.2 Story Structure**
   - 1.2.1 Complete act outlines for all acts
@@ -43,11 +50,13 @@
    - Outline scenes for Act 1, including key emotional beats.
    - Draft initial scenes for Act 2, focusing on character dynamics.
 
-## 2. Character Arcs
-- **2.1 Character Development**
-  - 2.1.1 Finalize character profiles for AI protagonists
-  - 2.1.2 Develop emotional evolution arcs for human characters
-  - 2.1.3 Analyze character interactions and dynamics
+## 2. Technical Requirements
+- **2.1 Research Integration**
+  - Compile findings from UBC Economic Research.
+  - Validate economic models against narrative elements.
+  
+- **2.2 Technical Accuracy Check**
+  - Review technical concepts in Act 1 draft for accuracy.
 
 - **2.2 Character Relationships**
   - 2.2.1 Map relationships between characters
@@ -61,11 +70,14 @@
    - Develop backstories for human characters, emphasizing their relationship with AI.
    - Outline ethical dilemmas faced by human characters in the narrative.
 
-## 3. Technical Requirements
-- **3.1 Technical Accuracy**
-  - 3.1.1 Validate technical concepts in the narrative
-  - 3.1.2 Review economic models and implications
-  - 3.1.3 Ensure consistency in AI system capabilities
+## 3. Task Prioritization and Dependencies
+- **3.1 Priority Tasks**
+  - Complete chapter frameworks and character arcs by **Q1 2025**.
+  - Draft initial scenes for Act 1 by **Q2 2025**.
+
+- **3.2 Dependencies**
+  - **1.1** must be completed before **1.2** can begin.
+  - **2.1** must inform **2.2** to ensure technical accuracy.
 
 - **3.2 Feedback Mechanism**
   - 3.2.1 Create a section for integrating feedback from beta readers
