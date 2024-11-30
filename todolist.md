@@ -1,15 +1,9 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Extracted Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
-8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
-9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+## Actionable Tasks
+1. **Review `todolist.md`**: Identify and extract tasks.
+2. **Document Key Themes**: Note the themes that emerge from the tasks.
+3. **Create Chapter Outlines**: Develop outlines based on the identified themes.
 
 ## Extracted Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
@@ -23,10 +17,6 @@
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ## Key Themes for Chapter Frameworks
-### Documentation and Tracking
-1. **Create a Structured Log File**: This log will serve as the primary documentation file where key decisions, character developments, and plot changes will be recorded.
-2. **Establish Initial Milestones**: Document initial milestones that will guide the creative process.
-3. **Set Up a Progress Tracking System**: Develop a method for regularly updating the log file with new insights, breakthroughs, and changes as the writing progresses.
 1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
