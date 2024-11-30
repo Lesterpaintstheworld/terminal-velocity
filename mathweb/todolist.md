@@ -14,16 +14,32 @@
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ## Narrative Elements
-1.1 Develop Act 1 Outline
-1.2 Draft Initial Scenes for Act 1
+- **1.1 World Building**
+  - Review and update `./world_building/world_building_overview.md`
+  - Finalize cultural landscape details in `./world_building/cultural_landscape.md`
+  - Integrate economic frameworks in `./world_building/economic/framework/economic_systems.md`
 
-## Character Arcs
-2.1 Finalize Character Profiles
-2.2 Develop Character Arcs
+- **1.2 Story Structure**
+  - Complete outlines for each act in `./story/structure/act_outlines.md`
+  - Draft key scenes in `./story/act1/act1_scenes.md`
 
-## Technical Requirements
-3.1 Review Technical Concepts
-3.2 Integrate Feedback from Technical Review
+#### 2. Character Arcs
+- **2.1 Character Development**
+  - Update character profiles for AI protagonists in `./characters/ai_protagonists/*`
+  - Refine human character arcs in `./characters/human_characters/*`
+
+- **2.2 Interaction Dynamics**
+  - Analyze interaction scripts in `./characters/interaction_scripts/`
+  - Identify gaps in character interactions in `./characters/character_interaction_matrix.md`
+
+#### 3. Technical Requirements
+- **3.1 Technical Accuracy**
+  - Review technical concepts in `./final_text/act1/technical_accuracy_check.md`
+  - Validate economic models in `./research/economic/economic_models.md`
+
+- **3.2 Integration Tasks**
+  - Document integration opportunities in `./integration_opportunities.md`
+  - Assess technical specifications in `./world_building/technical/technical_context.md`
 
 ## Narrative Elements
 1.1 Develop Act 1 Outline

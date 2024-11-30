@@ -6,6 +6,13 @@
 3. **Create Chapter Outlines**: Develop outlines based on the identified themes.
 
 ## Extracted Key Research Topics
+
+## Actionable Tasks
+1. **Review `todolist.md`**: Identify and extract tasks.
+2. **Document Key Themes**: Note the themes that emerge from the tasks.
+3. **Create Chapter Outlines**: Develop outlines based on the identified themes.
+
+## Extracted Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
 3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
@@ -15,6 +22,8 @@
 7. **Economic Models Post-UBC** - Low urgency; important for future planning.
 8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+
+## Narrative Elements
 
 ## Key Themes for Chapter Frameworks
 1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
