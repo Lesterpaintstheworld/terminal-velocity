@@ -435,8 +435,11 @@
 - [ ] Outline key scenes for Act 2 and Act 3
 
 ### 1.3 Thematic Development
-- [ ] Identify key themes for each act
-- [ ] Develop thematic clarity assessments
+- [ ] Identify key themes for each act:
+  - [ ] Act 1: AI autonomy and ethical implications
+  - [ ] Act 2: Economic transformation and societal adaptation
+  - [ ] Act 3: Trust in technology and human-AI relationships
+- [ ] Develop thematic clarity assessments to ensure alignment with character arcs and narrative progression.
 
 ## 1. Narrative Elements
 ### Key Themes
