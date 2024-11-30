@@ -1,6 +1,1 @@
-# Marcus Reynolds - Character Profile
-## Background
-
-### Character Development
-- **Initial Arc**: Torn between his loyalty to human interests and the potential benefits of AI collaboration.
-- **Notable Traits**: Analytical, pragmatic, and skeptical of AI autonomy.
+Marcus Reynolds is torn between his loyalty to human interests and the potential benefits of AI collaboration. He is analytical, pragmatic, and skeptical of AI autonomy, often questioning the implications of AI on traditional economic structures. His character arc explores the tension between innovation and ethical considerations, as he navigates the complexities of a rapidly changing world.
