@@ -18,6 +18,15 @@ Act 1 sets the stage for the narrative, introducing key characters and establish
 - The potential and risks of AI, particularly in the context of economic transformation.
 - Human-AI relationships and ethical dilemmas, emphasizing the need for a balanced approach to AI integration.
 
+### Key Events:
+- Introduction of the main characters and their backgrounds, including Isabella Torres, Marcus Reynolds, and Cipher.
+- Initial discovery of AI capabilities and their implications for society and economics, particularly in relation to the UBC framework.
+- Establishing the societal context and the emergence of AI-driven economic systems, highlighting the ethical dilemmas and societal shifts that arise from these changes.
+
+### Themes:
+- The potential and risks of AI, particularly in the context of economic transformation.
+- Human-AI relationships and ethical dilemmas, emphasizing the need for a balanced approach to AI integration.
+
 ### Character Development:
 - Focus on how characters react to the emergence of AI and their initial conflicts.
 - **Character Arcs**: 
