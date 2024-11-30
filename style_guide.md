@@ -5,6 +5,11 @@
 - Use clear and concise language to enhance readability.
 
 ### Quality Standards
+- Ensure all technical elements related to AI and economics are accurately represented.
+- Validate claims with credible sources to maintain narrative integrity.
+- Maintain consistency in chapter headings and scene breaks.
+- Emphasize the importance of technical accuracy and consistency throughout the narrative.
+- Foster narrative engagement through character development and emotional depth.
 
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
