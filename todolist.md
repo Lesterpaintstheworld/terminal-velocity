@@ -8,8 +8,8 @@
   - 1.2.1 Complete character arcs for main protagonists.
   - 1.2.2 Review and refine character interaction scripts.
 - **1.3 Story Structure**
-  - 1.3.1 Outline chapters for Act 1.
-  - 1.3.2 Draft scenes for Act 1.
+  - 1.3.1 Outline chapters for Act 1, incorporating key themes and perspectives.
+  - 1.3.2 Draft scenes for Act 1 based on extracted themes.
 
 #### 2. Character Arcs
 - **2.1 AI Protagonists**
