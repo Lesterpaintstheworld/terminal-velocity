@@ -1,12 +1,14 @@
 # Deduplication Report for Terminal Velocity Project
 
-## Deduplication Process Steps
+## Deduplication Process Overview
+### Objective
+To initiate the deduplication process effectively, I will begin with the following steps:
 
-1. **Content Duplication Detection**: Begin by scanning the narrative files to identify semantically similar content and partial overlaps. This will involve assessing thematic relevance and contextual overlap among the files.
+1. **Content Duplication Detection**: I will scan the narrative files to identify semantically similar content. This will involve analyzing the files for any thematic relevance and contextual overlap that suggests duplication.
 
-2. **Pre-Consolidation Checks**: Before merging any identified duplicates, perform validation checks to ensure that all relevant information from the files is captured and that the narrative structure remains intact.
+2. **Detecting Partial Overlaps**: In conjunction with the first step, I will assess the file structures for any partial duplications, focusing on repeated phrases or similar narrative arcs that may need consolidation.
 
-3. **Execute Safe Merges**: Once validation is complete, proceed to merge the identified duplicate files using the Aider interface, ensuring that the context and meaning of each segment are preserved.
+3. **Pre-Consolidation Checks**: Before proceeding with any merging, I will perform checks to confirm that all relevant information is captured and that the narrative structure is not disrupted by potential consolidation.
 
 ## 2. Detect Partial Overlaps
 - **Analyze for Repeated Phrases**: Look for files that may contain repeated phrases or segments, particularly in character development, interaction scripts, and scene descriptions.
@@ -14,7 +16,8 @@
 ## 3. Document Findings
 - **Create a Report**: Compile a report detailing identified duplicates and overlaps, categorizing them by type (e.g., character profiles, scene descriptions) for consolidation in the next phase.
 
-## Initial Findings
+### Next Steps
+- I will begin scanning the files for duplication and partial overlaps, documenting findings for further analysis. Once duplicates are identified, I will prepare for safe consolidation, ensuring that the narrative integrity is maintained throughout the process.
 - **Character Profiles**: Multiple files exist for characters such as Isabella Torres and Marcus Reynolds, which may have overlapping content in their profiles and development arcs.
 - **Scene Descriptions**: Numerous scene files across different acts may contain similar narrative elements or dialogues.
 - **Interaction Scripts**: Multiple interaction scripts for characters could have redundant content.
