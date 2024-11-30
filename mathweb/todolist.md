@@ -2,22 +2,51 @@
 
 ## Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-### Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Economic Decision-Making** - Essential for evaluating the implications of UBC on the economy.
-3. **Societal Impacts of AI** - Important for narrative development and character interactions.
-4. **Governance and Regulation** - Relevant for ethical considerations and societal impact.
-5. **Technological Landscape** - Necessary for creating a believable setting.
-6. **Cultural Implications** - Vital for engaging storytelling.
-7. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
-8. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+### 1. Narrative Elements
+- **World Building**
+  - 1.1 Review existing world-building documents
+  - 1.2 Identify gaps in cultural and societal aspects
+  - 1.3 Integrate AI rights framework into world-building
 
-### Proposed Actions for "Terminal Velocity"
-1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files and identify essential narrative elements, character arcs, and thematic components that are crucial for "Terminal Velocity."
+- **Character Development**
+  - 2.1 Finalize character arcs for main characters
+  - 2.2 Develop interaction scripts for key scenes
+  - 2.3 Assess emotional dynamics between characters
 
-2. **Organize Specifications**: Structure the extracted specifications into a clear format, categorizing them into sections and subsections to reflect the narrative's progression and technical requirements.
+- **Story Structure**
+  - 3.1 Outline acts and chapters
+  - 3.2 Draft scenes for Act 1
+  - 3.3 Review thematic elements across acts
 
-3. **Monitor for Updates**: Set up a monitoring mechanism for the mission files to track any updates or modifications that may impact the specifications, ensuring that they remain consistent and relevant.
+### 2. Character Arcs
+- **AI Protagonists**
+  - 4.1 Complete profiles for AI characters
+  - 4.2 Map character relationships and dynamics
+  - 4.3 Develop ethical dilemmas faced by AI characters
+
+- **Human Characters**
+  - 5.1 Finalize backstories for human characters
+  - 5.2 Assess character motivations and internal conflicts
+  - 5.3 Create interaction scripts for human-AI dynamics
+
+### 3. Technical Requirements
+- **Research and Validation**
+  - 6.1 Validate technical accuracy of AI concepts
+  - 6.2 Review economic models and frameworks
+  - 6.3 Integrate feedback from technical reviews
+
+- **Final Text Preparation**
+  - 7.1 Compile final drafts for each act
+  - 7.2 Ensure consistency in formatting and style
+  - 7.3 Prepare for beta reader feedback
+
+### Task Priority System
+- Tasks will be numbered to indicate priority and dependencies (e.g., 1.1, 1.2).
+- Dependencies will be outlined, linking tasks that are contingent on others.
+
+### Task Dependencies
+- **Example**: 
+  - Task 1.1 (Review existing world-building documents) must be completed before Task 1.2 (Identify gaps in cultural and societal aspects).
 
 ### Content Mapping Insights
 - **Economic Frameworks**: UBC can significantly alter traditional economic models by providing a safety net for individuals, allowing for greater risk-taking and innovation.
