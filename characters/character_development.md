@@ -33,7 +33,10 @@
   - Development Arc: Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights.
 
-## Summary
+## Summary of Knowledge Gaps
+- **Isabella Torres**: Further exploration needed on her internal conflicts regarding AI rights and personal relationships.
+- **Marcus Reynolds**: Additional insights required on his transition from skepticism to collaboration with AI.
+- **Cipher**: Clarification on its emotional evolution and relationship dynamics with human characters.
 This document outlines the character arcs for the main characters in "Terminal Velocity," ensuring consistency and alignment with the narrative structure.
 
 ## AI Protagonists
