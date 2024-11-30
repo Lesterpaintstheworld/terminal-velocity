@@ -12,6 +12,11 @@
 10. **Governance and Regulation** - Medium urgency; important for ethical AI deployment.
 11. **Technological Landscape** - Medium relevance; necessary for understanding current AI technologies.
 12. **Cultural Implications** - Medium relevance; valuable for narrative depth.
+8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+10. **Governance and Regulation** - Medium urgency; important for ethical AI deployment.
+11. **Technological Landscape** - Medium relevance; necessary for understanding current AI technologies.
+12. **Cultural Implications** - Medium relevance; valuable for narrative depth.
 
 ## Introduction
 This document outlines the key research topics identified for the "Terminal Velocity" project, focusing on Universal Basic Compute (UBC) systems and AI economic principles.
