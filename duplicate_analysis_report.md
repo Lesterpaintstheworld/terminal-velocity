@@ -3,10 +3,11 @@
 ## Action Plan for Content Duplication Detection
 
 1. **Content Duplication Detection:**
-   - Begin scanning the narrative files for semantically similar content. Focus on files that are likely to contain overlapping themes, characters, or plot points. Key areas to check include:
+   - Scan narrative files for semantically similar content, focusing on areas likely to contain overlaps, such as:
      - Character profiles (e.g., `./characters/ai_protagonists/cipher/profile.md`)
      - Scene descriptions (e.g., `./story/act1/chapter1/scene1.md`)
      - Interaction scripts (e.g., `./characters/interaction_scripts/combined_interactions.md`)
+     - Ensure a systematic approach to identify and document all instances of duplication.
 
 2. **Document Duplicates:**
    - Create a record of identified duplications, noting:
