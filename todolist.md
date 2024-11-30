@@ -5,6 +5,9 @@
 - 1.1.1 Finalize world-building systems documentation.
 - 1.1.2 Integrate cultural landscape insights into narrative.
 - 1.1.3 Review economic frameworks for consistency.
+- 1.1.4 Extract key research topics related to UBC systems and AI economic decision-making.
+- 1.1.5 Document findings from the review of project files.
+- 1.1.6 Outline research strategies for information gathering.
 
 ### 1.2 Story Structure
 - 1.2.1 Complete act outlines for Act 1.
@@ -25,6 +28,8 @@
 ### 3.1 Technical Accuracy
 - 3.1.1 Validate AI and economic concepts within the narrative.
 - 3.1.2 Review technical specifications for AI systems.
+- 3.1.3 Compile a structured document to record identified research topics and preliminary information.
+- 3.1.4 Cross-reference findings with existing documents related to UBC and AI economic principles.
 
 ### 3.2 Research Integration
 - 3.2.1 Compile research findings on economic implications.
