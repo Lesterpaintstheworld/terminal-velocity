@@ -10,6 +10,13 @@
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
 ## Character Development Insights and Mapping for "Terminal Velocity"
+- **Isabella Torres**:
+  - Initial Motivation: Advocate for AI rights and integration.
+  - Key Moments: 
+    - Presentation of UBC framework.
+    - Confrontation with Marcus regarding ethical implications.
+  - Relationships: 
+    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 - **Structural Coherence**: Ensure that character arcs align with the overall narrative structure, validating the logical flow and coherence of character interactions and developments.
 
 ## Main Characters

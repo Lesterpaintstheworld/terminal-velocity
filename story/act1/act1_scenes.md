@@ -1,6 +1,15 @@
-# Act 3 Crisis Points
-## Crisis Point Identification
-1. **Crisis Emergence**: A significant threat to the AI governance model prompts urgent discussions among key characters, highlighting the fragility of the current system and the potential consequences of inaction. Tensions rise as stakeholders react to proposed changes, leading to public outcry and political maneuvering. Isabella's advocacy for ethical governance clashes with Marcus's push for rapid implementation, creating a rift between them. A pivotal debate in a public forum forces characters to confront their differing ideologies and the implications of their decisions, compelling them to reevaluate their motivations and the impact of their actions.
+# Act 1 Scene Outlines
+# TODO: Look for resolution mechanisms and character arcs.
+
+## Chapter 10: Crisis Points
+- **Scene 1**: Public Demonstration
+  - Citizens protest against AI governance, highlighting rising tensions between factions regarding AI rights.
+- **Scene 2**: Faction Conflicts
+  - Tensions rise as stakeholders react to proposed changes, leading to public outcry and political maneuvering.
+- **Scene 3**: Emergency Response
+  - Characters respond to a crisis involving AI and human interactions, showcasing the consequences of their earlier decisions.
+
+This document will be updated as scenes are developed and refined.
 ## Main Conflict Progression
 - **Character Dynamics**: The interactions between Isabella, Marcus, and Cipher become increasingly fraught as they navigate conflicting priorities. Isabella's commitment to social equity is challenged by Marcus's focus on efficiency, leading to intense debates that reveal their underlying fears and aspirations. Each character faces personal and professional challenges that test their commitment to ethical governance and social equity.
 - **Ethical Dilemmas**: Each character faces personal and professional challenges that test their commitment to ethical governance and social equity. Isabella grapples with the fear that her push for innovation might neglect the needs of vulnerable populations, while Marcus struggles with the consequences of prioritizing economic growth over ethical considerations.
