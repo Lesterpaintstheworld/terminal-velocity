@@ -27,6 +27,15 @@
 
 ## Document Findings for Terminal Velocity Narrative
 
+### Semantic Mapping and Redundancy Analysis
+- **Objective**: Identify and document instances of redundant semantic content across narrative files.
+- **Action**: Begin by scanning key files related to the narrative structure, character development, and thematic elements. Focus on identifying duplications in:
+  - **Character Profiles**: Look for overlapping character traits, backgrounds, and development arcs.
+  - **Story Elements**: Analyze chapters and scenes for repeated themes or plot points.
+  - **World-Building Documents**: Examine economic frameworks and societal structures for redundancy.
+
+### Key Research Topics
+
 ## Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance and its implications for economic models.
 2. **AI Economic Decision-Making** - High relevance as it directly impacts UBC deployment and includes mechanisms of AI in economic forecasting.
