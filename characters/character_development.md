@@ -10,6 +10,7 @@
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
 ## Character Development Insights and Mapping for "Terminal Velocity"
+- **Structural Coherence**: Ensure that character arcs align with the overall narrative structure, validating the logical flow and coherence of character interactions and developments.
 
 ## Main Characters
 ### Isabella Torres
