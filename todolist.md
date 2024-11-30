@@ -1,6 +1,17 @@
 # Todo List
 
 ## 1. Narrative Elements
+### 1.1 World Building
+- [ ] Review existing world-building documentation for consistency.
+- [ ] Integrate new cultural and economic frameworks into the narrative.
+- [ ] Finalize the societal landscape descriptions.
+
+### 1.2 Story Structure
+- [ ] Complete act outlines for Act 1, Act 2, and Act 3.
+- [ ] Draft initial scenes for Act 1.
+- [ ] Outline transitions between acts.
+
+## 1. Narrative Elements
 ### 1.1 Chapter Frameworks
 - [ ] 1.1.1 Complete chapter outlines for Acts 1-4
 - [ ] 1.1.2 Finalize key themes for each chapter
