@@ -1,14 +1,14 @@
 # Chapter Frameworks Overview
 
-## Act 1: Emergence
-### Chapter 1: The Awakening
-#### Key Themes
-- **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
-- **Economic Transformation**: Exploration of how UBC reshapes economic structures.
-- **Human-AI Relations**: Dynamics between humans and AI as they navigate new realities.
-- **Ethical Dilemmas**: Challenges and moral questions arising from AI autonomy.
-- **Societal Implications**: How society adjusts to the integration of AI and UBC.
-- **Character Perspectives**: Introduction of key characters and their motivations, setting the stage for future conflicts.
+## Key Themes and Perspectives
+1. **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
+2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
+3. **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
+4. **Ethical Dilemmas**: Challenges and moral questions arising from AI autonomy.
+5. **Societal Implications**: How society adjusts to the integration of AI and UBC.
+6. **Trust in Technology**: The evolving relationship between humans and automated systems.
+7. **Character Development**: Growth and evolution of key characters in response to AI changes.
+8. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
 
 ### Chapter 2: The Rise of AI Autonomy
 #### Key Themes
