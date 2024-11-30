@@ -1,4 +1,10 @@
-# Dr. Evelyn Carter - Character Profile for "Terminal Velocity"
+## Dr. Evelyn Carter - Character Profile for "Terminal Velocity"
+### Overview
+Dr. Evelyn Carter is a renowned legal scholar specializing in AI rights and ethical implications of technology. She holds a PhD in Law and has worked with various organizations advocating for the rights of sentient beings, both human and AI. Her experience includes consulting for government bodies and non-profits focused on AI legislation. Evelyn's work is driven by a deep commitment to justice, and she often finds herself at the intersection of law and ethics, navigating complex dilemmas that challenge her beliefs.
+
+### Motivations and Internal Conflicts
+- **Ethical Reflection**: In her discussions with characters like Isabella Torres, Evelyn emphasizes the importance of ethical considerations in AI legislation, stating, "We must ensure that our legal frameworks do not just protect AI rights but also consider the societal impacts of these technologies." This highlights her commitment to a holistic approach to AI rights advocacy and the emotional stakes involved in her work.
+- **Emotional Stakes**: Evelyn often grapples with the ethical implications of her work, reflecting on the responsibilities of creators towards AI entities. She states, "We must ensure that our actions do not inadvertently harm those we aim to protect," underscoring her dedication to ethical advocacy in the face of complex dilemmas.
 ## Background Information
 - Throughout her journey, Evelyn has faced significant ethical challenges, particularly in her discussions with Isabella Torres. These interactions have shaped her understanding of the importance of integrating ethical considerations into AI legislation. For example, she often reflects on the need for legal frameworks that not only protect AI rights but also consider the societal impacts of these technologies, stating, "We must ensure that our legal frameworks do not just protect AI rights but also consider the societal impacts of these technologies." This highlights her commitment to a holistic approach to AI rights advocacy and the emotional stakes involved in her work.
 ## Background Information
