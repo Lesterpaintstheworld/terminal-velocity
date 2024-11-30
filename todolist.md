@@ -33,10 +33,15 @@
 - **2.1 Complete Profiles for AI Protagonists** is a prerequisite for **2.2 Develop Emotional Arcs for Human Characters**.
 - **3.1 Validate Technical Concepts in Drafts** must be completed before **3.2 Review Economic Models for Plausibility**.
 
-### Current Focus Areas
-- Prioritize finalizing the Act 1 outline and drafting scenes.
-- Focus on completing character profiles for AI protagonists.
-- Validate technical concepts to ensure accuracy in the narrative.
+## Key Research Topics
+1. Universal Basic Compute (UBC) Framework Analysis
+2. AI Economic Decision-Making
+3. Societal Impacts of AI
+4. Ethical Considerations
+5. Technological Integration
+6. Governance and Regulation
+7. Technological Landscape
+8. Cultural Implications
 
 ## 2. Character Arcs
 ### 2.1 Character Development
