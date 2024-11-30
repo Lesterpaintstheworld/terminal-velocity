@@ -3,20 +3,8 @@
 ## Main Characters
 
 ### Isabella Torres
-### Isabella Torres
-- Initial motivations and conflicts.
-- Document any breakthroughs or shifts in her arc during the initial draft phase.
-
-### Marcus Reynolds
-- Key traits and relationships.
-- Track any developments in his character arc.
-
-### Cipher
-- Emotional evolution and ethical considerations.
-- Note any significant changes in his understanding of identity and purpose.
-
-### Marcus Reynolds
-- Key traits and relationships.
-
-### Cipher
-- Emotional evolution and ethical considerations.
+## Character Arc Evolution - Protagonist: Isabella Torres
+- **Key Moments**:
+  - Isabella's initial conflict with Marcus regarding AI rights (Scene 2).
+  - Emotional breakthrough during the confrontation with Cipher (Scene 5).
+  - Shift in her perspective on AI autonomy after witnessing the consequences of her decisions.
