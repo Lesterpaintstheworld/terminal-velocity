@@ -90,10 +90,8 @@
 3.2 **Feedback Incorporation**
    - Review beta reader feedback and integrate necessary changes into character arcs and narrative structure.
 
-## 4. Phase Transitions
-- **4.1 Current Phase**
-  - Mark the current phase of the narrative as **Act 1 Development**
-  - Ensure readiness for transition to Act 2 upon completion of outlined tasks
+## 4. Progress Tracking
+- Regularly update progress on tasks and adjust priorities as needed.
 
 - **4.2 Indicators for Next Act**
   - Complete all character arcs for Act 1
