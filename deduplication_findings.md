@@ -1,13 +1,12 @@
 # Deduplication Findings
 
-## Detected Duplicates
-- **Character Motivations**: Found in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
-- **Scene Descriptions**: Similar content in `./story/act1/chapter1/scene1.md` and `./story/act2/chapter1/scene1.md`
-- **Character Traits**: Overlapping traits in `./characters/ai_protagonists/cipher/profile.md` and `./characters/ai_protagonists/cipher/character_profiles/02_001_character_profile_cipher.md`
-- **Thematic Elements**: Redundant themes in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
-- **Character Arcs**: Similar arcs in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/marcus_reynolds/profile.md`
+## Summary of Findings
+- **Identified Duplicates**: 
+  - Character motivations, scene descriptions, character traits, thematic elements, and character arcs have been documented.
+- **Next Steps**: 
+  - Prepare for the consolidation phase based on these findings.
 
-## Partial Overlaps
+## Detected Partial Overlaps
 - **Thematic Overlaps**: Found in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
 - **Character Arcs**: Similar arcs in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/marcus_reynolds/profile.md`
 
