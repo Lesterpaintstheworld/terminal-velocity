@@ -1,5 +1,8 @@
 # Initial Content Verification Findings
 
+## Document Identification
+- Review existing preparatory documents to identify all text deliverables related to the narrative, including chapter outlines and character arcs.
+
 ## Initial Content Verification Findings
 
 ### Technical Accuracy Review
