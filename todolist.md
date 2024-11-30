@@ -1,5 +1,18 @@
 # Terminal Velocity Mission - Todo List
 
+## Narrative Elements
+- **World Building**
+- **Character Development**
+- **Story Structure**
+
+## Character Arcs
+- **AI Protagonists**
+- **Human Characters**
+
+## Technical Requirements
+- **Technical Accuracy**
+- **Integration Tasks**
+
 ## Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
@@ -10,6 +23,14 @@
 7. **Economic Models Post-UBC** - Low urgency; important for future planning.
 8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+
+### Task Priority System
+- **1.1** (High Priority) Develop Act 1 Outline
+- **1.2** (Medium Priority) Draft Initial Scenes for Act 1
+- **2.1** (High Priority) Finalize Character Profiles
+- **2.2** (Medium Priority) Develop Character Arcs
+- **3.1** (High Priority) Review Technical Concepts
+- **3.2** (Medium Priority) Integrate Feedback from Technical Review
 
 ### Extracted Key Themes and Perspectives
 - Universal Basic Compute (UBC) Framework Analysis
@@ -44,10 +65,10 @@
 - **3.1** (High Priority) Review Technical Concepts
 - **3.2** (Medium Priority) Integrate Feedback from Technical Review
 
-2. **Character Development**
-   - 2.1 Finalize character arcs for **Isabella Torres** and **Marcus Reynolds**.
-   - 2.2 Review emotional evolution documents for **Cipher** and **Echo**.
-   - 2.3 Integrate feedback from beta readers on character interactions.
+### Task Dependencies
+- **1.1** Develop Act 1 Outline (depends on 1.2)
+- **2.1** Finalize Character Profiles (depends on 2.2)
+- **3.1** Review Technical Concepts (depends on 3.2)
 
 3. **Story Structure**
    - 3.1 Complete the **act1_outline.md** and ensure alignment with character arcs.
