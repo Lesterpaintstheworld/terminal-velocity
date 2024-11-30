@@ -1,4 +1,4 @@
-# Character Development Log
+# Character Development Insights
 
 ## Character Development Log
 

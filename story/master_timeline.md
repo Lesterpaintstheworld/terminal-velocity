@@ -1,4 +1,4 @@
-# Master Timeline Document
+# Master Timeline Overview
 
 ## Act 1
 - **Scene 1**: UBC Presentation
