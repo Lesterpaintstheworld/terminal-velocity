@@ -3,6 +3,11 @@
 ## 2024-11-30
 - Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
 - Developed initial chapter outlines based on extracted themes in `chapter_frameworks.md`.
+- Documented changes in `change_logs.md` to reflect key themes and perspectives relevant to the narrative.
+
+## 2024-11-30
+- Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
+- Developed initial chapter outlines based on extracted themes in `chapter_frameworks.md`.
 - Documented changes in `chapter_themes_extraction.md` to reflect key themes and perspectives relevant to the narrative.
 - Created a new file `extracted_requirements.md` to summarize key narrative elements, character arcs, and thematic components for "Terminal Velocity."
 - Updated character development insights in `characters\character_development.md` to reflect character arcs and emotional stakes for main characters.
