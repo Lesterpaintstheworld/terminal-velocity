@@ -1,4 +1,4 @@
-# Style Guide for Terminal Velocity
+## Style Guide for Terminal Velocity
 
 ### Tone and Voice Examples
 - **Detailed Examples**: 

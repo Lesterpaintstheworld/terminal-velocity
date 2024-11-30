@@ -1,4 +1,4 @@
-# Key Themes and Perspectives for "Terminal Velocity"
+## Key Themes and Perspectives for "Terminal Velocity"
 
 ## Key Themes and Perspectives
 1. **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
