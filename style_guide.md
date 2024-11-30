@@ -9,6 +9,22 @@
 - **Detailed Examples**: 
   - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
+
+### Quality Assessment Criteria
+- Ensure all technical elements related to AI and economics are accurately represented.
+- Validate claims with credible sources to maintain narrative integrity.
+- Maintain consistency in chapter headings and scene breaks.
+- Foster narrative engagement through character development and emotional depth.
+
+### Tone and Voice Examples
+
+### Additional Examples
+
+- **Character Dialogue**: Provide examples of character dialogue that reflect their unique voices. For instance, Isabella might say, "We must embrace AI as partners, not threats," while Marcus might counter, "But at what cost to our humanity?"
+- **Active Voice Usage**: Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
+- **Detailed Examples**: 
+  - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
+  - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
 - **Character Dialogue**: Provide examples of character dialogue that reflect their unique voices. For instance, Isabella might say, "We must embrace AI as partners, not threats," while Marcus might counter, "But at what cost to our humanity?"
 - **Active Voice Usage**: Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
 - **Detailed Examples**: 
