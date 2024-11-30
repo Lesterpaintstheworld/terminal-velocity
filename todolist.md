@@ -1,6 +1,15 @@
 # Todo List for Terminal Velocity Project
 
 ## 1. Narrative Elements
+### Key Research Topics
+- Universal Basic Compute (UBC) Framework Analysis
+- AI Economic Decision-Making
+- Societal Impacts of AI
+- Ethical Considerations
+- Technological Integration
+- Governance and Regulation
+- Technological Landscape
+- Cultural Implications
 ### Deduplication Tasks
 - Identify and document instances of redundant information in narrative files.
 - Analyze file structures for partial duplications and repeated phrases.
