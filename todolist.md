@@ -51,6 +51,9 @@
 - 1.1.4 Extract key research topics related to UBC systems and AI economic decision-making.
 - 1.1.5 Document findings from the review of project files.
 - 1.1.6 Outline research strategies for information gathering.
+- 1.1.4 Extract key research topics related to UBC systems and AI economic decision-making.
+- 1.1.5 Document findings from the review of project files.
+- 1.1.6 Outline research strategies for information gathering.
 
 ### 1.2 Story Structure
 - 1.2.1 Complete act outlines for Act 1.

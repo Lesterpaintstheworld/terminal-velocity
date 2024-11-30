@@ -3,6 +3,9 @@
 ## Introduction
 This document outlines the key research topics identified for the "Terminal Velocity" project, focusing on Universal Basic Compute (UBC) systems and AI economic principles.
 
+## Introduction
+This document outlines the key research topics identified for the "Terminal Velocity" project, focusing on Universal Basic Compute (UBC) systems and AI economic principles.
+
 ## Identified Research Topics
 
 1. **Universal Basic Compute (UBC) Framework**:

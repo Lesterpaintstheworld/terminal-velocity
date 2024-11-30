@@ -2,7 +2,15 @@
 
 ## Key Deliverables and Quality Metrics
 - For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
-- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+- **Extracted Key Research Topics**:
+1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
+2. **AI Economic Decision-Making** - High relevance as it directly impacts UBC deployment.
+3. **Societal Impacts of AI** - Medium urgency; important for understanding user empowerment.
+4. **Ethical Considerations** - Medium urgency; crucial for user adoption.
+5. **Technological Integration** - Medium relevance; important for ethical considerations.
+6. **Governance and Regulation** - Medium urgency; important for ethical AI deployment.
+7. **Technological Landscape** - Medium relevance; necessary for understanding current AI technologies.
+8. **Cultural Implications** - Medium relevance; valuable for narrative depth.
 
 ### Quality Assessment Criteria
 - **Quality Alert**: The specifications document lacks a dedicated section for quality assessment criteria. It is recommended to include specific criteria to guide evaluations effectively.
