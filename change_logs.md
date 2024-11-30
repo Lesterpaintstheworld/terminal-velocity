@@ -1,9 +1,7 @@
-# Change Log for Terminal Velocity Project
-
 ## 2024-11-30
-- Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
-- Developed initial chapter outlines based on extracted themes in `chapter_frameworks.md`.
-- Documented changes in `change_logs.md` to reflect key themes and perspectives relevant to the narrative.
+- Updated `mathweb\flask\chapter_frameworks.md` to include key themes and perspectives extracted from `todolist.md`.
+- Created structured outlines for the initial chapters based on the extracted themes and perspectives.
+- Documented changes made to the chapter frameworks for accountability.
 
 ## 2024-11-30
 - Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
