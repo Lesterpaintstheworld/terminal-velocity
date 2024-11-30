@@ -1,9 +1,11 @@
 # Deduplication Findings for "Terminal Velocity"
 
-## Overview
-This document will serve as a record of identified redundancies within the "Terminal Velocity" narrative. It will include similar information presented in various forms, along with their contexts.
+## Deduplication Findings for "Terminal Velocity"
 
-## Identified Redundancies and Overlaps
+### Overview
+This document serves as a record of identified redundancies within the "Terminal Velocity" narrative. It includes similar information presented in various forms, along with their contexts.
+
+### Identified Redundancies and Overlaps
 1. **Character Profiles**
    - Overlapping information found in profiles for Isabella Torres and Marcus Reynolds regarding their motivations and backgrounds.
 
