@@ -259,7 +259,7 @@ This document outlines the character arcs for the main characters in "Terminal V
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
 - **Marcus Reynolds**: 
-  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
+  - A corporate strategist focused on ensuring the safety and efficacy of AI systems. He balances innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities, as he navigates the tension between corporate interests and the need for social equity.
   - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities.
 - **Cipher**: 
   - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.

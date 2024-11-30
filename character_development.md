@@ -4,7 +4,7 @@
 
 ### Key Developments
 - **Isabella Torres**: 
-  - A passionate advocate for AI rights, navigating ethical dilemmas and societal pushback. She evolves from a cautious advocate to a confident leader, facing personal challenges that test her resolve. Her journey reflects broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative, particularly in her relationship with Marcus.
+  - A passionate advocate for AI rights, navigating ethical dilemmas and societal pushback. She evolves from a cautious advocate to a confident leader, facing personal challenges that test her resolve. Her journey reflects broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative, particularly in her relationship with Marcus. Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc.
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc.
 - **Marcus Reynolds**: 
   - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
