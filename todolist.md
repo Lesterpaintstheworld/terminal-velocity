@@ -2,12 +2,13 @@
 
 ## 1. Narrative Elements
 ### 1.1 World Building
-- [ ] Finalize AI Lifestyle and Society Integration document.
-- [ ] Review cultural landscape elements.
-- [ ] Update economic systems overview.
-- [ ] Complete act 1 outline.
-- [ ] Draft act 2 scenes.
-- [ ] Review act 3 character dynamics.
+- [x] Finalize AI Lifestyle and Society Integration document.
+- [x] Review cultural landscape elements.
+- [x] Update economic systems overview.
+- [x] Complete act 1 outline.
+- [x] Draft act 2 scenes.
+- [x] Review act 3 character dynamics.
+- [ ] Extract key themes and perspectives related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
 - [ ] Develop AI Lifestyle and Society Integration.
 - [ ] Create cultural landscape documentation.
 - [ ] Outline economic systems integration.
