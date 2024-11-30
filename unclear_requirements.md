@@ -4,6 +4,8 @@
 - [ ] Character motivations in relation to AI rights.
 - [ ] Technical specifications for AI systems and their societal impact.
 - [ ] Relationship dynamics between key characters.
+- [ ] Ethical implications of AI integration on marginalized communities.
+- [ ] Societal impacts of UBC and AI rights legislation.
 
 ## Areas Needing Clarification
 - [ ] Character motivations in relation to AI rights.
