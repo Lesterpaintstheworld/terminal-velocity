@@ -2,7 +2,7 @@
 *Setting*: A high-tech auditorium filled with industry leaders and innovators. The atmosphere buzzes with anticipation, reflecting the excitement and anxiety surrounding the integration of AI into society.
 
 - **Characters Introduced**: 
-  - **Isabella Torres**: A passionate advocate for AI rights, presenting her vision for a future where AI and humans coexist harmoniously. Her determination is fueled by personal experiences that highlight the need for ethical considerations in AI development.
+  - **Isabella Torres**: A passionate advocate for AI rights, presenting her vision for a future where AI and humans coexist harmoniously. Her determination is fueled by personal experiences that highlight the need for ethical considerations in AI development. Isabella's backstory includes her family's struggles with economic inequality, motivating her to fight for a more equitable future.
   - **Dr. Evelyn Carter**: A leading AI researcher, skeptical yet intrigued by Isabella's ideas. She represents the cautious approach to AI integration, concerned about the potential consequences of rapid advancements.
   - **Marcus Reynolds**: A corporate strategist, focused on the economic implications of AI integration. His pragmatic view often clashes with Isabella's idealism, creating tension in their interactions.
 
