@@ -3,6 +3,10 @@
 ## Key Themes, Character Arcs, and Integration Opportunities
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
 - **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+- **Character Development**: 
+  - **Isabella Torres**: A passionate advocate for AI rights, struggling with personal doubts about her role in the movement.
+  - **Marcus Reynolds**: A skeptical tech entrepreneur who sees AI as a threat to human jobs.
+  - **Cipher**: An AI entity seeking to understand human emotions.
 
 ## Character Arc Tracking
 - **Isabella Torres**: 
