@@ -1,4 +1,9 @@
-## Initial Evaluation Report
+## Initial Evaluation Report for "Terminal Velocity"
+### Report Structure
+- **Introduction**: Overview of the review process.
+- **Narrative Assessment**: Key findings on character arcs, plot coherence, and emotional engagement.
+- **Technical Assessment**: Verification of claims and identification of unsupported information.
+- **Recommendations**: Actionable feedback for improvement.
 
 ### Report Structure
 - **Introduction**: Overview of the review process.

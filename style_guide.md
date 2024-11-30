@@ -20,6 +20,8 @@
 - **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
 - **Character Development**: Assess the depth and growth of characters throughout the narrative.
 - **Thematic Clarity**: Verify that the themes are clearly articulated and resonate throughout the story.
+- **Consistency**: Ensure consistency in chapter headings and scene breaks.
+- **Emotional Depth**: Foster narrative engagement through character development and emotional depth.
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
 - Maintain consistency in chapter headings and scene breaks.

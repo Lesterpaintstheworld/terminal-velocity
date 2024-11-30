@@ -9,6 +9,10 @@
   - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies.
   - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy.
   - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration.
+- **Marcus Reynolds**: 
+  - Act 1: Skeptical of AI, focused on corporate interests.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact.
+  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices.
 
 
 - **Marcus Reynolds**: 
