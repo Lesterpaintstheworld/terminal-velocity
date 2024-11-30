@@ -1,6 +1,15 @@
 # Todo List
 
 ## 1. Narrative Elements
+### Key Research Topics
+- Universal Basic Compute (UBC) Framework Analysis
+- AI Economic Decision-Making
+- Societal Impacts of AI
+- Ethical Considerations
+- Technological Integration
+- Governance and Regulation
+- Technological Landscape
+- Cultural Implications
 ### 1.1 Chapter Frameworks
 - [ ] Finalize chapter frameworks for Act 1
 - [ ] Draft chapter outlines for Act 2 and Act 3
