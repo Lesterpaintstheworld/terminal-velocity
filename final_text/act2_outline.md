@@ -6,9 +6,14 @@
 
 ## Character Development
 - Deepen character arcs, particularly focusing on emotional evolution and ethical dilemmas faced by both human and AI characters.
+- **Character Arcs**:
+  - Isabella: Faces public backlash and personal challenges in her advocacy.
+  - Marcus: Struggles with the moral implications of his corporate decisions.
+  - Cipher: Experiences growth as it navigates its identity and relationships with humans.
 
 ## Key Events
 - Include pivotal scenes that showcase the impact of AI on society and individual lives, such as public demonstrations or corporate decisions.
+- Highlight the emergence of new AI entities that challenge existing power dynamics.
 
 ## Act 2: Detailed Outline
 1. **Introduction of New Conflicts**

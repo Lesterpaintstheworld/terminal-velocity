@@ -14,6 +14,10 @@ Act 1 introduces the main characters, setting, and initial conflict, focusing on
 
 ### Character Development:
 - Focus on how characters react to the emergence of AI and their initial conflicts.
+- **Character Arcs**: 
+  - Isabella Torres: Advocate for AI rights, facing ethical dilemmas.
+  - Marcus Reynolds: Skeptical of AI, grappling with the implications of UBC.
+  - Cipher: An AI grappling with its own consciousness and purpose.
 
 ---
 
