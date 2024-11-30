@@ -1,5 +1,37 @@
 ## Initial Assessment Findings and Recommendations
 
+### Evaluation Template
+- **File Name**: [File Name]
+- **Date**: [Date]
+- **Evaluator**: [Evaluator Name]
+
+##### **Quality Criteria**
+1. **Narrative Engagement**
+   - Does the narrative maintain reader interest?
+   - Are character arcs compelling and well-developed?
+
+2. **Technical Accuracy**
+   - Are claims supported by credible sources?
+   - Is the technical language appropriate for the target audience?
+
+3. **Clarity and Coherence**
+   - Is the writing clear and free of jargon?
+   - Are ideas presented logically?
+
+4. **Consistency**
+   - Are formatting and terminology consistent throughout the document?
+   - Are character traits and development arcs consistent across profiles?
+
+##### **Findings**
+- **Strengths**: 
+  - [List strengths]
+  
+- **Areas for Improvement**: 
+  - [List areas needing improvement]
+
+##### **Recommendations**
+- [Provide actionable recommendations for each area needing improvement]
+
 ### Claims Verification
 - **Claim**: The UBC framework will lead to economic transformation.
   - **Source**: `./research/economic/economic_framework.md`
