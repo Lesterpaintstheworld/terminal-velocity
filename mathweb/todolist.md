@@ -22,6 +22,9 @@
 - **2.2**: Develop emotional evolution arcs for human characters (Isabella, Marcus, Sarah)
 - **2.3**: Outline key interactions and conflicts between characters
 - **2.4**: Review character development for consistency across acts
+- **2.5**: Document initial draft completion for Act 1, Chapter 1, noting key developments and challenges.
+- **2.6**: Track character arc development for Isabella Torres, highlighting significant breakthroughs.
+- **2.7**: Record plot thread evolution, documenting changes in AI rights movement and Isabella's journey.
 
 ## 3. Technical Requirements
 - **3.1**: Validate technical accuracy of AI and economic concepts in the narrative
