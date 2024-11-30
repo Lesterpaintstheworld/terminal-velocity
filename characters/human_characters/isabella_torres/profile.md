@@ -2,7 +2,7 @@
 ## Redaction Compliance
 This profile has been reviewed for sensitive information and complies with the latest redaction protocols.
 ### Overview
-Isabella Torres is a passionate advocate for ethical AI usage, focusing on the implications of technology on marginalized communities. Her background in social justice drives her commitment to ensuring that AI advancements do not exacerbate existing inequalities. Her interactions with Marcus Reynolds challenge her to confront the ethical dimensions of their decisions, enriching her character development. Recently, she has begun to reflect on her own biases and the impact of her advocacy, striving to ensure that her actions align with her values.
+Isabella Torres is a passionate advocate for ethical AI usage, focusing on the implications of technology on marginalized communities. Her background in social justice drives her commitment to ensuring that AI advancements do not exacerbate existing inequalities. Her interactions with Marcus Reynolds challenge her to confront the ethical dimensions of their decisions, enriching her character development. Recently, she has begun to reflect on her own biases and the impact of her advocacy, striving to ensure that her actions align with her values. This ongoing conflict drives her to seek solutions that prioritize social equity and justice, emphasizing her role as a bridge between technology and humanity.
 
 ### Character Development
 - **Initial Arc**: Struggles with her role in advocating for AI rights while facing societal pushback.
