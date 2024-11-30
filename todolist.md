@@ -1,6 +1,13 @@
 # Todo List
 
 ## 1. Narrative Elements
+- **Title**: Terminal Velocity
+- **Setting**: A near-future world (2025-2028) where AI significantly impacts economics and society.
+- **Themes**:
+  - Economic autonomy
+  - Trust in automated systems
+  - Human-AI relationships
+  - Ethical dilemmas in AI integration
 1.1 **World Building**
    - Define key societal structures influenced by AI.
    - Develop cultural landscapes and their implications on character interactions.
@@ -12,6 +19,15 @@
    - Integrate character arcs into the narrative flow.
 
 ## 2. Character Arcs
+- **AI Protagonists**:
+  - **Cipher**: Emotional evolution, ethical considerations, key moments of development.
+  - **Nova**: Philosophical concepts, key interactions, and relationship dynamics.
+  - **Echo**: Artistic philosophy and emotional stakes in human-AI relations.
+  
+- **Human Characters**:
+  - **Isabella Torres**: Ethical dilemmas, character development, and interactions with AI.
+  - **Marcus Reynolds**: Motivations, relationship dynamics, and role in the story.
+  - **Dr. Evelyn Carter**: Background, development arc, and interactions with AI.
 2.1 **Character Development**
    - Create detailed profiles for AI protagonists (e.g., Cipher, Nova).
    - Develop emotional evolution arcs for human characters (e.g., Isabella, Marcus).
