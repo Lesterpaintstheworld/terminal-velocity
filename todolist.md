@@ -1,6 +1,17 @@
 # Todo List
 
 ## 1. Narrative Elements
+- **1.1 World Building**
+  - 1.1.1 Finalize world-building systems
+  - 1.1.2 Integrate cultural and societal landscapes
+  - 1.1.3 Develop economic frameworks related to AI integration
+
+- **1.2 Story Structure**
+  - 1.2.1 Complete act outlines for all acts
+  - 1.2.2 Draft initial scenes for Act 1
+  - 1.2.3 Review and revise act transitions
+
+## 1. Narrative Elements
 ### Key Research Topics
 - Universal Basic Compute (UBC) Framework Analysis
 - AI Economic Decision-Making
@@ -33,6 +44,15 @@
    - Draft initial scenes for Act 2, focusing on character dynamics.
 
 ## 2. Character Arcs
+- **2.1 Character Development**
+  - 2.1.1 Finalize character profiles for AI protagonists
+  - 2.1.2 Develop emotional evolution arcs for human characters
+  - 2.1.3 Analyze character interactions and dynamics
+
+- **2.2 Character Relationships**
+  - 2.2.1 Map relationships between characters
+  - 2.2.2 Identify key moments in character arcs
+  - 2.2.3 Review ethical dilemmas faced by characters
 2.1 **AI Protagonists**
    - Complete emotional evolution profiles for AI characters.
    - Identify key moments that define character growth.
@@ -42,6 +62,15 @@
    - Outline ethical dilemmas faced by human characters in the narrative.
 
 ## 3. Technical Requirements
+- **3.1 Technical Accuracy**
+  - 3.1.1 Validate technical concepts in the narrative
+  - 3.1.2 Review economic models and implications
+  - 3.1.3 Ensure consistency in AI system capabilities
+
+- **3.2 Feedback Mechanism**
+  - 3.2.1 Create a section for integrating feedback from beta readers
+  - 3.2.2 Outline adjustments based on feedback for quality improvements
+  - 3.2.3 Schedule regular feedback sessions
 3.1 **Research Integration**
    - Compile economic models relevant to the narrative.
    - Validate technical accuracy of AI systems depicted in the story.
@@ -49,7 +78,15 @@
 3.2 **Feedback Incorporation**
    - Review beta reader feedback and integrate necessary changes into character arcs and narrative structure.
 
-## 4. Phase Coordination
+## 4. Phase Transitions
+- **4.1 Current Phase**
+  - Mark the current phase of the narrative as **Act 1 Development**
+  - Ensure readiness for transition to Act 2 upon completion of outlined tasks
+
+- **4.2 Indicators for Next Act**
+  - Complete all character arcs for Act 1
+  - Finalize world-building elements relevant to Act 1
+  - Review and finalize narrative coherence across scenes
 4.1 **Act Transitions**
    - Mark completion of Act 1 and readiness for Act 2 in the project timeline.
    - Prepare summaries of key themes and character developments for transition documentation.
