@@ -1,7 +1,7 @@
 # Actionable Tasks Summary for "Terminal Velocity"
 
 ### Extracted Action Items
-### Key Themes
+### Key Themes and Perspectives
 1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
@@ -10,6 +10,10 @@
 6. **Trust in Technology** - The evolving relationship between humans and automated systems.
 7. **Character Development** - Growth and evolution of key characters in response to AI changes.
 8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
+9. **Actionable Tasks**: 
+   - Extract key themes and perspectives from `todolist.md`.
+   - Develop initial chapter frameworks based on identified themes.
+   - Map out character arcs that align with the established themes.
 1. **Update todolist.md**: 
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
 2. **Draft Chapter Outline for Act 1**: 
