@@ -18,10 +18,16 @@ To begin the deduplication process for the "Terminal Velocity" mission, I will f
      - `./characters/cipher_character_profile.md`
    - **Isabella Torres Character Profile**:
      - `./characters/human_characters/isabella_torres/profile.md`
-     - `./characters/isabella_torres/profile.md`
+     - `./characters/human_characters/isabella_torres/profile/02_004_character_profile_isabella_torres.md`
    - **Marcus Reynolds Character Profile**:
      - `./characters/human_characters/marcus_reynolds/profile.md`
      - `./characters/human_characters/marcus_reynolds/profile/01_001_marcus_reynolds_-_character_profile.md`
+   - **Echo Character Profile**:
+     - `./characters/ai_protagonists/echo/profile.md`
+     - `./characters/ai_protagonists/echo_character_profile.md`
+   - **Nova Character Profile**:
+     - `./characters/ai_protagonists/nova/profile.md`
+     - `./characters/ai_protagonists/nova_character_profile.md`
 
 2. **Scene Drafts**:
    - **Act 1 Scenes**:
