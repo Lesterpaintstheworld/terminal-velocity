@@ -3,7 +3,12 @@
 ### Initial Assessment Findings
 - **Strengths**: The style guide provides clear guidelines on tone and formatting, essential for maintaining consistency.
 - **Weaknesses**: Some sections could benefit from more detailed examples.
-- **Recommendations**: Add examples of preferred tone and formatting to enhance clarity.
+### Tone and Voice Examples
+- Use active voice to create a sense of immediacy (e.g., "The AI calculated the results" instead of "The results were calculated by the AI").
+- Maintain a formal yet accessible tone, avoiding jargon where possible.
+- Example of preferred formatting: 
+  - Use bullet points for lists to enhance readability.
+  - Italicize key terms when first introduced (e.g., *Universal Basic Compute*).
 
 ## Tone and Voice
 - Maintain a consistent tone that reflects the themes of the narrative.
