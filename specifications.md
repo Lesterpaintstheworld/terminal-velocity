@@ -3,6 +3,15 @@
 ## Specifications for Terminal Velocity - Novel Mission
 
 ## Key Deliverables and Quality Metrics
+### Extracted Key Research Topics
+1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
+2. **AI Economic Decision-Making** - High relevance as it directly impacts UBC deployment.
+3. **Societal Impacts of AI** - Medium urgency; important for understanding user empowerment.
+4. **Ethical Considerations** - Medium urgency; crucial for user adoption.
+5. **Technological Integration** - Medium relevance; important for ethical considerations.
+6. **Governance and Regulation** - Medium urgency; important for ethical AI deployment.
+7. **Technological Landscape** - Medium relevance; necessary for understanding current AI technologies.
+8. **Cultural Implications** - Medium relevance; valuable for narrative depth.
 
 ### Quality Assessment Criteria
 1. **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
