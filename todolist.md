@@ -1,5 +1,15 @@
 # Terminal Velocity Mission - Todo List
 
+## Key Themes and Perspectives
+- AI Autonomy
+- Economic Transformation
+- Human-AI Relationships
+- Ethical Dilemmas
+- Societal Implications
+- Trust in Technology
+- Character Development
+- Cultural Shifts
+
 ## Narrative Elements
 - [ ] Develop chapter frameworks for each act:
   - [ ] Act 1: Introduction and Setup
