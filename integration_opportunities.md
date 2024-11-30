@@ -14,6 +14,8 @@
 - Review character profiles for consistency and depth, ensuring that emotional arcs are clearly articulated and integrated into the narrative.
 - Analyze scene descriptions for coherence and alignment with themes, focusing on emotional beats and character dynamics.
 - Validate technical details related to AI systems and economic frameworks, ensuring accuracy and relevance to the narrative context.
+- Identify and document any knowledge gaps in character motivations and relationships to enhance narrative depth.
+- Ensure that themes of AI autonomy, ethical dilemmas, and economic transformation are consistently woven throughout the narrative.
 
 ## Future Considerations
 - Continuously update documents as new insights emerge from ongoing research and analysis.

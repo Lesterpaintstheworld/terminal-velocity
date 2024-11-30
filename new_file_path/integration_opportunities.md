@@ -18,6 +18,8 @@
 ## Future Considerations
 - Continuously update documents as new insights emerge from ongoing research and analysis.
 - Maintain a focus on narrative coherence and character development throughout the writing process.
+- Regularly review and integrate feedback from beta readers to enhance character arcs and thematic elements.
+- Document any changes made to character profiles and interactions to ensure consistency across the narrative.
 
 ## Prioritized Insights
 1. **Character Development**: 
