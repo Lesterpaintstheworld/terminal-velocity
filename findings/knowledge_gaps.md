@@ -1,4 +1,4 @@
-# Knowledge Gaps Document
+# Knowledge Gaps Document (Updated)
 This document serves as a record of knowledge gaps identified during the scanning process of the "Terminal Velocity" project. It will help maintain coherence in the narrative and guide future integration efforts.
 
 ## Identified Knowledge Gaps

@@ -1,4 +1,4 @@
-# Terminal Velocity Insights
+# Terminal Velocity Insights (Updated)
 
 ## Story Elements
 ### Key Characters
