@@ -1,9 +1,22 @@
 # Research Topics for "Terminal Velocity"
 
+## Key Narrative Elements
+- **UBC System Overview**: Understanding the architecture and functionality of the UBC system.
+- **AI Economic Decision-Making**: Mechanisms of AI in economic forecasting and decision-making.
+- **Societal Impacts of AI**: Ethical considerations surrounding AI integration in society.
+- **Human-AI Collaboration**: Dynamics of collaboration between humans and AI systems.
+- **Economic Models and Frameworks**: Analysis of existing economic models in the context of AI.
+- **Cultural and Ethical Implications**: Exploration of cultural shifts due to AI advancements.
+
 ## Introduction
 This document outlines the key research topics identified for the "Terminal Velocity" project. These topics are crucial for understanding the implications of Universal Basic Compute (UBC) and AI integration in society.
 
-## Research Topics
+## Unclear Requirements
+- Character motivations in relation to AI rights.
+- Technical specifications for AI systems and their societal impact.
+- Relationship dynamics between key characters.
+- Ethical implications of AI integration on marginalized communities.
+- Societal impacts of UBC and AI rights legislation.
 
 1. **UBC System Overview**
    - Understanding the architecture and functionality of the UBC system.
