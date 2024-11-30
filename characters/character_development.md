@@ -43,12 +43,15 @@
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:
-  - Initial Motivation: Advocate for AI rights and integration.
+  - Initial Motivation: Advocate for AI rights and integration, driven by personal experiences and a strong sense of responsibility towards equitable access to resources.
   - Key Moments: 
     - Presentation of UBC framework.
-    - Confrontation with Marcus regarding ethical implications.
+    - Confrontation with Marcus regarding ethical implications, leading to a deeper understanding of the complexities involved.
   - Relationships: 
-    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
+    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative and the ethical dilemmas they face together.
+
+### Knowledge Gaps Identified
+- Further exploration needed on the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities. This should ensure that these themes are woven into character arcs and interactions throughout the narrative, enhancing the depth and relatability of the characters.
 
 ### Key Developments
 - **Isabella Torres**: 
