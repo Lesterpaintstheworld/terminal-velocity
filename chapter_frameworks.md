@@ -32,15 +32,15 @@
 - **Public Reaction**: Public reaction to AI advancements.
 - **Ethical Considerations**: Ethical considerations and societal debates.
 
-## Extracted Key Themes
-1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
-2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
-3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
-4. **Ethical Dilemmas** - Challenges and moral questions arising from AI autonomy.
-5. **Societal Adaptation** - How society adjusts to the integration of AI and UBC.
-6. **Trust in Technology** - The evolving relationship between humans and automated systems.
-7. **Character Development** - Growth and evolution of key characters in response to AI changes.
-8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
+## Key Themes and Character Arcs
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.
+
+## Character Arcs
+- **Isabella Torres**: A passionate advocate for AI rights, navigating the complexities of her mission amidst societal resistance.
+- **Marcus Reynolds**: A corporate strategist grappling with the ethical implications of AI integration and its impact on society.
+- **Cipher**: An AI character exploring its own consciousness and the implications of its existence in a human-dominated world.
 
 ## Act 1: Emergence
 ### Chapter 1: Introduction to AI and Society
