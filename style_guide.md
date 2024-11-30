@@ -15,6 +15,10 @@
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
   - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
+  - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
+  - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
+  - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
+  - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
 
 ### Additional Examples
 
