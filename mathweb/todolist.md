@@ -14,6 +14,8 @@
 4. **Governance and Regulation** - Relevant for ethical considerations and societal impact.
 5. **Technological Landscape** - Necessary for creating a believable setting.
 6. **Cultural Implications** - Vital for engaging storytelling.
+7. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+8. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ### Proposed Actions for "Terminal Velocity"
 1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files and identify essential narrative elements, character arcs, and thematic components that are crucial for "Terminal Velocity."
