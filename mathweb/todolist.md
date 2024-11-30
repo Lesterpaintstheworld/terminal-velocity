@@ -47,10 +47,17 @@
   - 3.2.2 Compile findings from initial content verification
   - 3.2.3 Prepare technical review materials
 
-### Task Dependencies
-- Link tasks that are contingent on others. For example:
-  - **1.3.1 Draft act outlines** must be completed before **1.3.2 Identify key themes for each act** can begin.
-  - **2.1.1 Cipher: Emotional evolution** must inform **2.1.3 Nova: Philosophical concepts**.
+## 3. Progress Tracking
+### Milestones
+- **Milestone 1**: Complete chapter frameworks and character arcs by Q1 2025.
+- **Milestone 2**: Draft initial scenes for Act 1 by Q2 2025.
+- **Milestone 3**: Integrate feedback and polish drafts by Q3 2025.
+- **Milestone 4**: Finalize the manuscript by Q4 2025.
+
+### Current Progress
+- Act 1 Chapter Outlines: In Progress
+- Act 1 Scene Drafts: Not Started
+- Character Profiles: Updated based on feedback
 
 ### Phase Management
 - **Act 1**: Complete by Q1 2025
