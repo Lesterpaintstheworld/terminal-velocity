@@ -2,6 +2,26 @@
 
 ## Key Narrative Elements
 ### Extracted Key Tasks
+1. **Themes**:
+   - **AI Autonomy**: Exploration of AI's rights and autonomy in society.
+   - **Economic Transformation**: Impact of AI on economic structures and systems.
+   - **Human-AI Relations**: Dynamics between humans and AI, including ethical dilemmas.
+
+2. **Character Arcs**:
+   - **Isabella Torres**: A human character navigating ethical dilemmas in AI advocacy.
+   - **Marcus Reynolds**: A human character facing internal conflicts regarding AI integration.
+   - **Cipher**: An AI character evolving in emotional and ethical understanding.
+   - **Echo**: An AI character exploring artistic expression and its implications.
+
+3. **Plot Points**:
+   - **Initial Conflict**: Introduction of societal tensions regarding AI rights.
+   - **Development Phase**: Characters face challenges and ethical dilemmas in their interactions.
+   - **Climactic Confrontation**: A pivotal moment where characters must choose sides in the AI rights movement.
+   - **Resolution**: Outcomes of the characters' choices and the societal implications.
+
+4. **Setting**:
+   - **UBC (Universal Basic Compute)**: A futuristic society where AI and humans coexist.
+   - **Virtual Spaces**: Environments where AI and humans interact, highlighting societal integration.
 1. **Narrative Elements**:
    - Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts.
    - Document findings in `research_topics_documentation.md`.
@@ -26,11 +46,17 @@
 This document outlines the key research topics identified for the "Terminal Velocity" project. These topics are crucial for understanding the implications of Universal Basic Compute (UBC) and AI integration in society.
 
 ## Unclear Requirements
-- Character motivations in relation to AI rights.
-- Technical specifications for AI systems and their societal impact.
-- Relationship dynamics between key characters.
-- Ethical implications of AI integration on marginalized communities.
-- Societal impacts of UBC and AI rights legislation.
+1. **Character Development**: 
+   - Specific emotional beats and key moments for each character need further clarification.
+   - Gaps in character interactions and development arcs require identification.
+
+2. **Technical Concepts**:
+   - Need for detailed explanations of AI systems and their integration into society.
+   - Clarification on the economic models that support the narrative.
+
+3. **Thematic Integration**:
+   - How themes will be woven into character arcs and plot points needs further specification.
+   - Identification of potential conflicts arising from the themes is necessary.
 
 1. **UBC System Overview**
    - Understanding the architecture and functionality of the UBC system.
