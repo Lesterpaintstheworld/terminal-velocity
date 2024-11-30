@@ -1,4 +1,4 @@
-# Act 1 Framework Outline
+## Act 1 Framework Outline
 
 1. **Chapter 1: Introduction to the World**
    - **Setting**: Description of the socio-economic landscape influenced by AI.

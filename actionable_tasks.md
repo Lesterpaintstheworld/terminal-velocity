@@ -1,4 +1,4 @@
-# Actionable Tasks for "Terminal Velocity"
+## Actionable Tasks for "Terminal Velocity"
 
 ## Content Planning
 - Create a structured plan that outlines the necessary content to be developed for each chapter and character arc, ensuring a balanced approach across the narrative.
