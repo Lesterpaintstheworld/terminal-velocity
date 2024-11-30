@@ -4,6 +4,9 @@
 This document compiles relevant research and insights on the Universal Basic Compute (UBC) system and AI economic processes. It aims to ensure accurate representation in the narrative of "Terminal Velocity."
 
 ## Key Areas of Research for UBC AI Economic Processes
+- UBC systems and their implications for economic models.
+- AI economic decision-making processes and their societal impacts.
+- Ethical considerations in AI integration and UBC deployment.
 - UBC System Specifications
 - Economic Frameworks
 - Societal Implications of UBC

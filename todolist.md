@@ -1,6 +1,10 @@
 # Todo List for Terminal Velocity
 
 ## 1. Narrative Elements
+### Key Research Topics
+- UBC systems and their implications for economic models.
+- AI economic decision-making processes and their societal impacts.
+- Ethical considerations in AI integration and UBC deployment.
 ### 1.1 Act 1
 - [ ] Finalize act 1 outline (Dependency: Initial chapter frameworks)
 - [ ] Draft initial scenes for act 1 (Dependency: Act 1 outline completion)
