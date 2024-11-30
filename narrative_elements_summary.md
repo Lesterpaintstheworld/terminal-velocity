@@ -1,10 +1,20 @@
 ## Key Narrative Elements Summary for "Terminal Velocity"
 
+### Extracted Key Narrative Elements
+- **Acts and Chapters**: The narrative is divided into three acts, with detailed chapters and scenes outlined.
+- **Character Arcs**: Each character has a well-defined arc that reflects their growth and interactions within the story.
+- **Themes**: The project includes thematic explorations of AI autonomy, economic transformation, and human-AI relations, which should be woven throughout the narrative.
+
 ### Character Arcs
 - **Isabella Torres**: 
   - Act 1: A passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies, particularly in relation to marginalized communities.
   - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy. Her journey reflects the broader societal struggles for equity and justice.
   - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration. Her character arc culminates in a pivotal moment where she must choose between personal ambition and collective responsibility.
+
+### Areas of Ambiguity
+- Character interaction dynamics, particularly between Isabella and Marcus.
+- The implications of AI integration on marginalized communities.
+- The ethical considerations surrounding AI rights and economic impacts.
 
 - **Marcus Reynolds**: 
   - Act 1: Initially skeptical of AI, focused on corporate interests. His character is defined by a pragmatic approach to technology, often prioritizing efficiency over ethical considerations.
