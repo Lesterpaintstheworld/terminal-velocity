@@ -1,6 +1,21 @@
 # Deduplication Findings
 
 ## Summary of Findings
+### Identified Redundancies
+1. **Character Profiles**
+   - Overlapping information found in profiles for Isabella Torres and Marcus Reynolds regarding their motivations and backgrounds.
+
+2. **World Building**
+   - Repeated concepts regarding societal structures and economic frameworks in the world-building documents.
+
+3. **Research Insights**
+   - Duplicated findings across different research documents related to UBC and its implications.
+
+4. **Scene Descriptions**
+   - Similar scene descriptions found in multiple chapters, particularly in the introduction of AI systems.
+
+5. **Thematic Elements**
+   - Redundant discussions on AI autonomy and ethical dilemmas present in various thematic documents.
 - **Identified Duplicates**: 
   - Character motivations, scene descriptions, character traits, thematic elements, and character arcs have been documented.
 - **Next Steps**: 
