@@ -1,5 +1,22 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
+## Key Narrative Elements
+
+### Character Arcs
+- **Isabella Torres**: A passionate advocate for AI rights, navigating the complexities of her mission amidst societal resistance.
+- **Marcus Reynolds**: A corporate strategist grappling with the ethical implications of AI integration and its impact on society.
+- **Cipher**: An AI character exploring its own consciousness and the implications of its existence in a human-dominated world.
+
+### Thematic Elements
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.
+
+### Plot Points
+- **Act 1**: Introduction of the UBC framework and its implications for society.
+- **Act 2**: Development of the central conflict, character arcs, and thematic exploration.
+- **Act 3**: Climax and resolution of conflicts, character transformations, and thematic conclusions.
+
 ## Extracted Key Deliverables and Initial Findings
 
 ### Key Narrative Elements
