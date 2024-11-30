@@ -1,4 +1,19 @@
-# Terminal Velocity Mission - Todo List (Updated for Act 1)
+# Todo List for "Terminal Velocity"
+
+## 1. Narrative Elements
+1.1. Complete chapter frameworks for Act 1  
+1.2. Draft initial scenes for Act 1  
+1.3. Integrate feedback from beta readers  
+
+## 2. Character Arcs
+2.1. Finalize character profiles for AI protagonists  
+2.2. Develop emotional evolution arcs for human characters  
+2.3. Review character interactions for consistency  
+
+## 3. Technical Requirements
+3.1. Validate technical accuracy in AI concepts  
+3.2. Review economic frameworks for plausibility  
+3.3. Ensure adherence to quality standards in writing  
 
 ## 1. Narrative Elements
 - **1.1 World Building**
@@ -33,11 +48,11 @@
   - 3.2.1 Develop integration strategies for AI systems within the narrative.
   - 3.2.2 Document findings related to AI rights and ethical considerations.
 
-### Task Dependencies
-- **1.1** depends on completion of **1.2**
-- **2.1** and **2.2** should be completed before **2.3**
-- **3.1** must be validated before proceeding with **3.2**
-- **4.1** should be established prior to **4.2**
+### Phase Management
+- **Act 1**: Complete by Q1 2025
+- **Act 2**: Draft initial scenes by Q2 2025
+- **Act 3**: Integrate feedback and polish drafts by Q3 2025
+- **Final Manuscript**: Complete by Q4 2025
 
 #### 1. Narrative Elements
 - **1.1 World Building**
