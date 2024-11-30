@@ -9,6 +9,8 @@
 6. **Trust in Technology**: The evolving relationship between humans and automated systems.
 7. **Character Development**: Growth and evolution of key characters in response to AI changes.
 8. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
+9. **Universal Basic Compute (UBC)**: The implications of UBC on economic structures and societal dynamics.
+10. **AI Rights Movement**: The emergence of advocacy for AI rights and ethical considerations.
 
 ## Perspectives
 - **AI Protagonists**: Their journey and emotional evolution.

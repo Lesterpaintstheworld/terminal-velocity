@@ -10,6 +10,7 @@
 - **1.3 Story Structure**
   - 1.3.1 Outline the key themes for each act.
   - 1.3.2 Draft initial scenes for Act 1.
+  - 1.3.3 Create chapter outlines based on extracted themes.
 
 ## Character Arcs
 - **2.1 AI Protagonists**
