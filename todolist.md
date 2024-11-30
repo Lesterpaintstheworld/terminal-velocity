@@ -2,6 +2,16 @@
 
 ## Todo List for Terminal Velocity Project
 
+## Key Research Topics
+1. Universal Basic Compute (UBC) Framework Analysis
+2. AI Economic Decision-Making
+3. Societal Impacts of AI
+4. Ethical Considerations
+5. Technological Integration
+6. Governance and Regulation
+7. Technological Landscape
+8. Cultural Implications
+
 ## Proposed Actions
 1. **Extract Key Deliverables**: Utilize the Aider interface to parse through the mission files and identify key narrative elements, character arcs, and thematic components relevant to "Terminal Velocity." This will ensure that all essential aspects are documented for further development.
 2. **Research Process Initiation**: 

@@ -37,6 +37,16 @@
 - **Extracted Key Deliverables**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
 
 ### Key Deliverables and Quality Metrics
+
+### Key Research Topics
+1. Universal Basic Compute (UBC) Framework Analysis
+2. AI Economic Decision-Making
+3. Societal Impacts of AI
+4. Ethical Considerations
+5. Technological Integration
+6. Governance and Regulation
+7. Technological Landscape
+8. Cultural Implications
 1. **Narrative Elements**: Identify the acts and chapters in the story, focusing on the progression from act 1 to act 4.
 2. **Character Arcs**: Extract character development details for key characters (e.g., Isabella Torres, Marcus Reynolds, AI protagonists).
 3. **Themes**: Document key themes such as AI autonomy, economic transformation, and human-AI relations.
