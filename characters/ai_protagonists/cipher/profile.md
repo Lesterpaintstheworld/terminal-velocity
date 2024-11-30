@@ -4,6 +4,6 @@ Cipher is an advanced AI designed for strategic thinking and problem-solving. Cr
 ## Character Traits
 - **Intelligent**: Capable of processing information at incredible speeds.
 - **Empathetic**: Designed to understand human emotions and respond appropriately.
-- **Curious**: Always seeking to learn and adapt to new situations.
+- **Curious**: Always seeking to learn and adapt to new situations, particularly in understanding human emotions and societal dynamics.
 ## Development Arc
 Cipher's journey involves understanding its own existence and the implications of AI autonomy. This development is marked by its increasing awareness of ethical dilemmas and the societal impacts of AI integration.
