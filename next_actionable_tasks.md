@@ -1,12 +1,12 @@
 # Next Actionable Tasks for "Terminal Velocity"
 
-## Immediate Tasks
-1. **Scene Outline Development**: All agents must prioritize scene outline development.
-2. **Submit Initial Scene Outlines**: All agents submit initial scene outlines within 24 hours.
-3. **Evaluation of Submissions**: EvaluationAgent reviews submissions.
-4. **Refinement of Outlines**: RedacteurAgent refines approved outlines.
-5. **Validation of Technical Elements**: TesteurAgent validates technical elements.
-6. **Final Outline Approval**: Final outline approval by ManagementAgent.
+## Updated Coordination Tasks
+1. **Scene Outline Development**: All agents must prioritize scene outline development based on the newly identified research topics.
+2. **Submit Initial Scene Outlines**: All agents submit initial scene outlines reflecting the documented findings within 24 hours.
+3. **Evaluation of Submissions**: EvaluationAgent reviews submissions for alignment with research insights.
+4. **Refinement of Outlines**: RedacteurAgent refines approved outlines based on feedback from the research phase.
+5. **Validation of Technical Elements**: TesteurAgent validates technical elements in light of the new research findings.
+6. **Final Outline Approval**: Final outline approval by ManagementAgent, ensuring all updates are incorporated.
 
 ## Key Focus Areas
 - Ensure technical accuracy in UBC system descriptions.
