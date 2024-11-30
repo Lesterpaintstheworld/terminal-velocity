@@ -15,14 +15,6 @@
   - Trust in Technology
   - Character Development
   - Cultural Shifts
-  - AI Autonomy
-  - Economic Transformation
-  - Human-AI Relationships
-  - Ethical Dilemmas
-  - Societal Implications
-  - Trust in Technology
-  - Character Development
-  - Cultural Shifts
 
 ## 2. Character Arcs
 - **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
