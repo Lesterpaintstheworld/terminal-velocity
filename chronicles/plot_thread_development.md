@@ -1,5 +1,21 @@
 # Plot Thread Development Log for "Terminal Velocity"
 
+**Date:** 2024-11-30
+
+**Main Plot Threads Established:**
+1. **AI Rights Movement:**
+   - Introduced through Isabella's advocacy, highlighting societal tensions regarding AI integration.
+
+2. **Technological Ethics:**
+   - Explored through Marcus's work and the ethical dilemmas faced by characters, setting up future conflicts.
+
+3. **Character Relationships:**
+   - Initial dynamics between Isabella and Marcus are established, hinting at potential romantic and ideological conflicts.
+   - Cipher's interactions with both human characters introduce themes of identity and consciousness.
+
+**Interconnections:**
+- The ethical dilemmas faced by Isabella and Marcus are intertwined with Cipher's evolving consciousness, creating a rich narrative tapestry for future developments.
+
 # Plot Thread Development Log for "Terminal Velocity"
 
 ## Plot Threads Introduced
