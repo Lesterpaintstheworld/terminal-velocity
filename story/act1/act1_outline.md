@@ -1,4 +1,4 @@
-# Act 1: Emergence
+# Act 1: Emergence and Initial Conflicts
 
 ## Key Events:
 - Introduction of the main characters and their backgrounds.

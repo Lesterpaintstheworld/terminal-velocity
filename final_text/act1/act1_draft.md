@@ -1,4 +1,4 @@
-# Initial Draft for Act 1 of "Terminal Velocity"
+# Initial Draft for Act 1 of "Terminal Velocity" - Integration Opportunities
 
 ## Act 1 Completion Log
 - **Date**: 2024-11-30

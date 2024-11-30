@@ -1,4 +1,4 @@
-# Character Development Insights
+# Character Development Insights and Mapping
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:
