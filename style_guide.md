@@ -9,6 +9,9 @@
 - Example of preferred formatting: 
   - Use bullet points for lists to enhance readability.
   - Italicize key terms when first introduced (e.g., *Universal Basic Compute*).
+- **Detailed Examples**: 
+  - Provide examples of character dialogue that reflect their unique voices.
+  - Include sample descriptions that illustrate the desired tone and atmosphere.
 
 ## Tone and Voice
 - Maintain a consistent tone that reflects the themes of the narrative.

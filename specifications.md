@@ -73,6 +73,8 @@
 - **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
 - **Character Development**: Assess the depth and growth of characters throughout the narrative.
 - **Thematic Clarity**: Verify that the themes are clearly articulated and resonate throughout the story.
+- **Clarity of Objectives**: Ensure that project objectives are clearly defined and measurable.
+- **Consistency in Terminology**: Maintain consistent use of terms and definitions throughout the document.
 
 ### Quality Assessment Criteria
 - **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
