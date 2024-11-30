@@ -9,6 +9,8 @@
 6. **Governance and Regulation** - Medium urgency; important for ethical AI deployment and societal impacts.
 7. **Technological Landscape** - Medium relevance; necessary for understanding current AI technologies and their implications.
 8. **Cultural Implications** - Medium relevance; valuable for narrative depth and exploring cultural shifts due to AI advancements.
+9. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+10. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 ## Key Research Topics
 1. **UBC System Overview**: Understanding the architecture and functionality of the UBC system and its implications for economic models.
