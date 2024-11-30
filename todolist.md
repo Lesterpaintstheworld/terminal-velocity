@@ -1,5 +1,16 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
+## Extracted Key Research Topics
+1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
+2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
+3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
+4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
+5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
+6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
+7. **Economic Models Post-UBC** - Low urgency; important for future planning.
+8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+
 ## Key Themes for Chapter Frameworks
 ### Documentation and Tracking
 1. **Create a Structured Log File**: This log will serve as the primary documentation file where key decisions, character developments, and plot changes will be recorded.
