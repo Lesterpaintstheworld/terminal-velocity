@@ -17,6 +17,8 @@
 - **Detailed Examples**: 
   - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
+  - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
+  - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
 
 ## Quality Assessment Criteria
 1. **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
