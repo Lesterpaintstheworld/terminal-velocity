@@ -1,9 +1,21 @@
 # Character Arcs Summary for "Terminal Velocity"
 
+# Character Arcs Summary for "Terminal Velocity"
+
 ## Key Themes, Character Arcs, and Integration Opportunities
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
 - **Content Gaps Identified**: Need for deeper exploration of the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities.
 - **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms, particularly in relation to marginalized communities, emphasizing the need for ethical considerations in these transformations.
+
+## Character Arc Tracking
+- **Isabella Torres**: 
+  - Act 1: Passionate advocate for AI rights, driven by personal experiences.
+  - Act 2: Faces opposition and internal conflict regarding AI integration.
+  - Act 3: Emerges as a leader in the AI rights movement.
+- **Marcus Reynolds**: 
+  - Act 1: Skeptical of AI, focused on corporate interests.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact.
+  - Act 3: Transforms into a supporter of AI rights.
 - **Content Gaps Identified**: Need for deeper exploration of the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities.
 - **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms, particularly in relation to marginalized communities, emphasizing the need for ethical considerations in these transformations.
 
