@@ -15,6 +15,9 @@
 4. **World-Building Elements**: 
    - Examination of societal impacts of AI, including cultural integration and economic frameworks.
 
+5. **Research Insights**: 
+   - Incorporate findings from research documents to ground the narrative in realistic economic and technological principles.
+
 ## Relevant Files for Mapping
 - **AI and UBC Frameworks**:
   - `./research/economic/ubc_framework/01_001_universal_basic_compute_ubc_economic_framework.md`

@@ -1,5 +1,5 @@
 # Knowledge Gaps Document
-This document will serve as a record of knowledge gaps identified during the scanning process of the "Terminal Velocity" project. It will help maintain coherence in the narrative and guide future integration efforts.
+This document serves as a record of knowledge gaps identified during the scanning process of the "Terminal Velocity" project. It will help maintain coherence in the narrative and guide future integration efforts.
 
 ## Identified Knowledge Gaps
 1. **Character Motivations and Arcs**: 
@@ -10,6 +10,12 @@ This document will serve as a record of knowledge gaps identified during the sca
    
 3. **Societal Impacts of AI Integration**: 
    - Insufficient documentation on the societal changes resulting from AI integration, particularly in marginalized communities.
+
+4. **Integration of Thematic Elements**: 
+   - Need for clearer connections between themes of AI autonomy and economic transformation within character arcs.
+
+5. **Cultural Context**: 
+   - Gaps in understanding how AI integration affects cultural norms and values in society.
 
 ## Next Steps
 - Review and address these gaps in future narrative developments.
