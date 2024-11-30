@@ -1,5 +1,8 @@
 # Duplicate Analysis Report
 
+## Objective
+To begin the deduplication process for the "Terminal Velocity" mission, I will follow these steps:
+
 # Duplicate Analysis Report
 
 ## Objective
@@ -9,15 +12,22 @@ To begin the deduplication process for the "Terminal Velocity" mission, I will f
 
 1. **Content Duplication Detection**: I will scan the narrative files to identify semantically similar content. This will involve analyzing the text for thematic relevance and contextual overlap, focusing on potential duplicates.
 
+1. **Content Duplication Detection**: I will scan the narrative files to identify semantically similar content. This will involve analyzing the text for thematic relevance and contextual overlap, focusing on potential duplicates.
+
 1. **Identify Duplicate Content**:
+   - Scan narrative files to detect semantically similar content, focusing on areas likely to contain overlaps, such as:
+     - Act outlines and drafts (e.g., `./story/act1/act1_outline.md`, `./final_text/act1/act1_draft.md`)
+     - Character profiles and development arcs (e.g., `./characters/human_characters/isabella_torres/profile.md`, `./characters/ai_protagonists/cipher/profile.md`)
    - Scan narrative files to detect semantically similar content, focusing on areas likely to contain overlaps, such as:
      - Act outlines and drafts (e.g., `./story/act1/act1_outline.md`, `./final_text/act1/act1_draft.md`)
      - Character profiles and development arcs (e.g., `./characters/human_characters/isabella_torres/profile.md`, `./characters/ai_protagonists/cipher/profile.md`)
 
 2. **Detect Partial Overlaps**:
    - Check the file structures for any partial duplications, focusing on repeated phrases or similar narrative arcs that may need consolidation.
+   - Check the file structures for any partial duplications, focusing on repeated phrases or similar narrative arcs that may need consolidation.
 
 3. **Prepare for Consolidation**:
+   - Create a plan for merging the content, ensuring that all relevant information is captured and that the narrative integrity is maintained.
    - Create a plan for merging the content, ensuring that all relevant information is captured and that the narrative integrity is maintained.
 
 ## Action Plan for Content Duplication Detection
