@@ -1,24 +1,35 @@
-# Todo List
+# Todo List for Terminal Velocity
 
-## 1. Narrative Elements
-1.1 Develop chapter frameworks for Act 1  
-1.2 Outline key themes and motifs for the narrative  
-1.3 Create a timeline for narrative progression  
+## Narrative Elements
+1. **Outline Development**
+   - 1.1 Complete Act 1 Outline
+   - 1.2 Draft Act 2 Outline
+   - 1.3 Review Act 3 Outline
 
-## 2. Character Arcs
-2.1 Finalize character profiles for main characters  
-2.2 Map emotional evolution of AI protagonists  
-2.3 Define key relationships and dynamics among characters  
+2. **Scene Development**
+   - 2.1 Draft scenes for Act 1
+   - 2.2 Review scenes for Act 2
+   - 2.3 Finalize scenes for Act 3
 
-## 3. Technical Requirements
-3.1 Validate technical accuracy of AI and economic concepts  
-3.2 Review integration strategies for AI systems  
-3.3 Assess implications of economic frameworks on societal structures  
+## Character Arcs
+3. **Character Profiles**
+   - 3.1 Update profiles for AI protagonists
+   - 3.2 Develop emotional arcs for human characters
+   - 3.3 Review character interactions
 
-## 4. General Tasks
-4.1 Review feedback from beta readers  
-4.2 Adjust focus areas based on recent evaluations  
-4.3 Prepare for upcoming narrative phases  
+4. **Character Development**
+   - 4.1 Identify key moments for character growth
+   - 4.2 Draft interactions between main characters
+
+## Technical Requirements
+5. **Research and Validation**
+   - 5.1 Validate economic models
+   - 5.2 Review technical accuracy of AI concepts
+   - 5.3 Update documentation on AI systems
+
+## Focus Areas
+- Current focus: Finalizing Act 1 scenes and character profiles.
+- Next steps: Begin drafting Act 2 scenes after Act 1 is complete.
 
 ## 5. Phase Transitions
 5.1 Ensure readiness for the next phase is communicated based on the completion of prior tasks.
