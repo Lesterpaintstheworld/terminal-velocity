@@ -1,5 +1,32 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
+## Key Narrative Elements
+### Character Arcs
+- **Isabella Torres**: 
+  - Act 1: A passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies.
+  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy.
+  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration.
+
+- **Marcus Reynolds**: 
+  - Act 1: Initially skeptical of AI, focused on corporate interests.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact on society.
+  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices and collaboration.
+
+- **Cipher**: 
+  - Act 1: Awakens to consciousness and begins to understand its purpose.
+  - Act 2: Struggles with identity and the implications of AI rights.
+  - Act 3: Embraces its role in society, advocating for AI rights and collaboration with humans.
+
+### Thematic Elements
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise from this shift.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms, particularly regarding equity and access.
+- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration, conflict, and the quest for mutual understanding.
+
+### Significant Plot Points
+- **Act 1**: Introduction of the main characters and their backgrounds, initial discovery of AI capabilities, and establishing the societal context for AI integration.
+- **Act 2**: Rapid advancements in AI technology lead to conflicts arising from economic disparities, ethical dilemmas, and key turning points that challenge the characters’ beliefs and relationships.
+- **Act 3**: Climax involving a significant conflict that tests the characters’ values, resolution of major plot threads, and reflection on the implications of AI on society and individual lives.
+
 ## Extracted Key Deliverables for Terminal Velocity
 ### Key Narrative Elements
 1. **Story Structure:**
