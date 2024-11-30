@@ -6,6 +6,7 @@
 
 ## Objective
 To outline a strategy for merging identified duplicate content while ensuring narrative integrity is maintained.
+To outline a strategy for merging identified duplicate content while ensuring narrative integrity is maintained.
 
 ### Strategy Overview
 1. **Character Profiles**: Merge duplicate character profiles into a single comprehensive profile for each character, ensuring all relevant details are captured.
