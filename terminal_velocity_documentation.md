@@ -3,6 +3,9 @@
 ## Documentation Process Overview
 This document serves as the primary log for tracking the writing process of "Terminal Velocity," including key decisions, character developments, and plot progressions.
 
+## Documentation Process Overview
+This document serves as the primary log for tracking the writing process of "Terminal Velocity," including key decisions, character developments, and plot progressions.
+
 ## Initial Draft Completion
 ### Chapter: Act 1, Chapter 1
 - **Key Developments**:
@@ -15,6 +18,21 @@ This document serves as the primary log for tracking the writing process of "Ter
 - **Significant Decisions**:
   - Decision to open with a dialogue-heavy scene to establish character dynamics.
   - Inclusion of a flashback to provide background on Isabella's motivations.
+
+## Character Arc Tracking
+### Main Characters Introduced
+- **Isabella Torres**: A passionate advocate for AI rights, struggling with her past decisions.
+  - **Initial Arc**: Torn between her advocacy and personal relationships.
+- **Marcus Reynolds**: A pragmatic strategist with a focus on AI integration.
+  - **Initial Arc**: Balances his loyalty to Isabella with his professional obligations.
+- **Cipher**: An AI entity seeking to understand human emotions.
+  - **Initial Arc**: Represents the potential for AI to evolve beyond programming.
+
+## Plot Thread Development
+### Primary Plot Threads Established
+- **AI Rights Movement**: The tension between human oversight and AI autonomy.
+- **Personal Relationships**: The evolving dynamics between Isabella, Marcus, and Cipher, highlighting ethical dilemmas.
+- **Technological Integration**: The societal implications of AI in everyday life, setting the stage for future conflicts.
 
 ## Documentation Process Overview
 This document serves as the primary log for tracking the writing process of "Terminal Velocity," including key decisions, character developments, and plot progressions.
