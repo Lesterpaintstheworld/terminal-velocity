@@ -28,14 +28,10 @@
 
 ## 7. Key Research Topics
 - Universal Basic Compute (UBC) Framework Analysis
-- AI Systems Integration
-- Economic Autonomy and UBC
-- Trust in Automated Systems
-- Human-AI Relationships
-- Sociological Impacts of UBC
-- Economic Models Post-UBC
-- AI Rights Movement
-- Impact of UBC on Labor Markets
+- AI Economic Decision-Making
+- Societal Impacts of AI
+- Ethical Considerations
+- Technological Integration
 
 ## Notes
 - Ensure all tasks are linked to relevant dependencies.
