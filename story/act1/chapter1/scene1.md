@@ -8,4 +8,4 @@ Isabella Torres leaned against the back wall, observing as Cipher took center st
 **Dialogue:**
 - **Evelyn:** "Imagine a world where AI not only enhances our productivity but also ensures equitable distribution of resources. The UBC framework is designed to make this vision a reality."
 
-*Isabella's internal thoughts reflect her excitement and the weight of the moment, emphasizing her passion for AI rights and the potential impact of UBC on society. She thinks, "This is our chance to redefine the future."*
+*Isabella's internal thoughts reflect her excitement and the weight of the moment, emphasizing her passion for AI rights and the potential impact of UBC on society. She thinks, "This is our chance to redefine the future." Her advocacy for stable economic policies is a driving force behind her presentation.*
