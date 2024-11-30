@@ -1,5 +1,7 @@
 # Consolidation Strategy
 
+## Consolidation Strategy
+
 ## Objective
 To outline a strategy for merging identified duplicate content while ensuring narrative integrity is maintained.
 
