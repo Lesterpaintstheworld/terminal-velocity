@@ -2,14 +2,14 @@
 
 ## 1. Narrative Elements
 ### 1.1 Key Themes
-- [ ] AI Autonomy
-- [ ] Economic Transformation
-- [ ] Human-AI Relationships
-- [ ] Ethical Dilemmas
-- [ ] Societal Implications
-- [ ] Trust in Technology
-- [ ] Character Development
-- [ ] Cultural Shifts
+- AI Autonomy
+- Economic Transformation
+- Human-AI Relationships
+- Ethical Dilemmas
+- Societal Implications
+- Trust in Technology
+- Character Development
+- Cultural Shifts
 
 ### 1.2 Scene Structuring
 - [ ] 1.2.1 Draft initial scenes for Act 1
