@@ -1,5 +1,8 @@
 # Terminal Velocity Specifications
 
+## Organized Specifications
+- **Extracted Key Deliverables**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
+
 ## Narrative Structure
 - Clear division into acts and chapters.
 - Defined scenes that contribute to character development and thematic exploration.

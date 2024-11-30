@@ -1,5 +1,8 @@
 # Specification Outline for Terminal Velocity - Novel Mission
 
+## Organized Specifications
+- **Extracted Key Deliverables**: Structure the extracted information into sections and subsections that align with the narrative’s progression and technical requirements.
+
 ## Specification Outline for Terminal Velocity - Novel Mission
 
 ### Narrative Elements
