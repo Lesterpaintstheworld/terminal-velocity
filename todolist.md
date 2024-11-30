@@ -1,17 +1,15 @@
 # Terminal Velocity Mission - Todo List
 
-## Narrative Elements
-### Redundancy Analysis
-1. **Semantic Mapping**
-   - Scan the narrative files for similar information presented in various forms. Document any identified duplications to understand where redundancies exist.
-2. **Context Understanding**
-   - Assess the role of the identified information in its context to distinguish between necessary repetition and true redundancy.
-3. **Document Findings**
-   - Record all identified redundancies and their contexts to ensure transparency and facilitate future consolidation efforts.
-1. **World Building**
-   - 1.1 Review and finalize the **AI_Lifestyle_and_Society_Integration.md** document.
-   - 1.2 Complete the **cultural_landscape.md** section.
-   - 1.3 Update **economic_systems.md** with recent findings.
+## Key Research Topics
+1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
+2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
+3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
+4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
+5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
+6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
+7. **Economic Models Post-UBC** - Low urgency; important for future planning.
+8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
+9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
 2. **Character Development**
    - 2.1 Finalize character arcs for **Isabella Torres** and **Marcus Reynolds**.
