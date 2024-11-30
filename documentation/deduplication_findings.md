@@ -1,6 +1,7 @@
-# Deduplication Findings for "Terminal Velocity"
+# Deduplication Findings
 
-## Deduplication Findings for "Terminal Velocity"
+## Overview
+This document serves as a record of identified redundancies within the "Terminal Velocity" narrative. It includes similar information presented in various forms, along with their contexts.
 
 ### Overview
 This document serves as a record of identified redundancies within the "Terminal Velocity" narrative. It includes similar information presented in various forms, along with their contexts.
