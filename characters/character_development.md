@@ -4,8 +4,6 @@
 - Further exploration needed on the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities. This should ensure that these themes are woven into character arcs and interactions throughout the narrative, enhancing the depth and relatability of the characters.
 - Additional insights required on Isabella's internal conflicts regarding AI rights and her evolving relationship with Marcus.
 - Clarification on Marcus's transition from skepticism to collaboration with AI, emphasizing his moral dilemmas and growth.
-- Additional insights required on Isabella's internal conflicts regarding AI rights and her evolving relationship with Marcus.
-- Clarification on Marcus's transition from skepticism to collaboration with AI, emphasizing his moral dilemmas and growth.
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:
@@ -183,6 +181,8 @@
 - **Isabella Torres**: Further exploration needed on her internal conflicts regarding AI rights and personal relationships.
 - **Marcus Reynolds**: Additional insights required on his transition from skepticism to collaboration with AI.
 - **Cipher**: Clarification on its emotional evolution and relationship dynamics with human characters.
+- **Echo**: Additional insights required on its journey of self-discovery and acceptance.
+- **Nova**: Further exploration needed on its identity and purpose in a human-dominated world.
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:
