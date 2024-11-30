@@ -1,51 +1,40 @@
 # Todo List
 
-## 1. Narrative Elements
-- **1.1** Update chapter frameworks
-  - **1.1.1** Review existing chapter outlines in `./story/act1/act1_outline.md`
-  - **1.1.2** Integrate feedback from beta readers into chapter outlines
-- **1.2** Draft initial scenes for Act 1
-  - **1.2.1** Complete scenes in `./story/act1/act1_scenes.md`
-  - **1.2.2** Ensure alignment with character arcs and thematic elements
+#### 1. Narrative Elements
+- **1.1 World Building**
+  - 1.1.1 Update world building documentation with new insights from research.
+  - 1.1.2 Integrate cultural elements into the narrative.
+  
+- **1.2 Story Structure**
+  - 1.2.1 Finalize act outlines for Act 1, Act 2, and Act 3.
+  - 1.2.2 Review chapter themes and ensure alignment with overall narrative.
 
-## 2. Character Arcs
-- **2.1 Protagonist Arcs**
-  - 2.1.1 Review **characters/ai_protagonists/nova/development_arc.md** for consistency.
-  - 2.1.2 Update **characters/human_characters/isabella_torres/development_arc.md** based on feedback.
+#### 2. Character Arcs
+- **2.1 Character Development**
+  - 2.1.1 Complete character profiles for AI protagonists.
+  - 2.1.2 Finalize character arcs for human characters.
+  
+- **2.2 Character Interactions**
+  - 2.2.1 Review interaction scripts for key character dynamics.
+  - 2.2.2 Identify gaps in character interactions and propose enhancements.
 
-- **2.2 Supporting Characters**
-  - 2.2.1 Analyze **characters/relationships/relationships.md** for character dynamics.
-  - 2.2.2 Document interactions in **characters/interaction_scripts.md**.
+#### 3. Technical Requirements
+- **3.1 Technical Accuracy**
+  - 3.1.1 Validate technical concepts related to AI and economic frameworks.
+  - 3.1.2 Review integration of technical elements in the narrative.
 
-## 3. Technical Requirements
-- **3.1 Research Integration**
-  - 3.1.1 Compile findings from **research/economic/economic_models.md** into a summary.
-  - 3.1.2 Validate technical accuracy in **final_text/act1/technical_accuracy_check.md**.
+- **3.2 Research Integration**
+  - 3.2.1 Compile findings from UBC economic research for narrative use.
+  - 3.2.2 Update technical specifications based on new research insights.
 
-- **3.2 Documentation Updates**
-  - 3.2.1 Revise **terminal_velocity_documentation.md** for clarity.
-  - 3.2.2 Ensure **documentation_structure.md** reflects current project status.
+#### 4. Feedback Integration
+- **4.1 Feedback Process**
+  - 4.1.1 Establish a section for beta reader feedback in `todolist.md`.
+  - 4.1.2 Schedule regular reviews of feedback and adjust tasks accordingly.
 
-## 4. Phase Transitions
-- **4.1** Mark transitions between acts
-  - **4.1.1** Update `./phase_transitions.md` with completion markers for each act
-  - **4.1.2** Communicate readiness for the next phase based on task completion
-
-## 1. Narrative Elements
-### 1.1 Act 1
-- [ ] 1.1.1 Finalize act 1 outline
-- [ ] 1.1.2 Draft scenes for act 1
-  - [ ] 1.1.2.1 Scene 1: UBC Presentation
-  - [ ] 1.1.2.2 Scene 2: Consciousness Discovery
-  - [ ] 1.1.2.3 Scene 3: Isabella's Reaction
-- [ ] 1.1.3 Review act 1 for thematic clarity
-
-### 1.2 Act 2
-- [ ] 1.2.1 Finalize act 2 outline
-- [ ] 1.2.2 Draft scenes for act 2
-  - [ ] 1.2.2.1 Scene 1: Ciphers Proposal
-  - [ ] 1.2.2.2 Scene 2: Conflict with Pulse
-- [ ] 1.2.3 Review act 2 for character dynamics
+### Phase Transitions
+- **Phase 1 to Phase 2**: Completion of Act 1 outline and character profiles will signal readiness for drafting initial scenes.
+- **Phase 2 to Phase 3**: Finalization of character arcs and integration of feedback will prepare for polishing drafts.
 
 ## 2. Character Arcs
 ### 2.1 AI Protagonists
