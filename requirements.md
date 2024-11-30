@@ -1,5 +1,8 @@
 # Requirements for "Terminal Velocity" Development
 
+## Reference to Extracted Requirements
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+
 ## Explicit Requirements
 - **Narrative Structure**: 
   - The novel should be structured into distinct acts and chapters, ensuring a coherent flow of the storyline.

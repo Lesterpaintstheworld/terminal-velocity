@@ -1,5 +1,8 @@
 # Key Narrative Elements Summary for "Terminal Velocity"
 
+## Reference to Extracted Requirements
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+
 ## Character Arcs
 - **Isabella Torres**: 
   - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies, reflecting the broader societal shifts brought about by AI integration.

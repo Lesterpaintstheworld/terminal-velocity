@@ -1,5 +1,8 @@
 # Key Deliverables for Terminal Velocity - Novel Mission
 
+## Reference to Extracted Requirements
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+
 ## Key Deliverables for Terminal Velocity - Novel Mission
 
 ### Key Steps for Requirement Extraction

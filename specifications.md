@@ -1,5 +1,8 @@
 # Specifications for Terminal Velocity - Novel Mission
 
+## Reference to Extracted Requirements
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+
 ## Specifications for Terminal Velocity - Novel Mission
 
 ## Key Deliverables and Quality Metrics
