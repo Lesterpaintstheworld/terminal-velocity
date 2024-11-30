@@ -3,16 +3,18 @@
 ## Reference to Extracted Requirements
 - For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
 
+
 ## Character Arcs
 - **Isabella Torres**: 
-  - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies, reflecting the broader societal shifts brought about by AI integration.
-  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy, particularly in light of the economic transformations occurring around her.
-  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration, ultimately influencing public perception and policy.
+  - Act 1: Passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies.
+  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy.
+  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration.
+
 
 - **Marcus Reynolds**: 
-  - Act 1: Skeptical of AI, focused on corporate interests, representing the traditional economic perspective.
-  - Act 2: Experiences a moral dilemma as he witnesses AI's impact on society and the economy, leading him to question his previous beliefs.
-  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices, and plays a crucial role in bridging the gap between human and AI interests.
+  - Act 1: Skeptical of AI, focused on corporate interests.
+  - Act 2: Experiences a moral dilemma as he witnesses AI's impact.
+  - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices.
 
 - **Cipher**: 
   - Act 1: Awakening to consciousness and understanding its purpose, grappling with the implications of its existence.
