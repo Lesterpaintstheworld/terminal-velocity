@@ -1,4 +1,13 @@
 # Initial Chapter Frameworks for "Terminal Velocity"
+
+## Key Themes and Perspectives
+1. AI-driven economic systems
+2. Human-AI relationships
+3. Ethical dilemmas in AI integration
+4. Societal impacts of automation
+5. Trust in automated systems
+
+## Chapter Frameworks Overview
 # This document outlines the key themes and character arcs for each chapter.
 
 ## Chapter Frameworks Overview
