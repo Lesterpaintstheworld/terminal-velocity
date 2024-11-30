@@ -1,7 +1,9 @@
 # Deduplication Findings
 
+## Deduplication Findings
+
 ## Overview
-This document serves as a record of identified redundancies within the "Terminal Velocity" narrative. It includes similar information presented in various forms, along with their contexts.
+This document will serve as a record of identified redundancies within the "Terminal Velocity" narrative. It will include similar information presented in various forms, along with their contexts.
 
 ### Identified Redundancies and Overlaps
 1. **Character Profiles**
