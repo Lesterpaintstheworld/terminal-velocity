@@ -1,6 +1,11 @@
 # Todo List
 
 ## 1. Narrative Elements
+### Key Areas to Explore
+- **Character Development:** Files under `./characters/` contain detailed profiles and development arcs for characters, which are crucial for understanding their roles and interactions.
+- **Story Structure:** The `./story/` directory includes outlines, scenes, and timelines that provide a framework for the narrative.
+- **Thematic Insights:** Files in `./themes/` and `./world_building/` explore the philosophical and economic themes central to the narrative.
+- **Research Documentation:** The `./research/` folder contains various studies and insights that can inform the narrative's context and credibility.
 ### 1.1 World Building
 - [x] Finalize AI Lifestyle and Society Integration document.
 - [x] Review cultural landscape elements.
@@ -31,7 +36,10 @@
 - [ ] Draft key scenes for Act 1 (Priority: High)
 - [ ] Review thematic clarity across acts (Priority: Medium)
 
-## 2. Character Arcs
+### Next Steps
+1. **Compile a List of Relevant Files:** I will create a list of files that contain insights related to character arcs, story structure, themes, and research.
+2. **Identify Knowledge Gaps:** I will assess the gathered content for any missing elements or areas that need further exploration.
+3. **Propose Structural Organization:** Based on the findings, I will outline a coherent structure for integrating the content.
 ### 2.1 Protagonist Development
 - [ ] Complete emotional evolution for AI protagonists (Priority: High)
 - [ ] Define key relationships and dynamics for human characters (Priority: Medium)
