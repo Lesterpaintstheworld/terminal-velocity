@@ -1,10 +1,14 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## 1. Narrative Elements
-- **1.1**: Finalize chapter frameworks for Act 1
-- **1.2**: Draft initial scenes for Act 1
-- **1.3**: Develop thematic clarity assessments for Act 1
-- **1.4**: Integrate feedback from beta readers on Act 1 drafts
+## Key Themes for Chapter Frameworks
+1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
+2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
+3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
+4. **Ethical Dilemmas** - Challenges and moral questions arising from AI autonomy.
+5. **Societal Adaptation** - How society adjusts to the integration of AI and UBC.
+6. **Trust in Technology** - The evolving relationship between humans and automated systems.
+7. **Character Development** - Growth and evolution of key characters in response to AI changes.
+8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
 
 ## 2. Character Arcs
 - **2.1**: Complete character profiles for AI protagonists (Cipher, Echo, Nova)
