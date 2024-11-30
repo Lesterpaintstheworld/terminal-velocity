@@ -12,6 +12,14 @@
 - **Detailed Examples**: 
   - Provide examples of character dialogue that reflect their unique voices.
   - Include sample descriptions that illustrate the desired tone and atmosphere.
+- Use active voice to create a sense of immediacy (e.g., "The AI calculated the results" instead of "The results were calculated by the AI").
+- Maintain a formal yet accessible tone, avoiding jargon where possible.
+- Example of preferred formatting: 
+  - Use bullet points for lists to enhance readability.
+  - Italicize key terms when first introduced (e.g., *Universal Basic Compute*).
+- **Detailed Examples**: 
+  - Provide examples of character dialogue that reflect their unique voices.
+  - Include sample descriptions that illustrate the desired tone and atmosphere.
 - **Quality Assessment Criteria**: 
   - Ensure all technical elements related to AI and economics are accurately represented.
   - Validate claims with credible sources to maintain narrative integrity.
