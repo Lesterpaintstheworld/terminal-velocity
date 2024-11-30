@@ -11,7 +11,7 @@
    - Align world-building elements with character arcs and plot developments.
 
 ## Actionable Steps
-- Review character profiles for consistency and depth.
+- Review character profiles for consistency and depth, ensuring that emotional arcs are clearly articulated and integrated into the narrative.
 - Analyze scene descriptions for coherence and alignment with themes.
 - Validate technical details related to AI systems and economic frameworks.
 
