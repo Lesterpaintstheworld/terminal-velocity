@@ -17,3 +17,8 @@
   - Initial Arc: 
   - Breakthrough Moments: 
   - Current Status: 
+
+- **Marcus Reynolds**: 
+  - Initial Arc: 
+  - Breakthrough Moments: 
+  - Current Status: 
