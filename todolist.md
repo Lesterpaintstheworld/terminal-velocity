@@ -1,6 +1,10 @@
 # Todo List for Terminal Velocity Project
 
 ## 1. Narrative Elements
+### Deduplication Tasks
+- Identify and document instances of redundant information in narrative files.
+- Analyze file structures for partial duplications and repeated phrases.
+- Compile findings into `deduplication_findings.md` for future reference.
 ### Key Research Topics
 - Universal Basic Compute (UBC) Framework Analysis
 - AI Economic Decision-Making
