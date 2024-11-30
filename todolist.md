@@ -1,6 +1,17 @@
-# Todo List
+# Todo List for Terminal Velocity Project
 
 ## 1. Narrative Elements
+1.1 **World Building**
+- [ ] Finalize the economic systems overview.
+- [ ] Develop the cultural landscape document.
+
+1.2 **Story Structure**
+- [ ] Complete act 1 outline.
+- [ ] Draft scenes for act 1 (link to `./story/act1/act1_scenes.md`).
+
+1.3 **Themes and Motifs**
+- [ ] Identify key themes in act 1.
+- [ ] Analyze thematic clarity in character interactions.
 ### 1.1 Act Structure
 - [ ] 1.1.1 Finalize act outlines for Act 1, Act 2, Act 3, and Act 4.
 - [ ] 1.1.2 Draft initial scenes for Act 1.
@@ -12,6 +23,13 @@
 - [ ] 1.2.3 Review and revise scenes based on character arcs.
 
 ## 2. Character Arcs
+2.1 **Character Profiles**
+- [ ] Update profiles for AI protagonists (link to `./characters/ai_protagonists/`).
+- [ ] Review human character arcs (link to `./characters/human_characters/`).
+
+2.2 **Character Development**
+- [ ] Outline emotional evolution for key characters.
+- [ ] Assess relationships and dynamics between characters.
 ### 2.1 Character Profiles
 - [ ] 2.1.1 Complete character profiles for AI protagonists (e.g., Cipher, Nova).
 - [ ] 2.1.2 Update human character profiles (e.g., Isabella, Marcus) with new developments.
@@ -23,6 +41,13 @@
 - [ ] 2.2.3 Integrate character feedback into development arcs.
 
 ## 3. Technical Requirements
+3.1 **Technical Accuracy**
+- [ ] Review technical concepts in act 1 (link to `./final_text/act1/technical_concepts.md`).
+- [ ] Validate economic principles in the narrative.
+
+3.2 **Integration and Research**
+- [ ] Compile research findings on AI economic implications (link to `./research/economic/`).
+- [ ] Document integration strategies for AI systems (link to `./research/technical/`).
 ### 3.1 Research and Insights
 - [ ] 3.1.1 Compile research on AI economic systems.
 - [ ] 3.1.2 Validate technical accuracy of economic models in the narrative.
@@ -43,6 +68,9 @@
    - 5.2 Finalize **Technical Implementation** details for AI systems. *(Pending)*
 
 ## Dependencies
+- 1.1.1 is dependent on completion of 1.2.
+- 2.1.1 requires updates from 1.3.
+- 3.1.1 must align with findings in 3.2.
 - **1.1.1** is dependent on the completion of **3.1.1**.
 - **2.1.1** must be completed before **2.2.1** can begin.
 - **1.1.1** must be finalized before drafting **1.2.1**.
