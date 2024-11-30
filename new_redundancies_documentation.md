@@ -1,5 +1,8 @@
 # Redundancies Documentation for Terminal Velocity
 
+## Summary of Identified Redundancies
+- This document outlines the redundancies identified in the "Terminal Velocity" narrative, including their contexts and proposed consolidations.
+
 ## Identified Redundancies and Contexts
 
 ### Redundant Phrases
