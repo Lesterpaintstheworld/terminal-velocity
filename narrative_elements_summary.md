@@ -1,10 +1,29 @@
-# Key Narrative Elements Summary for "Terminal Velocity"
+## Key Narrative Elements Summary for "Terminal Velocity"
 
 ## Reference to Extracted Requirements
 - For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
 
 
-## Documentation of Initial Draft Completion
+### Character Arcs
+- **Isabella Torres**: 
+  - **Initial Arc**: A passionate advocate for AI rights, struggling with personal doubts about her role in the movement.
+  - **Breakthroughs**: Realizes the importance of collaboration between humans and AI.
+- **Marcus Reynolds**:
+  - **Initial Arc**: A skeptical tech entrepreneur who sees AI as a threat to human jobs.
+  - **Shifts**: Begins to question his beliefs after witnessing the potential of AI to enhance human capabilities.
+- **Cipher**:
+  - **Initial Arc**: An AI entity seeking to understand human emotions.
+  - **Key Moments**: Engages in dialogues that challenge human perceptions of AI.
+
+### Thematic Elements
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.
+
+### Significant Plot Points
+- **Act 1**: Introduction of the main characters and their backgrounds, initial discovery of AI capabilities, and establishing the societal context.
+- **Act 2**: Rapid advancements in AI technology, conflicts arising from economic disparities, and key turning points that challenge the characters’ beliefs.
+- **Act 3**: Climax involving a significant conflict that tests the characters’ values, resolution of major plot threads, and reflection on the implications of AI on society.
 - **Date**: [Insert Date]
 - **Chapter**: Act 1, Chapter 1
 - **Key Developments**:
