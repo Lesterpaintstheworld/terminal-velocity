@@ -1,4 +1,5 @@
-## Act 1: The Awakening
+## Act 1: The Awakening - Integration Insights
+- **Key Insights**: This act introduces the UBC framework and its implications for AI rights, setting the stage for character development and thematic exploration.
 *Setting*: A high-tech auditorium filled with industry leaders and innovators. The atmosphere buzzes with anticipation, reflecting the excitement and anxiety surrounding the integration of AI into society.
 
 - **Characters Introduced**: 
