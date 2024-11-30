@@ -1,5 +1,6 @@
 # Key Themes and Perspectives for "Terminal Velocity"
 
+
 ## Key Themes
 1. **Emergence of AI**: Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
