@@ -1,7 +1,7 @@
 # Outline for Act 1 of "Terminal Velocity"
 
 ## Act 1 Overview
-Act 1 introduces the main characters, setting, and initial conflict, focusing on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
+Act 1 sets the stage for the narrative, introducing key characters, establishing the world, and laying the thematic groundwork for the story. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
 
 ### Key Events:
 - Introduction of the main characters and their backgrounds.
