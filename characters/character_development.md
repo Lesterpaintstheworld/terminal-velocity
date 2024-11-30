@@ -9,7 +9,7 @@
   - Relationships: 
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
-## Character Development Log
+## Character Development Insights and Mapping for "Terminal Velocity"
 
 ## Main Characters
 ### Isabella Torres
