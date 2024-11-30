@@ -34,6 +34,12 @@
 4. Trust in Automated Systems: Exploration of factors influencing trust in AI systems and their societal acceptance.
 5. Human-AI Relationships: Examination of the evolving dynamics between humans and AI systems.
 6. Cultural Implications: Analysis of how AI integration affects cultural norms and values.
+1. Universal Basic Compute (UBC) Framework Analysis: Detailed implications of UBC on labor markets and ethical frameworks surrounding AI rights.
+2. AI Economic Decision-Making: Mechanisms of AI in economic decision-making and their societal impacts.
+3. Societal Impacts of AI: Effects of AI on job markets and employment, and societal changes due to AI integration in daily life.
+4. Trust in Automated Systems: Exploration of factors influencing trust in AI systems and their societal acceptance.
+5. Human-AI Relationships: Examination of the evolving dynamics between humans and AI systems.
+6. Cultural Implications: Analysis of how AI integration affects cultural norms and values.
 - **Universal Basic Compute (UBC) Framework Analysis**: Detailed implications of UBC on labor markets and ethical frameworks surrounding AI rights.
 - **AI Economic Decision-Making**: Mechanisms of AI in economic decision-making and their societal impacts.
 - **Societal Impacts of AI**: Effects of AI on job markets and employment, and societal changes due to AI integration in daily life.
