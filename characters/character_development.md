@@ -20,6 +20,7 @@
 ## Key Developments
 - **Isabella Torres**: 
   - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader. Her journey reflects the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative. 
+  - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
   - **Emotional Stakes**: Isabella's advocacy is intertwined with her personal relationships, particularly her dynamic with Marcus, adding complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be explored further.
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.

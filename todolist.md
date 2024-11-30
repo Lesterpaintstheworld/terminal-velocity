@@ -5,6 +5,8 @@
    - 1.1 Complete Act 1 Outline
    - 1.2 Draft Act 2 Outline
    - 1.3 Review Act 3 Outline
+   - 1.4 Integrate character development insights into the narrative.
+   - 1.5 Assess the impact of AI on economic structures in the narrative.
 
 2. **Scene Development**
    - 2.1 Draft scenes for Act 1
