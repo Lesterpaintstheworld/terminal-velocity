@@ -1,32 +1,33 @@
 # Terminal Velocity Mission - Todo List
 
-## Narrative Elements
-- **1.1 World Building**
-  - 1.1.1 Finalize the world-building systems documentation.
-  - 1.1.2 Integrate cultural elements into the narrative.
-- **1.2 Character Development**
-  - 1.2.1 Complete character arcs for AI protagonists.
-  - 1.2.2 Develop backstories for human characters.
-- **1.3 Story Structure**
-  - 1.3.1 Outline the key themes for each act.
-  - 1.3.2 Draft initial scenes for Act 1.
-  - 1.3.3 Create chapter outlines based on extracted themes.
+## Key Deliverables Extraction for "Terminal Velocity"
 
-## Character Arcs
-- **2.1 AI Protagonists**
-  - 2.1.1 Finalize emotional evolution for Cipher.
-  - 2.1.2 Outline key moments for Nova.
-- **2.2 Human Characters**
-  - 2.2.1 Develop interaction scripts for Isabella Torres.
-  - 2.2.2 Analyze relationships between human characters.
+#### 1. Narrative Elements
+- **Story Structure**:
+  - **Acts**: Act 1, Act 2, Act 3, Act 4
+  - **Scenes**: Detailed breakdown of scenes within each act.
+- **Character Arcs**:
+  - **Main Characters**: Profiles of AI protagonists (e.g., Cipher, Nova) and human characters (e.g., Isabella Torres, Marcus Reynolds).
+  - **Development Arcs**: Emotional evolution, key moments, and ethical dilemmas faced by characters.
+- **Themes**:
+  - **Key Themes**: AI autonomy, economic transformation, human-AI relations, safety concerns.
 
-## Technical Requirements
-- **3.1 Research Integration**
-  - 3.1.1 Review economic frameworks related to AI.
-  - 3.1.2 Validate technical accuracy of AI systems in the narrative.
-- **3.2 Documentation Updates**
-  - 3.2.1 Update the UBC economic research documentation.
-  - 3.2.2 Consolidate findings from initial content verification.
+#### 2. Character Arcs
+- **AI Protagonists**:
+  - **Cipher**: Emotional evolution, ethical considerations, pivotal moments.
+  - **Nova**: Development arc, philosophical concepts, key moments.
+- **Human Characters**:
+  - **Isabella Torres**: Background, motivations, ethical dilemmas, character interactions.
+  - **Marcus Reynolds**: Personality traits, motivations, relationships.
+  - **Sarah Chen**: Development arc, interactions with other characters.
+
+#### 3. Thematic Components
+- **Economic Framework**:
+  - **Universal Basic Compute (UBC)**: Implications for societal structures, economic models, integration with AI systems.
+- **Societal Impact**:
+  - **AI Rights Movement**: Historical context, key achievements, challenges.
+- **Technological Context**:
+  - Overview of technological advancements and their implications for human-AI integration.
 
 ### Task Priority and Dependencies
 - **1.1.1** is a prerequisite for **1.1.2**.
