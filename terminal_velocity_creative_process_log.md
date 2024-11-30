@@ -18,17 +18,17 @@ This document serves as the primary log for tracking the writing process of "Ter
 
 ## Documentation Framework
 
-### 1. Character Development
-- Document character profiles, arcs, and interactions.
+### 1. Key Creative Decisions
+- Document significant choices made during the writing process.
 
-### 2. Plot Progression
-- Track key plot developments and chapter outlines.
+### 2. Character Development
+- Track the evolution of main characters and their arcs.
 
-### 3. Team Dynamics
-- Record notable interactions and collaborative efforts.
+### 3. Plot Threads
+- Record the progression and interconnections of plot elements.
 
-### 4. Milestones
-- Establish a timeline of significant events and achievements.
+### 4. Team Interactions
+- Note any collaborative efforts and team dynamics observed.
 
 ## Documentation Framework
 
@@ -117,7 +117,10 @@ This document serves as the primary log for tracking the writing process of "Ter
   - **Plot Developments**: [Significant Plot Points]
   - **Team Dynamics**: [Observations on Collaboration]
 
-## Log Entry: Initial Draft of Chapter 1 Completed
+## Initial Milestones
+- **Completion of Act 1 Outline**: Documented in `./story/act1/act1_outline.md`.
+- **Character Profiles**: Initial profiles for main characters such as Isabella Torres and Marcus Reynolds are available in their respective directories.
+- **Initial Drafts**: The first drafts of key scenes in Act 1 have been completed and are located in `./story/act1/chapter1/scene1.md`, `scene2.md`, and `scene3.md`.
 
 - **Date**: [Insert Date]
 - **Chapter**: Act 1, Chapter 1
@@ -1461,3 +1464,35 @@ This document serves as the primary log for tracking the writing process of "Ter
 
 ### 4. Milestones
 - Establish a timeline of significant events and achievements.
+# Terminal Velocity Creative Process Log
+
+## Documentation Framework
+
+### 1. Character Development
+- Document character profiles, arcs, and interactions.
+
+### 2. Plot Progression
+- Track key plot developments and chapter outlines.
+
+### 3. Team Dynamics
+- Record notable interactions and collaborative efforts.
+
+### 4. Milestones
+- Establish a timeline of significant events and achievements.
+
+## Log Entry: Initial Draft of Chapter 1 Completed
+
+- **Date**: [Insert Date]
+- **Chapter**: Act 1, Chapter 1
+- **Key Developments**:
+  - Introduction of main characters: Isabella Torres and Marcus Reynolds.
+  - Establishment of the setting: A high-tech command center juxtaposed with public spaces showing human-AI integration.
+  - Initial conflict introduced regarding AI rights and societal implications.
+
+- **Challenges Faced**:
+  - Balancing technical details with character development.
+  - Ensuring clarity in the depiction of the setting to enhance reader immersion.
+
+## Objectives
+- Document key decisions, character arcs, and plot developments.
+- Track the evolution of the narrative throughout the writing process.
