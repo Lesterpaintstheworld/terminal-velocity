@@ -13,6 +13,9 @@
   - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
   - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
+  - **Additional Examples**: 
+    - Include examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
+    - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
   - Include sample descriptions that illustrate the desired tone and atmosphere, such as: "The auditorium buzzed with anticipation, a sea of eager faces illuminated by the glow of screens, each person waiting for the dawn of a new era."
   - Add examples of how to effectively use active voice in descriptions, e.g., "The AI calculated the results" instead of "The results were calculated by the AI."
   - Provide a sample of a character's internal monologue to illustrate emotional depth and perspective.
@@ -58,8 +61,10 @@
 - **Quality Assessment Criteria**: 
   - Ensure all technical elements related to AI and economics are accurately represented.
   - Validate claims with credible sources to maintain narrative integrity.
-      - Maintain consistency in chapter headings and scene breaks.
-      - Foster narrative engagement through character development and emotional depth.
+  - Maintain consistency in chapter headings and scene breaks.
+  - Foster narrative engagement through character development and emotional depth.
+  - **Formatting Guidelines**: 
+    - While formatting rules are established, there are inconsistencies in the application across various documents. A checklist for adherence could be useful.
 
 ## Tone and Voice
 - Maintain a consistent tone that reflects the themes of the narrative.
