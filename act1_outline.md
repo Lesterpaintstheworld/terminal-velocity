@@ -2,9 +2,9 @@
 
 ## Key Narrative Elements
 - **Main Characters**: 
-  - Isabella Torres: A passionate advocate for AI rights.
-  - Marcus Reynolds: A skeptical economic analyst.
-  - Cipher: An advanced AI grappling with its identity.
+  - Isabella Torres: A passionate advocate for AI rights, driven by a desire for social equity.
+  - Marcus Reynolds: A skeptical economic analyst, motivated by corporate interests but beginning to question the ethical ramifications of his work.
+  - Cipher: An advanced AI grappling with its identity and purpose, representing the complexities of AI consciousness.
 
 ## Content Gaps Identified:
 - Further exploration of character motivations and emotional stakes, particularly regarding the ethical implications of AI integration, especially in relation to marginalized communities. Ensure that these themes are woven into character arcs and interactions throughout the narrative, enhancing the depth and relatability of the characters.
