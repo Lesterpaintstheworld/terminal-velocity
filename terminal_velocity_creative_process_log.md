@@ -1,16 +1,13 @@
 # Terminal Velocity Creative Process Log
 
 ## Objectives
-- Document key decisions, character arcs, and plot developments.
+- Document key creative decisions, character arcs, plot developments, and team dynamics throughout the writing process.
 - Track the evolution of the narrative throughout the writing process.
 
 ## Initial Timeline
 - **Date**: [Insert Date]
-  - **Milestone**: [Description of Milestone]
-  - **Key Decisions**: [Summary of Decisions Made]
-  - **Character Developments**: [Notable Changes in Character Arcs]
-  - **Plot Developments**: [Significant Plot Points]
-  - **Team Dynamics**: [Observations on Collaboration]
+  - **Event**: [Description of the event]
+  - **Milestone**: [Description of the milestone]
 
 ## Log Entry: Initial Draft of Chapter 1 Completed
 
