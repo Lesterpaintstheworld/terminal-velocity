@@ -1,15 +1,28 @@
-# Terminal Velocity Mission - Todo List (Updated for Act 1)
+# Terminal Velocity Mission - Todo List
 
 ## 1. Narrative Elements
-### 1.1 World Building
-- [ ] Develop cultural landscape documentation
-- [ ] Outline economic systems integration with UBC framework
-- [ ] Create societal impact assessments
+1.1 Develop Act 1 Outline  
+1.2 Draft Initial Scenes for Act 1  
+1.3 Integrate Feedback from Beta Readers  
 
-### 1.2 Story Structure
-- [ ] Finalize act outlines for all chapters
-- [ ] Draft key scenes for Act 1
-- [ ] Integrate feedback from beta readers on narrative flow
+## 2. Character Arcs
+2.1 Finalize Character Profiles  
+2.2 Outline Character Development Arcs  
+2.3 Identify Key Relationships  
+
+## 3. Technical Requirements
+3.1 Validate Technical Accuracy of AI Concepts  
+3.2 Review Economic Frameworks  
+3.3 Ensure Consistency in World-Building Elements  
+
+## 4. Feedback Integration
+- **4.1 Incorporate Beta Reader Feedback**
+  - 4.1.1 Summarize feedback from initial readers.
+  - 4.1.2 Adjust character arcs based on reader insights.
+
+- **4.2 Ongoing Evaluation**
+  - 4.2.1 Schedule regular reviews of narrative progress.
+  - 4.2.2 Document changes made based on evaluations.
 
 ## 2. Character Arcs
 ### 2.1 Character Development
