@@ -2,7 +2,7 @@
 
 ## Key Events:
 - Rapid advancements in AI technology and its integration into society.
-- Conflicts arising from economic disparities and ethical concerns.
+- Conflicts arising from economic disparities.
 - Key turning points that challenge the characters’ beliefs and relationships.
 
 ## Themes:
