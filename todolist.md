@@ -14,15 +14,22 @@
 7. **Character Development** - Growth and evolution of key characters in response to AI changes.
 8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
 
-## 1. Narrative Elements
-### Initial Milestones
-- **Initial Draft Completion:** Document the completion of each chapter, noting key developments and challenges faced.
-- **Character Arc Tracking:** Chronicle the evolution of main characters, identifying breakthroughs and shifts in their arcs.
-- **Plot Thread Evolution:** Record changes in plot threads and how they interconnect throughout the narrative.
-- **Character Arcs**
-  - 1.1 Review and finalize character arcs for main characters (Isabella, Marcus, Cipher, etc.).
-  - 1.2 Develop emotional evolution for AI protagonists.
-  - 1.3 Integrate feedback from beta readers on character development.
+## Narrative Elements
+- **1. Narrative Development**
+  - 1.1 Develop Act 1 Outline
+  - 1.2 Draft Act 1 Scenes (depends on 1.1)
+  - 1.3 Review Act 1 Draft
+
+## Character Arcs
+- **2. Character Development**
+  - 2.1 Finalize Character Profiles
+  - 2.2 Develop Character Arcs (depends on 2.1)
+  - 2.3 Review Character Interactions
+
+## Technical Requirements
+- **3. Technical Documentation**
+  - 3.1 Complete Economic Framework Documentation
+  - 3.2 Review Technical Accuracy (depends on 3.1)
 
 - **Scene Structuring**
   - 2.1 Outline key scenes for Act 1.
@@ -34,13 +41,17 @@
   - 3.2 Draft sections on economic models for the narrative.
   - 3.3 Integrate findings from UBC economic research into the narrative.
 
-## 2. Task Dependencies
-- **Character Development**
-  - Link character arc completion (1.1) to scene structuring (2.1) to ensure alignment.
-  - Ensure emotional evolution (1.2) informs scene dynamics (2.2).
+## 3. Progress Tracking
+### Milestones
+- **Milestone 1**: Complete chapter frameworks and character arcs by Q1 2025.
+- **Milestone 2**: Draft initial scenes for Act 1 by Q2 2025.
+- **Milestone 3**: Integrate feedback and polish drafts by Q3 2025.
+- **Milestone 4**: Finalize the manuscript by Q4 2025.
 
-- **Scene Transitions**
-  - Establish dependencies between scenes in Act 1 and Act 2 to maintain narrative flow.
+### Current Progress
+- Act 1 Chapter Outlines: In Progress
+- Act 1 Scene Drafts: Not Started
+- Character Profiles: Updated based on feedback
 
 ## 3. Feedback Mechanism
 - **Incorporate Feedback**
