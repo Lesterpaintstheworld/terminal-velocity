@@ -1,43 +1,37 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Extracted Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
-8. **AI Economic Decision-Making** - Mechanisms of AI in economic decision-making.
-9. **Governance and Regulation** - Frameworks for governing AI technologies.
-10. **Cultural Implications** - How AI and UBC influence cultural dynamics.
-1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
-2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
-3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
-4. **Ethical Dilemmas** - Challenges and moral questions arising from AI autonomy.
-5. **Societal Adaptation** - How society adjusts to the integration of AI and UBC.
-6. **Trust in Technology** - The evolving relationship between humans and automated systems.
-7. **Character Development** - Growth and evolution of key characters in response to AI changes.
-8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
+## 1. Narrative Elements
+- **1.1 World Building**
+  - 1.1.1 Review existing world-building documents for consistency.
+  - 1.1.2 Integrate cultural and societal elements into the narrative.
+  - 1.1.3 Finalize economic frameworks related to AI integration.
+
+- **1.2 Story Structure**
+  - 1.2.1 Complete outlines for Acts 1, 2, 3, and 4.
+  - 1.2.2 Draft initial scenes for Act 1.
+    - **Dependency**: 1.2.1 must be completed first.
+  - 1.2.3 Review emotional beats in Act 1 scenes.
 
 ## 2. Character Arcs
-- **2.1**: Complete character profiles for AI protagonists (Cipher, Echo, Nova)
-- **2.2**: Develop emotional evolution arcs for human characters (Isabella, Marcus, Sarah)
-- **2.3**: Outline key interactions and conflicts between characters
-- **2.4**: Review character development for consistency across acts
-- **2.5**: Document initial draft completion for Act 1, Chapter 1, noting key developments and challenges.
-- **2.6**: Track character arc development for Isabella Torres, highlighting significant breakthroughs.
-- **2.7**: Record plot thread evolution, documenting changes in AI rights movement and Isabella's journey.
+- **2.1 Character Development**
+  - 2.1.1 Finalize character profiles for AI protagonists.
+  - 2.1.2 Develop emotional evolution arcs for human characters.
+  - 2.1.3 Assess character interactions for depth and realism.
+    - **Dependency**: 2.1.1 must be completed first.
+
+- **2.2 Character Relationships**
+  - 2.2.1 Map out key relationships between characters.
+  - 2.2.2 Identify gaps in character interactions and propose enhancements.
 
 ## 3. Technical Requirements
-- **3.1**: Validate technical accuracy of AI and economic concepts in the narrative
-- **3.2**: Review integration strategies for AI systems within the story
-- **3.3**: Assess implications of economic models on character decisions and plot progression
+- **3.1 Technical Review**
+  - 3.1.1 Validate technical accuracy of AI concepts.
+  - 3.1.2 Review economic models for plausibility.
+  - 3.1.3 Ensure alignment of technical specifications with narrative needs.
 
-## 4. Quality Assurance
-- **4.1**: Establish evaluation criteria for narrative engagement
-- **4.2**: Conduct thematic clarity assessments for each chapter
-- **4.3**: Implement feedback loops for continuous improvement
+- **3.2 Integration Tasks**
+  - 3.2.1 Develop integration strategies for AI systems within the narrative.
+  - 3.2.2 Document findings related to AI rights and ethical considerations.
 
 ### Task Dependencies
 - **1.1** depends on completion of **1.2**
