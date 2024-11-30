@@ -4,6 +4,7 @@
 - **1.1** Finalize chapter frameworks for Act 1
 - **1.2** Draft initial scenes for Act 1
 - **1.3** Outline key themes for Act 1
+- **1.4** Extract key themes and perspectives for chapter frameworks
 
 ## 2. Character Arcs
 - **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
