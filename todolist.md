@@ -1,20 +1,37 @@
-# Terminal Velocity Mission - Todo List (Updated)
+# Todo List
 
-## Narrative Elements
-1. **World Building**
-   - 1.1 Review and update the **AI Lifestyle and Society Integration** document. *(In Progress)*
-   - 1.2 Finalize **Cultural Landscape** overview. *(Pending)*
-   - 1.3 Integrate **Economic Framework** insights into world-building documents. *(Pending)*
+## 1. Narrative Elements
+### 1.1 Act Structure
+- [ ] 1.1.1 Finalize act outlines for Act 1, Act 2, Act 3, and Act 4.
+- [ ] 1.1.2 Draft initial scenes for Act 1.
+- [ ] 1.1.3 Integrate feedback from beta readers on narrative flow.
 
-2. **Character Development**
-   - 2.1 Complete **Character Profiles** for all main characters. *(In Progress)*
-   - 2.2 Update **Character Arcs Summary** based on recent feedback. *(Pending)*
-   - 2.3 Review **Character Interaction Matrix** for consistency. *(Pending)*
+### 1.2 Scene Development
+- [ ] 1.2.1 Develop key scenes for Act 1, Chapter 1.
+- [ ] 1.2.2 Outline emotional beats for Act 2, Chapter 3.
+- [ ] 1.2.3 Review and revise scenes based on character arcs.
 
-3. **Story Structure**
-   - 3.1 Finalize **Act 1 Outline** and ensure alignment with character arcs. *(In Progress)*
-   - 3.2 Draft **Act 2 Scenes** based on completed outlines. *(Pending)*
-   - 3.3 Review **Act 3 Crisis** elements for thematic consistency. *(Pending)*
+## 2. Character Arcs
+### 2.1 Character Profiles
+- [ ] 2.1.1 Complete character profiles for AI protagonists (e.g., Cipher, Nova).
+- [ ] 2.1.2 Update human character profiles (e.g., Isabella, Marcus) with new developments.
+- [ ] 2.1.3 Analyze character interactions and dynamics across acts.
+
+### 2.2 Character Development
+- [ ] 2.2.1 Track emotional evolution for main characters.
+- [ ] 2.2.2 Identify key moments in character arcs for Act 3.
+- [ ] 2.2.3 Integrate character feedback into development arcs.
+
+## 3. Technical Requirements
+### 3.1 Research and Insights
+- [ ] 3.1.1 Compile research on AI economic systems.
+- [ ] 3.1.2 Validate technical accuracy of economic models in the narrative.
+- [ ] 3.1.3 Review integration of AI concepts into the storyline.
+
+### 3.2 Documentation
+- [ ] 3.2.1 Update technical specifications for AI systems.
+- [ ] 3.2.2 Document findings from character interactions and emotional dynamics.
+- [ ] 3.2.3 Ensure all technical documents align with narrative themes.
 
 #### Technical Requirements
 4. **Technical Accuracy**
@@ -25,10 +42,10 @@
    - 5.1 Assess **Integration Opportunities** for character interactions. *(Pending)*
    - 5.2 Finalize **Technical Implementation** details for AI systems. *(Pending)*
 
-#### Task Dependencies
-- **1.1** is dependent on the completion of **4.1**.
-- **2.1** must be completed before **2.2** can begin.
-- **3.1** must be finalized before drafting **3.2**.
+## Dependencies
+- **1.1.1** is dependent on the completion of **3.1.1**.
+- **2.1.1** must be completed before **2.2.1** can begin.
+- **1.1.1** must be finalized before drafting **1.2.1**.
 
 #### Progress Tracking
 - **Milestone 1**: Complete chapter frameworks and character arcs by Q1 2025.
