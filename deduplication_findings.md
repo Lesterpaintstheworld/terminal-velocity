@@ -3,9 +3,12 @@
 ## Detected Duplicates
 - Character motivations in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
 - Similar scene descriptions in `./story/act1/chapter1/scene1.md` and `./story/act2/chapter1/scene1.md`
+- Overlapping character traits in `./characters/ai_protagonists/cipher/profile.md` and `./characters/ai_protagonists/cipher/character_profiles/02_001_character_profile_cipher.md`
+- Redundant thematic elements in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
 
 ## Partial Overlaps
 - Overlapping themes in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
+- Similar character arcs in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/marcus_reynolds/profile.md`
 ## Deduplication Findings
 ### Action Plan
 1. **Identify Duplicate Content**:
