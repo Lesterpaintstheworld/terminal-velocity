@@ -39,6 +39,9 @@
 3. **Human-AI Relations**: The evolving dynamics between humans and AI entities, including ethical dilemmas and collaboration.
 4. **Societal Impact**: The broader effects of AI integration on societal structures, including cultural, ethical, and emotional dimensions.
 5. **Technological Context**: The technological advancements that enable AI systems and their integration into daily life.
+6. **Trust in Automated Systems**: The evolving relationship between humans and automated systems.
+7. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
+8. **Ethical Considerations**: The moral implications of AI autonomy and decision-making.
 - **1.1** is dependent on completion of **3.1**.
 - **2.1** must be finalized before starting **2.2**.
 - **3.1** findings will inform **3.2** strategies.
