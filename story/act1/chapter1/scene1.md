@@ -1,4 +1,5 @@
 # Scene 1: The Presentation
+# Setting: UBC Introduction Auditorium, a sleek, high-tech venue filled with industry leaders and curious students.
 
 *Setting: UBC Introduction Auditorium, a sleek, high-tech venue filled with industry leaders and curious students. The atmosphere is charged with anticipation.*
 

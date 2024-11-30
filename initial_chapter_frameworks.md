@@ -1,4 +1,5 @@
 # Initial Chapter Frameworks for "Terminal Velocity"
+# This document outlines the key themes and character arcs for each chapter.
 
 ## Chapter Frameworks Overview
 ### Chapter 1: The Awakening

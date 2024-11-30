@@ -1,4 +1,5 @@
 # Actionable Tasks Summary for "Terminal Velocity"
+# This document outlines the key tasks and objectives for the narrative development process.
 
 ### Extracted Action Items
 ### Key Themes and Perspectives
