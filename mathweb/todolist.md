@@ -16,16 +16,9 @@
 3.3. Ensure adherence to quality standards in writing  
 
 ## 1. Narrative Elements
-- **1.1 World Building**
-  - 1.1.1 Review existing world-building documents for consistency.
-  - 1.1.2 Integrate cultural and societal elements into the narrative.
-  - 1.1.3 Finalize economic frameworks related to AI integration.
-
-- **1.2 Story Structure**
-  - 1.2.1 Complete outlines for Acts 1, 2, 3, and 4.
-  - 1.2.2 Draft initial scenes for Act 1, focusing on the introduction of UBC and AI autonomy.
-    - **Dependency**: 1.2.1 must be completed first.
-  - 1.2.3 Review emotional beats in Act 1 scenes, ensuring alignment with character arcs and themes.
+1.1. Complete chapter frameworks for Act 1  
+1.2. Draft initial scenes for Act 1  
+1.3. Integrate feedback from beta readers  
 
 ## 2. Character Arcs
 - **2.1 Character Development**
