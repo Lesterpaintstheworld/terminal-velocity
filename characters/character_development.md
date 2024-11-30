@@ -2,12 +2,12 @@
 
 ## Character Arc Evolution Log
 - **Isabella Torres**:
-  - Initial Motivation: Advocate for AI rights and integration.
+  - Initial Motivation: Advocate for AI rights and integration, driven by personal experiences and a strong sense of responsibility towards equitable access to resources.
   - Key Moments: 
     - Presentation of UBC framework.
-    - Confrontation with Marcus regarding ethical implications.
+    - Confrontation with Marcus regarding ethical implications, leading to a deeper understanding of the complexities involved.
   - Relationships: 
-    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
+    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative and the ethical dilemmas they face together.
 
 ### Key Developments
 - **Isabella Torres**: 
@@ -16,8 +16,8 @@
   - **Character Growth**: Isabella's journey will explore her internal conflicts regarding AI rights and her relationships, particularly with Marcus, as she navigates the challenges of advocating for ethical AI.
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc.
 - **Marcus Reynolds**: 
-  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
-  - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities.
+  - A corporate strategist focused on ensuring the safety and efficacy of AI systems, balancing innovation with ethical considerations. He transitions from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
+  - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities, particularly as he witnesses the impact of AI on society.
 - **Cipher**: 
   - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.
 - **Echo**: 
