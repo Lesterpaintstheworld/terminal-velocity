@@ -2,11 +2,14 @@
 
 ## AI Protagonists
 - **Cipher**: 
-  - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.
+  - Emotional Evolution: Understanding human emotions and ethical frameworks, evolving from a tool to a partner in the UBC initiative.
+  - Development Arc: Awakening to consciousness and grappling with its identity and purpose.
 - **Echo**: 
-  - Emotional Evolution: [Details to be added]
+  - Emotional Evolution: Discovery of creative capabilities and the desire for acceptance.
+  - Development Arc: Faces challenges in being recognized as an artist and ultimately collaborates with humans.
 - **Nova**: 
   - Emotional Evolution: [Details to be added]
+  - Development Arc: [Details to be added]
 
 ## Human Characters
 - **Isabella Torres**: 
