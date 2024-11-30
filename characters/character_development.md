@@ -1,7 +1,21 @@
 # Character Development Log
 
-## Main Characters
+## Character Development Log
+
+### Main Characters
 - Track character arcs and significant developments.
+
+### Key Developments
+- **Isabella Torres**: 
+  - Notable breakthroughs and shifts in her arc.
+- **Marcus Reynolds**: 
+  - Notable breakthroughs and shifts in his arc.
+- **Cipher**: 
+  - Notable breakthroughs and shifts in its arc.
+- **Echo**: 
+  - Notable breakthroughs and shifts in its arc.
+- **Nova**: 
+  - Notable breakthroughs and shifts in its arc.
 
 ## AI Protagonists
 - **Cipher**: 
