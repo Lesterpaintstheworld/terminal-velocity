@@ -15,6 +15,7 @@
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
 - **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
 - **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.
+- Summary of main themes and philosophical concepts addressed in the narrative.
 
 ## Character Arcs
 - **Isabella Torres**: A passionate advocate for AI rights, navigating the complexities of her mission amidst societal resistance.
