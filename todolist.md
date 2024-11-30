@@ -1,23 +1,15 @@
 # Todo List
 
 ## 1. Narrative Elements
-### 1.1 World Building
-- [ ] Review existing world-building documentation for consistency.
-- [ ] Integrate new cultural and economic frameworks into the narrative.
-- [ ] Finalize the societal landscape descriptions.
-
-### 1.2 Story Structure
-- [ ] Complete act outlines for Act 1, Act 2, and Act 3.
-- [ ] Draft initial scenes for Act 1.
-- [ ] Outline transitions between acts.
-
-## 1. Narrative Elements
-### 1.1 Chapter Frameworks
-- [ ] 1.1.1 Complete chapter outlines for Acts 1-4
-- [ ] 1.1.2 Finalize key themes for each chapter
-- [ ] 1.1.3 Conduct initial content duplication detection
-- [ ] 1.1.4 Document findings in `deduplication_findings.md`
-- [ ] 1.1.5 Prepare for safe consolidation in `consolidation_strategy.md`
+### 1.1 Key Themes
+- [ ] AI Autonomy
+- [ ] Economic Transformation
+- [ ] Human-AI Relationships
+- [ ] Ethical Dilemmas
+- [ ] Societal Implications
+- [ ] Trust in Technology
+- [ ] Character Development
+- [ ] Cultural Shifts
 
 ### 1.2 Scene Structuring
 - [ ] 1.2.1 Draft initial scenes for Act 1
