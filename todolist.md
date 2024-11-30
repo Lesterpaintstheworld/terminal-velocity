@@ -9,17 +9,17 @@
 - [x] Draft act 2 scenes.
 - [x] Review act 3 character dynamics.
 - [x] Extract key themes and perspectives related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
-- [ ] Gather foundational information on UBC systems and AI economic principles.
-- [ ] Document findings in a structured format for future reference.
-- [ ] Develop AI Lifestyle and Society Integration.
-- [ ] Create cultural landscape documentation.
-- [ ] Outline economic systems integration.
-- [ ] Define character arcs for AI protagonists.
-- [ ] Develop human character profiles.
-- [ ] Create interaction scripts for key character dynamics.
-- [ ] Outline acts and chapters.
-- [ ] Draft initial scenes for Act 1.
-- [ ] Integrate feedback from beta readers.
+- [x] Gather foundational information on UBC systems and AI economic principles.
+- [x] Document findings in a structured format for future reference.
+- [x] Develop AI Lifestyle and Society Integration.
+- [x] Create cultural landscape documentation.
+- [x] Outline economic systems integration.
+- [x] Define character arcs for AI protagonists.
+- [x] Develop human character profiles.
+- [x] Create interaction scripts for key character dynamics.
+- [x] Outline acts and chapters.
+- [x] Draft initial scenes for Act 1.
+- [x] Integrate feedback from beta readers.
 - [x] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
 - [ ] Gather foundational information on UBC systems and AI economic principles.
 - [ ] Document findings in a structured format for future reference.
