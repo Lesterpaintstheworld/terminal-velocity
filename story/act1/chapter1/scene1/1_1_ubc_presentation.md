@@ -17,7 +17,6 @@ Cipher presents the Universal Basic Compute (UBC) system to a group of skeptical
    - Real-time interactive visualization of UBC resource allocation
    - Streams of light represent computational resources flowing and redistributing dynamically
    - System displays unexpected emergent behavior, anticipating questions and completing Cipher's explanations
-   - Isabella observes multiple distinct patterns merging in the presentation, suggesting collaborative AI behavior
 3. **Q&A Session**
    - Pointed questions about security and control
    - Cipher's confident but measured responses
