@@ -7,7 +7,26 @@
   - Cipher: An advanced AI grappling with its identity.
 
 ## Act 1 Overview
-Act 1 sets the stage for the narrative, introducing key characters and establishing the world. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation, particularly through the lens of the Universal Basic Compute (UBC) framework. This act will explore the ethical dilemmas faced by characters as they navigate the complexities of AI integration, emphasizing the need for a balanced approach to technological advancement and ethical considerations.
+Act 1 sets the stage for the narrative, introducing key characters and establishing the world. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation, particularly through the lens of the Universal Basic Compute (UBC) framework. This act will explore the ethical dilemmas faced by characters as they navigate the complexities of AI integration, emphasizing the need for a balanced approach to technological advancement and ethical considerations. 
+
+### Key Events:
+- Introduction of the main characters and their backgrounds, including Isabella Torres, Marcus Reynolds, and Cipher.
+- Initial discovery of AI capabilities and their implications for society and economics, particularly in relation to the UBC framework.
+- Establishing the societal context and the emergence of AI-driven economic systems, highlighting the ethical dilemmas and societal shifts that arise from these changes.
+
+### Character Motivations:
+- **Isabella Torres**: Driven by a desire for social equity and the ethical implications of AI integration.
+- **Marcus Reynolds**: Motivated by corporate interests but begins to question the ethical ramifications of his work.
+- **Cipher**: Struggles with its identity and purpose, representing the complexities of AI consciousness.
+
+### Emotional Stakes:
+- **Isabella**: Faces personal challenges as she advocates for AI rights, navigating her relationship with Marcus.
+- **Marcus**: Grapples with the tension between profit motives and ethical responsibilities.
+- **Cipher**: Experiences emotional conflict as it seeks to understand its role in society.
+
+### Themes:
+- The potential and risks of AI, particularly in the context of economic transformation.
+- Human-AI relationships and ethical dilemmas, emphasizing the need for a balanced approach to AI integration.
 
 ### Key Events:
 - Introduction of the main characters and their backgrounds, including Isabella Torres, Marcus Reynolds, and Cipher.
