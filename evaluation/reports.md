@@ -18,7 +18,11 @@
 - Update the specifications document to include a detailed section on quality assessment criteria.
 - Conduct a thorough review of technical elements to ensure accuracy and credibility.
 
-## Initial Evaluation Report for Terminal Velocity
+## Quality Criteria
+- **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
+- **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
+- **Character Development**: Assess the depth and growth of characters throughout the narrative.
+- **Thematic Clarity**: Verify that the themes are clearly articulated and resonate throughout the story.
 
 ## Findings from Initial Assessment
 - **Specifications Review**: The specifications document outlines key deliverables and quality metrics, but lacks a dedicated section for quality assessment criteria.

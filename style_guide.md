@@ -29,3 +29,5 @@
 ## Technical Accuracy
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
+- Ensure all technical elements related to AI and economics are accurately represented.
+- Validate claims with credible sources to maintain narrative integrity.
