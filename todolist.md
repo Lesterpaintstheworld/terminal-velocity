@@ -4,6 +4,9 @@
 ### 1.1 Chapter Frameworks
 - [ ] 1.1.1 Complete chapter outlines for Acts 1-4
 - [ ] 1.1.2 Finalize key themes for each chapter
+- [ ] 1.1.3 Conduct initial content duplication detection
+- [ ] 1.1.4 Document findings in `deduplication_findings.md`
+- [ ] 1.1.5 Prepare for safe consolidation in `consolidation_strategy.md`
 
 ### 1.2 Scene Structuring
 - [ ] 1.2.1 Draft initial scenes for Act 1
