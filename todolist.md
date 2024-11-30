@@ -21,7 +21,9 @@
 4.3 Prepare for upcoming narrative phases  
 
 ## 5. Phase Transitions
-5.1 Ensure readiness for the next phase is communicated based on the completion of prior tasks.  
+5.1 Ensure readiness for the next phase is communicated based on the completion of prior tasks.
+5.2 Mark completion of Act 1 tasks before moving to Act 2.
+5.3 Confirm readiness for Act 3 by reviewing the Act 2 draft and scenes.
 
 ## 6. Feedback Integration
 6.1 Incorporate feedback from beta readers and editors, outlining tasks that need adjustment based on evaluation results to prioritize quality improvements.  
