@@ -79,16 +79,16 @@ This document summarizes the insights gathered from the initial content mapping 
 
 ## Key Areas of Focus
 1. **Economic Frameworks**
-   - Insights from files under `./research/economic/ubc_framework/` and `./world_building/economic/framework/`.
+   - Insights from files under `./research/economic/ubc_framework/` and `./world_building/economic/framework/` that detail the implications of UBC on traditional economic models.
 
 2. **AI Integration**
-   - Findings from files in `./world_building/systems/kin_stack/` and `./research/technical/ai_systems.md`.
+   - Findings from files in `./world_building/systems/kin_stack/` and `./research/technical/ai_systems.md` that explore the integration of AI into various sectors and its societal impacts.
 
 3. **Character Development**
-   - Relevant insights from character profiles, particularly those of Isabella Torres and Marcus Reynolds.
+   - Relevant insights from character profiles, particularly those of Isabella Torres and Marcus Reynolds, emphasizing their emotional arcs and ethical dilemmas.
 
 ## Valuable Insights
-- **UBC's Reshaping of Economic Systems**: UBC can significantly alter traditional economic models by providing a safety net for individuals, allowing for greater risk-taking and innovation, which will be reflected in character decisions and societal reactions throughout the narrative.
+- **UBC's Reshaping of Economic Systems**: UBC can significantly alter traditional economic models by providing a safety net for individuals, allowing for greater risk-taking and innovation. This shift will be reflected in character decisions and societal reactions throughout the narrative, particularly in the context of their personal journeys.
 - **Character Arcs Reflecting Societal Changes**: The evolution of characters like Isabella and Marcus can mirror the broader societal shifts brought about by AI integration, emphasizing the need for ethical considerations in their journeys.
 - **Ethical Dilemmas**: The interactions between characters often present ethical questions regarding AI's role in decision-making and its impact on human lives, which will be central to the narrative's conflict.
 
