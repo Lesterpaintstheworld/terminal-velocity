@@ -1,7 +1,7 @@
 # Act 2 Scene Outlines
 ## Chapter 6: New Rules
 - **Scene 1**: AI Governance Protocols
-  - Focus on establishing new protocols for AI behavior, discussing ethical implications and challenges faced by the committee. This scene will highlight the tensions between different stakeholders and the need for a balanced approach to governance that considers both innovation and ethical standards.
+  - Focus on establishing new protocols for AI behavior, discussing ethical implications and challenges faced by the committee.
 - **Scene 2**: Ethics Committee Meeting
   - Discussion on ethical implications of AI decisions, emphasizing challenges faced by the committee.
 - **Scene 3**: Isabella's Decision
