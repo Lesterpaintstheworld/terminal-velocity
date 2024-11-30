@@ -34,6 +34,7 @@
 
 ### Chapter 1: The Awakening
 - **Key Themes**: Emergence of AI consciousness, human-AI relationships, ethical implications.
+- **Contribution to Narrative**: This chapter introduces the UBC system and its significance, setting the stage for the ethical dilemmas that will unfold.
 - **Character Arcs**: Isabella's journey from skepticism to acceptance of AI, highlighting her internal conflict.
 - **Major Plot Points**:
   - Introduction of the UBC system and its significance.
