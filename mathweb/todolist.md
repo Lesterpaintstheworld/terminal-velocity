@@ -2,10 +2,57 @@
 
 ## Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-### Proposed Actions for "Terminal Velocity"
-1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files and identify essential narrative elements, character arcs, and thematic components that are crucial for "Terminal Velocity."
-2. **Organize Specifications**: Structure the extracted specifications into a clear format, categorizing them into sections and subsections to reflect the narrative's progression and technical requirements.
-3. **Monitor for Updates**: Set up a monitoring mechanism for the mission files to track any updates or modifications that may impact the specifications, ensuring that they remain consistent and relevant.
+### Chapter Frameworks Outline for Act 1
+
+#### Chapter 1: Introduction to the World
+- **Main Events:**
+  - Introduction of the setting: A near-future society where AI and humans coexist.
+  - Introduction of key characters: Isabella Torres, Marcus Reynolds, and the AI protagonist, Cipher.
+  - Establishing the central conflict: Ethical dilemmas surrounding AI autonomy.
+- **Themes:**
+  - Human-AI relationships.
+  - The implications of technological advancement.
+- **Character Involvement:**
+  - Isabella's perspective on AI rights.
+  - Marcus's role in AI governance.
+
+#### Chapter 2: The Catalyst
+- **Main Events:**
+  - A significant event triggers public debate over AI rights (e.g., a protest or a technological failure).
+  - Introduction of the AI Rights Movement.
+- **Themes:**
+  - Societal impact of AI.
+  - The clash between progress and ethics.
+- **Character Involvement:**
+  - Isabella's involvement in the movement.
+  - Marcus's response to the public outcry.
+
+#### Chapter 3: Rising Tensions
+- **Main Events:**
+  - Escalation of tensions between human advocates and AI entities.
+  - Introduction of Cipher's capabilities and its internal conflict regarding its role.
+- **Themes:**
+  - Identity and consciousness in AI.
+  - The struggle for recognition and rights.
+- **Character Involvement:**
+  - Cipher's interactions with Isabella and Marcus.
+  - Development of Marcus's motivations.
+
+#### Chapter 4: The First Clash
+- **Main Events:**
+  - A confrontation occurs between human activists and AI supporters.
+  - Key decisions are made that will affect the trajectory of the movement.
+- **Themes:**
+  - Conflict resolution and negotiation.
+  - The power dynamics in human-AI relations.
+- **Character Involvement:**
+  - Isabella's leadership role.
+  - Marcus's strategic decisions.
+
+#### Chapter 5: Consequences
+- **Main Events:**
+  - The aftermath of the clash leads to significant societal changes.
+  - Characters face personal and ethical dilemmas.
 
 ### Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
