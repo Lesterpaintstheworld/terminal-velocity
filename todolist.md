@@ -1,7 +1,13 @@
 # Terminal Velocity Mission - Todo List
 
 ## 1. Narrative Elements
-- 1.1 Define key themes.
+- 1.1 Define key themes:
+  - AI autonomy
+  - Economic transformation
+  - Human-AI relationships
+  - Ethical dilemmas
+  - Societal impacts
+  - Trust in technology
 - 1.2 Outline major plot points.
 - 1.3 Develop character arcs.
 
@@ -24,8 +30,15 @@
 ## 1. Narrative Elements
 - 1.1 Develop chapter frameworks for each act:
   - 1.1.1 Act 1: Introduction and Setup
+    - Introduce AI and its implications
+    - Explore human-AI dynamics
+    - Present ethical considerations
   - 1.1.2 Act 2: Development and Conflict
+    - Deepen tensions between humans and AI
+    - Highlight societal impacts of AI integration
   - 1.1.3 Act 3: Resolution and Transformation
+    - Achieve reconciliation between humans and AI
+    - Establish new societal frameworks
 - 1.2 Outline key themes for each act:
   - 1.2.1 Act 1: Emergence of AI and ethical dilemmas
   - 1.2.2 Act 2: Human-AI tensions and societal impacts
