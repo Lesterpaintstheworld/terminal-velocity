@@ -1,6 +1,15 @@
 # Todo List for Terminal Velocity Project
 
 ## 1. Narrative Elements
+### Key Research Topics
+- Universal Basic Compute (UBC) Framework Analysis
+- AI Economic Decision-Making
+- Societal Impacts of AI
+- Ethical Considerations
+- Technological Integration
+- Governance and Regulation
+- Technological Landscape
+- Cultural Implications
 - **1.1 Chapter Frameworks**
   - Draft outlines for each chapter in Act 1.
   - Identify key themes and character arcs for each chapter.
