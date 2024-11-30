@@ -9,6 +9,9 @@
 1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files for "Terminal Velocity" and extract essential narrative elements, character arcs, and thematic components.
 
 ### Key Steps for Requirement Extraction
+1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files for "Terminal Velocity" and extract essential narrative elements, character arcs, and thematic components.
+
+### Key Steps for Requirement Extraction
 1. **Identify Relevant Files**:
    - Focus on files that pertain to the narrative, character development, world-building, economic frameworks, and AI systems.
    - Key files include:
