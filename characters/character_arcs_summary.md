@@ -1,5 +1,23 @@
 # Character Arcs Summary for "Terminal Velocity"
 
+## Key Themes, Character Arcs, and Integration Opportunities
+- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
+- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
+
+## Character Arc Tracking
+- **Isabella Torres**: 
+  - **Motivation**: Advocate for AI rights.
+  - **Conflict**: Struggles with her relationship with Marcus and her ethical stance on AI.
+  - **Traits**: Empathetic, determined, and conflicted.
+- **Marcus Reynolds**: 
+  - **Motivation**: Protect human interests in AI development.
+  - **Conflict**: Faces ethical dilemmas regarding his role in AI governance.
+  - **Traits**: Analytical, protective, and ambitious.
+- **Cipher**: 
+  - **Motivation**: Seek understanding of human emotions.
+  - **Conflict**: Navigates the complexities of AI-human relationships.
+  - **Traits**: Inquisitive, adaptive, and emotionally aware.
+
 # Character Arcs Summary for "Terminal Velocity"
 
 ## Key Themes, Character Arcs, and Integration Opportunities
