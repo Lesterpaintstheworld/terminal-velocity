@@ -48,6 +48,16 @@
    - Check character profiles in `./characters/` for duplicated arcs.
    - Review thematic documents in `./themes/` for repeated discussions.
 
+2. **Document Findings**
+   - Record identified duplicates in `./Document Findings Section/duplicate_analysis_report.md`.
+
+3. **Prepare for Consolidation**
+   - Outline a strategy for merging identified duplicates while maintaining narrative integrity.
+1. **Content Duplication Detection**
+   - Scan narrative files within the `./story/` directory for potential overlaps.
+   - Check character profiles in `./characters/` for duplicated arcs.
+   - Review thematic documents in `./themes/` for repeated discussions.
+
 2. **Pre-Consolidation Checks**
    - Ensure identified duplicates contain unique insights.
    - Cross-reference character development files for redundancy.
