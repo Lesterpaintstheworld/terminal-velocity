@@ -4,7 +4,7 @@
 - Introduction of the main characters and their backgrounds.
 - Initial discovery of AI capabilities and their implications.
 - Establishing the societal context and the emergence of AI-driven economic systems.
-- **Content Gaps Identified**: Need for deeper exploration of character motivations and emotional stakes, particularly in relation to the ethical implications of AI integration. Additionally, the introduction of key events that drive the narrative forward and highlight character interactions is necessary.
+- **Content Gaps Identified**: Need for deeper exploration of character motivations and emotional stakes, particularly in relation to the ethical implications of AI integration. Additionally, the introduction of key events that drive the narrative forward and highlight character interactions is necessary. This includes a focus on the implications of AI rights and the societal shifts resulting from UBC integration.
 - **Chapter 1**: Introduction to the UBC framework and its societal implications.
 - **Chapter 2**: The first clash between human and AI perspectives on rights and governance.
 - **Chapter 3**: The emergence of public opinion and its impact on AI integration.
