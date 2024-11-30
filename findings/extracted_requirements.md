@@ -1,11 +1,18 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
 ## Key Narrative Elements
-### Character Arcs
-- **Isabella Torres**: 
-  - Act 1: A passionate advocate for AI rights, driven by personal experiences and a strong sense of responsibility towards equitable access to resources. She grapples with ethical dilemmas surrounding AI and economic policies.
-  - Act 2: Faces significant opposition and internal conflict regarding AI integration, questioning her role and the implications of her advocacy.
-  - Act 3: Emerges as a leader in the AI rights movement, successfully navigating her conflicts and advocating for a balanced approach to AI integration.
+### 1. Narrative Elements
+- **Story Structure**
+  - Acts and Chapters: Outline of acts and chapters (e.g., `./story/act1/act1_outline.md`, `./story/act2/act2_outline.md`, `./story/act3/act3_outline.md`, `./story/act4/act4_outline.md`).
+  - Scene Summaries: Key scenes and their summaries across acts (e.g., `./story/act1/chapter1/scene1.md`, `./story/act2/chapter1/scene1.md`).
+
+- **Character Arcs**
+  - Character Profiles: Detailed profiles for main characters (e.g., `./characters/human_characters/dr_evelyn_carter/profile.md`, `./characters/ai_protagonists/cipher/profile.md`).
+  - Development Arcs: Evolution of characters throughout the narrative (e.g., `./characters/ai_protagonists/cipher/development_arc.md`, `./characters/human_characters/isabella_torres/development_arc.md`).
+
+- **Themes and Motifs**
+  - Key Themes: Exploration of central themes (e.g., `./themes/ai_autonomy.md`, `./themes/economic_transformation.md`).
+  - Thematic Clarity: Assessments of thematic clarity (e.g., `./findings/findings_thematic_clarity_assessment.md`).
 
 - **Marcus Reynolds**: 
   - Act 1: Initially skeptical of AI, focused on corporate interests.
@@ -17,10 +24,14 @@
   - Act 2: Struggles with identity and the implications of AI rights.
   - Act 3: Embraces its role in society, advocating for AI rights and collaboration with humans.
 
-### Thematic Elements
-- **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise from this shift.
-- **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms, particularly regarding equity and access.
-- **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration, conflict, and the quest for mutual understanding.
+### 2. Technical Requirements
+- **AI and Economic Frameworks**
+  - Economic Models: Documentation of economic models relevant to the narrative (e.g., `./research/economic/economic_models.md`, `./research/economic/ubc_framework.md`).
+  - AI Integration: Insights on AI systems and their integration into the story (e.g., `./research/technical/ai_systems.md`, `./world_building/economic/framework/economic_systems.md`).
+
+- **World Building**
+  - Societal Structures: Documentation of societal implications and structures (e.g., `./world_building/economic/framework/02_002_implications_for_societal_structures.md`).
+  - Cultural Landscape: Insights into cultural elements and their integration into the narrative (e.g., `./world_building/cultural/cultural_landscape.md`).
 
 ### Significant Plot Points
 - **Act 1**: Introduction of the main characters and their backgrounds, initial discovery of AI capabilities, and establishing the societal context for AI integration.
