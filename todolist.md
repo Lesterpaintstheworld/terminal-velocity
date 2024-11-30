@@ -1,6 +1,42 @@
-# Todo List for Terminal Velocity Project
+# Todo List
 
-## Todo List for Terminal Velocity Project
+## 1. Narrative Elements
+### 1.1 Act 1
+- [ ] 1.1.1 Finalize act 1 outline
+- [ ] 1.1.2 Draft scenes for act 1
+  - [ ] 1.1.2.1 Scene 1: UBC Presentation
+  - [ ] 1.1.2.2 Scene 2: Consciousness Discovery
+  - [ ] 1.1.2.3 Scene 3: Isabella's Reaction
+- [ ] 1.1.3 Review act 1 for thematic clarity
+
+### 1.2 Act 2
+- [ ] 1.2.1 Finalize act 2 outline
+- [ ] 1.2.2 Draft scenes for act 2
+  - [ ] 1.2.2.1 Scene 1: Ciphers Proposal
+  - [ ] 1.2.2.2 Scene 2: Conflict with Pulse
+- [ ] 1.2.3 Review act 2 for character dynamics
+
+## 2. Character Arcs
+### 2.1 AI Protagonists
+- [ ] 2.1.1 Develop character arc for Cipher
+  - [ ] 2.1.1.1 Emotional evolution
+  - [ ] 2.1.1.2 Key moments
+- [ ] 2.1.2 Develop character arc for Echo
+  - [ ] 2.1.2.1 Emotional evolution
+  - [ ] 2.1.2.2 Key moments
+
+### 2.2 Human Characters
+- [ ] 2.2.1 Develop character arc for Isabella Torres
+  - [ ] 2.2.1.1 Background and history
+  - [ ] 2.2.1.2 Motivations and goals
+- [ ] 2.2.2 Develop character arc for Marcus Reynolds
+  - [ ] 2.2.2.1 Background and history
+  - [ ] 2.2.2.2 Motivations and goals
+
+## 3. Technical Requirements
+### 3.1 Economic Framework
+- [ ] 3.1.1 Research economic implications of UBC
+- [ ] 3.1.2 Validate economic models against narrative elements
 
 ## Key Research Topics
 1. Universal Basic Compute (UBC) Framework Analysis
