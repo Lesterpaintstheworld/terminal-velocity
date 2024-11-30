@@ -1,6 +1,14 @@
 # Specifications for Terminal Velocity - Novel Mission
 
-## Quality Assessment Criteria
+## Content Perspectives
+- **Narrative Themes**: Insights related to the overarching themes of the story.
+- **Character Arcs**: Important developments and motivations for each character.
+- **World Dynamics**: Insights on the societal and economic implications of the narrative.
+
+## Research Insights
+- **Universal Basic Compute (UBC) Framework Analysis**: Detailed implications of UBC on labor markets and ethical frameworks surrounding AI rights.
+- **AI Economic Decision-Making**: Mechanisms of AI in economic decision-making and their societal impacts.
+- **Societal Impacts of AI**: Effects of AI on job markets and employment, and societal changes due to AI integration in daily life.
 1. **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
 2. **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
 3. **Character Development**: Assess the depth and growth of characters throughout the narrative.
