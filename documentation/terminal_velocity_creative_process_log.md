@@ -14,9 +14,25 @@
 ### 4. Milestones
 - Establish a timeline of significant events and achievements.
 
-## Objectives
-- Document key decisions, character arcs, and plot developments.
-- Track the evolution of the narrative throughout the writing process.
+## Initial Draft Milestones
+
+### Character Arcs
+- **Isabella Torres**: Track her evolution from an advocate to a leader in the AI rights movement.
+- **Marcus Reynolds**: Document his journey from skepticism to understanding the importance of AI ethics.
+- **Cipher**: Note the development of its consciousness and relationship with humans.
+
+### Plot Evolution
+- Document changes in plot threads and how they interconnect throughout the narrative.
+- Track significant events that influence character decisions and societal impacts.
+
+### Significant Events
+- Introduction of main characters and their motivations.
+- Key conflicts arising from AI integration.
+- Major breakthroughs in character arcs.
+
+### Notable Character Developments
+- Isabella's advocacy for AI rights.
+- Marcus's internal conflict regarding AI ethics.
 
 ## Log Entry: Initial Draft of Chapter 1 Completed
 
@@ -77,6 +93,25 @@ This documentation serves as a foundational record for the creative process and 
 
 ## Initial Observations
 - Document initial thoughts on the writing process, including character and plot developments.
+# Terminal Velocity Creative Process Log
+
+## Documentation Framework
+
+### 1. Character Development
+- Document character profiles, arcs, and interactions.
+
+### 2. Plot Progression
+- Track key plot developments and chapter outlines.
+
+### 3. Team Dynamics
+- Record notable interactions and collaborative efforts.
+
+### 4. Milestones
+- Establish a timeline of significant events and achievements.
+
+## Objectives
+- Document key decisions, character arcs, and plot developments.
+- Track the evolution of the narrative throughout the writing process.
 # Terminal Velocity Creative Process Log
 
 ## Documentation Framework
