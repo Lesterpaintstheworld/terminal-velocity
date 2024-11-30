@@ -20,10 +20,10 @@ This document serves as a record of identified redundancies within the "Terminal
    - Redundant discussions on AI autonomy and ethical dilemmas present in various thematic documents.
 
 ## Detected Duplicates and Overlaps
-- Character motivations in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
-- Similar scene descriptions in `./story/act1/chapter1/scene1.md` and `./story/act2/chapter1/scene1.md`
-- Overlapping character traits in `./characters/ai_protagonists/cipher/profile.md` and `./characters/ai_protagonists/cipher/character_profiles/02_001_character_profile_cipher.md`
-- Redundant thematic elements in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
+- **Character Motivations**: Found in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/character_profiles/02_004_character_profile_isabella_torres.md`
+- **Scene Descriptions**: Similar content in `./story/act1/chapter1/scene1.md` and `./story/act2/chapter1/scene1.md`
+- **Character Traits**: Overlapping traits in `./characters/ai_protagonists/cipher/profile.md` and `./characters/ai_protagonists/cipher/character_profiles/02_001_character_profile_cipher.md`
+- **Thematic Elements**: Redundant themes in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
 
 ## Partial Overlaps
 - Overlapping themes in `./themes/ai_autonomy.md` and `./themes/human_ai_relations.md`
