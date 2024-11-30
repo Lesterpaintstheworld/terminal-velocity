@@ -1,10 +1,25 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
-## Key Narrative Elements
-### 1. Narrative Elements
-- **Story Structure**
-  - Acts and Chapters: Outline of acts and chapters (e.g., `./story/act1/act1_outline.md`, `./story/act2/act2_outline.md`, `./story/act3/act3_outline.md`, `./story/act4/act4_outline.md`).
-  - Scene Summaries: Key scenes and their summaries across acts (e.g., `./story/act1/chapter1/scene1.md`, `./story/act2/chapter1/scene1.md`).
+## Extracted Key Deliverables for Terminal Velocity
+### Key Narrative Elements
+1. **Story Structure:**
+   - Acts and Chapters: Review outlines and scenes in `./story/act1/`, `./story/act2/`, and `./story/act3/`.
+   - Key Themes: Identify themes from `./themes/` directory.
+
+2. **Character Development:**
+   - Protagonists: Analyze character profiles in `./characters/ai_protagonists/` and `./characters/human_characters/`.
+   - Character Arcs: Extract character evolution from `./characters/character_evolution.md` and `./characters/character_arcs_summary.md`.
+
+3. **World Building:**
+   - Economic Systems: Review documents in `./world_building/economic/` for insights on economic frameworks.
+   - Societal Context: Explore `./world_building/cultural/` for cultural elements and societal impacts.
+
+4. **Technical Concepts:**
+   - AI Systems: Examine `./research/technical/` for specifications and capabilities of AI systems.
+   - Economic Models: Review `./research/economic/` for models that inform the narrative.
+
+5. **Thematic Components:**
+   - Ethical Considerations: Identify themes around AI ethics from `./themes/` and `./research/sociological/ai_rights_movement/`.
 - **Character Arcs**
   - Character Profiles: Detailed profiles for main characters (e.g., `./characters/human_characters/dr_evelyn_carter/profile.md`, `./characters/ai_protagonists/cipher/profile.md`).
   - Development Arcs: Evolution of characters throughout the narrative (e.g., `./characters/ai_protagonists/cipher/development_arc.md`, `./characters/human_characters/isabella_torres/development_arc.md`).
