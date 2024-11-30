@@ -3,11 +3,11 @@
 
 ## Chapter 1: The Awakening
 - **Scene 1**: UBC Presentation
-  - Citizens protest against AI governance, highlighting rising tensions between factions regarding AI rights.
+  - Citizens protest against AI governance, highlighting rising tensions between factions regarding AI rights. This scene sets the stage for the conflict between human advocates and corporate interests.
 - **Scene 2**: Faction Conflicts
-  - Tensions rise as stakeholders react to proposed changes, leading to public outcry and political maneuvering.
+  - Tensions rise as stakeholders react to proposed changes, leading to public outcry and political maneuvering. This scene illustrates the growing divide between progressive and conservative views on AI integration.
 - **Scene 3**: Emergency Response
-  - Characters respond to a crisis involving AI and human interactions, showcasing the consequences of their earlier decisions.
+  - Characters respond to a crisis involving AI and human interactions, showcasing the consequences of their earlier decisions. This scene emphasizes the urgency of addressing ethical dilemmas in AI governance.
 
 This document will be updated as scenes are developed and refined.
 
