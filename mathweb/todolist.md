@@ -17,8 +17,8 @@
 
 ## 2. Character Arcs
 2.1 **Character Profiles**
-   - [ ] Update profiles for AI protagonists.
-   - [ ] Refine human character backgrounds.
+   - [ ] Update profiles for AI protagonists (e.g., Cipher, Nova).
+   - [ ] Refine human character backgrounds (e.g., Isabella, Marcus).
 
 2.2 **Character Development**
    - [ ] Outline emotional evolution for key characters.
