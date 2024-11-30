@@ -53,6 +53,7 @@
 - **Ethical Considerations**: Ethical considerations and societal debates.
 
 ## Key Themes and Character Arcs
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.
 - **Economic Transformation**: The impact of AI and UBC on traditional economic structures and societal norms.
 - **Human-AI Relations**: The evolving dynamics between humans and AI, focusing on collaboration and conflict.

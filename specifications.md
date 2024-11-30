@@ -1,6 +1,8 @@
 # Specifications for Terminal Velocity - Novel Mission
 
 ## Key Deliverables and Quality Metrics
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
+- For detailed key narrative elements and ambiguities, see `extracted_requirements.md`.
 
 ### Quality Assessment Criteria
 - **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
