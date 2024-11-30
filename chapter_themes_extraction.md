@@ -1,6 +1,19 @@
 # Key Themes and Perspectives for "Terminal Velocity"
 
 ## Key Themes
+1. **AI-driven economic systems**
+2. **Human-AI relationships**
+3. **Ethical considerations in AI**
+4. **Economic autonomy**
+5. **Trust in automated systems**
+
+## Perspectives
+- Characters' emotional arcs
+- Societal implications of AI integration
+- Technical accuracy and feasibility
+- Cultural impacts of AI systems
+
+## Key Themes
 1. **Emergence of AI**: Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
