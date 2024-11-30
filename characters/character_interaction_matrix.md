@@ -105,3 +105,4 @@ This matrix outlines the key interactions, motivations, and conflicts between Is
 5. **Marcus and Sarah**: Their interactions reveal the tension between economic efficiency and social justice, highlighting the challenges of navigating differing priorities.
 ## Conclusion
 This interaction matrix serves as a foundational tool for understanding the dynamics between key characters in the Terminal Velocity project. By outlining their motivations, conflicts, and emotional stakes, it provides a roadmap for enhancing narrative depth and coherence throughout the story.
+# Character Interaction Matrix for "Terminal Velocity"

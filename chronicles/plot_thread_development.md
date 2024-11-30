@@ -32,3 +32,4 @@
 
 ## Ongoing Tracking
 - Document changes in plot threads and their interconnections as the narrative progresses.
+# Plot Thread Development Log for "Terminal Velocity"

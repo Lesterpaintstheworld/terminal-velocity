@@ -44,3 +44,4 @@
   - Initial Arc: 
   - Breakthrough Moments: 
   - Current Status: 
+# Character Arc Tracking for "Terminal Velocity"
