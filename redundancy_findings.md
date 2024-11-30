@@ -4,6 +4,18 @@ This document will log identified redundancies and overlaps found during the sem
 
 ## Identified Redundancies
 
+1. **World Building**
+   - **Economic Frameworks**: Overlapping information found in `./world_building/economic/framework/economic_systems/*.md` regarding the implications of UBC on economic systems.
+
+2. **Character Profiles**
+   - **Isabella Torres**: Redundant details about her motivations and background found in `./characters/human_characters/isabella_torres/profile.md` and `./characters/human_characters/isabella_torres/character_profiles/*.md`.
+
+3. **Interaction Scripts**
+   - Similar dialogues and character interactions identified in `./characters/interaction_scripts/*.md`.
+
+4. **Narrative Elements**
+   - Repetitive themes and plot points found in `./story/act1/*.md` and `./story/act2/*.md` that need to be analyzed for consolidation.
+
 1. **Character Profiles**
    - **Isabella Torres**: Merge descriptions from `./characters/human_characters/isabella_torres/profile.md` and `./characters/character_interaction_matrix.md` into a single profile.
    - **Marcus Reynolds**: Consolidate overlapping motivations from `./characters/human_characters/marcus_reynolds/profile.md` and `./story/act1/chapter1/scene1.md` into one comprehensive profile.
