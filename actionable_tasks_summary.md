@@ -262,6 +262,9 @@
 2. **Content Scope Analysis**: Review existing preparatory documents to identify content gaps related to character arcs and chapter frameworks.
 3. **Content Planning**: Create a structured outline that balances the coverage of all chapters and character perspectives.
 4. **Document Coordination**: Establish a system to track interdependencies between preparatory documents and final deliverables.
+5. **Extract Key Narrative Elements**: Utilize Aider commands to parse the relevant mission files and identify key narrative elements, character arcs, and thematic components.
+6. **Organize Specifications Structure**: Create a structured outline for the specifications, categorizing the extracted elements into sections and subsections.
+7. **Flag Unclear Requirements**: Identify and log any ambiguous areas or unclear requirements that arise during the extraction process.
    - Review current tasks and prioritize the next set of actions needed to develop Act 1, ensuring that tasks related to establishing the UBC system and initial AI autonomy are clearly outlined and prioritized.
 2. **Draft Chapter Outline for Act 1**: 
    - Create a structured outline that encompasses the key events, character introductions, and thematic elements that will set the stage for the UBC system and AI-driven market prediction.
