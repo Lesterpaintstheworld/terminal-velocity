@@ -4,6 +4,8 @@
 ### 1. Narrative Structure
 - **Acts and Chapters**: Outline of acts and chapters (e.g., `./story/act1/act1_outline.md`, `./story/act2/act2_outline.md`, `./story/act3/act3_outline.md`, `./story/act4/act4_outline.md`).
 - **Scene Summaries**: Key scenes and their summaries across acts (e.g., `./story/act1/chapter1/scene1.md`, `./story/act2/chapter1/scene1.md`).
+- **Character Arcs**: Detailed profiles for main characters (e.g., `./characters/human_characters/dr_evelyn_carter/profile.md`, `./characters/ai_protagonists/cipher/profile.md`).
+- **Development Arcs**: Evolution of characters throughout the narrative (e.g., `./characters/ai_protagonists/cipher/development_arc.md`, `./characters/human_characters/isabella_torres/development_arc.md`).
 - **Introduction**: Overview of the narrative and purpose of specifications.
 
 ### 2. Character Arcs
