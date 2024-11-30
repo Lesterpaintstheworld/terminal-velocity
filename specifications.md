@@ -1,6 +1,6 @@
 # Specifications for Terminal Velocity - Novel Mission
 
-## Key Deliverables and Quality Metrics
+### Quality Assessment Criteria
 
 ### Quality Assessment Criteria
 1. **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
