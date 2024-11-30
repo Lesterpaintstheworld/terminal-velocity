@@ -1,28 +1,48 @@
-# Todo List
+# Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## 1. Narrative Elements
-1.1 Develop chapter frameworks for Act 1  
-1.2 Draft initial scenes for Act 1  
-1.3 Outline key themes for each chapter in Act 1  
-1.4 Review and refine emotional beats in Act 1 scenes  
+#### 1. Narrative Elements
+- **1.1 World Building**
+  - [ ] Review and update the **AI Lifestyle and Society Integration** document.
+  - [ ] Finalize the **Cultural Landscape** overview.
+  - [ ] Complete the **Economic Systems** framework documentation.
 
-## 2. Character Arcs
-2.1 Finalize character profiles for main characters  
-2.2 Map character development arcs across Acts  
-2.3 Integrate feedback from beta readers on character interactions  
-2.4 Identify gaps in character motivations and relationships  
+- **1.2 Story Structure**
+  - [ ] Outline **Act 1** and **Act 2** timelines.
+  - [ ] Draft scenes for **Act 3**.
+  - [ ] Integrate key themes into **Act 4**.
 
-## 3. Technical Requirements
-3.1 Validate technical accuracy of AI concepts in the narrative  
-3.2 Review economic models for plausibility in the story context  
-3.3 Ensure consistency in world-building elements  
-3.4 Compile a list of technical references and sources  
+#### 2. Character Arcs
+- **2.1 Character Development**
+  - [ ] Finalize character profiles for **Isabella Torres** and **Marcus Reynolds**.
+  - [ ] Document emotional evolution for **Cipher** and **Echo**.
+  - [ ] Review interaction scripts for all main characters.
 
-## 4. Feedback Integration
-4.1 Collect feedback from beta readers and editors  
-4.2 Prioritize revisions based on feedback received  
-4.3 Schedule follow-up reviews for revised sections  
-4.4 Document changes made based on feedback for future reference  
+- **2.2 Character Relationships**
+  - [ ] Analyze relationships between **Isabella** and **Marcus**.
+  - [ ] Identify gaps in character interactions and propose enhancements.
+
+#### 3. Technical Requirements
+- **3.1 Technical Accuracy**
+  - [ ] Review the **Technical Concepts** document for accuracy.
+  - [ ] Validate economic models against current research findings.
+
+- **3.2 Integration Tasks**
+  - [ ] Complete the **AI Rights Framework** integration.
+  - [ ] Assess the **Governance Framework** for AI systems.
+
+### Current Focus Areas
+- **Narrative Elements**: Emphasizing the completion of **Act 1** and **Act 2** outlines.
+- **Character Arcs**: Prioritizing the finalization of character profiles and emotional arcs.
+- **Technical Requirements**: Ensuring all technical documents align with narrative developments.
+
+### Feedback Incorporation
+- **4.1 Beta Reader Feedback**
+  - [ ] Collect and analyze feedback from beta readers on **Act 1** drafts.
+  - [ ] Adjust character arcs based on reader insights.
+
+- **4.2 Editor Feedback**
+  - [ ] Review editor comments on technical accuracy and narrative coherence.
+  - [ ] Implement necessary changes to enhance quality.
 
 ## 1. Key Research Topics
 1. **Universal Basic Compute (UBC) Framework** - High urgency due to foundational importance.
