@@ -1,6 +1,20 @@
 # Specifications for Terminal Velocity - Novel Mission
 
 ## Key Deliverables and Quality Metrics
+### Extracted Key Tasks
+1. **Narrative Elements**:
+   - Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts.
+   - Document findings in `research_topics_documentation.md`.
+
+2. **Character Arcs**:
+   - Finalize character profiles.
+   - Outline character development arcs.
+   - Identify key relationships.
+
+3. **Technical Requirements**:
+   - Validate technical accuracy of AI concepts.
+   - Review economic frameworks.
+   - Ensure consistency in world-building elements.
 
 ### Key Deliverables Extraction
 1. **Narrative Elements**:

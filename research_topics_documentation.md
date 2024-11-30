@@ -4,6 +4,20 @@
 This document outlines the key research topics identified for the "Terminal Velocity" project. These topics are crucial for understanding the implications of Universal Basic Compute (UBC) and AI integration in society.
 
 ## Research Topics
+### Extracted Key Tasks
+1. **Narrative Elements**:
+   - Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts.
+   - Document findings in `research_topics_documentation.md`.
+
+2. **Character Arcs**:
+   - Finalize character profiles.
+   - Outline character development arcs.
+   - Identify key relationships.
+
+3. **Technical Requirements**:
+   - Validate technical accuracy of AI concepts.
+   - Review economic frameworks.
+   - Ensure consistency in world-building elements.
 
 1. **UBC System Overview**
    - Understanding the architecture and functionality of the UBC system.
