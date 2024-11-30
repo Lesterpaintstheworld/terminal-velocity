@@ -1,15 +1,12 @@
-## 1. Narrative Elements
-- **1.1 World Building**
-  - 1.1.1 Update the **world_building/systems/governance/ai_rights_framework.md** with recent findings.
-  - 1.1.2 Expand on **world_building/economic/framework/economic_systems.md** to include implications of AI integration.
-  
-- **1.2 Character Development**
-  - 1.2.1 Finalize character profiles for all main characters.
-  - 1.2.2 Review emotional arcs and motivations for protagonists.
+# Todo List
 
-- **1.3 Plot Development**
-  - 1.3.1 Draft scenes for **story/act1/act1_scenes.md**.
-  - 1.3.2 Outline key themes in **story/structure/chapter_scene_overview.md**.
+## 1. Narrative Elements
+- **1.1** Update chapter frameworks
+  - **1.1.1** Review existing chapter outlines in `./story/act1/act1_outline.md`
+  - **1.1.2** Integrate feedback from beta readers into chapter outlines
+- **1.2** Draft initial scenes for Act 1
+  - **1.2.1** Complete scenes in `./story/act1/act1_scenes.md`
+  - **1.2.2** Ensure alignment with character arcs and thematic elements
 
 ## 2. Character Arcs
 - **2.1 Protagonist Arcs**
@@ -29,12 +26,10 @@
   - 3.2.1 Revise **terminal_velocity_documentation.md** for clarity.
   - 3.2.2 Ensure **documentation_structure.md** reflects current project status.
 
-## 4. Current Focus Areas
-- **4.1 Immediate Tasks**
-  - Focus on completing **act1 draft** and integrating feedback from beta readers.
-  - Prioritize character development for **Isabella Torres** and **Marcus Reynolds**.
-
-- **4.2 Long-term Goals
+## 4. Phase Transitions
+- **4.1** Mark transitions between acts
+  - **4.1.1** Update `./phase_transitions.md` with completion markers for each act
+  - **4.1.2** Communicate readiness for the next phase based on task completion
 
 ## 1. Narrative Elements
 ### 1.1 Act 1
