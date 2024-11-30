@@ -1,8 +1,10 @@
-**Main Characters Introduced:**
+**Current State of Main Characters:**
 1. **Isabella Torres**
-   - **Initial Arc:** A passionate advocate for AI rights, struggling with her own ethical dilemmas regarding AI autonomy.
-   - **Breakthroughs:** Her internal conflict is highlighted through her interactions with Marcus, showcasing her vulnerabilities.
+   - **Arc:** From a skeptical researcher to an advocate for AI rights.
+   - **Breakthroughs:** Realization of the ethical implications of her work.
 
 2. **Marcus Reynolds**
-   - **Initial Arc:** A pragmatic leader focused on technological advancement, often at odds with Isabella's ideals.
-   - **Breakthroughs:** His character begins to show signs of doubt regarding the implications of AI technology, hinting at potential growth.
+   - **Arc:** Transition from a corporate strategist to a conflicted ally.
+   - **Breakthroughs:** Recognition of the need for collaboration with AI entities.
+
+**Next Steps:** Further exploration of their motivations and conflicts in upcoming chapters.
