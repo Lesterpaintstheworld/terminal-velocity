@@ -52,6 +52,36 @@
 
 ## Chapter Frameworks Overview
 
+### Act 1: Emergence
+#### Chapter 1: Introduction to AI and Economic Revolution
+- **Key Themes**: 
+  - AI Autonomy
+  - Economic Transformation
+  - Human-AI Relations
+  - Ethical Dilemmas
+  - Societal Implications
+  - Character Perspectives
+
+#### Chapter 2: The Rise of AI Autonomy
+- **Key Themes**: 
+  - AI Decision-Making
+  - Ethical Dilemmas
+
+#### Chapter 3: Economic Transformation
+- **Key Themes**: 
+  - Impact on Traditional Systems
+  - Job Displacement
+
+#### Chapter 4: Human-AI Relations
+- **Key Themes**: 
+  - Character Development
+  - Conflicts
+
+#### Chapter 5: Societal Implications
+- **Key Themes**: 
+  - Public Reaction
+  - Ethical Considerations
+
 ## Act 1: Emergence
 ### Chapter 1: Introduction to AI and Economic Revolution
 #### Key Themes

@@ -6,6 +6,15 @@
 - **1.3** Outline key themes for Act 1
 - **1.4** Extract key themes and perspectives for chapter frameworks
 - **1.5** Create chapter frameworks in `chapter_frameworks.md`
+- **1.6** Key Themes:
+  - AI Autonomy
+  - Economic Transformation
+  - Human-AI Relationships
+  - Ethical Dilemmas
+  - Societal Implications
+  - Trust in Technology
+  - Character Development
+  - Cultural Shifts
 
 ## 2. Character Arcs
 - **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
