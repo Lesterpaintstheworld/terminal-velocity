@@ -15,6 +15,9 @@
 - Content Planning: Create an outline that employs a breadth-first approach to cover all chapters and character arcs. This outline will serve as a roadmap for balancing the narrative across different perspectives on AI's impact on society and economics.
 - Initial Draft Execution: Begin writing the initial draft of the first chapter based on the established outline, ensuring that the tone and style are consistent with the overall narrative framework.
 
+## Next Steps
+- Review the extracted elements and organize them into a structured document for further refinement.
+
 ## Key Events and Monitoring:
 - Introduction of the main characters and their backgrounds.
 - Discovery of AI capabilities and their implications.

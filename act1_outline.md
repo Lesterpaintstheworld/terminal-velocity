@@ -1,5 +1,11 @@
 # Act 1 Outline for "Terminal Velocity"
 
+## Key Narrative Elements
+- **Main Characters**: 
+  - Isabella Torres: A passionate advocate for AI rights.
+  - Marcus Reynolds: A skeptical economic analyst.
+  - Cipher: An advanced AI grappling with its identity.
+
 ## Act 1 Overview
 Act 1 sets the stage for the narrative, introducing key characters and establishing the world. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation, particularly through the lens of the Universal Basic Compute (UBC) framework. This act will explore the ethical dilemmas faced by characters as they navigate the complexities of AI integration.
 
