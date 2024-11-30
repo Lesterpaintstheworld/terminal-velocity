@@ -12,6 +12,8 @@
   7. Economic Models Post-UBC
   8. AI Rights Movement
   9. Impact of UBC on Labor Markets
+  10. Ethical Considerations
+  11. Technological Integration
 - Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
 - Identified themes include:
   1. Universal Basic Compute (UBC) Framework Analysis
