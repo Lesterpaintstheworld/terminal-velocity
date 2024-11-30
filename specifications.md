@@ -67,13 +67,11 @@ These steps will ensure that the specifications for "Terminal Velocity" are well
 - Clarify the implications of Universal Basic Compute (UBC) on the storyline.
 
 ### Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
+1. **AI Economic Decision-Making Frameworks** - Overview of existing frameworks and their applications.
+2. **Societal Impacts of AI Integration** - Analysis of potential societal changes due to AI adoption.
+3. **Ethical Considerations** - Discussion on ethical dilemmas and frameworks guiding AI development.
+4. **Universal Basic Compute (UBC) Implications** - Exploration of UBC's role in economic models.
+5. **Human-AI Collaboration Dynamics** - Insights into collaborative frameworks and their effectiveness.
 
 ### Knowledge Gaps
 - Identify areas requiring further research, such as:
@@ -99,7 +97,7 @@ These steps will ensure that the specifications for "Terminal Velocity" are well
 - Define the integration of AI systems and economic theories.
 - Clarify the implications of Universal Basic Compute (UBC) on the storyline.
 
-### Extracted Key Research Topics
+### Documented Findings
 1. **Universal Basic Compute (UBC) Framework Analysis**
    - Detailed implications of UBC on labor markets.
    - Ethical frameworks surrounding AI rights and integration.
