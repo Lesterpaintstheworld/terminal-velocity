@@ -13,7 +13,7 @@
 
 ## Chapter Frameworks Overview
 This document outlines the key themes and character arcs for each chapter, ensuring balanced coverage across all perspectives. Each chapter will explore the implications of AI integration and the ethical dilemmas faced by characters, focusing on the following key themes:
-1. **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
+1. **AI Autonomy**: The implications of AI systems operating independently.
 2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
 4. **Ethical Dilemmas**: Challenges and moral questions arising from AI autonomy.
@@ -21,7 +21,9 @@ This document outlines the key themes and character arcs for each chapter, ensur
 6. **Trust in Technology**: The evolving relationship between humans and automated systems.
 7. **Character Development**: Growth and evolution of key characters in response to AI changes.
 8. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
-9. **Content Gaps Identified**: Need for deeper exploration of character motivations and emotional stakes, particularly regarding the ethical implications of AI integration, especially in relation to marginalized communities.
+9. **AI Rights Movement**: The ongoing struggle for AI rights and recognition.
+10. **Impact of UBC on Labor Markets**: The effects of UBC on employment and economic structures.
+11. **Ethical Considerations**: The moral dilemmas posed by AI advancements.
 
 ### Chapter Frameworks Overview
 ### Chapter 1: The Awakening
