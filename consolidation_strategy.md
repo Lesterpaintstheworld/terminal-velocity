@@ -2,8 +2,15 @@
 
 ## Consolidation Strategy
 
+## Consolidation Strategy
+
 ## Objective
 To outline a strategy for merging identified duplicate content while ensuring narrative integrity is maintained.
+
+### Strategy Overview
+1. **Character Profiles**: Merge duplicate character profiles into a single comprehensive profile for each character, ensuring all relevant details are captured.
+2. **Scene Drafts**: Consolidate overlapping scenes into unified drafts, maintaining key emotional beats and narrative progression.
+3. **World Building**: Integrate repeated world-building elements into cohesive documents that reflect the narrative's cultural and economic context.
 
 ### Strategy Overview
 1. **Character Profiles**: Merge duplicate character profiles into a single comprehensive profile for each character, ensuring all relevant details are captured.
