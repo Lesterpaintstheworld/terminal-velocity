@@ -26,7 +26,7 @@
 ### Identified Redundancies
 
 - **File Path**: `./characters/human_characters/isabella_torres/profile.md`
-  - **Redundant Phrase**: "AI advancements do not exacerbate existing inequalities."
+  - **Consolidated Phrase**: "Isabella Torres is a passionate advocate for AI rights and believes that AI advancements do not exacerbate existing inequalities."
   - **Context**: This phrase appears multiple times in her profile and in discussions about her advocacy.
 
 - **File Path**: `./story/act1/act1_scenes.md`
