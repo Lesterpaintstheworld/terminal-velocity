@@ -9,15 +9,6 @@
   - Relationships: 
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
-## Character Arc Evolution Log
-- **Isabella Torres**:
-  - Initial Motivation: Advocate for AI rights and integration.
-  - Key Moments: 
-    - Presentation of UBC framework.
-    - Confrontation with Marcus regarding ethical implications.
-  - Relationships: 
-    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
-
 # Character Development Log
 
 ## Main Characters
