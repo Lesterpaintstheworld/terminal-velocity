@@ -1,4 +1,4 @@
-# Todo List for "Terminal Velocity"
+# Todo List for Terminal Velocity Project
 
 ## 1. Key Research Topics
 1. **UBC System Overview**: Understanding the core principles and architecture of the Universal Basic Compute (UBC) system.
