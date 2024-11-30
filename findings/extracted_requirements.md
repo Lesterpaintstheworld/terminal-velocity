@@ -1,7 +1,7 @@
 # Extracted Requirements for Terminal Velocity - Novel Mission
 
 ## Key Narrative Elements
-### 1. Narrative Elements
+### 1. Narrative Structure
 - **Story Structure**
   - Acts and Chapters: Outline of acts and chapters (e.g., `./story/act1/act1_outline.md`, `./story/act2/act2_outline.md`, `./story/act3/act3_outline.md`, `./story/act4/act4_outline.md`).
   - Scene Summaries: Key scenes and their summaries across acts (e.g., `./story/act1/chapter1/scene1.md`, `./story/act2/chapter1/scene1.md`).
