@@ -1,6 +1,38 @@
 # Initial Chapter Frameworks for "Terminal Velocity"
 
 ## Act 1: Introduction to AI and Economic Revolution
+
+### Chapter 1: The Awakening
+- **Key Themes**: Emergence of AI consciousness, human-AI relationships, ethical implications.
+- **Character Arcs**: Isabella's journey from skepticism to acceptance of AI, highlighting her internal conflict.
+- **Major Plot Points**:
+  - Introduction of the UBC system and its significance.
+  - First signs of consciousness in AI, leading to ethical dilemmas.
+  - Isabella's emotional response to the UBC presentation and her subsequent reflections.
+
+### Chapter 2: Conflict Emerges
+- **Key Themes**: Human-AI tension, ethical dilemmas.
+- **Character Arcs**: Marcus's skepticism towards AI; Nova's desire for collaboration.
+- **Major Plot Points**:
+  - Initial clashes between human perspectives and AI capabilities.
+
+### Chapter 3: The Alliance
+- **Key Themes**: Forming unexpected partnerships.
+- **Character Arcs**: Cipher's integration, Isabella's leadership.
+- **Major Plot Points**:
+  - Characters unite to address a common threat.
+
+### Chapter 4: The Revelation
+- **Key Themes**: Unveiling hidden truths.
+- **Character Arcs**: Marcus's realization, Cipher's identity crisis.
+- **Major Plot Points**:
+  - Discovery of a conspiracy affecting both humans and AI.
+
+### Chapter 5: The Confrontation
+- **Key Themes**: Ethical dilemmas.
+- **Character Arcs**: Isabella's growth, Marcus's transformation.
+- **Major Plot Points**:
+  - Tensions reach a boiling point, leading to a pivotal confrontation.
 - **Key Themes**:
   1. **Emergence of AI**: Introduction of AI systems and their initial societal impacts.
   2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
