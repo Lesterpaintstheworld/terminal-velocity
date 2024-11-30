@@ -1,4 +1,17 @@
-# Todo List for Terminal Velocity Project
+# Todo List
+
+## 1. Narrative Elements
+### 1.1 Chapter Frameworks
+- [ ] Finalize chapter frameworks for Act 1
+- [ ] Draft chapter outlines for Act 2 and Act 3
+
+### 1.2 Scene Structuring
+- [ ] Complete scene drafts for Act 1
+- [ ] Outline key scenes for Act 2 and Act 3
+
+### 1.3 Thematic Development
+- [ ] Identify key themes for each act
+- [ ] Develop thematic clarity assessments
 
 ## 1. Narrative Elements
 ### Key Research Topics
