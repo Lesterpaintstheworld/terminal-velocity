@@ -1,4 +1,28 @@
-# Todo List for Terminal Velocity Project
+# Todo List
+
+## 1. Narrative Elements
+1.1 Develop chapter frameworks for Act 1  
+1.2 Draft initial scenes for Act 1  
+1.3 Outline key themes for each chapter in Act 1  
+1.4 Review and refine emotional beats in Act 1 scenes  
+
+## 2. Character Arcs
+2.1 Finalize character profiles for main characters  
+2.2 Map character development arcs across Acts  
+2.3 Integrate feedback from beta readers on character interactions  
+2.4 Identify gaps in character motivations and relationships  
+
+## 3. Technical Requirements
+3.1 Validate technical accuracy of AI concepts in the narrative  
+3.2 Review economic models for plausibility in the story context  
+3.3 Ensure consistency in world-building elements  
+3.4 Compile a list of technical references and sources  
+
+## 4. Feedback Integration
+4.1 Collect feedback from beta readers and editors  
+4.2 Prioritize revisions based on feedback received  
+4.3 Schedule follow-up reviews for revised sections  
+4.4 Document changes made based on feedback for future reference  
 
 ## 1. Key Research Topics
 1. **UBC System Overview**: Understanding the core principles and architecture of the Universal Basic Compute (UBC) system.
