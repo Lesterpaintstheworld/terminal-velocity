@@ -22,6 +22,11 @@
 - **File Name**: specifications.md
 - **Date**: 2024-11-30
 - **Evaluator**: [Evaluator Name]
+- **Quality Criteria**:
+  1. **Narrative Engagement**: Does the narrative maintain reader interest?
+  2. **Technical Accuracy**: Are claims supported by credible sources?
+  3. **Clarity and Coherence**: Is the writing clear and free of jargon?
+  4. **Consistency**: Are formatting and terminology consistent throughout the document?
 
 ##### **Quality Criteria**
 1. **Narrative Engagement**
