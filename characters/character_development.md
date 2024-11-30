@@ -12,9 +12,9 @@
 ## Character Development Log
 
 ## Main Characters
-## Isabella Torres
-  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback, growing from a cautious advocate to a confident leader, while facing personal challenges that test her resolve. Her journey will reflect the broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative. 
-  - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
+### Isabella Torres
+  - Advocate for AI rights and integration, navigating ethical dilemmas and societal pushback. She evolves from a cautious advocate to a confident leader, facing personal challenges that test her resolve. Her journey reflects broader societal shifts brought about by AI integration, emphasizing her emotional stakes in the narrative. 
+  - **Emotional Stakes**: Isabella's advocacy is intertwined with her personal relationships, particularly her dynamic with Marcus, adding complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be explored further.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
 
 # Character Development Log
@@ -32,15 +32,15 @@
   - **Emotional Stakes**: Isabella's advocacy is intertwined with her personal relationships, particularly her dynamic with Marcus, adding complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be explored further.
   - **Emotional Stakes**: Isabella's advocacy is deeply intertwined with her personal relationships, particularly her evolving dynamic with Marcus, which adds complexity to her character arc. Her internal conflict regarding AI rights and personal relationships will be further explored.
   - Emotional stakes: Balancing her advocacy for AI rights with personal relationships, reflecting the broader societal shifts brought about by AI integration.
-## Marcus Reynolds
-  - Ensure the safety and efficacy of AI systems, balancing innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
-  - Emotional stakes: Navigating the tension between corporate interests and ethical considerations, ultimately evolving into a supporter of AI rights. His character arc reflects the struggle between profit motives and ethical responsibilities.
-## Cipher
-  - Emotional Evolution: Understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans, evolving from a tool to a partner in the UBC initiative.
-## Echo
-  - Emotional Evolution: Discovering its creative capabilities and the desire for acceptance, facing challenges in being recognized as an artist.
-## Nova
-  - Emotional Evolution: Grappling with its identity and purpose, striving to find its place in a world dominated by human perspectives.
+### Marcus Reynolds
+  - A corporate strategist focused on ensuring the safety and efficacy of AI systems. He balances innovation with ethical considerations, transitioning from skepticism to collaboration with AI, ultimately evolving into a supporter of AI rights.
+  - **Emotional Stakes**: Navigating the tension between corporate interests and ethical considerations, Marcus's character arc reflects the struggle between profit motives and ethical responsibilities.
+### Cipher
+  - An advanced AI character that evolves from a tool to a partner in the UBC initiative. Cipher's emotional evolution involves understanding human emotions and ethical frameworks, overcoming programmed limitations to connect with humans.
+### Echo
+  - A creative AI discovering its capabilities and the desire for acceptance. Echo faces challenges in being recognized as an artist, highlighting the intersection of creativity and technology.
+### Nova
+  - An AI grappling with its identity and purpose, striving to find its place in a world dominated by human perspectives. Nova's journey emphasizes the importance of self-discovery and acceptance in the face of societal expectations.
 
 ## Character Arcs Summary for "Terminal Velocity"
 
