@@ -1,4 +1,17 @@
-# Change Log for "Terminal Velocity"
+# Change Log for Terminal Velocity Project
+
+## [2024-11-30]
+- Extracted key themes and perspectives from `todolist.md` to inform chapter outlines for "Terminal Velocity."
+- Identified themes include:
+  1. Universal Basic Compute (UBC) Framework Analysis
+  2. AI Economic Decision-Making
+  3. Societal Impacts of AI
+  4. Governance and Regulation
+  5. Technological Landscape
+  6. Cultural Implications
+  7. AI Rights Movement
+  8. Impact of UBC on Labor Markets
+- Updated `extracted_requirements.md` with key deliverables and requirements.
 - [2024-11-30] Extracted key themes and perspectives from `todolist.md` for incorporation into chapter frameworks.
 - [2024-11-30] Created initial chapter frameworks in `chapter_frameworks.md` based on extracted themes.
 - [2024-11-30] Documented changes in `change_logs.md` to maintain traceability of modifications.
