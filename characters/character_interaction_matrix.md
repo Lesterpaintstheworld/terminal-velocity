@@ -36,7 +36,7 @@ Develop a comprehensive character interaction matrix for Isabella Torres, Marcus
 This matrix outlines the key interactions, motivations, and conflicts between Isabella Torres, Marcus Reynolds, and Cipher. It serves to enhance narrative coherence and depth in the Terminal Velocity project.
 | Character 1       | Character 2       | Interaction Type         | Key Themes                          | Emotional Stakes                     |
 |--------------------|--------------------|--------------------------|-------------------------------------|--------------------------------------|
-| Isabella Torres     | Marcus Reynolds     | Ethical Dilemma          | Innovation vs. Social Responsibility | Balancing progress with ethics, particularly in the context of AI rights advocacy. Their debates often force both characters to confront the ethical implications of their decisions, adding depth to their interactions and challenging them to refine their arguments in light of each other's advocacy for social equity. |
+| Isabella Torres     | Marcus Reynolds     | Ethical Dilemma          | Innovation vs. Social Responsibility | Balancing progress with ethics, particularly in the context of AI rights advocacy. |
 | Isabella Torres     | Cipher              | Collaborative Advocacy    | AI Rights and Economic Equity       | Protecting marginalized communities   |
 | Marcus Reynolds     | Cipher              | Ideological Clash        | Security vs. Autonomy               | Navigating ethical implications       |
 | Isabella Torres     | Marcus Reynolds     | Conflict Resolution       | Navigating personal stakes          | Understanding the impact of their choices |
