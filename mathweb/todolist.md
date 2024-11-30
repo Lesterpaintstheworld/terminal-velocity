@@ -2,6 +2,13 @@
 
 ## Terminal Velocity Mission - Todo List (Updated for Act 1)
 
+### Proposed Actions for "Terminal Velocity"
+1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files and identify essential narrative elements, character arcs, and thematic components that are crucial for "Terminal Velocity."
+
+2. **Organize Specifications**: Structure the extracted specifications into a clear format, categorizing them into sections and subsections to reflect the narrative's progression and technical requirements.
+
+3. **Monitor for Updates**: Set up a monitoring mechanism for the mission files to track any updates or modifications that may impact the specifications, ensuring that they remain consistent and relevant.
+
 ### 1. Narrative Elements
 - **1.1 World Building**
   - 1.1.1 Develop cultural landscapes
