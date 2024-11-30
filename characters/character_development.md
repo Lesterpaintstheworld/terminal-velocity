@@ -1,5 +1,8 @@
 # Character Development Insights for "Terminal Velocity"
 
+## Knowledge Gaps Identified
+- Further exploration needed on the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities. This should ensure that these themes are woven into character arcs and interactions throughout the narrative.
+
 ## Character Arc Evolution Log
 - **Isabella Torres**:
   - Initial Motivation: Advocate for AI rights and integration, driven by personal experiences and a strong sense of responsibility towards equitable access to resources.
