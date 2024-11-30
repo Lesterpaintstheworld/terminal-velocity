@@ -15,10 +15,6 @@
    - **Scan Narrative Files**: Begin by analyzing the files listed in the project structure for semantically similar content and partial overlaps. Focus on sections that may have repetitive themes, phrases, or narrative arcs.
    - **Utilize Tools**: Employ text analysis tools to assist in detecting redundancy, especially in character profiles, scenes, and thematic discussions.
 
-1. **Identify Duplicate Content**:
-   - **Scan Narrative Files**: Begin by analyzing the files listed in the project structure for semantically similar content and partial overlaps. Focus on sections that may have repetitive themes, phrases, or narrative arcs.
-   - **Utilize Tools**: Employ text analysis tools to assist in detecting redundancy, especially in character profiles, scenes, and thematic discussions.
-
 2. **Document Findings**:
    - **Create a Report**: Document specific files and sections that contain redundant content. This report should include:
      - File names and paths.
