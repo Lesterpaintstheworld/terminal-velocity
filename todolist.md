@@ -1,24 +1,31 @@
 # Terminal Velocity Mission - Todo List
 
 ## Narrative Elements
-- [ ] Develop chapter frameworks
-- [ ] Outline key themes for each act
-- [ ] Create emotional beats for pivotal scenes
+- [ ] Develop chapter frameworks for each act:
+  - [ ] Act 1: Introduction and Setup
+  - [ ] Act 2: Development and Conflict
+  - [ ] Act 3: Resolution and Transformation
+- [ ] Outline key themes for each act:
+  - [ ] Act 1: Emergence of AI and ethical dilemmas
+  - [ ] Act 2: Human-AI tensions and societal impacts
+  - [ ] Act 3: Reconciliation and new societal frameworks
+- [ ] Create emotional beats for pivotal scenes, ensuring character arcs are reflected.
 
 ## Character Arcs
-- [ ] Finalize character profiles for main characters
-- [ ] Map character interactions and relationships
-- [ ] Identify key moments for character development
+- [ ] Finalize character profiles for:
+  - [ ] AI Protagonists: Cipher, Echo, Nova
+  - [ ] Human Characters: Isabella Torres, Marcus Reynolds, Dr. Evelyn Carter, Sarah Chen
+- [ ] Map character interactions and relationships, focusing on emotional stakes and ethical dilemmas.
+- [ ] Identify key moments for character development across acts.
 
 ## Technical Requirements
-- [ ] Validate technical accuracy in AI concepts
-- [ ] Review economic models for plausibility
-- [ ] Ensure consistency in world-building elements
-- [ ] Research UBC systems integration
-- [ ] Investigate AI economic decision-making frameworks
-- [ ] Explore societal impacts of AI
-- [ ] Address ethical considerations in AI
-- [ ] Analyze cultural implications of AI integration
+- [ ] Validate technical accuracy in AI concepts and economic models.
+- [ ] Ensure consistency in world-building elements, particularly regarding UBC and AI integration.
+- [ ] Research UBC systems integration and its implications for societal structures.
+- [ ] Investigate AI economic decision-making frameworks and their ethical considerations.
+- [ ] Explore societal impacts of AI, focusing on marginalized communities.
+- [ ] Address ethical considerations in AI development and deployment.
+- [ ] Analyze cultural implications of AI integration into daily life.
 
 ## Task Priority System
 - [ ] 1.1 Develop chapter frameworks
