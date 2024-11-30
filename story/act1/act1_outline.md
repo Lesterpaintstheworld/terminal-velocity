@@ -11,7 +11,7 @@
 - **Content Gaps Identified**: Need for deeper exploration of character motivations and emotional stakes, particularly in relation to the ethical implications of AI integration.
 
 ## Themes:
-- The potential and risks of AI, including human-AI relationships.
+- The potential and risks of AI, including human-AI relationships. For a detailed summary of character arcs and thematic elements, see `narrative_elements_summary.md`.
 
 ## Character Development:
 - Focus on how characters react to the emergence of AI and their initial conflicts.

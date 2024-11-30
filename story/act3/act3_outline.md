@@ -11,7 +11,7 @@
 - Reflection on the implications of AI on society and individual lives.
 
 ## Themes:
-- The balance between technological advancement and ethical considerations.
+- The balance between technological advancement and ethical considerations. For a detailed summary of character arcs and thematic elements, see `narrative_elements_summary.md`.
 
 ## Character Development:
 - Final resolutions for character arcs, showcasing growth and change.

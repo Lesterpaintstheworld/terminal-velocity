@@ -23,7 +23,7 @@
   - Act 3: Transforms into a supporter of AI rights, advocating for ethical practices.
 
 ## Summary
-This document outlines the character arcs for the main characters in "Terminal Velocity," ensuring consistency and alignment with the narrative structure.
+This document outlines the character arcs for the main characters in "Terminal Velocity," ensuring consistency and alignment with the narrative structure. For a comprehensive overview of key narrative elements, refer to `narrative_elements_summary.md`.
 - **Content Gaps Identified**: Need for more detailed emotional stakes and motivations for each character.
 
 ## AI Protagonists
