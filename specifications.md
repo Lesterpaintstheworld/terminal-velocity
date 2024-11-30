@@ -2,6 +2,17 @@
 
 ## Key Deliverables and Quality Metrics
 
+### Extracted Key Deliverables
+- **Narrative Elements**: Key plot points, character arcs, and thematic components.
+- **Character Development**: Profiles and emotional arcs for main characters.
+- **Technical Specifications**: Integration of AI systems and economic theories.
+
+### Quality Assessment Criteria
+- **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
+- **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
+- **Character Development**: Assess the depth and growth of characters throughout the narrative.
+- **Thematic Clarity**: Verify that the themes are clearly articulated and resonate throughout the story.
+
 ### Planning Steps
 1. **Extract Key Deliverables:** Use Aider commands to parse the existing mission files and identify essential narrative elements, character arcs, and thematic components relevant to "Terminal Velocity."
 
