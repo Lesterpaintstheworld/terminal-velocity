@@ -1,16 +1,16 @@
 # Outline for Act 1 of "Terminal Velocity"
 
 ## Act 1 Overview
-Act 1 sets the stage for the narrative, introducing key characters, establishing the world, and laying the thematic groundwork for the story. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation.
+Act 1 sets the stage for the narrative, introducing key characters, establishing the world, and laying the thematic groundwork for the story. The focus will be on the emergence of AI-driven economic systems and the societal implications that arise from this transformation, particularly through the lens of the Universal Basic Compute (UBC) framework.
 
 ### Key Events:
 - Introduction of the main characters and their backgrounds, including Isabella Torres, Marcus Reynolds, and Cipher.
-- Initial discovery of AI capabilities and their implications for society and economics.
-- Establishing the societal context and the emergence of AI-driven economic systems, highlighting the ethical dilemmas and societal shifts.
+- Initial discovery of AI capabilities and their implications for society and economics, particularly in relation to the UBC framework.
+- Establishing the societal context and the emergence of AI-driven economic systems, highlighting the ethical dilemmas and societal shifts that arise from these changes.
 
 ### Themes:
-- The potential and risks of AI.
-- Human-AI relationships and ethical dilemmas.
+- The potential and risks of AI, particularly in the context of economic transformation.
+- Human-AI relationships and ethical dilemmas, emphasizing the need for a balanced approach to AI integration.
 
 ### Character Development:
 - Focus on how characters react to the emergence of AI and their initial conflicts.
