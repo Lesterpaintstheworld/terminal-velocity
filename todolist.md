@@ -1,5 +1,31 @@
 # Terminal Velocity Mission - Todo List
 
+## 2. Character Arcs
+- **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
+- **2.2** Develop emotional evolution arcs for AI protagonists
+- **2.3** Integrate character interactions into scene drafts
+
+## 3. Technical Requirements
+- **3.1** Validate technical accuracy of AI and economic concepts
+- **3.2** Review integration of economic models within the narrative
+- **3.3** Ensure consistency in world-building elements
+
+## 4. Feedback Integration
+- **4.1** Create a section for feedback integration
+  - **4.1.1** Document feedback from beta readers
+  - **4.1.2** Outline necessary adjustments based on feedback
+  - **4.1.3** Schedule regular feedback sessions with editors
+  - **4.1.4** Integrate feedback into character arcs and narrative elements.
+
+## 5. Phase Transitions
+- **Current Phase**: Act 1 Development
+- **Next Phase Transition Tasks**:
+  - **5.1** Complete all scene drafts for Act 1
+  - **5.2** Gather feedback from beta readers on Act 1 drafts
+  - **5.3** Revise drafts based on feedback
+- **Transition to Act 2**: Ensure all tasks related to Act 1 are completed before moving to Act 2.
+- **Transition to Act 3**: Review Act 2 scenes and ensure thematic consistency before proceeding to Act 3.
+
 ## 1. Narrative Elements
 - **1.1** Finalize chapter frameworks for Act 1
 - **1.2** Draft initial scenes for Act 1
