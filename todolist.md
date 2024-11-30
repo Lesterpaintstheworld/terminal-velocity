@@ -1,6 +1,21 @@
 # Terminal Velocity Mission - Todo List
 
 ## 1. Narrative Elements
+- **1.1** Finalize chapter frameworks for Act 1
+- **1.2** Draft initial scenes for Act 1
+- **1.3** Outline key themes for Act 1
+
+## 2. Character Arcs
+- **2.1** Complete character profiles for main characters (Isabella, Marcus, Cipher)
+- **2.2** Develop emotional evolution arcs for AI protagonists
+- **2.3** Integrate character interactions into scene drafts
+
+## 3. Technical Requirements
+- **3.1** Validate technical accuracy of AI and economic concepts
+- **3.2** Review integration of economic models within the narrative
+- **3.3** Ensure consistency in world-building elements
+
+## 1. Narrative Elements
 - [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
 - [ ] Document findings in `research_topics_documentation.md`.
 - [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
@@ -19,14 +34,20 @@
 3.2 Review Economic Frameworks  
 3.3 Ensure Consistency in World-Building Elements  
 
-## 4. Feedback Integration
-- **4.1 Incorporate Beta Reader Feedback**
-  - 4.1.1 Summarize feedback from initial readers.
-  - 4.1.2 Adjust character arcs based on reader insights.
+### Phase Transitions
+- **Current Phase**: Act 1 Development
+- **Next Phase Transition Tasks**:
+  - **4.1** Complete all scene drafts for Act 1
+  - **4.2** Gather feedback from beta readers on Act 1 drafts
+  - **4.3** Revise drafts based on feedback
 
-- **4.2 Ongoing Evaluation**
-  - 4.2.1 Schedule regular reviews of narrative progress.
-  - 4.2.2 Document changes made based on evaluations.
+---
+
+### Feedback Mechanism
+- **5.1** Create a section in `todolist.md` for feedback integration
+  - **5.1.1** Document feedback from beta readers
+  - **5.1.2** Outline necessary adjustments based on feedback
+  - **5.1.3** Schedule regular feedback sessions with editors
 
 ## 1. Narrative Elements
 - [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
