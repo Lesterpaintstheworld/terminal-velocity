@@ -1,4 +1,46 @@
-# Todo List for Terminal Velocity
+# Todo List for "Terminal Velocity"
+
+## 1. Narrative Elements
+- **1.1 Develop Chapter Frameworks**
+  - 1.1.1 Outline key themes for each chapter
+  - 1.1.2 Define character arcs for main characters
+- **1.2 Create Scene Outlines**
+  - 1.2.1 Draft scene summaries for Act 1
+  - 1.2.2 Identify emotional beats for key scenes
+
+## 2. Character Arcs
+- **2.1 Character Development**
+  - 2.1.1 Finalize profiles for AI protagonists
+  - 2.1.2 Complete emotional evolution arcs for human characters
+- **2.2 Character Interactions**
+  - 2.2.1 Map out key interactions between characters
+  - 2.2.2 Develop interaction scripts for pivotal scenes
+
+## 3. Technical Requirements
+- **3.1 Research and Integration**
+  - 3.1.1 Validate economic models within the narrative
+  - 3.1.2 Ensure technical accuracy in AI representations
+- **3.2 Quality Assurance**
+  - 3.2.1 Review technical documentation for consistency
+  - 3.2.2 Conduct evaluations of narrative coherence
+
+## 4. Feedback and Evaluation
+- **4.1 Incorporate Beta Reader Feedback**
+  - 4.1.1 Summarize feedback from initial readers
+  - 4.1.2 Adjust character arcs based on reader insights
+- **4.2 Ongoing Evaluation**
+  - 4.2.1 Schedule regular reviews of narrative progress
+  - 4.2.2 Document changes made based on evaluations
+
+## 5. Prioritization and Dependencies
+- **5.1 Task Prioritization**
+  - Use numbering system to indicate task priority (e.g., 1.1, 1.2)
+- **5.2 Task Dependencies**
+  - Clearly mark tasks that depend on the completion of others
+
+## 6. Additional Notes
+- Ensure all tasks align with the overarching goals of "Terminal Velocity."
+- Regularly update this list based on project developments and feedback.
 
 ## Narrative Elements
 1. **Outline Development**
