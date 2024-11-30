@@ -219,10 +219,16 @@ This document outlines the character arcs for the main characters in "Terminal V
   - Relationships: 
     - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
-## Character Development Log
+## Character Development Insights and Mapping
 
-### Main Characters
-- Track character arcs and significant developments.
+## Character Arc Evolution Log
+- **Isabella Torres**:
+  - Initial Motivation: Advocate for AI rights and integration.
+  - Key Moments: 
+    - Presentation of UBC framework.
+    - Confrontation with Marcus regarding ethical implications.
+  - Relationships: 
+    - Evolving dynamic with Marcus, highlighting personal stakes in the narrative.
 
 ### Key Developments
 - **Isabella Torres**: 
