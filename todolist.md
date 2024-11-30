@@ -1,12 +1,12 @@
 # Todo List
 
-## 1. Narrative Elements
-### Key Areas to Explore
-- **Character Development:** Files under `./characters/` contain detailed profiles and development arcs for characters, which are crucial for understanding their roles and interactions.
-- **Story Structure:** The `./story/` directory includes outlines, scenes, and timelines that provide a framework for the narrative.
-- **Thematic Insights:** Files in `./themes/` and `./world_building/` explore the philosophical and economic themes central to the narrative.
-- **Research Documentation:** The `./research/` folder contains various studies and insights that can inform the narrative's context and credibility.
-- **Integration Opportunities**: Highlight character interactions that reflect their emotional stakes and ethical dilemmas, ensuring that the narrative remains engaging and coherent, particularly in scenes involving Isabella and Marcus.
+## Key Themes and Perspectives
+- **AI-Driven Economic Systems**: Exploration of how AI impacts economic structures and individual autonomy.
+- **Human-AI Relationships**: The evolving dynamics between humans and AI, including trust, collaboration, and ethical considerations.
+- **Economic Autonomy**: The quest for economic independence in an AI-dominated landscape.
+- **Trust in Automated Systems**: The societal implications of relying on AI for decision-making.
+- **Philosophical Concepts**: Ethical dilemmas and philosophical questions surrounding AI rights and autonomy.
+- **Cultural Integration**: How AI integrates into societal norms and cultural practices.
 
 ## 2. Character Arcs
 - [ ] Finalize character profiles for main characters (Isabella, Marcus, Cipher).
