@@ -6,6 +6,7 @@
 - **Story Structure:** The `./story/` directory includes outlines, scenes, and timelines that provide a framework for the narrative.
 - **Thematic Insights:** Files in `./themes/` and `./world_building/` explore the philosophical and economic themes central to the narrative.
 - **Research Documentation:** The `./research/` folder contains various studies and insights that can inform the narrative's context and credibility.
+- **Integration Opportunities**: Highlight character interactions that reflect their emotional stakes and ethical dilemmas, ensuring that the narrative remains engaging and coherent, particularly in scenes involving Isabella and Marcus.
 ### 1.1 World Building
 - [x] Finalize AI Lifestyle and Society Integration document.
 - [x] Review cultural landscape elements.
