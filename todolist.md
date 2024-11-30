@@ -1,47 +1,40 @@
 # Todo List
 
-## 1. Narrative Elements
-### 1.1 Key Themes
-- AI Autonomy
-- Economic Transformation
-- Human-AI Relationships
-- Ethical Dilemmas
-- Societal Implications
-- Trust in Technology
-- Character Development
-- Cultural Shifts
+#### 1. Narrative Elements
+- **1.1 World Building**
+  - 1.1.1 Finalize cultural landscape documentation.
+  - 1.1.2 Integrate economic systems into the narrative.
+- **1.2 Character Development**
+  - 1.2.1 Complete character arcs for main protagonists.
+  - 1.2.2 Review and refine character interaction scripts.
+- **1.3 Story Structure**
+  - 1.3.1 Outline chapters for Act 1.
+  - 1.3.2 Draft scenes for Act 1.
 
-### 1.2 Scene Structuring
-- [ ] 1.2.1 Draft initial scenes for Act 1
-- [ ] 1.2.2 Review scene summaries for coherence
+#### 2. Character Arcs
+- **2.1 AI Protagonists**
+  - 2.1.1 Develop emotional evolution for Cipher.
+  - 2.1.2 Assess ethical considerations for Nova.
+- **2.2 Human Characters**
+  - 2.2.1 Finalize backstory for Isabella Torres.
+  - 2.2.2 Review relationships between human characters.
 
-## 2. Character Arcs
-### 2.1 Character Development
-- [ ] 2.1.1 Update character profiles for AI protagonists
-- [ ] 2.1.2 Integrate feedback on character arcs from beta readers
+#### 3. Technical Requirements
+- **3.1 AI Economic Framework**
+  - 3.1.1 Validate economic implications of AI systems.
+  - 3.1.2 Ensure technical accuracy in economic models.
+- **3.2 Integration Tasks**
+  - 3.2.1 Document integration strategies for AI and human interactions.
 
-### 2.2 Character Interactions
-- [ ] 2.2.1 Map out key interactions between main characters
-- [ ] 2.2.2 Identify emotional beats in character dialogues
+#### 4. Phase Management
+- **4.1 Act Transitions**
+  - 4.1.1 Mark completion of Act 1 tasks before moving to Act 2.
+  - 4.1.2 Prepare for Act 2 outline based on Act 1 feedback.
 
-## 3. Technical Requirements
-### 3.1 Research Integration
-- [ ] 3.1.1 Compile findings from UBC economic research
-- [ ] 3.1.2 Validate technical accuracy of AI concepts in narrative
-
-### 3.2 Quality Assurance
-- [ ] 3.2.1 Establish evaluation criteria for narrative engagement
-- [ ] 3.2.2 Schedule feedback sessions with beta readers
-
-## 4. Phase Management
-### 4.1 Transition Points
-- [ ] 4.1.1 Document transition markers between acts
-- [ ] 4.1.2 Ensure readiness for Act 2 based on Act 1 completion
-
-## 5. Quality Assurance Integration
-### 5.1 Feedback Incorporation
-- [ ] 5.1.1 Create a section for integrating feedback from beta readers
-- [ ] 5.1.2 Adjust tasks based on evaluation results for quality improvements
+#### 5. Feedback Mechanism
+- **5.1 Incorporate Feedback**
+  - 5.1.1 Create a section for beta reader feedback.
+  - 5.1.2 Outline adjustments based on feedback for narrative improvement.
 
 ## 1. Narrative Elements
 ### 1.1 Act 1
