@@ -1,4 +1,35 @@
-# Terminal Velocity Mission - Todo List (Updated for Act 1)
+# Terminal Velocity Mission - Todo List
+## 1. Narrative Elements
+- **1.1 World Building**
+  - 1.1.1 Update world building documentation with new insights from research.
+  - 1.1.2 Integrate cultural elements into the narrative.
+  
+- **1.2 Story Structure**
+  - 1.2.1 Finalize act outlines for Act 1, Act 2, and Act 3.
+  - 1.2.2 Review chapter themes and ensure alignment with overall narrative.
+
+## 2. Character Arcs
+- **2.1 Character Development**
+  - 2.1.1 Complete character profiles for AI protagonists.
+  - 2.1.2 Finalize character arcs for human characters.
+  
+- **2.2 Character Interactions**
+  - 2.2.1 Review interaction scripts for key character dynamics.
+  - 2.2.2 Identify gaps in character interactions and propose enhancements.
+
+## 3. Technical Requirements
+- **3.1 Technical Accuracy**
+  - 3.1.1 Validate technical concepts related to AI and economic frameworks.
+  - 3.1.2 Review integration of technical elements in the narrative.
+
+- **3.2 Research Integration**
+  - 3.2.1 Compile findings from UBC economic research for narrative use.
+  - 3.2.2 Update technical specifications based on new research insights.
+
+## 4. Feedback Integration
+- **4.1 Feedback Process**
+  - 4.1.1 Establish a section for beta reader feedback in `todolist.md`.
+  - 4.1.2 Schedule regular reviews of feedback and adjust tasks accordingly.
 
 ## Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
