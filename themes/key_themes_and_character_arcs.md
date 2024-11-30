@@ -1,4 +1,4 @@
-# Key Themes and Character Arcs
+# Key Themes and Character Arcs for "Terminal Velocity"
 
 ## Key Themes, Character Arcs, and Integration Opportunities
 - **Knowledge Gaps Identified**: Need for deeper exploration of the societal impacts of AI integration and the ethical considerations involved, particularly in relation to marginalized communities. This should ensure that these themes are woven into character arcs and interactions throughout the narrative.

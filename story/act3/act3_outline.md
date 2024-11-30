@@ -1,4 +1,4 @@
-# Act 3: Convergence
+# Act 3: Resolution and Transformation
 
 ## Key Events:
 - Climax involving a significant conflict that tests the characters’ values.

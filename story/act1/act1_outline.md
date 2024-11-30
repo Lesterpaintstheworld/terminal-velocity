@@ -1,4 +1,4 @@
-# Act 1: Emergence
+# Act 1: Introduction and Setup
 
 ## Key Events:
 - Introduction of the main characters and their backgrounds, including their motivations and conflicts.

@@ -1,4 +1,4 @@
-# Act 2: Acceleration
+# Act 2: Development and Conflict
 
 ## Key Events and Gaps:
 - Rapid advancements in AI technology and its integration into society, leading to significant societal changes.
