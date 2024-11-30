@@ -1,5 +1,7 @@
 # Character Arc Tracking for "Terminal Velocity"
 
+# Character Arc Tracking for "Terminal Velocity"
+
 ## Character Arcs Overview
 - **Isabella Torres**: 
   - Initial Arc: Passionate advocate for AI rights, driven by a desire to create a harmonious future.

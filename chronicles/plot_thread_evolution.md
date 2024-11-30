@@ -1,5 +1,7 @@
 # Plot Thread Evolution for "Terminal Velocity"
 
+# Plot Thread Evolution for "Terminal Velocity"
+
 ## Plot Thread Overview
 - **Main Conflict:** 
 - **Character Involvement:** 
