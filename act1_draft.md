@@ -6,7 +6,7 @@
   - **Dr. Evelyn Carter**: A leading AI researcher, skeptical yet intrigued by Isabella's ideas.
   - **Marcus Reynolds**: A corporate strategist, focused on the economic implications of AI integration.
 
-*Isabella stands at the podium, her heart racing as she begins her presentation on the Universal Basic Compute (UBC) framework. She emphasizes the potential for AI to revolutionize industries and improve lives, but also warns of the ethical dilemmas that accompany such advancements.*
+*Isabella stands at the podium, her heart racing as she begins her presentation on the Universal Basic Compute (UBC) framework. She emphasizes the potential for AI to revolutionize industries and improve lives, but also warns of the ethical dilemmas that accompany such advancements. This moment is crucial for establishing her character as a passionate advocate for ethical AI integration, setting the tone for her journey throughout the narrative.*
 
 ## Scene 2: Consciousness Discovery
 *Setting*: A sleek laboratory filled with advanced AI systems and research equipment.
