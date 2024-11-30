@@ -1,5 +1,35 @@
 # Initial Chapter Frameworks for "Terminal Velocity"
 
+## Key Themes and Perspectives
+1. **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
+2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
+3. **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
+4. **Ethical Dilemmas**: Challenges and moral questions arising from AI autonomy.
+5. **Societal Implications**: How society adjusts to the integration of AI and UBC.
+6. **Trust in Technology**: The evolving relationship between humans and automated systems.
+7. **Character Development**: Growth and evolution of key characters in response to AI changes.
+8. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
+
+### Chapter 2: The Rise of AI Autonomy
+#### Key Themes
+- **AI Decision-Making**: Exploration of AI decision-making processes.
+- **Ethical Dilemmas**: Ethical dilemmas faced by AI characters.
+
+### Chapter 3: Economic Transformation
+#### Key Themes
+- **Impact on Traditional Systems**: Impact of AI on traditional economic systems.
+- **Job Displacement**: Perspectives from human characters on job displacement.
+
+### Chapter 4: Human-AI Relations
+#### Key Themes
+- **Character Development**: Development of relationships between human and AI characters.
+- **Conflicts**: Conflicts arising from differing perspectives.
+
+### Chapter 5: Societal Implications
+#### Key Themes
+- **Public Reaction**: Public reaction to AI advancements.
+- **Ethical Considerations**: Ethical considerations and societal debates.
+
 ## Act 1: Introduction to AI and Economic Revolution
 
 ### Chapter 1: The Awakening
