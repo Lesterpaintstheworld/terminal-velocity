@@ -1,4 +1,39 @@
-# Todo List for "Terminal Velocity"
+# Todo List
+
+## 1. Narrative Elements
+### 1.1 World Building
+- 1.1.1 Finalize world-building systems documentation.
+- 1.1.2 Integrate cultural landscape insights into narrative.
+- 1.1.3 Review economic frameworks for consistency.
+
+### 1.2 Story Structure
+- 1.2.1 Complete act outlines for Act 1.
+- 1.2.2 Draft key scenes for Act 2.
+- 1.2.3 Develop thematic clarity for Act 3.
+
+## 2. Character Arcs
+### 2.1 Character Development
+- 2.1.1 Finalize profiles for AI protagonists.
+- 2.1.2 Review emotional evolution arcs for human characters.
+- 2.1.3 Integrate feedback from character interaction scripts.
+
+### 2.2 Character Interactions
+- 2.2.1 Analyze interaction dynamics between key characters.
+- 2.2.2 Identify gaps in character development and propose enhancements.
+
+## 3. Technical Requirements
+### 3.1 Technical Accuracy
+- 3.1.1 Validate AI and economic concepts within the narrative.
+- 3.1.2 Review technical specifications for AI systems.
+
+### 3.2 Research Integration
+- 3.2.1 Compile research findings on economic implications.
+- 3.2.2 Integrate insights from UBC economic impact research.
+
+## 4. Act Transitions
+- **Act 1 Transition**: Ensure all tasks related to Act 1 are completed before moving to Act 2.
+- **Act 2 Transition**: Review Act 2 scenes and ensure thematic consistency before proceeding to Act 3.
+- **Act 3 Transition**: Finalize character arcs and narrative elements before concluding the manuscript.
 
 ## 1. Narrative Elements
 - **1.1 Develop Chapter Frameworks**
