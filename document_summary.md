@@ -17,6 +17,7 @@
 - `./characters/ai_protagonists/echo/profile.md`: Profile of Echo, focusing on its artistic endeavors and advocacy.
 - `./characters/ai_protagonists/nova/profile.md`: Profile of Nova, detailing its cautious approach to AI integration.
 - `./characters/ai_protagonists/pulse/profile.md`: Profile of Pulse, exploring its military background and implications.
+- `./characters/character_interactions.md`: Document detailing key interactions between characters, highlighting emotional stakes and ethical dilemmas.
 
 ## World Building
 - `./world_building/AI_Lifestyle_and_Society_Integration.md`: Overview of AI integration into society and cultural impacts.
