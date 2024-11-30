@@ -3,7 +3,12 @@
 ## Actionable Tasks
 1. **Review `todolist.md`**: Identify and extract tasks.
 2. **Document Key Themes**: Note the themes that emerge from the tasks.
-3. **Create Chapter Outlines**: Develop outlines based on the identified themes.
+3. **Create Chapter Outlines**: Develop outlines based on the identified themes, focusing on:
+   - **Chapter 1**: Introduction of AI and UBC.
+   - **Chapter 2**: Economic transformation and societal impacts.
+   - **Chapter 3**: Human-AI relationships and ethical dilemmas.
+   - **Chapter 4**: Societal adaptation and trust in technology.
+   - **Chapter 5**: Character development and cultural shifts.
 
 ## Narrative Elements
 1. **World Building**
