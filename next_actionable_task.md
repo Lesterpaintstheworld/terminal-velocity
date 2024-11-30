@@ -1,5 +1,9 @@
 ## Next Actionable Task
 
+1. **Task**: Develop chapter frameworks for Act 1 of "Terminal Velocity."
+2. **Date**: 2024-11-30
+3. **Status**: Pending
+
 1. **Update Initial Evaluation Report**: Document findings from the evaluation process and revise the report based on actionable steps identified, focusing on narrative engagement and character development.
 2. **Gather Technical Data**: Compile insights related to the UBC system and AI economic processes.
 3. **Review Character Interaction Scripts**: Identify missing interactions that could enhance character relationships.
