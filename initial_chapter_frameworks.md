@@ -1,5 +1,26 @@
 # Initial Chapter Frameworks for "Terminal Velocity"
 
+## Chapter Frameworks Overview
+### Chapter 1: The Awakening
+- **Key Themes**: Emergence of AI consciousness, human-AI relationships, ethical implications.
+- **Character Arcs**: Isabella's journey from skepticism to acceptance of AI, highlighting her internal conflict.
+
+### Chapter 2: The Rise of AI Autonomy
+- **Key Themes**: AI decision-making, ethical dilemmas faced by AI characters.
+- **Character Arcs**: Cipher's struggle with identity and purpose.
+
+### Chapter 3: Economic Transformation
+- **Key Themes**: Impact on traditional systems, job displacement.
+- **Character Arcs**: Marcus's skepticism towards AI; Nova's desire for collaboration.
+
+### Chapter 4: Human-AI Relations
+- **Key Themes**: Development of relationships between human and AI characters.
+- **Character Arcs**: Isabella's advocacy, Cipher's integration.
+
+### Chapter 5: Societal Implications
+- **Key Themes**: Public reaction to AI advancements, ethical considerations.
+- **Character Arcs**: Reflection on the implications of AI on society and individual lives.
+
 ## Key Themes and Perspectives
 1. **AI Autonomy**: The emergence of AI systems and their initial societal impacts.
 2. **Economic Transformation**: Exploration of how UBC reshapes economic structures.
