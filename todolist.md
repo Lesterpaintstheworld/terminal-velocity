@@ -1,6 +1,10 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
 ## Key Themes for Chapter Frameworks
+### Documentation and Tracking
+1. **Create a Structured Log File**: This log will serve as the primary documentation file where key decisions, character developments, and plot changes will be recorded.
+2. **Establish Initial Milestones**: Document initial milestones that will guide the creative process.
+3. **Set Up a Progress Tracking System**: Develop a method for regularly updating the log file with new insights, breakthroughs, and changes as the writing progresses.
 1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
@@ -11,6 +15,10 @@
 8. **Cultural Shifts** - Changes in societal norms and values due to AI integration.
 
 ## 1. Narrative Elements
+### Initial Milestones
+- **Initial Draft Completion:** Document the completion of each chapter, noting key developments and challenges faced.
+- **Character Arc Tracking:** Chronicle the evolution of main characters, identifying breakthroughs and shifts in their arcs.
+- **Plot Thread Evolution:** Record changes in plot threads and how they interconnect throughout the narrative.
 - **Character Arcs**
   - 1.1 Review and finalize character arcs for main characters (Isabella, Marcus, Cipher, etc.).
   - 1.2 Develop emotional evolution for AI protagonists.
@@ -71,6 +79,9 @@
    - [ ] Document governance frameworks related to AI rights.
 
 ## 4. Progress Tracking
+### Weekly Updates
+- **Insert date** - [Insert notes on progress, challenges, and next steps]
+- **Insert date** - [Insert notes on progress, challenges, and next steps]
 4.1 **Milestones**
    - [ ] Complete chapter frameworks and character arcs by Q1 2025.
    - [ ] Draft initial scenes for Act 1 by Q2 2025.
