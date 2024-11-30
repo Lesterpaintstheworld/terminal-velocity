@@ -33,18 +33,19 @@
 - [ ] Outline governance frameworks for AI interactions
 - [ ] Assess technological contexts for human-AI collaboration
 
-## Key Themes and Perspectives
-1. **AI Autonomy**: The implications of AI systems operating independently and their impact on human decision-making.
-2. **Economic Transformation**: How AI-driven economic models reshape traditional economic structures and societal norms.
-3. **Human-AI Relations**: The evolving dynamics between humans and AI entities, including ethical dilemmas and collaboration.
-4. **Societal Impact**: The broader effects of AI integration on societal structures, including cultural, ethical, and emotional dimensions.
-5. **Technological Context**: The technological advancements that enable AI systems and their integration into daily life.
-6. **Trust in Automated Systems**: The evolving relationship between humans and automated systems.
-7. **Cultural Shifts**: Changes in societal norms and values due to AI integration.
-8. **Ethical Considerations**: The moral implications of AI autonomy and decision-making.
-- **1.1** is dependent on completion of **3.1**.
-- **2.1** must be finalized before starting **2.2**.
-- **3.1** findings will inform **3.2** strategies.
+## Key Research Topics
+1. **Universal Basic Compute (UBC) Framework Analysis**
+2. **AI Economic Decision-Making**
+3. **Societal Impacts of AI**
+4. **Trust in Automated Systems**
+5. **Human-AI Relationships**
+6. **Sociological Impacts of UBC**
+7. **Economic Models Post-UBC**
+8. **AI Rights Movement**
+9. **Impact of UBC on Labor Markets**
+10. **Governance and Regulation**
+11. **Technological Landscape**
+12. **Cultural Implications**
 
 ## 1. Narrative Elements
 ### 1.1 World Building
