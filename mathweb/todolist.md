@@ -87,12 +87,8 @@
 
 ## 1. Key Research Topics
 
-## Extracted Key Research Topics
-1. **AI Economic Decision-Making Frameworks** - Overview of existing frameworks and their applications.
-2. **Societal Impacts of AI Integration** - Analysis of potential societal changes due to AI adoption.
-3. **Ethical Considerations** - Discussion on ethical dilemmas and frameworks guiding AI development.
-4. **Universal Basic Compute (UBC) Implications** - Exploration of UBC's role in economic models.
-5. **Human-AI Collaboration Dynamics** - Insights into collaborative frameworks and their effectiveness.
+## Extracted Key Themes and Perspectives
+1. **Emergence of AI** - Introduction of AI systems and their initial societal impacts.
 2. **Economic Transformation** - Exploration of how UBC reshapes economic structures.
 3. **Human-AI Relationships** - Dynamics between humans and AI as they navigate new realities.
 4. **Ethical Dilemmas** - Challenges and moral questions arising from AI autonomy.
