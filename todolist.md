@@ -10,6 +10,15 @@
 - Governance and Regulation
 - Technological Landscape
 - Cultural Implications
+### Key Research Topics
+- Universal Basic Compute (UBC) Framework Analysis
+- AI Economic Decision-Making
+- Societal Impacts of AI
+- Ethical Considerations
+- Technological Integration
+- Governance and Regulation
+- Technological Landscape
+- Cultural Implications
 1.1 **World Building**
 - [ ] Finalize the economic systems overview.
 - [ ] Develop the cultural landscape document.
