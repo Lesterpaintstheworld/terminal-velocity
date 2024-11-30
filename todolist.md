@@ -1,26 +1,28 @@
 # Terminal Velocity Mission - Todo List
 
-## Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
-8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
-9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+## Narrative Elements
+1. **World Building**
+   - 1.1 Develop cultural landscape documentation.
+   - 1.2 Outline economic systems integration with AI.
+   - 1.3 Create character dynamics for key scenes.
 
-## Key Research Topics
-1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
-2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
-3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
-4. **Trust in Automated Systems** - Medium urgency; crucial for user adoption.
-5. **Human-AI Relationships** - Medium relevance; important for ethical considerations.
-6. **Sociological Impacts of UBC** - Low urgency; valuable for long-term implications.
-7. **Economic Models Post-UBC** - Low urgency; important for future planning.
-8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
-9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
+2. **Character Arcs**
+   - 2.1 Finalize character profiles for main protagonists.
+   - 2.2 Review emotional evolution arcs for supporting characters.
+   - 2.3 Integrate character interactions into narrative flow.
+
+3. **Technical Requirements**
+   - 3.1 Validate technical accuracy of AI concepts.
+   - 3.2 Review economic models for plausibility.
+   - 3.3 Ensure consistency in technical documentation.
+
+## Task Priority System
+- **1.1** (High Priority) Develop Act 1 Outline
+- **1.2** (Medium Priority) Draft Initial Scenes for Act 1
+- **2.1** (High Priority) Finalize Character Profiles
+- **2.2** (Medium Priority) Develop Character Arcs
+- **3.1** (High Priority) Review Technical Concepts
+- **3.2** (Medium Priority) Integrate Feedback from Technical Review
 
 2. **Character Development**
    - 2.1 Finalize character arcs for **Isabella Torres** and **Marcus Reynolds**.
