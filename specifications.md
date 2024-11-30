@@ -8,6 +8,7 @@
 5. **Completeness**: Ensure comprehensive coverage of technical requirements, particularly regarding character interactions and economic models.
 6. **Consistency**: Maintain consistent terminology and naming conventions throughout the document.
 7. **Clarity of Objectives**: Ensure that project objectives are clearly defined and measurable.
+8. **Quality Assessment**: Include a dedicated section for quality assessment criteria to guide evaluations effectively.
 - **Extracted Key Deliverables**: Structure the extracted information into a clear, traceable format that aligns with the narrative’s progression and technical requirements.
 
 ### Key Deliverables and Quality Metrics
