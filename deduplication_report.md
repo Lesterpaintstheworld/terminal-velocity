@@ -1,7 +1,12 @@
 # Deduplication Report for Terminal Velocity Project
 
-## 1. Scan for Similar Content
-- **Identify Files with Similar Themes**: Analyze the project structure to locate files that share common themes or narrative arcs.
+## Deduplication Process Steps
+
+1. **Content Duplication Detection**: Begin by scanning the narrative files to identify semantically similar content and partial overlaps. This will involve assessing thematic relevance and contextual overlap among the files.
+
+2. **Pre-Consolidation Checks**: Before merging any identified duplicates, perform validation checks to ensure that all relevant information from the files is captured and that the narrative structure remains intact.
+
+3. **Execute Safe Merges**: Once validation is complete, proceed to merge the identified duplicate files using the Aider interface, ensuring that the context and meaning of each segment are preserved.
 
 ## 2. Detect Partial Overlaps
 - **Analyze for Repeated Phrases**: Look for files that may contain repeated phrases or segments, particularly in character development, interaction scripts, and scene descriptions.

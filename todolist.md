@@ -1,7 +1,18 @@
 # Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-## Narrative Elements
-1. **World Building**
+## Deduplication Tasks
+1. **Content Duplication Detection**
+   - Scan narrative files within the `./story/` directory for potential overlaps.
+   - Check character profiles in `./characters/` for duplicated arcs.
+   - Review thematic documents in `./themes/` for repeated discussions.
+
+2. **Pre-Consolidation Checks**
+   - Ensure identified duplicates contain unique insights.
+   - Cross-reference character development files for redundancy.
+
+3. **Execute Safe Merges**
+   - Use the Aider interface to merge identified duplicates.
+   - Maintain a log of all changes in `./deduplication_report.md`.
    - 1.1 Review and update world-building systems documentation.
    - 1.2 Integrate cultural and societal aspects into the narrative.
    - 1.3 Finalize economic frameworks related to AI integration.
