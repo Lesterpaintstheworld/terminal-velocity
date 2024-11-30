@@ -1,5 +1,18 @@
 # Key Research Topics for Terminal Velocity
 
+## Summary of Key Research Topics
+1. **UBC Systems:**
+   - Technical specifications and frameworks.
+   - Implications for societal structures.
+
+2. **AI Economic Principles:**
+   - Decision-making frameworks.
+   - Ethical considerations and case studies.
+
+3. **Societal Impacts:**
+   - AI rights movements.
+   - Future projections and gaps in research.
+
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
 3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
