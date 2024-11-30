@@ -2,6 +2,12 @@
 
 ## Act 1: Emergence
 ### Chapter 1: Awakening Economic Autonomy
+#### Key Themes
+- **Universal Basic Compute (UBC) Framework**: Introduction of UBC and its implications for society.
+- **AI Economic Impact**: Exploration of how UBC reshapes economic structures.
+- **Human-AI Relationships**: Dynamics between humans and AI as they navigate new realities.
+- **Ethical Dilemmas**: Challenges and moral questions arising from AI autonomy.
+- **Societal Adaptation**: How society adjusts to the integration of AI and UBC.
 
 #### Thematic Consistency
 - Ensure that themes of economic autonomy and human-AI relationships are consistently represented throughout the chapter.
@@ -42,6 +48,10 @@ This chapter serves as the introduction to the themes of economic autonomy and h
 - **Isabella Torres**: A skeptical human character concerned about
 
 ### Chapter 2: The First Clash
+#### Key Themes
+- **Trust in Technology**: The evolving relationship between humans and automated systems.
+- **Character Development**: Growth and evolution of key characters in response to AI changes.
+- **Cultural Shifts**: Changes in societal norms and values due to AI integration.
 - **Theme Focus**: Human-AI relationships and the rise of AI rights.
 - **Key Elements**:
   - **Setting**: Public Spaces Showing Human-AI Integration.
