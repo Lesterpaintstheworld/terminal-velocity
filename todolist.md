@@ -20,7 +20,9 @@
 - [ ] Outline acts and chapters.
 - [ ] Draft initial scenes for Act 1.
 - [ ] Integrate feedback from beta readers.
-- [ ] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
+- [x] Extract key research topics related to UBC systems, AI economic decision-making, and societal impacts from `specifications.md`.
+- [ ] Gather foundational information on UBC systems and AI economic principles.
+- [ ] Document findings in a structured format for future reference.
 - [ ] Gather foundational information on UBC systems and AI economic principles.
 - [ ] Document findings in a structured format for future reference.
 
