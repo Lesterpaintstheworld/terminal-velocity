@@ -45,6 +45,11 @@
   - AI rights movement
   - Impact of UBC on labor markets
   - Ethical considerations
+  - Character development
+  - Cultural shifts
+  - AI rights movement
+  - Impact of UBC on labor markets
+  - Ethical considerations
 - 1.2 Outline major plot points.
 - 1.3 Develop character arcs.
 
