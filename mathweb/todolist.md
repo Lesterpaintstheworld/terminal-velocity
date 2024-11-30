@@ -1,8 +1,8 @@
 # Todo List for Terminal Velocity
 
-## Terminal Velocity Mission - Todo List (Updated for Act 1)
+# Terminal Velocity Mission - Todo List (Updated for Act 1)
 
-### Extracted Key Research Topics
+## Extracted Key Research Topics
 1. **Universal Basic Compute (UBC) Framework Analysis** - High urgency due to foundational importance.
 2. **AI Systems Integration** - High relevance as it directly impacts UBC deployment.
 3. **Economic Autonomy and UBC** - Medium urgency; important for understanding user empowerment.
@@ -13,35 +13,41 @@
 8. **AI Rights Movement** - Medium urgency; critical for ethical frameworks.
 9. **Impact of UBC on Labor Markets** - High urgency; essential for understanding economic shifts.
 
-### 1. Narrative Elements
-- **1.1** Develop chapter frameworks for Act 1
-- **1.2** Draft initial scenes for Act 1
-- **1.3** Outline key themes for Act 1
+## Narrative Elements
+1.1 Develop Act 1 Outline
+1.2 Draft Initial Scenes for Act 1
 
-### 2. Character Arcs
-- **2.1** Finalize character profiles for main characters
-- **2.2** Develop emotional evolution arcs for AI protagonists
-- **2.3** Create interaction scripts for key character dynamics
+## Character Arcs
+2.1 Finalize Character Profiles
+2.2 Develop Character Arcs
 
-### 3. Technical Requirements
-- **3.1** Validate technical accuracy of AI concepts
-- **3.2** Research economic implications of AI integration
-- **3.3** Compile findings from UBC economic research
+## Technical Requirements
+3.1 Review Technical Concepts
+3.2 Integrate Feedback from Technical Review
+
+## Narrative Elements
+1.1 Develop Act 1 Outline
+1.2 Draft Initial Scenes for Act 1
+
+## Character Arcs
+2.1 Finalize Character Profiles
+2.2 Develop Character Arcs
+
+## Technical Requirements
+3.1 Review Technical Concepts
+3.2 Integrate Feedback from Technical Review
 
 ### Task Priority System
-- **1.1** (High Priority) Develop chapter frameworks for Act 1
-- **1.2** (Medium Priority) Draft initial scenes for Act 1
-- **1.3** (Medium Priority) Outline key themes for Act 1
-- **2.1** (High Priority) Finalize character profiles for main characters
-- **2.2** (Medium Priority) Develop emotional evolution arcs for AI protagonists
-- **2.3** (Low Priority) Create interaction scripts for key character dynamics
-- **3.1** (High Priority) Validate technical accuracy of AI concepts
-- **3.2** (Medium Priority) Research economic implications of AI integration
-- **3.3** (Low Priority) Compile findings from UBC economic research
+- **1.1** (High Priority) Develop Act 1 Outline
+- **1.2** (Medium Priority) Draft Initial Scenes for Act 1
+- **2.1** (High Priority) Finalize Character Profiles
+- **2.2** (Medium Priority) Develop Character Arcs
+- **3.1** (High Priority) Review Technical Concepts
+- **3.2** (Medium Priority) Integrate Feedback from Technical Review
 
 ### Task Dependencies
-- **1.1** → **1.2** (Drafting scenes depends on finalized chapter frameworks)
-- **2.1** → **2.2** (Emotional arcs depend on finalized character profiles)
+- **1.1** → **1.2** (Drafting scenes depends on finalized Act 1 Outline)
+- **2.1** → **2.2** (Character arcs depend on finalized Character Profiles)
 - **3.1** → **3.2** (Technical validation informs economic implications)
 
 ### Actionable Tasks
