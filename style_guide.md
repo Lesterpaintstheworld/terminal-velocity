@@ -15,7 +15,11 @@
 - Use clear and concise language to enhance readability.
 - Emphasize the importance of technical accuracy and consistency throughout the narrative.
 
-### Quality Standards
+### Quality Assessment Criteria
+- **Narrative Engagement**: Evaluate the ability of the narrative to captivate and maintain reader interest.
+- **Technical Accuracy**: Ensure that all technical elements are accurately represented and validated against credible sources.
+- **Character Development**: Assess the depth and growth of characters throughout the narrative.
+- **Thematic Clarity**: Verify that the themes are clearly articulated and resonate throughout the story.
 - Ensure all technical elements related to AI and economics are accurately represented.
 - Validate claims with credible sources to maintain narrative integrity.
 - Maintain consistency in chapter headings and scene breaks.

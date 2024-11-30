@@ -1,6 +1,10 @@
 ## Initial Evaluation Report
 
-### Evaluation Overview
+### Report Structure
+- **Introduction**: Overview of the review process.
+- **Narrative Assessment**: Key findings on character arcs, plot coherence, and emotional engagement.
+- **Technical Assessment**: Verification of claims and identification of unsupported information.
+- **Recommendations**: Actionable feedback for improvement.
 This report summarizes the findings from the initial evaluation of the narrative elements in "Terminal Velocity," focusing on narrative engagement and character development.
 
 ### Key Technical Claims
