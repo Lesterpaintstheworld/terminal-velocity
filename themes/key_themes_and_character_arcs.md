@@ -1,4 +1,4 @@
-# Key Themes and Character Arcs
+# Key Themes and Character Arcs in "Terminal Velocity"
 
 ## Key Themes, Character Arcs, and Integration Opportunities
 - **AI Autonomy**: Exploration of the implications of AI systems gaining autonomy and the ethical dilemmas that arise.

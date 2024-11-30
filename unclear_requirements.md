@@ -1,4 +1,4 @@
-# Unclear Requirements for "Terminal Velocity"
+# Unclear Requirements for "Terminal Velocity" - Areas Needing Clarification
 
 ## Areas Needing Clarification
 - [ ] Character motivations in relation to AI rights.
