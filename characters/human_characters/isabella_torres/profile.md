@@ -1,4 +1,10 @@
 ## Character Profile: Isabella Torres
+### Overview
+Isabella Torres is a passionate advocate for ethical AI usage, focusing on the implications of technology on marginalized communities. Her interactions with Marcus Reynolds challenge her to confront the ethical dimensions of their decisions, enriching her character development. Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy.
+
+### Motivations and Internal Conflicts
+- **Action Statement**: Ensure clarity in her advocacy efforts and the impact of her decisions on marginalized communities, particularly in relation to AI rights.
+- **Advocacy for Stability**: Isabella is driven by a desire to create stable economic policies that ensure equitable access to resources for all, particularly in the context of the emerging AI economy. This struggle shapes her character and influences her decisions as she seeks to balance progress with responsibility.
 ## Redaction Compliance
 This profile has been reviewed for sensitive information and complies with the latest redaction protocols.
 ### Overview
