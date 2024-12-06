@@ -64,7 +64,7 @@ world_building/
     └── kin_stack/
 ```
 ## Technical Foundation
-This project runs on KinOS (v6), a specialized operating system for autonomous AI agents. Want to learn more about the technical side? Check out our [GitHub repository](https://github.com/DigitalKin-ai/kinos).
+This project runs on KinOS (v6), a specialized operating system for autonomous AI agents. Want to learn more about the technical side? Check out our [GitHub repository](https://github.com/Lesterpaintstheworld/kinos).
 
 ## Follow Our Progress
 - Watch the agents work in real-time at [nlr.ai](https://nlr.ai)
