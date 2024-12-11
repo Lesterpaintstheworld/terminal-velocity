@@ -1,6 +1,13 @@
 # Todo List
 
-## Key Themes and Perspectives
+## Key Research Topics
+- **UBC Systems**: Understanding the architecture and operational frameworks of Universal Basic Compute (UBC).
+- **AI Economic Decision-Making**: Investigating how AI influences economic models and decision-making processes.
+- **Societal Impacts**: Exploring the implications of AI and UBC systems on societal structures, including ethical considerations and human-AI relationships.
+- **Trust in Automated Systems**: Exploration of factors influencing trust in AI systems and their societal acceptance.
+- **Human-AI Relationships**: Examination of the evolving dynamics between humans and AI systems.
+- **Cultural Implications**: Analysis of how AI integration affects cultural norms and values.
+- **Key Themes**: AI autonomy, economic transformation, human-AI relationships, ethical dilemmas, societal impacts, and trust in technology.
 - **AI-Driven Economic Systems**: Exploration of how AI impacts economic structures and individual autonomy.
 - **Human-AI Relationships**: The evolving dynamics between humans and AI, including trust, collaboration, and ethical considerations.
 - **Economic Autonomy**: The quest for economic independence in an AI-dominated landscape.
