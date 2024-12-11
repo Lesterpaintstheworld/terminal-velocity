@@ -5,6 +5,21 @@
 
 ## Key Deliverables for Terminal Velocity - Novel Mission
 
+### 1. Narrative Elements
+   - **Story Structure**: Examine files under `./story/` for act outlines, scene breakdowns, and character interactions.
+   - **Key Themes**: Review `./themes/` for insights into the overarching themes such as AI autonomy, economic transformation, and human-AI relationships.
+
+### 2. Character Development
+   - **Character Profiles**: Analyze character profiles in `./characters/` to understand their arcs, motivations, and relationships.
+   - **Character Dynamics**: Look into interaction scripts and development arcs to capture character evolution and conflicts.
+
+### 3. World Building
+   - **Societal Context**: Investigate files in `./world_building/` to gather insights on the societal and economic frameworks that shape the narrative.
+   - **Cultural Elements**: Identify cultural aspects that influence character interactions and plot development.
+
+### 4. Technical Aspects
+   - **AI Systems**: Review `./research/technical/` for technical specifications and implications of AI systems on society and economics.
+
 ### Key Steps for Requirement Extraction
 1. **Extract Key Deliverables**: Utilize Aider commands to parse the mission files for "Terminal Velocity" and extract essential narrative elements, character arcs, and thematic components.
 
