@@ -1,4 +1,20 @@
-# Todo List
+# Todo List for "Terminal Velocity"
+
+## Narrative Elements
+1.1 Complete act 1 outline  
+1.2 Draft initial scenes for act 1  
+
+## Character Arcs
+2.1 Finalize character profiles for AI protagonists  
+2.2 Develop emotional evolution arcs for human characters  
+
+## Technical Requirements
+3.1 Validate technical accuracy of AI concepts  
+3.2 Review economic frameworks for plausibility  
+
+## Feedback Integration
+4.1 Collect feedback from beta readers  
+4.2 Implement feedback into narrative revisions  
 
 ## Key Research Topics
 - **UBC System Overview**: Understanding the architecture and functionality of the Universal Basic Compute (UBC) system and its implications on economic structures.
@@ -21,13 +37,13 @@
 - [ ] Validate technical accuracy of AI concepts.
 - [ ] Review economic frameworks.
 
-## 4. Phase Transitions
+## Phase Transitions
 - **Transition from Act 1 to Act 2**: Ensure completion of Act 1 scenes and character arcs by [insert date].
 - **Transition from Act 2 to Act 3**: Review thematic elements and ensure readiness for climax by [insert date].
 
-## 5. Evaluation Feedback Integration
-- [ ] Incorporate beta reader feedback on character development (Priority: High).
-- [ ] Adjust narrative pacing based on editor comments (Priority: Medium).
+## Feedback Integration
+4.1 Collect feedback from beta readers  
+4.2 Implement feedback into narrative revisions  
 
 ## 6. Progress Tracking
 - **Current Milestone**: Complete chapter frameworks and character arcs by Q1 2025.
