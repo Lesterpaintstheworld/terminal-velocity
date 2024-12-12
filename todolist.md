@@ -1,20 +1,56 @@
 # Todo List for "Terminal Velocity"
 
-## Narrative Elements
-1.1 Complete act 1 outline  
-1.2 Draft initial scenes for act 1  
+## Act 1 Review Tasks
+1.1 Technical Consistency Review
+    - Validate UBC system descriptions across all scenes
+    - Check AI behavior patterns for consistency
+    - Verify economic model accuracy
+
+1.2 Character Voice Audit
+    - Review Isabella's dialogue and internal monologue
+    - Check Marcus's security-focused perspective
+    - Verify AI character distinct personalities
+    - Ensure consistent emotional progression
+
+1.3 Thematic Development Check
+    - Track AI consciousness theme progression
+    - Verify economic transformation arc
+    - Review ethical dilemma presentation
 
 ## Character Arcs
-2.1 Finalize character profiles for AI protagonists  
-2.2 Develop emotional evolution arcs for human characters  
+2.1 Finalize Act 1 Character Development
+    - Complete Isabella's ethical journey
+    - Solidify Marcus's security concerns
+    - Define Cipher's consciousness evolution
+    - Establish Nova's conservative stance
+
+2.2 Prepare Act 2 Character Transitions
+    - Outline character growth points
+    - Plan relationship developments
+    - Map emotional progression
 
 ## Technical Requirements
-3.1 Validate technical accuracy of AI concepts  
-3.2 Review economic frameworks for plausibility  
+3.1 UBC Framework Validation
+    - Review technical accuracy
+    - Check economic implications
+    - Verify system capabilities
+
+3.2 AI Systems Review
+    - Validate consciousness emergence patterns
+    - Check behavioral consistency
+    - Verify communication protocols
 
 ## Feedback Integration
-4.1 Collect feedback from beta readers  
-4.2 Implement feedback into narrative revisions  
+4.1 Act 1 Quality Assessment
+    - Gather beta reader feedback
+    - Review technical accuracy
+    - Check narrative engagement
+    - Assess emotional impact
+
+4.2 Implementation Planning
+    - Prioritize revision points
+    - Schedule updates
+    - Track changes
 
 ## Key Research Topics
 - **UBC System Overview**: Understanding the architecture and functionality of the Universal Basic Compute (UBC) system and its implications on economic structures.
