@@ -18,7 +18,13 @@ Need: +8,000 words to reach target
       * Ensure 2025-compatible technology
       * Expand to target length (~3,333 words)
     - [ ] Review remaining Chapter 3 scenes
-  * [ ] Chapter 4 scenes - Pending
+  * [ ] Chapter 4 scenes - In Progress
+    - [ ] Revise Chapter 4, Scene 1 (Market Reaction)
+      * Convert market pattern lists into narrative prose
+      * Ensure market systems match 2025 capabilities
+      * Deepen character conflict
+      * Expand to target length (~3,333 words)
+    - [ ] Review remaining Chapter 4 scenes
   * [ ] Chapter 5 scenes - Pending
 
 ### Priority 2: Scene Completion
