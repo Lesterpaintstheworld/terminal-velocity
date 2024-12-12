@@ -2,17 +2,19 @@ import os
 import re
 
 def count_words(text):
-    # Remove markdown formatting and count words
-    text = re.sub(r'#.*?\n', '', text)  # Remove headers
-    text = re.sub(r'\*\*.*?\*\*', '', text)  # Remove bold text
-    text = re.sub(r'\*.*?\*', '', text)  # Remove italic text
+    text = re.sub(r'#.*?\n', '', text)
+    text = re.sub(r'\*\*.*?\*\*', '', text)
+    text = re.sub(r'\*.*?\*', '', text)
     words = re.findall(r'\w+', text)
     return len(words)
 
-def analyze_final_text(root_dir='final_text'):
+def analyze_final_text(root_dir='final_text', target_total=150000):
+    target_per_act = target_total / 3  # 50,000 words
+    target_per_chapter = target_per_act / 5  # 10,000 words
+    target_per_scene = target_per_chapter / 3  # ~3,333 words
+    
     word_counts = {}
     
-    # Walk through the directory structure
     for act_name in os.listdir(root_dir):
         act_path = os.path.join(root_dir, act_name)
         if not os.path.isdir(act_path):
@@ -20,7 +22,6 @@ def analyze_final_text(root_dir='final_text'):
             
         word_counts[act_name] = {'total': 0, 'chapters': {}}
         
-        # Process each chapter
         for chapter_name in os.listdir(act_path):
             chapter_path = os.path.join(act_path, chapter_name)
             if not os.path.isdir(chapter_path):
@@ -28,7 +29,6 @@ def analyze_final_text(root_dir='final_text'):
                 
             word_counts[act_name]['chapters'][chapter_name] = {'total': 0, 'scenes': {}}
             
-            # Process each scene
             for scene_name in os.listdir(chapter_path):
                 if not scene_name.endswith('.md'):
                     continue
@@ -41,17 +41,30 @@ def analyze_final_text(root_dir='final_text'):
                     word_counts[act_name]['chapters'][chapter_name]['total'] += word_count
                     word_counts[act_name]['total'] += word_count
 
-    # Print results
     print("Word Count Analysis\n")
+    print(f"Target total: {target_total:,} words")
+    print(f"Target per act: {target_per_act:,.0f} words")
+    print(f"Target per chapter: {target_per_chapter:,.0f} words")
+    print(f"Target per scene: {target_per_scene:,.0f} words\n")
     
+    total_words = 0
     for act_name, act_data in word_counts.items():
-        print(f"\n{act_name}: {act_data['total']} words")
+        act_total = act_data['total']
+        total_words += act_total
+        act_percentage = (act_total / target_per_act) * 100
+        print(f"\n{act_name}: {act_total:,} words ({act_percentage:.1f}% of target)")
         
         for chapter_name, chapter_data in act_data['chapters'].items():
-            print(f"  {chapter_name}: {chapter_data['total']} words")
+            chapter_total = chapter_data['total']
+            chapter_percentage = (chapter_total / target_per_chapter) * 100
+            print(f"  {chapter_name}: {chapter_total:,} words ({chapter_percentage:.1f}% of target)")
             
             for scene_name, scene_count in chapter_data['scenes'].items():
-                print(f"    {scene_name}: {scene_count} words")
+                scene_percentage = (scene_count / target_per_scene) * 100
+                print(f"    {scene_name}: {scene_count:,} words ({scene_percentage:.1f}% of target)")
+
+    overall_percentage = (total_words / target_total) * 100
+    print(f"\nTotal words: {total_words:,} ({overall_percentage:.1f}% of target)")
 
 if __name__ == '__main__':
     analyze_final_text()
