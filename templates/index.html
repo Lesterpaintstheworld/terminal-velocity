@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KinOS Web Interface</title>
+    <link rel="stylesheet" href="/static/css/dark_theme.css">
+    <script src="/static/js/main.js"></script>
+</head>
+<body>
+    <div class="main-container">
+        <header>
+            <h1>KinOS Control Center</h1>
+            <div id="connection-status" class="status-indicator"></div>
+        </header>
+        
+        <div class="content">
+            <div class="agents-panel">
+                <h2>Active Agents</h2>
+                <div id="agents-container"></div>
+            </div>
+            
+            <div class="activity-panel">
+                <h2>Recent Activity</h2>
+                <div id="activity-container"></div>
+            </div>
+            
+            <div class="commits-panel">
+                <h2>Recent Changes</h2>
+                <div id="commits-container"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

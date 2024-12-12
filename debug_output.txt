@@ -1,0 +1,266 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+# installing zipimport hook
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+import 'zipimport' # <class '_frozen_importlib.FrozenImporter'>
+# installed zipimport hook
+# C:\Python312\Lib\encodings\__pycache__\__init__.cpython-312.pyc matches C:\Python312\Lib\encodings\__init__.py
+# code object from 'C:\\Python312\\Lib\\encodings\\__pycache__\\__init__.cpython-312.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <class '_frozen_importlib.FrozenImporter'>
+# C:\Python312\Lib\encodings\__pycache__\aliases.cpython-312.pyc matches C:\Python312\Lib\encodings\aliases.py
+# code object from 'C:\\Python312\\Lib\\encodings\\__pycache__\\aliases.cpython-312.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE6B8A70>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE68AF60>
+# C:\Python312\Lib\encodings\__pycache__\utf_8.cpython-312.pyc matches C:\Python312\Lib\encodings\utf_8.py
+# code object from 'C:\\Python312\\Lib\\encodings\\__pycache__\\utf_8.cpython-312.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE6BB2C0>
+# C:\Python312\Lib\encodings\__pycache__\cp1252.cpython-312.pyc matches C:\Python312\Lib\encodings\cp1252.py
+# code object from 'C:\\Python312\\Lib\\encodings\\__pycache__\\cp1252.cpython-312.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE6BB470>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+import '_abc' # <class '_frozen_importlib.BuiltinImporter'>
+import 'abc' # <class '_frozen_importlib.FrozenImporter'>
+import 'io' # <class '_frozen_importlib.FrozenImporter'>
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <class '_frozen_importlib.FrozenImporter'>
+import '_collections_abc' # <class '_frozen_importlib.FrozenImporter'>
+import 'genericpath' # <class '_frozen_importlib.FrozenImporter'>
+import '_winapi' # <class '_frozen_importlib.BuiltinImporter'>
+import 'ntpath' # <class '_frozen_importlib.FrozenImporter'>
+import 'os' # <class '_frozen_importlib.FrozenImporter'>
+import '_sitebuiltins' # <class '_frozen_importlib.FrozenImporter'>
+Processing user site-packages
+Adding directory: 'C:\\Users\\conta\\AppData\\Roaming\\Python\\Python312\\site-packages'
+Processing global site-packages
+Adding directory: 'C:\\Python312'
+Adding directory: 'C:\\Python312\\Lib\\site-packages'
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\coloredlogs.pth'
+# C:\Python312\Lib\encodings\__pycache__\utf_8_sig.cpython-312.pyc matches C:\Python312\Lib\encodings\utf_8_sig.py
+# code object from 'C:\\Python312\\Lib\\encodings\\__pycache__\\utf_8_sig.cpython-312.pyc'
+import 'encodings.utf_8_sig' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9597F0>
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\distutils-precedence.pth'
+# C:\Python312\Lib\site-packages\_distutils_hack\__pycache__\__init__.cpython-312.pyc matches C:\Python312\Lib\site-packages\_distutils_hack\__init__.py
+# code object from 'C:\\Python312\\Lib\\site-packages\\_distutils_hack\\__pycache__\\__init__.cpython-312.pyc'
+import '_distutils_hack' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE98D6D0>
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\easy-install.pth'
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\google_generativeai-0.7.2-py3.11-nspkg.pth'
+# C:\Python312\Lib\__pycache__\types.cpython-312.pyc matches C:\Python312\Lib\types.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\types.cpython-312.pyc'
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9ADD60>
+# C:\Python312\Lib\importlib\__pycache__\__init__.cpython-312.pyc matches C:\Python312\Lib\importlib\__init__.py
+# code object from 'C:\\Python312\\Lib\\importlib\\__pycache__\\__init__.cpython-312.pyc'
+# C:\Python312\Lib\__pycache__\warnings.cpython-312.pyc matches C:\Python312\Lib\warnings.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\warnings.cpython-312.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9AEB40>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9ADF70>
+# C:\Python312\Lib\importlib\__pycache__\_abc.cpython-312.pyc matches C:\Python312\Lib\importlib\_abc.py
+# code object from 'C:\\Python312\\Lib\\importlib\\__pycache__\\_abc.cpython-312.pyc'
+import 'importlib._abc' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9AFB30>
+# C:\Python312\Lib\__pycache__\threading.cpython-312.pyc matches C:\Python312\Lib\threading.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\threading.cpython-312.pyc'
+# C:\Python312\Lib\__pycache__\functools.cpython-312.pyc matches C:\Python312\Lib\functools.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\functools.cpython-312.pyc'
+# C:\Python312\Lib\collections\__pycache__\__init__.cpython-312.pyc matches C:\Python312\Lib\collections\__init__.py
+# code object from 'C:\\Python312\\Lib\\collections\\__pycache__\\__init__.cpython-312.pyc'
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Python312\Lib\__pycache__\keyword.cpython-312.pyc matches C:\Python312\Lib\keyword.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\keyword.cpython-312.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9F8EF0>
+# C:\Python312\Lib\__pycache__\operator.cpython-312.pyc matches C:\Python312\Lib\operator.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\operator.cpython-312.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9F9580>
+# C:\Python312\Lib\__pycache__\reprlib.cpython-312.pyc matches C:\Python312\Lib\reprlib.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\reprlib.cpython-312.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9F9EE0>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9CC920>
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9AFEF0>
+# C:\Python312\Lib\__pycache__\_weakrefset.cpython-312.pyc matches C:\Python312\Lib\_weakrefset.py
+# code object from 'C:\\Python312\\Lib\\__pycache__\\_weakrefset.cpython-312.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9BEF90>
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9AFBC0>
+import 'importlib.util' # <class '_frozen_importlib.FrozenImporter'>
+import 'importlib.machinery' # <class '_frozen_importlib.FrozenImporter'>
+# possible namespace for C:\Python312\Lib\site-packages\google
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\pywin32.pth'
+# C:\Python312\Lib\site-packages\win32\lib\__pycache__\pywin32_bootstrap.cpython-312.pyc matches C:\Python312\Lib\site-packages\win32\lib\pywin32_bootstrap.py
+# code object from 'C:\\Python312\\Lib\\site-packages\\win32\\lib\\__pycache__\\pywin32_bootstrap.cpython-312.pyc'
+# possible namespace for C:\Python312\Lib\site-packages\pywin32_system32
+import 'pywin32_system32' # <_frozen_importlib_external.NamespaceLoader object at 0x00000249AE9AD670>
+import 'pywin32_bootstrap' # <_frozen_importlib_external.SourceFileLoader object at 0x00000249AE9ADB50>
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\zope.event-5.0-py3.11-nspkg.pth'
+# possible namespace for C:\Python312\Lib\site-packages\zope
+Processing .pth file: 'C:\\Python312\\Lib\\site-packages\\zope.interface-7.0.3-py3.12-nspkg.pth'
+# possible namespace for C:\Python312\Lib\site-packages\zope
+# destroy zope
+import 'site' # <class '_frozen_importlib.FrozenImporter'>
+Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+C:\Python312\python.exe: can't open file 'C:\\Users\\conta\\KinOS_missions\\terminal_velocity\\routes.py': [Errno 2] No such file or directory
+# clear sys.path_importer_cache
+# clear sys.path_hooks
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_exc
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.__interactivehook__
+# clear sys.meta_path
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing sys
+# cleanup[2] removing builtins
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _thread
+# cleanup[2] removing _warnings
+# cleanup[2] removing _weakref
+# cleanup[2] removing winreg
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing time
+# cleanup[2] removing zipimport
+# destroy zipimport
+# cleanup[2] removing _codecs
+# cleanup[2] removing codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing _signal
+# cleanup[2] removing _abc
+# cleanup[2] removing abc
+# cleanup[2] removing io
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing _stat
+# cleanup[2] removing stat
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing genericpath
+# cleanup[2] removing _winapi
+# cleanup[2] removing ntpath
+# cleanup[2] removing os.path
+# cleanup[2] removing os
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing encodings.utf_8_sig
+# cleanup[2] removing _distutils_hack
+# destroy _distutils_hack
+# cleanup[2] removing types
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib
+# destroy importlib
+# cleanup[2] removing importlib._abc
+# cleanup[2] removing itertools
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing _operator
+# cleanup[2] removing operator
+# destroy operator
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing collections
+# destroy collections
+# cleanup[2] removing _functools
+# cleanup[2] removing functools
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing threading
+# cleanup[2] removing importlib.util
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing google
+# destroy google
+# cleanup[2] removing pywin32_system32
+# cleanup[2] removing pywin32_bootstrap
+# destroy pywin32_bootstrap
+# destroy pywin32_system32
+# cleanup[2] removing zope
+# destroy zope
+# cleanup[2] removing site
+# destroy site
+# destroy _signal
+# destroy _sitebuiltins
+# destroy io
+# destroy ntpath
+# destroy _stat
+# destroy genericpath
+# destroy stat
+# destroy _winapi
+# destroy warnings
+# destroy importlib._abc
+# destroy importlib.util
+# destroy importlib.machinery
+# destroy threading
+# destroy types
+# destroy abc
+# destroy os
+# destroy functools
+# destroy time
+# destroy _abc
+# destroy _collections_abc
+# destroy itertools
+# destroy _operator
+# destroy _collections
+# destroy _functools
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping importlib._bootstrap
+# destroy _frozen_importlib_external
+# cleanup[3] wiping encodings.utf_8_sig
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping nt
+# cleanup[3] wiping marshal
+# destroy marshal
+# cleanup[3] wiping _io
+# cleanup[3] wiping winreg
+# cleanup[3] wiping _weakref
+# destroy _weakref
+# cleanup[3] wiping _warnings
+# destroy _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _imp
+# destroy _imp
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy sys.monitoring
+# destroy _thread
+# destroy _io
+# destroy nt
+# destroy winreg
+# clear sys.meta_path
+# clear sys.modules
+# destroy _frozen_importlib
+# destroy codecs
+# destroy sys
+# destroy encodings.aliases
+# destroy encodings.utf_8
+# destroy encodings.cp1252
+# destroy encodings.utf_8_sig
+# destroy _codecs
+# destroy builtins
+# clear sys.audit hooks
