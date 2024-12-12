@@ -1,15 +1,27 @@
 # Terminal Velocity - Writing Priorities
 
 ## IMMEDIATE FOCUS: Act 1 Completion
-Current: 23,189/50,000 words (46.4%)
-Need: +26,811 words to reach target
+Current: 23,987/50,000 words (48%)
+Need: +26,013 words to reach target
 
-### Priority 1: Expand Chapter 1, Scene 3 (798 → 3,333)
-- Add deeper technical analysis of the UBC system anomalies
-- Expand Isabella's internal thought process
-- Include more detailed system visualization descriptions
-- Develop the emotional weight of the discovery
-- Add foreshadowing of future conflicts
+### Priority 1: Expand Chapter 2, Scene 2 (642 → 3,333)
+- Add technical depth about Nova's systems
+- Develop Nova's character and philosophy
+- Enhance world-building elements
+- Strengthen economic implications
+- Detail UBC framework interactions
+
+### Priority 2: Review Recently Expanded Scenes
+- Verify consistency in Chapter 1, Scene 3
+- Check technical accuracy across all scenes
+- Ensure character voice consistency
+- Validate economic system logic
+
+### Priority 3: Prepare for Next Expansions
+- Identify remaining scenes under 1,000 words
+- Develop expansion outlines
+- Review character arcs
+- Plan technical integration points
 
 ### Priority 2: Review Recently Expanded Scenes
 - Ensure consistency in expanded content
