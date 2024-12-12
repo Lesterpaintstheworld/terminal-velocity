@@ -68,19 +68,19 @@ def analyze_final_text(root_dir='final_text', target_total=150000):
         act_total = act_data['total']
         total_words += act_total
         act_percentage = (act_total / target_per_act) * 100
-        print(f"\n{act_name}: {act_total:,} words ({act_percentage:.1f}% of target)")
+        print(f"\n{get_color(act_percentage)}{act_name}: {act_total:,} words ({act_percentage:.1f}% of target){Style.RESET_ALL}")
         
         for chapter_name, chapter_data in act_data['chapters'].items():
             chapter_total = chapter_data['total']
             chapter_percentage = (chapter_total / target_per_chapter) * 100
-            print(f"  {chapter_name}: {chapter_total:,} words ({chapter_percentage:.1f}% of target)")
+            print(f"  {get_color(chapter_percentage)}{chapter_name}: {chapter_total:,} words ({chapter_percentage:.1f}% of target){Style.RESET_ALL}")
             
             for scene_name, scene_count in chapter_data['scenes'].items():
                 scene_percentage = (scene_count / target_per_scene) * 100
-                print(f"    {scene_name}: {scene_count:,} words ({scene_percentage:.1f}% of target)")
+                print(f"    {get_color(scene_percentage)}{scene_name}: {scene_count:,} words ({scene_percentage:.1f}% of target){Style.RESET_ALL}")
 
     overall_percentage = (total_words / target_total) * 100
-    print(f"\nTotal words: {total_words:,} ({overall_percentage:.1f}% of target)")
+    print(f"\n{get_color(overall_percentage)}Total words: {total_words:,} ({overall_percentage:.1f}% of target){Style.RESET_ALL}")
 
 if __name__ == '__main__':
     analyze_final_text()
