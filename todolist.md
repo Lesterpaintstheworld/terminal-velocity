@@ -1,8 +1,23 @@
 # Terminal Velocity - Writing Priorities
 
-## IMMEDIATE FOCUS: Technical Consistency & Scene Completion
+## IMMEDIATE FOCUS: Chapter 4 Scene 4 Expansion
 Current: ~42,000/50,000 words (84%)
 Need: +8,000 words to reach target
+
+### Priority 1: Chapter 4, Scene 4 Expansion [IN PROGRESS]
+- [ ] Expand technical depth (~1,500 words needed)
+  * Enhance quantum trading analysis
+  * Develop market pattern recognition
+  * Detail security monitoring systems
+  * Maintain 2025-plausible technology
+- [ ] Deepen character interactions (~500 words needed)
+  * Expand Marcus-Sarah security discussion
+  * Develop preparation for board meeting
+  * Build tension around Isabella's disappearance
+- [ ] Strengthen narrative bridge (~400 words needed)
+  * Connect to Chapter 5 events
+  * Set up emergency response
+  * Foreshadow AI demonstration
 
 ### Priority 1: Scene Expansion [IN PROGRESS]
 - [ ] Expand Chapter 4, Scene 4 (~2,500 words needed)
