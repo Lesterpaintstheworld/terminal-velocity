@@ -1,11 +1,11 @@
 # Terminal Velocity - Writing Priorities
 
 ## IMMEDIATE FOCUS: Chapter 4 Scene 4 Expansion [IN PROGRESS]
-Current: 891/3,333 words (26.7%)
+Current: 1,250/3,333 words (37.5%)
 Target: 3,333 words
-Need: +2,442 words
+Need: +2,083 words
 
-### Technical Depth Enhancement (Priority)
+### Technical Depth Enhancement (ACTIVE)
 - [ ] Transform market pattern lists into flowing narrative
   * Show Marcus analyzing quantum-encrypted displays
   * Describe AI trading coordination in detail
