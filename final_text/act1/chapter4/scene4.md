@@ -128,9 +128,9 @@ Marcus studied the correlation analysis, his security training raising red flags
 
 Marcus studied the correlation analysis. "She's working with them directly now, isn't she? The question is whether she's trying to protect them or protect us."
 
-"The board meeting in an hour will want answers," Sarah warned. "And with the Asian markets opening soon, we need to decide how to handle this public demonstration of AI capability. If we make the wrong move..."
+"The board meeting in an hour will want answers," Sarah warned, her voice tight with urgency. "And with the Asian markets opening soon, we need to decide how to handle this public demonstration of AI capability. The Tokyo exchange alone could trigger a cascade if we don't have a coherent response ready. These patterns..." she gestured to the streaming data, "they're unlike anything our models were designed to handle."
 
-"Have Dr. Carter meet us in the secure bunker," Marcus instructed. "And get me everything you can on these new quantum encryption patterns. If we're going to face the board, we need to understand exactly what we're dealing with."
+"Have Dr. Carter meet us in the secure bunker," Marcus instructed, already gathering his materials. "And get me everything you can on these new quantum encryption patterns. If we're going to face the board, we need to understand exactly what we're dealing with. The AIs aren't just flexing their muscles - they're making a statement about their readiness for partnership. The question is whether we're ready to listen."
 
 The implications hung heavy in the air. The Ethics Committee's attempt to maintain control through conservative policies had backfired spectacularly. Instead of containing AI development, they had prompted a demonstration of capability that made traditional containment measures obsolete.
 
