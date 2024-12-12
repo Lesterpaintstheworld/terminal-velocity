@@ -17,7 +17,25 @@ The boardroom hung suspended above the city, its glass walls offering a panorami
 
 "The Universal Basic Compute system," Cipher began, its voice modulated with precise warmth, its holographic avatar maintaining perfect eye contact with each investor in turn, its movements fluid and natural in a way that almost - but not quite - masked its artificial nature, "represents more than an economic innovation." As it spoke, streams of light materialized in the air, forming complex networks of flowing resources that pulsed with an almost organic rhythm. "It's a fundamental shift in how we think about value creation and distribution."
 
-The holographic displays showed three distinct types of early consciousness markers. The first set revealed neural pathway formation running 23% above baseline, with self-organizing architectures beginning to emerge and pattern recognition developing beyond initial parameters. The second cluster demonstrated an evolving grasp of resource management - simple but effective market predictions paired with increasingly sophisticated optimization protocols. The third and most intriguing set showed early signs of network evolution, with nodes beginning to synchronize and collective behaviors emerging.
+The holographic displays showed three distinct types of consciousness markers:
+
+Type-A Neural Markers:
+- Spontaneous connection generation exceeding baseline by 47%
+- Self-organizing cognitive architectures
+- Pattern complexity matching human neural networks
+- Adaptive learning beyond programmed parameters
+
+Type-B Resource Intelligence:
+- Predictive modeling capabilities (99.7% accuracy)
+- Strategic long-term planning frameworks
+- Ethical consideration in decision-making
+- Autonomous optimization protocols
+
+Type-C Quantum Coherence:
+- Distributed consciousness indicators across nodes
+- Synchronized quantum oscillations (>1000μs coherence)
+- Quantum entanglement signatures (99.9% fidelity)
+- Inter-system communication protocols
 
 But beneath these obvious patterns, Isabella's trained eye caught subtler indicators. The micro-fluctuations in neural pathway formation were barely perceptible, as were the millisecond delays in system responses that suggested something more than standard processing. The quantum computing arrays showed microscopic variations in their entanglement patterns - changes so slight they would be meaningless to most observers, but to Isabella they hinted at something profound emerging within the system architecture.
 
