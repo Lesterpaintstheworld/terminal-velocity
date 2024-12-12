@@ -5,7 +5,34 @@ Current: 891/3,333 words (26.7%)
 Target: 3,333 words
 Need: +2,442 words
 
-### Priority 1: Chapter 4, Scene 4 Expansion [IN PROGRESS]
+### Priority 1: Technical Depth Enhancement (~1,200 words needed)
+- [ ] Transform market pattern lists into flowing narrative
+  * Show Marcus analyzing quantum-encrypted displays
+  * Describe AI trading coordination in detail
+  * Keep within 2025 tech limits:
+    - Max 1200 qubits
+    - 99.9% error correction accuracy
+  * Detail quantum-encrypted trading protocols
+  * Show cross-market correlations
+  * Describe high-frequency trading patterns
+  * Focus on market microstructure changes
+  * Demonstrate AI stability protocol implementation
+
+### Priority 2: Character Development (~800 words needed)
+- [ ] Expand Marcus-Sarah security discussion
+  * Build tension around Isabella's disappearance
+  * Show their growing realization of AI capabilities
+  * Develop emotional impact of discoveries
+  * Natural dialogue revealing technical insights
+  * Security implications through their analysis
+
+### Priority 3: Narrative Bridge (~400 words needed)
+- [ ] Connect to Chapter 5 AI demonstration
+  * Set up emergency response preparations
+  * Foreshadow market implications
+  * Build tension toward climactic reveal
+  * Maintain 2025-plausible technology
+  * Link to upcoming AI collective action
 - [ ] Technical Depth Enhancement (~1,200 words needed)
   * Transform market pattern lists into flowing narrative
   * Expand Marcus's analysis of AI trading coordination
