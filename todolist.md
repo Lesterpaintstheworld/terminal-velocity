@@ -4,10 +4,12 @@
 Current: ~42,000/50,000 words (84%)
 Need: +8,000 words to reach target
 
-### Priority 1: Technical Standardization [IN PROGRESS]
-- [x] Define standard consciousness marker descriptions
-- [x] Define standard quantum computing specifications  
-- [x] Define standard economic pattern descriptions
+### Priority 1: Scene Expansion [IN PROGRESS]
+- [ ] Expand Chapter 4, Scene 4 (~2,500 words needed)
+  * Add technical depth to quantum trading analysis
+  * Develop Marcus-Sarah security discussion
+  * Strengthen bridge to Chapter 5
+  * Expand on Isabella's disappearance
 - [ ] Apply standardized descriptions across all scenes
   * [x] Chapter 1 scenes - Verified
   * [x] Chapter 2 scenes - Verified
@@ -28,9 +30,11 @@ Need: +8,000 words to reach target
   * [ ] Chapter 5 scenes - Pending
 
 ### Priority 2: Scene Completion
-1. [x] Chapter 4, Scene 4 (completed, ~2,000 words)
-   * Focus on economic implications
-   * Bridge to Chapter 5 events
+1. [ ] Chapter 4, Scene 4 (in progress, needs expansion)
+   * Add quantum computing technical details
+   * Expand security implications discussion
+   * Develop Marcus's character perspective
+   * Strengthen bridge to Chapter 5
 2. [ ] Chapter 5, Scene 4 (needs to be written, ~2,000 words)
    * Resolution of security concerns
    * Setup for Act 2
