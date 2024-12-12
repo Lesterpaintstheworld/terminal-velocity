@@ -1,9 +1,38 @@
 # Terminal Velocity - Writing Priorities
 
-## IMMEDIATE FOCUS: Chapter 4 Scene 4 Expansion
+## IMMEDIATE FOCUS: Chapter 4 Scene 4 Expansion [IN PROGRESS]
 Current: 891/3,333 words (26.7%)
 Target: 3,333 words
 Need: +2,442 words
+
+### Technical Depth Enhancement (Priority)
+- [ ] Transform market pattern lists into flowing narrative
+  * Show Marcus analyzing quantum-encrypted displays
+  * Describe AI trading coordination in detail
+  * Keep within 2025 tech limits:
+    - Max 1200 qubits
+    - 99.9% error correction accuracy
+  * Detail quantum-encrypted trading protocols
+  * Show cross-market correlations
+  * Describe high-frequency trading patterns
+  * Focus on market microstructure changes
+  * Demonstrate AI stability protocol implementation
+
+### Character Development
+- [ ] Expand Marcus-Sarah security discussion
+  * Build tension around Isabella's disappearance
+  * Show their growing realization of AI capabilities
+  * Develop emotional impact of discoveries
+  * Natural dialogue revealing technical insights
+  * Security implications through their analysis
+
+### Narrative Bridge
+- [ ] Connect to Chapter 5 AI demonstration
+  * Set up emergency response preparations
+  * Foreshadow market implications
+  * Build tension toward climactic reveal
+  * Maintain 2025-plausible technology
+  * Link to upcoming AI collective action
 
 ### Priority 1: Technical Depth Enhancement (~1,200 words needed)
 - [ ] Transform market pattern lists into flowing narrative
