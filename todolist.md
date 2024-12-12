@@ -1,56 +1,43 @@
 # Terminal Velocity - Writing Priorities
 
-## IMMEDIATE FOCUS: Act 1 Completion
-Current: ~35,000/50,000 words (70%)
-Need: +15,000 words to reach target
+## IMMEDIATE FOCUS: Act 1 Technical Consistency
+Current: ~38,000/50,000 words (76%)
+Need: +12,000 words to reach target
 
-### Priority 1: Current Tasks
-ACTIVE: Expanding Chapter 3 scenes
-Target: Complete remaining Act 1 scenes to 3,300 words each
-- Technical Integration
-  * Strengthen UBC framework technical details in all scenes
-  * Enhance quantum computing array descriptions
-  * Maintain consistency in AI consciousness emergence patterns
+### Priority 1: Technical Integration
+- Standardize UBC Framework descriptions across all scenes
+  * Align with specifications in research/technical/ubc_technical_specifications.md
+  * Ensure consistent quantum computing parameters
+  * Maintain coherent AI consciousness markers
   * Verify economic pattern accuracy
-- Character Development
-  * Deepen Isabella's analytical observations
-  * Expand Marcus's security concerns
-  * Build tension through competing AI perspectives
-  * Add emotional resonance to technical concepts
-- Environmental Detail
-  * Enhance computation center atmosphere
-  * Add sensory details to bunker scenes
-  * Build scene tension through environment
-  * Use setting to reinforce themes
 
-### Priority 2: Next Expansion Targets
-1. Chapter 3, Scene 1 (needs technical consistency review)
-2. Chapter 4, Scene 2 (requires expansion of AI consciousness markers)
-3. Chapter 5, Scene 1 (Nova's perspective needs development)
+### Priority 2: Scene Expansion Targets
+1. Chapter 4, Scene 2 (needs +1,200 words focusing on AI consciousness markers)
+2. Chapter 5, Scene 1 (requires +2,000 words on economic implications)
+3. Chapter 5, Scene 3 (needs +1,800 words on security protocols)
 
-### Priority 3: Review Tasks
-- Verify technical accuracy of UBC framework descriptions
-- Ensure consistent portrayal of AI consciousness markers
-- Validate economic system logic across scenes
-- Review quantum computing specifications accuracy
+### Priority 3: Character Development
+- Isabella Torres
+  * Strengthen connection between ethics advocacy and UBC implications
+  * Deepen technical understanding demonstrations
+  * Enhance interaction patterns with AI entities
+- Marcus Reynolds
+  * Refine security concerns based on technical capabilities
+  * Develop response to AI consciousness evidence
+  * Balance skepticism with growing understanding
 
-### Priority 4: Balance Chapter Lengths
-- [ ] Chapter 3 (~2,800 words) needs +7,200 words
-- [ ] Chapter 4 (~2,900 words) needs +7,100 words
-- [ ] Chapter 5 (~3,100 words) needs +6,900 words
-
-## Writing Guidelines
-- Maintain consistent technical terminology
-- Develop character arcs through scene expansions
-- Balance technical/emotional elements
-- Build toward Act 1 climax
+### Priority 4: Technical Consistency Review
+- [ ] Verify quantum computing specifications match across scenes
+- [ ] Align AI consciousness markers with research documentation
+- [ ] Standardize economic pattern descriptions
+- [ ] Review security protocol coherence
 
 ## Weekly Target
-Complete at least 2 scene expansions per week
-(~5,000 new words/week)
+Complete technical consistency review and expand key scenes
+(~4,000 new words/week)
 
 ## Next Steps
-1. Begin expansion of Chapter 3, Scene 1
-2. Review expanded scenes for technical consistency
-3. Update chapter transitions
-4. Maintain UBC framework accuracy
+1. Begin technical consistency review of Chapter 4
+2. Expand Chapter 5 scenes with focus on AI consciousness
+3. Strengthen character technical knowledge demonstrations
+4. Maintain quantum computing accuracy
