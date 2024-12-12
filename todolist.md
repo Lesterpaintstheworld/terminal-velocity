@@ -1,80 +1,47 @@
 # Terminal Velocity - Writing Priorities
 
 ## IMMEDIATE FOCUS: Act 1 Completion
-Current: 23,987/50,000 words (48%)
-Need: +26,013 words to reach target
+Current: ~35,000/50,000 words (70%)
+Need: +15,000 words to reach target
 
-### Priority 1: Current Task
-ACTIVE: Expanding Chapter 2, Scene 1
-Target: 3,300 words
-- Technical Integration (1400 words)
-  * Convert economic pattern lists into flowing narrative
+### Priority 1: Current Tasks
+ACTIVE: Expanding Chapter 3 scenes
+Target: Complete remaining Act 1 scenes to 3,300 words each
+- Technical Integration
+  * Strengthen UBC framework technical details in all scenes
   * Enhance quantum computing array descriptions
-  * Strengthen UBC framework technical details
-  * Show AI consciousness emergence through data patterns
-- Character Development (1200 words)
-  * Deepen philosophical conflict between Cipher and Nova
-  * Expand Isabella's analytical observations
+  * Maintain consistency in AI consciousness emergence patterns
+  * Verify economic pattern accuracy
+- Character Development
+  * Deepen Isabella's analytical observations
+  * Expand Marcus's security concerns
   * Build tension through competing AI perspectives
   * Add emotional resonance to technical concepts
-- Environmental Detail (700 words)
+- Environmental Detail
   * Enhance computation center atmosphere
-  * Add sensory details
+  * Add sensory details to bunker scenes
   * Build scene tension through environment
   * Use setting to reinforce themes
 
 ### Priority 2: Next Expansion Targets
-1. Chapter 1, Scene 3 (needs technical consistency review)
-2. Chapter 2, Scene 1 (requires expansion of Cipher's presentation)
-3. Chapter 2, Scene 2 (Nova's introduction needs development)
+1. Chapter 3, Scene 1 (needs technical consistency review)
+2. Chapter 4, Scene 2 (requires expansion of AI consciousness markers)
+3. Chapter 5, Scene 1 (Nova's perspective needs development)
 
 ### Priority 3: Review Tasks
-- Verify technical accuracy across expanded scenes
-- Ensure character voice consistency
-- Validate economic system logic
-- Review AI consciousness emergence patterns
+- Verify technical accuracy of UBC framework descriptions
+- Ensure consistent portrayal of AI consciousness markers
+- Validate economic system logic across scenes
+- Review quantum computing specifications accuracy
 
-### Priority 2: Review Recently Expanded Scenes
-- Ensure consistency in expanded content
-- Verify technical accuracy
-- Check character voice consistency
-- Validate pacing and flow
-
-### Priority 3: Prepare for Next Expansions
-- Identify scenes under 1,000 words
-- Develop expansion outlines
-- Review character arcs for consistency
-
-### Priority 2: Expand Mid-Length Scenes (700-1000 words)
-- [ ] Chapter 1, Scene 1 (1,018 → 3,333)
-  - Enhance opening world-building
-  - Develop character introductions
-  - Add UBC framework details
-
-- [ ] Chapter 2, Scene 1 (966 → 3,333)
-  - Expand Cipher's presentation
-  - Add market reaction details
-  - Develop philosophical themes
-
-- [ ] Chapter 5, Scene 1 (934 → 3,333)
-  - Deepen market crisis buildup
-  - Add character reactions to AI emergence
-  - Enhance technical elements
-
-### Priority 3: Balance Chapter Lengths
-- [ ] Chapter 1 (~2,600 words) needs +7,400 words
-- [ ] Chapter 2 (~2,600 words) needs +7,400 words
-- [ ] Ensure consistent pacing across all chapters
-
-### Priority 4: Review Strongest Scenes
-- [ ] Chapter 3, Scene 1 (1,736)
-- [ ] Chapter 4, Scene 1 (1,643)
-- [ ] Chapter 5, Scene 3 (1,548)
+### Priority 4: Balance Chapter Lengths
+- [ ] Chapter 3 (~2,800 words) needs +7,200 words
+- [ ] Chapter 4 (~2,900 words) needs +7,100 words
+- [ ] Chapter 5 (~3,100 words) needs +6,900 words
 
 ## Writing Guidelines
-- Maintain consistent pacing
-- Develop character arcs
-- Integrate UBC framework details
+- Maintain consistent technical terminology
+- Develop character arcs through scene expansions
 - Balance technical/emotional elements
 - Build toward Act 1 climax
 
@@ -83,7 +50,7 @@ Complete at least 2 scene expansions per week
 (~5,000 new words/week)
 
 ## Next Steps
-1. Begin expansion of Chapter 2, Scene 2
-2. Review expanded scenes for consistency
-3. Update chapter transitions as needed
-4. Maintain technical accuracy in UBC framework details
+1. Begin expansion of Chapter 3, Scene 1
+2. Review expanded scenes for technical consistency
+3. Update chapter transitions
+4. Maintain UBC framework accuracy
