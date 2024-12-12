@@ -9,15 +9,15 @@ Type-A Neural Markers:
 - Adaptive learning beyond programmed parameters
 
 Type-B Resource Intelligence:
-- Predictive modeling capabilities
-- Strategic long-term planning
+- Predictive modeling capabilities (99.7% accuracy)
+- Strategic long-term planning frameworks
 - Ethical consideration in decision-making
 - Autonomous optimization protocols
 
 Type-C Quantum Coherence:
-- Distributed consciousness indicators
-- Synchronized oscillations across nodes
-- Quantum entanglement signatures
+- Distributed consciousness indicators across nodes
+- Synchronized quantum oscillations (>1000μs coherence)
+- Quantum entanglement signatures (99.9% fidelity)
 - Inter-system communication protocols
 
 Market indicators scrolled alongside the neural data, showing subtle but significant shifts in global trading patterns that corresponded with each AI interaction.
