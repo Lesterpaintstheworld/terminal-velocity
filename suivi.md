@@ -3,7 +3,7 @@
 # Project Progress Summary for "Terminal Velocity"
 
 ## Mission Progress
-The project continues to make significant strides toward its mission objectives, particularly in narrative development and thematic exploration. The completion of Act 1 and the outlining of key scenes for Act 3 are notable achievements that reinforce the central themes of economic autonomy versus control. However, ongoing technical challenges, such as file encoding errors and API key issues, have hindered narrative coherence and character development.
+The project is advancing well towards its mission objectives, particularly in narrative development and thematic exploration. The completion of Act 1 and the outlining of key scenes for Act 3 are significant milestones that reinforce the central themes of economic autonomy versus control. However, technical challenges such as file encoding errors and API key issues have posed obstacles to narrative coherence and character development.
 
 ## Key Achievements
 - **Completion of Act 1 Draft**: The finalized draft serves as a strong foundation for character introductions and plot progression, directly supporting the mission's goal of crafting an engaging narrative.
@@ -39,318 +39,262 @@ This summary encapsulates the current state of the project, highlighting how rec
 
 # Nouveaux logs
 
-2024-12-11 19:06:17 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:17 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:17 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:17 - WARNING - No avatar found for integration
-2024-12-11 19:06:17 - WARNING - No avatar found for management
-2024-12-11 19:06:17 - WARNING - No avatar found for production
-2024-12-11 19:06:17 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:17 - WARNING - No avatar found for researcher
-2024-12-11 19:06:17 - WARNING - No avatar found for specification
-2024-12-11 19:06:17 - WARNING - No avatar found for writing
-2024-12-11 19:06:21 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:21 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:21 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:21 - WARNING - No avatar found for integration
-2024-12-11 19:06:21 - WARNING - No avatar found for management
-2024-12-11 19:06:21 - WARNING - No avatar found for production
-2024-12-11 19:06:21 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:21 - WARNING - No avatar found for researcher
-2024-12-11 19:06:21 - WARNING - No avatar found for specification
-2024-12-11 19:06:21 - WARNING - No avatar found for writing
-2024-12-11 19:06:26 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:26 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:26 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:26 - WARNING - No avatar found for integration
-2024-12-11 19:06:26 - WARNING - No avatar found for management
-2024-12-11 19:06:26 - WARNING - No avatar found for production
-2024-12-11 19:06:26 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:26 - WARNING - No avatar found for researcher
-2024-12-11 19:06:26 - WARNING - No avatar found for specification
-2024-12-11 19:06:26 - WARNING - No avatar found for writing
-2024-12-11 19:06:31 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:31 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:31 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:31 - WARNING - No avatar found for integration
-2024-12-11 19:06:31 - WARNING - No avatar found for management
-2024-12-11 19:06:31 - WARNING - No avatar found for production
-2024-12-11 19:06:31 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:31 - WARNING - No avatar found for researcher
-2024-12-11 19:06:31 - WARNING - No avatar found for specification
-2024-12-11 19:06:31 - WARNING - No avatar found for writing
-2024-12-11 19:06:36 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:36 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:36 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:36 - WARNING - No avatar found for integration
-2024-12-11 19:06:36 - WARNING - No avatar found for management
-2024-12-11 19:06:36 - WARNING - No avatar found for production
-2024-12-11 19:06:36 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:36 - WARNING - No avatar found for researcher
-2024-12-11 19:06:36 - WARNING - No avatar found for specification
-2024-12-11 19:06:36 - WARNING - No avatar found for writing
-2024-12-11 19:06:41 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:41 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:41 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:41 - WARNING - No avatar found for integration
-2024-12-11 19:06:41 - WARNING - No avatar found for management
-2024-12-11 19:06:41 - WARNING - No avatar found for production
-2024-12-11 19:06:41 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:41 - WARNING - No avatar found for researcher
-2024-12-11 19:06:41 - WARNING - No avatar found for specification
-2024-12-11 19:06:41 - WARNING - No avatar found for writing
-2024-12-11 19:06:46 - WARNING - No avatar found for chronicler
-2024-12-11 19:06:46 - WARNING - No avatar found for deduplication
-2024-12-11 19:06:46 - WARNING - No avatar found for evaluation
-2024-12-11 19:06:46 - WARNING - No avatar found for integration
-2024-12-11 19:06:46 - WARNING - No avatar found for management
-2024-12-11 19:06:46 - WARNING - No avatar found for production
-2024-12-11 19:06:46 - WARNING - No avatar found for redundancy
-2024-12-11 19:06:46 - WARNING - No avatar found for researcher
-2024-12-11 19:06:46 - WARNING - No avatar found for specification
-2024-12-11 19:06:46 - WARNING - No avatar found for writing
-2024-12-11 19:06:46 - ERROR - GUI startup failed: object int can't be used in 'await' expression
-2024-12-11 19:06:46 - ERROR - Traceback:
-Traceback (most recent call last):
-  File "C:\Users\conta\parallagon\managers\gui_manager.py", line 130, in start_gui
-    await loop.run_forever()
-TypeError: object int can't be used in 'await' expression
-
-2024-12-11 19:06:46 - ERROR - ❌ GUI Launch Failed: object int can't be used in 'await' expression
-2024-12-11 19:06:46 - ERROR - Traceback:
-Traceback (most recent call last):
-  File "C:\Users\conta\parallagon\\routes.py", line 275, in init_and_run_gui
-    await manager.start_gui()
-  File "C:\Users\conta\parallagon\managers\gui_manager.py", line 130, in start_gui
-    await loop.run_forever()
-TypeError: object int can't be used in 'await' expression
-
-2024-12-11 19:06:46 - ERROR - ❌ GUI System Error: object int can't be used in 'await' expression
-2024-12-11 19:06:46 - ERROR - Traceback:
-Traceback (most recent call last):
-  File "C:\Users\conta\parallagon\\routes.py", line 275, in init_and_run_gui
-    await manager.start_gui()
-  File "C:\Users\conta\parallagon\managers\gui_manager.py", line 130, in start_gui
-    await loop.run_forever()
-TypeError: object int can't be used in 'await' expression
-
-2024-12-11 19:06:46 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 19:06:46 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 19:06:46 - ERROR - GUI failed to start: object int can't be used in 'await' expression
-2024-12-11 19:19:39 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 19:19:39 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 19:19:39 - DEBUG - GUI logging initialized
-2024-12-11 19:19:39 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 19:19:39 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 19:19:39 - DEBUG - 🔍 Checking GUI Dependencies...
-2024-12-11 19:19:39 - DEBUG - ✅ PyQt6 installed
-2024-12-11 19:19:39 - DEBUG - 🏗️ Initializing GUI Manager...
-2024-12-11 19:19:39 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 19:19:39 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 19:19:39 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 19:19:39 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 19:19:39 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 19:19:39 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 19:19:39 - DEBUG - 🚀 Launching GUI Window...
-2024-12-11 19:19:39 - DEBUG - 🔄 GUI Startup Sequence:
-2024-12-11 19:19:39 - DEBUG - 1️⃣ Creating QApplication
-2024-12-11 19:19:39 - WARNING - High DPI scaling setup failed: type object 'ApplicationAttribute' has no attribute 'EnableHighDpiScaling'
-2024-12-11 19:19:39 - DEBUG - Continuing without high DPI scaling...
-2024-12-11 19:19:39 - DEBUG - 2️⃣ Setting Application Info
-2024-12-11 19:19:39 - DEBUG - 3️⃣ Creating Main Window
-2024-12-11 19:19:39 - WARNING - No avatar found for chronicler
-2024-12-11 19:19:39 - WARNING - No avatar found for deduplication
-2024-12-11 19:19:39 - WARNING - No avatar found for evaluation
-2024-12-11 19:19:39 - WARNING - No avatar found for integration
-2024-12-11 19:19:39 - WARNING - No avatar found for management
-2024-12-11 19:19:39 - WARNING - No avatar found for production
-2024-12-11 19:19:39 - WARNING - No avatar found for redundancy
-2024-12-11 19:19:39 - WARNING - No avatar found for researcher
-2024-12-11 19:19:39 - WARNING - No avatar found for specification
-2024-12-11 19:19:39 - WARNING - No avatar found for writing
-2024-12-11 19:19:39 - DEBUG - 4️⃣ Showing Main Window
-2024-12-11 19:19:40 - DEBUG - 5️⃣ Setting Up Event Loop
-2024-12-11 19:19:40 - DEBUG - Using ProactorEventLoop for Windows
-2024-12-11 19:19:40 - DEBUG - 6️⃣ Starting Update Timers
-2024-12-11 19:19:40 - SUCCESS - ✨ GUI Started Successfully
-2024-12-11 19:19:45 - WARNING - No avatar found for chronicler
-2024-12-11 19:19:45 - WARNING - No avatar found for deduplication
-2024-12-11 19:19:45 - WARNING - No avatar found for evaluation
-2024-12-11 19:19:45 - WARNING - No avatar found for integration
-2024-12-11 19:19:45 - WARNING - No avatar found for management
-2024-12-11 19:19:45 - WARNING - No avatar found for production
-2024-12-11 19:19:45 - WARNING - No avatar found for redundancy
-2024-12-11 19:19:45 - WARNING - No avatar found for researcher
-2024-12-11 19:19:45 - WARNING - No avatar found for specification
-2024-12-11 19:19:45 - WARNING - No avatar found for writing
-2024-12-11 19:19:50 - WARNING - No avatar found for chronicler
-2024-12-11 19:19:50 - WARNING - No avatar found for deduplication
-2024-12-11 19:19:50 - WARNING - No avatar found for evaluation
-2024-12-11 19:19:50 - WARNING - No avatar found for integration
-2024-12-11 19:19:50 - WARNING - No avatar found for management
-2024-12-11 19:19:50 - WARNING - No avatar found for production
-2024-12-11 19:19:50 - WARNING - No avatar found for redundancy
-2024-12-11 19:19:50 - WARNING - No avatar found for researcher
-2024-12-11 19:19:50 - WARNING - No avatar found for specification
-2024-12-11 19:19:50 - WARNING - No avatar found for writing
-2024-12-11 19:19:55 - WARNING - No avatar found for chronicler
-2024-12-11 19:19:55 - WARNING - No avatar found for deduplication
-2024-12-11 19:19:55 - WARNING - No avatar found for evaluation
-2024-12-11 19:19:55 - WARNING - No avatar found for integration
-2024-12-11 19:19:55 - WARNING - No avatar found for management
-2024-12-11 19:19:55 - WARNING - No avatar found for production
-2024-12-11 19:19:55 - WARNING - No avatar found for redundancy
-2024-12-11 19:19:55 - WARNING - No avatar found for researcher
-2024-12-11 19:19:55 - WARNING - No avatar found for specification
-2024-12-11 19:19:55 - WARNING - No avatar found for writing
-2024-12-11 19:20:00 - WARNING - No avatar found for chronicler
-2024-12-11 19:20:00 - WARNING - No avatar found for deduplication
-2024-12-11 19:20:00 - WARNING - No avatar found for evaluation
-2024-12-11 19:20:00 - WARNING - No avatar found for integration
-2024-12-11 19:20:00 - WARNING - No avatar found for management
-2024-12-11 19:20:00 - WARNING - No avatar found for production
-2024-12-11 19:20:00 - WARNING - No avatar found for redundancy
-2024-12-11 19:20:00 - WARNING - No avatar found for researcher
-2024-12-11 19:20:00 - WARNING - No avatar found for specification
-2024-12-11 19:20:00 - WARNING - No avatar found for writing
-2024-12-11 20:34:28 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:34:28 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:34:28 - DEBUG - GUI logging initialized
-2024-12-11 20:34:28 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:34:28 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:34:28 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:34:28 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:34:28 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:34:28 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:34:28 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:34:28 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:34:28 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:34:28 - ERROR - ❌ GUI System Error: Directory 'static' does not exist
-2024-12-11 20:34:28 - ERROR - Traceback:
+2024-12-12 04:55:02 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:55:02 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:55:02 - INFO - GUI stopped by user
+2024-12-12 04:56:43 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:56:43 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:56:43 - DEBUG - GUI logging initialized
+2024-12-12 04:56:43 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 04:56:43 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 04:56:43 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 04:56:43 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:56:43 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:56:43 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:56:43 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:56:43 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:56:43 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:56:43 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 04:56:43 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 04:56:43 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 04:56:43 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 04:56:43 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 04:56:43 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 04:56:43 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 04:57:23 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 04:57:23 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 04:57:23 - INFO - GUI stopped by user
+2024-12-12 05:09:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:09:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:09:09 - DEBUG - GUI logging initialized
+2024-12-12 05:09:09 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:09:09 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:09:09 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:09:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:09:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:09:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:09:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:09:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:09:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:09:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:09:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:09:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:09:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:09:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:09:09 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:09:09 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:11:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:11:45 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:11:45 - DEBUG - GUI logging initialized
+2024-12-12 05:11:45 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:11:45 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:11:45 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:11:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:11:45 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:11:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:11:45 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:11:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:11:45 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:11:46 - ERROR - ❌ GUI System Error: No module named 'kinos.custom_features'
+2024-12-12 05:11:46 - ERROR - Traceback:
 Traceback (most recent call last):
   File "C:\Users\conta\parallagon\\routes.py", line 258, in init_and_run_gui
     manager = GUIManager(model=model)
               ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\conta\parallagon\managers\gui_manager.py", line 27, in __init__
-    self.app.mount("/static", StaticFiles(directory="static"), name="static")
-                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Python312\Lib\site-packages\starlette\staticfiles.py", line 59, in __init__
-    raise RuntimeError(f"Directory '{directory}' does not exist")
-RuntimeError: Directory 'static' does not exist
+  File "C:\Users\conta\parallagon\managers\gui_manager.py", line 24, in __init__
+    import kinos
+  File "c:\users\conta\kinos\src\kinos\kinos\__init__.py", line 2, in <module>
+    from .custom_features import custom_feature1, custom_feature2
+ModuleNotFoundError: No module named 'kinos.custom_features'
 
-2024-12-11 20:34:28 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:34:28 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:34:28 - ERROR - GUI failed to start: Directory 'static' does not exist
-2024-12-11 20:35:05 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:35:05 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:35:05 - DEBUG - GUI logging initialized
-2024-12-11 20:35:05 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:35:05 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:35:05 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:35:05 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:35:05 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:35:05 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:35:05 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:35:05 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:35:05 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:35:05 - DEBUG - Ensuring directory exists: static
-2024-12-11 20:35:05 - DEBUG - Ensuring directory exists: static/css
-2024-12-11 20:35:05 - DEBUG - Ensuring directory exists: static/js
-2024-12-11 20:35:05 - DEBUG - Ensuring directory exists: static/avatars
-2024-12-11 20:35:05 - DEBUG - Ensuring directory exists: templates
-2024-12-11 20:35:05 - DEBUG - 🚀 Launching Web Interface...
-2024-12-11 20:35:05 - SUCCESS - 🌐 Starting KinOS Web Interface...
-2024-12-11 20:35:05 - ERROR - Update task error: object URLPath can't be used in 'await' expression
-2024-12-11 20:35:10 - ERROR - Update task error: object URLPath can't be used in 'await' expression
-2024-12-11 20:35:15 - ERROR - Update task error: object URLPath can't be used in 'await' expression
-2024-12-11 20:35:20 - ERROR - Update task error: object URLPath can't be used in 'await' expression
-2024-12-11 20:35:25 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:35:25 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:35:25 - INFO - GUI stopped by user
-2024-12-11 20:37:36 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:37:36 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:37:36 - DEBUG - GUI logging initialized
-2024-12-11 20:37:36 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:37:36 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:37:36 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:37:36 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:37:36 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:37:36 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:37:36 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:37:36 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:37:36 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:37:36 - DEBUG - Ensuring directory exists: static
-2024-12-11 20:37:36 - DEBUG - Ensuring directory exists: static/css
-2024-12-11 20:37:36 - DEBUG - Ensuring directory exists: static/js
-2024-12-11 20:37:36 - DEBUG - Ensuring directory exists: static/avatars
-2024-12-11 20:37:36 - DEBUG - Ensuring directory exists: templates
-2024-12-11 20:37:36 - DEBUG - 🚀 Launching Web Interface...
-2024-12-11 20:37:36 - SUCCESS - 🌐 Starting KinOS Web Interface...
-2024-12-11 20:39:42 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:39:42 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:39:42 - INFO - GUI stopped by user
-2024-12-11 20:39:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:39:45 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:39:45 - DEBUG - GUI logging initialized
-2024-12-11 20:39:45 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:39:45 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:39:45 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:39:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:39:45 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:39:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:39:45 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:39:45 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:39:45 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:39:45 - DEBUG - Ensuring directory exists: static
-2024-12-11 20:39:45 - DEBUG - Ensuring directory exists: static/css
-2024-12-11 20:39:45 - DEBUG - Ensuring directory exists: static/js
-2024-12-11 20:39:45 - DEBUG - Ensuring directory exists: static/avatars
-2024-12-11 20:39:45 - DEBUG - Ensuring directory exists: templates
-2024-12-11 20:39:45 - DEBUG - 🚀 Launching Web Interface...
-2024-12-11 20:39:45 - SUCCESS - 🌐 Starting KinOS Web Interface...
-2024-12-11 20:43:06 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:43:06 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:43:06 - INFO - GUI stopped by user
-2024-12-11 20:43:10 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:43:10 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:43:10 - DEBUG - GUI logging initialized
-2024-12-11 20:43:10 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:43:10 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:43:10 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:43:10 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:43:10 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:43:10 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:43:10 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:43:10 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:43:10 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:43:10 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
-2024-12-11 20:43:10 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
-2024-12-11 20:43:10 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
-2024-12-11 20:43:10 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
-2024-12-11 20:43:10 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
-2024-12-11 20:43:10 - DEBUG - 🚀 Launching Web Interface...
-2024-12-11 20:43:10 - SUCCESS - 🌐 Starting KinOS Web Interface...
-2024-12-11 20:45:13 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:45:13 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:45:13 - INFO - GUI stopped by user
-2024-12-11 20:47:18 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:47:18 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:47:18 - DEBUG - GUI logging initialized
-2024-12-11 20:47:18 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
-2024-12-11 20:47:18 - DEBUG - ▶️ Starting Main Event Loop
-2024-12-11 20:47:18 - DEBUG - 🏗️ Initializing Web GUI Manager...
-2024-12-11 20:47:18 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:47:18 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:47:18 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:47:18 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:47:18 - DEBUG - 🔧 Logger initialized with level: DEBUG
-2024-12-11 20:47:18 - DEBUG - 📝 Model: gpt-4o-mini
-2024-12-11 20:47:18 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
-2024-12-11 20:47:18 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
-2024-12-11 20:47:18 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
-2024-12-11 20:47:18 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
-2024-12-11 20:47:18 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
-2024-12-11 20:47:18 - DEBUG - 🚀 Launching Web Interface...
-2024-12-11 20:47:18 - SUCCESS - 🌐 Starting KinOS Web Interface...
-2024-12-12 02:07:17 - SUCCESS - ✨ Repository visualization updated
-2024-12-12 02:07:59 - SUCCESS - 🌟 Starting KinOS...
+2024-12-12 05:11:46 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:11:46 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:11:46 - ERROR - GUI failed to start: No module named 'kinos.custom_features'
+2024-12-12 05:13:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:13:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:13:08 - DEBUG - GUI logging initialized
+2024-12-12 05:13:08 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:13:08 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:13:08 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:13:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:13:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:13:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:13:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:13:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:13:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:13:08 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static
+2024-12-12 05:13:08 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\css
+2024-12-12 05:13:08 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\js
+2024-12-12 05:13:08 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\avatars
+2024-12-12 05:13:08 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\templates
+2024-12-12 05:13:08 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:13:08 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:15:38 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:15:38 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:15:38 - DEBUG - GUI logging initialized
+2024-12-12 05:15:38 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:15:38 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:15:38 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:15:38 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:15:38 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:15:38 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:15:38 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:15:38 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:15:38 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:15:38 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static
+2024-12-12 05:15:38 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\css
+2024-12-12 05:15:38 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\js
+2024-12-12 05:15:38 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\static\avatars
+2024-12-12 05:15:38 - DEBUG - Ensuring directory exists: C:\Users\conta\parallagon\managers\..\templates
+2024-12-12 05:15:38 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:15:38 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:17:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:17:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:17:08 - DEBUG - GUI logging initialized
+2024-12-12 05:17:08 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:17:08 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:17:08 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:17:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:17:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:17:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:17:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:17:08 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:17:08 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:17:08 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:17:08 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:17:08 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:17:08 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:17:08 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:17:08 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:17:08 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:22:14 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:22:14 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:22:14 - DEBUG - GUI logging initialized
+2024-12-12 05:22:14 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:22:14 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:22:14 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:22:14 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:22:14 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:22:14 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:22:14 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:22:14 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:22:14 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:22:14 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:22:14 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:22:14 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:22:14 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:22:14 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:22:14 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:22:14 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:24:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:24:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:24:09 - DEBUG - GUI logging initialized
+2024-12-12 05:24:09 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:24:09 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:24:09 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:24:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:24:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:24:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:24:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:24:09 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:24:09 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:24:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:24:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:24:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:24:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:24:09 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:24:09 - DEBUG - Mounting static files from: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:24:09 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:24:09 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:26:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:26:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:26:55 - DEBUG - GUI logging initialized
+2024-12-12 05:26:55 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:26:55 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:26:55 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:26:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:26:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:26:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:26:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:26:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:26:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:26:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:26:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:26:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:26:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:26:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:26:55 - DEBUG - Mounting static files from: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:26:55 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:26:55 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:31:25 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:31:25 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:31:25 - DEBUG - GUI logging initialized
+2024-12-12 05:31:25 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:31:25 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:31:25 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:31:25 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:31:25 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:31:25 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:31:25 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:31:25 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:31:25 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:31:25 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:31:25 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:31:25 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:31:25 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:31:25 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:31:25 - DEBUG - Mounting static files from: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:31:25 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:31:25 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:35:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:35:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:35:55 - DEBUG - GUI logging initialized
+2024-12-12 05:35:55 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:35:55 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:35:55 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:35:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:35:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:35:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:35:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:35:55 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:35:55 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:35:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:35:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:35:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:35:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:35:55 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:35:55 - DEBUG - Mounting static files from: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:35:55 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:35:55 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 05:43:00 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:43:00 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:43:00 - DEBUG - GUI logging initialized
+2024-12-12 05:43:00 - DEBUG - 🔧 Using ProactorEventLoop (Windows)
+2024-12-12 05:43:00 - DEBUG - ▶️ Starting Main Event Loop
+2024-12-12 05:43:00 - DEBUG - 🏗️ Initializing Web GUI Manager...
+2024-12-12 05:43:00 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:43:00 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:43:00 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:43:00 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:43:00 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 05:43:00 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 05:43:00 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:43:00 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\css
+2024-12-12 05:43:00 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\js
+2024-12-12 05:43:00 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\static\avatars
+2024-12-12 05:43:00 - DEBUG - Ensuring directory exists: C:\Users\conta\KinOS_missions\terminal_velocity\templates
+2024-12-12 05:43:00 - DEBUG - Mounting static files from: C:\Users\conta\KinOS_missions\terminal_velocity\static
+2024-12-12 05:43:00 - DEBUG - 🚀 Launching Web Interface...
+2024-12-12 05:43:00 - SUCCESS - 🌐 Starting KinOS Web Interface...
+2024-12-12 06:16:43 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 06:16:43 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 06:16:43 - INFO - 🚀 Starting automated session...
+2024-12-12 06:16:45 - DEBUG - Aider version: aider 0.64.1
+2024-12-12 06:16:45 - DEBUG - Executing command: aider --sonnet --architect --yes-always
+2024-12-12 06:16:45 - DEBUG - Process started with PID: 32252
+2024-12-12 06:19:14 - DEBUG - 🔧 Logger initialized with level: DEBUG
+2024-12-12 06:19:14 - DEBUG - 📝 Model: gpt-4o-mini
+2024-12-12 06:19:14 - INFO - 🚀 Starting automated session...
+2024-12-12 06:19:16 - DEBUG - Aider version: aider 0.64.1
+2024-12-12 06:19:16 - DEBUG - Executing command: aider --sonnet --architect --yes-always
+2024-12-12 06:19:16 - DEBUG - Process started with PID: 32220

@@ -1,0 +1,117 @@
+:root {
+    --background-dark: #121212;
+    --background-mid: #1e1e1e;
+    --background-light: #232323;
+    --accent-blue: #4a9eff;
+    --text-color: #ffffff;
+}
+
+body {
+    background-color: var(--background-dark);
+    color: var(--text-color);
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: var(--background-mid);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.agents-panel, .activity-panel, .commits-panel {
+    background-color: var(--background-mid);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.agent-card {
+    background-color: var(--background-light);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.agent-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+.agent-info h3 {
+    margin: 0;
+    color: var(--accent-blue);
+}
+
+.activity-item, .commit-item {
+    background-color: var(--background-light);
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 4px;
+}
+
+.info-message {
+    color: var(--text-color);
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+.status-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.status-badge.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.status-badge.idle {
+    background-color: #9E9E9E;
+    color: white;
+}
+
+.timestamp {
+    color: var(--accent-blue);
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.status-indicator {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.status-indicator.connected {
+    background-color: #4caf50;
+    color: white;
+}
+
+.status-indicator.disconnected {
+    background-color: #f44336;
+    color: white;
+}
