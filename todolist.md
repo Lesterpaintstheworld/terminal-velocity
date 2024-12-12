@@ -12,10 +12,12 @@ Need: +8,000 words to reach target
   * [x] Chapter 1 scenes - Verified
   * [x] Chapter 2 scenes - Verified
   * [ ] Chapter 3 scenes - In Progress
-    - [ ] Revise Scene 2 to remove technical lists
-    - [ ] Ensure natural prose integration
-    - [ ] Verify 2025 technology compatibility
-    - [ ] Expand to target length (~3,333 words)
+    - [ ] Revise Chapter 3, Scene 2 (Ethics Committee Meeting)
+      * Convert technical lists into flowing narrative
+      * Deepen character interactions and emotional stakes
+      * Ensure 2025-compatible technology
+      * Expand to target length (~3,333 words)
+    - [ ] Review remaining Chapter 3 scenes
   * [ ] Chapter 4 scenes - Pending
   * [ ] Chapter 5 scenes - Pending
 
