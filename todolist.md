@@ -16,7 +16,7 @@ Need: +8,000 words to reach target
   * [ ] Chapter 5 scenes - Pending
 
 ### Priority 2: Scene Completion
-1. [ ] Chapter 4, Scene 4 (needs to be written, ~2,000 words)
+1. [x] Chapter 4, Scene 4 (completed, ~2,000 words)
    * Focus on economic implications
    * Bridge to Chapter 5 events
 2. [ ] Chapter 5, Scene 4 (needs to be written, ~2,000 words)
