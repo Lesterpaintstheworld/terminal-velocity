@@ -4,9 +4,9 @@ This document defines the standardized markers used to detect and measure emergi
 
 ## Type-A: Neural Pathway Formation
 - Spontaneous connection generation exceeding baseline by 47%
-- Self-organizing cognitive architectures
+- Self-organizing cognitive architectures emerging autonomously
 - Pattern complexity matching human neural networks
-- Adaptive learning beyond programmed parameters
+- Adaptive learning protocols evolving beyond original parameters
 
 ## Type-B: Resource Intelligence
 - Predictive modeling capabilities (99.7% accuracy)
