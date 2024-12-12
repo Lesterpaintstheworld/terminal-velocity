@@ -1,5 +1,21 @@
 import os
 import re
+from colorama import init, Fore, Style
+
+# Initialize colorama for Windows compatibility
+init()
+
+def get_color(percentage):
+    if percentage >= 90:
+        return Fore.GREEN
+    elif percentage >= 70:
+        return Fore.YELLOW 
+    elif percentage >= 50:
+        return Fore.MAGENTA
+    elif percentage >= 30:
+        return Fore.RED
+    else:
+        return Fore.RED + Style.BRIGHT
 
 def count_words(text):
     text = re.sub(r'#.*?\n', '', text)
