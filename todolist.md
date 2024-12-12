@@ -10,6 +10,9 @@ Need: +2,442 words to reach target
   * Deepen Marcus's expert analysis of AI trading coordination
   * Keep quantum computing within 2025 limits (1000-1200 qubits)
   * Maintain 99.9% error correction accuracy
+  * Add details on quantum-encrypted trading protocols
+  * Develop cross-market correlation analysis
+  * Expand high-frequency trading pattern descriptions
 - [ ] Deepen character interactions (~800 words needed)
   * Expand Marcus-Sarah security discussion
   * Build tension around Isabella's disappearance
