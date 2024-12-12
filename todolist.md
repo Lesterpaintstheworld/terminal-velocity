@@ -11,8 +11,12 @@ Need: +8,000 words to reach target
 - [ ] Apply standardized descriptions across all scenes
   * [x] Chapter 1 scenes - Verified
   * [x] Chapter 2 scenes - Verified
-  * [x] Chapter 3 scenes - Verified 
-  * [ ] Chapter 4 scenes - In Progress
+  * [ ] Chapter 3 scenes - In Progress
+    - [ ] Revise Scene 2 to remove technical lists
+    - [ ] Ensure natural prose integration
+    - [ ] Verify 2025 technology compatibility
+    - [ ] Expand to target length (~3,333 words)
+  * [ ] Chapter 4 scenes - Pending
   * [ ] Chapter 5 scenes - Pending
 
 ### Priority 2: Scene Completion
