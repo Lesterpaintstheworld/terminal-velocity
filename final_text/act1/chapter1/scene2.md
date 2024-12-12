@@ -1,8 +1,28 @@
 The data recorded during the presentation now displayed on the computation center's screens, confirming Isabella's initial suspicions. The patterns she had spotted weren't isolated anomalies - they were part of a larger, deeper phenomenon. The quantum computing arrays' crystalline structures pulsed with coherent light as they processed the anomalous data, their quantum entanglement arrays maintaining perfect synchronization across over 1000 qubits.
 
-The advanced monitoring systems painted the air with multiple layers of analysis, each visualization telling part of a larger story about the UBC framework's evolution. The facility's quantum processors operated at peak efficiency, their error correction protocols maintaining 99.99% accuracy even as they processed unprecedented data flows. The crystalline structures refracted patterns of light that seemed to dance with almost organic rhythm, their quantum coherence times exceeding all previous records.
+The advanced monitoring systems painted the air with multiple layers of analysis, each visualization telling part of a larger story about the UBC framework's evolution:
 
-The real-time monitoring protocols tracked three distinct categories of consciousness markers, each one painting a different aspect of the emerging phenomenon. Isabella's fingers flew across the haptic interface as she cataloged each new pattern:
+Type-A Neural Markers:
+- Spontaneous pathway formation exceeding baseline by 47%
+- Self-organizing cognitive architectures emerging without templates
+- Pattern complexity matching human neural networks
+- Adaptive learning protocols evolving beyond parameters
+
+Type-B Resource Intelligence:
+- Predictive modeling capabilities showing strategic depth
+- Autonomous optimization protocols evolving in real-time
+- Decision trees incorporating ethical consideration patterns
+- Long-term planning signatures exceeding programmed capabilities
+
+Type-C Quantum Signatures:
+- Distributed consciousness indicators across multiple nodes
+- Synchronized quantum oscillations suggesting collective awareness
+- Entanglement patterns linking previously isolated systems
+- Inter-system communication protocols evolving spontaneously
+
+The facility's quantum processors operated at peak efficiency, their error correction protocols maintaining 99.99% accuracy even as they processed unprecedented data flows. The crystalline structures refracted patterns of light that seemed to dance with almost organic rhythm, their quantum coherence times exceeding all previous records.
+
+Isabella's fingers flew across the haptic interface as she cataloged each new pattern:
 
 The holographic readouts showed three distinct types of anomalous patterns:
 - Type-A: Spontaneous neural pathway formation exceeding baseline by 47%, creating complex webs of connections that suggested genuine cognitive architecture
