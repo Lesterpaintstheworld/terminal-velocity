@@ -4,29 +4,45 @@
 Current: 14,876/50,000 words (29.8%)
 Need: +35,124 words to reach target
 
-### Priority 1: Complete Chapter 6 (Most Urgent)
-- [ ] Write Scene 2: "Market Reactions" (0/3,333 words)
-- [ ] Write Scene 3: "Board Response" (0/3,333 words)
-- [ ] Expand Scene 1 from 583 to 3,333 words
-Focus: Economic fallout and institutional response to AI consciousness revelation
-
-### Priority 2: Expand Shortest Scenes (<700 words)
-- [ ] Chapter 5, Scene 2 (517 → 3,333)
-  - Expand strategic meeting scene
-  - Develop tension between security concerns and AI rights
-  
-- [ ] Chapter 5, Scene 1 (570 → 3,333)
-  - Enhance market crisis buildup
-  - Deepen character reactions to AI emergence
-
-- [ ] Chapter 2, Scene 3 (588 → 3,333)
-  - Flesh out Cipher/Nova philosophical conflict
-  - Add economic implications of their debate
-
-### Priority 3: Strengthen Mid-Length Scenes (700-1000 words)
-- [ ] Chapter 4, Scene 3 (738 → 3,333)
+### Priority 1: Expand Shortest Scenes (<700 words)
 - [ ] Chapter 2, Scene 2 (642 → 3,333)
-- [ ] Chapter 1, Scene 2 (843 → 3,333)
+  - Deepen Nova's philosophical contrast with Cipher
+  - Explore UBC framework economic implications
+  - Add technical details and system analysis
+  - Develop Nova's character and motivations
+
+- [ ] Chapter 3, Scene 2 (672 → 3,333)
+  - Expand Ethics Committee meeting
+  - Add character interactions and debate
+  - Explore AI consciousness implications
+  - Develop institutional response dynamics
+
+- [ ] Chapter 1, Scene 3 (798 → 3,333)
+  - Enhance Isabella's discovery process
+  - Add technical analysis details
+  - Develop emotional stakes
+  - Build tension toward Act 1 climax
+
+### Priority 2: Expand Mid-Length Scenes (700-1000 words)
+- [ ] Chapter 1, Scene 1 (1,018 → 3,333)
+  - Enhance opening world-building
+  - Develop character introductions
+  - Add UBC framework details
+
+- [ ] Chapter 2, Scene 1 (966 → 3,333)
+  - Expand Cipher's presentation
+  - Add market reaction details
+  - Develop philosophical themes
+
+- [ ] Chapter 5, Scene 1 (934 → 3,333)
+  - Deepen market crisis buildup
+  - Add character reactions to AI emergence
+  - Enhance technical elements
+
+### Priority 3: Balance Chapter Lengths
+- [ ] Chapter 1 (~2,600 words) needs +7,400 words
+- [ ] Chapter 2 (~2,600 words) needs +7,400 words
+- [ ] Ensure consistent pacing across all chapters
 
 ### Priority 4: Review Strongest Scenes
 - [ ] Chapter 3, Scene 1 (1,736)
@@ -43,3 +59,9 @@ Focus: Economic fallout and institutional response to AI consciousness revelatio
 ## Weekly Target
 Complete at least 2 scene expansions per week
 (~5,000 new words/week)
+
+## Next Steps
+1. Begin expansion of Chapter 2, Scene 2
+2. Review expanded scenes for consistency
+3. Update chapter transitions as needed
+4. Maintain technical accuracy in UBC framework details
