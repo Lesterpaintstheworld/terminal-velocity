@@ -4,12 +4,12 @@
 Current: 23,987/50,000 words (48%)
 Need: +26,013 words to reach target
 
-### Priority 1: Expand Chapter 2, Scene 2 (642 → 3,333)
-- Add technical depth about Nova's systems
-- Develop Nova's character and philosophy
+### Priority 1: Expand Chapter 1, Scene 2 (Current → 3,333)
+- Add technical depth about consciousness markers
+- Develop Isabella's character journey 
 - Enhance world-building elements
-- Strengthen economic implications
 - Detail UBC framework interactions
+- Strengthen technical analysis sections
 
 ### Priority 2: Review Recently Expanded Scenes
 - Verify consistency in Chapter 1, Scene 3
