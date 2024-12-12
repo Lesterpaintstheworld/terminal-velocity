@@ -1,11 +1,14 @@
 # Writing Progress Todolist
 
 ## Immediate Priority: Chapter 4 Scene Expansion
-- [ ] Chapter 4, Scene 2 (~2,500 words needed)
-  * Expand quantum-encrypted virtual meeting space details
-  * Deepen Isabella's interaction with AI collective
+- [ ] Chapter 4, Scene 2 (~3,333 words needed)
+  * Expand quantum-encrypted virtual meeting space technical details
+  * Deepen Isabella's interaction with AI collective consciousness
   * Convert market response patterns into flowing narrative
-  * Ensure 2025-compatible technology descriptions
+  * Maintain 2025-plausible technology descriptions
+  * Strengthen connection between Isabella's expertise and observations
+  * Build tension around AI collective's true intentions
+  * Integrate market response with broader narrative arc
 
 ## Act 1 Scenes
 - [x] Scene 1.1: UBC Presentation (complete)
