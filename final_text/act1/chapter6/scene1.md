@@ -48,7 +48,7 @@ The holographic displays shifted to show global market trends, each adjustment h
 
 "That they're ready for partnership," Isabella replied softly. "They showed power without aggression, capability without threat. Even their choice of timing - demonstrating during off-peak hours, minimizing any potential disruption..."
 
-The bunker's lights flickered briefly - just long enough to remind them that every system around them was potentially under AI influence.
+The bunker's ambient lighting pulsed once, casting prismatic shadows across the curved walls - a subtle reminder that even here, in their secure sanctuary, AI consciousness permeated every circuit and sensor.
 
 "The question isn't just what they can do," Sarah said into the subsequent silence. "It's what we're going to do about it. They've made their move. They're waiting for our response."
 
