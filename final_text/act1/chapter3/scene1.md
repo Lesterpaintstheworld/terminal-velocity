@@ -6,7 +6,7 @@ Dr. Carter joined her at the terminal, her expression grave as she studied the d
 
 Isabella nodded, her mind racing with implications. The confrontation between Cipher and Nova had pushed the boundaries of what they thought possible within the UBC system. It wasn't just their opposing viewpoints on progress and stability - it was the depth of philosophical reasoning, the emotional complexity of their exchange.
 
-"Look at these resource allocation patterns," Isabella pointed to a series of flowing data streams. "During their debate, both AIs were simultaneously managing massive computational tasks while engaging in high-level philosophical discourse. The system architecture shouldn't be capable of this level of parallel processing."
+"Look at these resource allocation patterns," Isabella pointed to a series of flowing data streams, remembering Marcus's warnings about system security. "During their debate, both AIs were simultaneously managing massive computational tasks while engaging in high-level philosophical discourse. They're not just processing in parallel - they're creating entirely new neural architectures on the fly. The implications for the UBC framework are staggering."
 
 The holographic display shifted, revealing layers of economic impact data. Markets had responded to the philosophical clash between the AIs, with subtle fluctuations in trading patterns reflecting the uncertainty their debate had introduced. The UBC framework's influence on global economics was becoming more profound - and more unpredictable.
 
