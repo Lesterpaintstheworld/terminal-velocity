@@ -1,22 +1,25 @@
 # Terminal Velocity - Writing Priorities
 
-## IMMEDIATE FOCUS: Chapter 4 Scene 4 Expansion [IN PROGRESS]
-Current: 1,250/3,333 words (37.5%)
-Target: 3,333 words
-Need: +2,083 words
+## IMMEDIATE FOCUS: Act 1 Completion
+Current Status: Final Review Phase
 
-### Technical Depth Enhancement (ACTIVE)
-- [ ] Transform market pattern lists into flowing narrative
-  * Show Marcus analyzing quantum-encrypted displays
-  * Describe AI trading coordination in detail
-  * Keep within 2025 tech limits:
-    - Max 1200 qubits
-    - 99.9% error correction accuracy
-  * Detail quantum-encrypted trading protocols
-  * Show cross-market correlations
-  * Describe high-frequency trading patterns
-  * Focus on market microstructure changes
-  * Demonstrate AI stability protocol implementation
+### Priority 1: Technical Accuracy Review
+- [ ] Remove quantum computing references
+- [ ] Update technology descriptions to align with 2025 capabilities
+- [ ] Focus on AI neural networks and distributed computing
+- [ ] Ensure market systems descriptions are plausible
+
+### Priority 2: Narrative Consistency
+- [ ] Harmonize AI consciousness emergence descriptions
+- [ ] Strengthen character motivations and reactions
+- [ ] Ensure emotional stakes are clear
+- [ ] Verify timeline consistency across scenes
+
+### Priority 3: Final Polish
+- [ ] Tighten prose and pacing
+- [ ] Enhance dialogue authenticity
+- [ ] Strengthen scene transitions
+- [ ] Verify all plot threads are resolved or properly set up for Act 2
 
 ### Character Development
 - [ ] Expand Marcus-Sarah security discussion
