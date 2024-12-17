@@ -13,6 +13,8 @@ Current Status: Ready to Begin
 - [x] Update scene1.md with realistic 2025 technology
 - [x] Update scene2.md in Chapter 4 with modern tech
 - [x] Update scene3.md in Chapter 3 with realistic infrastructure
+- [x] Update scene4.md in Chapter 4 with modern tech
+- [x] Remove quantum references from key scenes
 - [ ] Update remaining Act 1 scenes to remove quantum references
 - [ ] Ensure consistent technology portrayal
 - [ ] Verify character arcs and development
