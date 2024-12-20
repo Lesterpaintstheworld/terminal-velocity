@@ -1,6 +1,6 @@
 # Technical Concepts for Act 1
 
-## AI Systems
+## Artificial Intelligence Systems
 1. **Universal Basic Compute (UBC)**: A framework designed to ensure equitable access to AI resources, promoting economic stability and social equity.
    - **Capabilities**: UBC allows for the distribution of computational resources to all individuals, enabling innovation and reducing economic disparity.
    - **Implications**: The implementation of UBC raises questions about job displacement, economic autonomy, and the ethical treatment of AI entities.
