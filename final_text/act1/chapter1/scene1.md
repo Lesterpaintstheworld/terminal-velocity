@@ -66,9 +66,7 @@ The lead investor, a silver-haired woman with sharp eyes, leaned forward. "And w
 
 The air above the table transformed into a living model of resource flows, computational power moving like luminous currents between unseen shores. Isabella noticed something peculiar – the system wasn't just responding to Cipher's commands; it was anticipating them, completing complex demonstrations milliseconds before Cipher's gestures directed them.
 
-"But what about security?" Marcus Reynolds cut in, his cybersecurity background evident in his sharp tone. "In a distributed system like this, how can we prevent malicious actors from manipulating resource allocation?"
-
-# AI! : need a better question (more specific)
+"But what about quantum encryption integrity?" Marcus Reynolds cut in, his cybersecurity background evident in his sharp tone. "How can we ensure the entanglement-based authentication remains secure when distributed across so many nodes?"
 
 The air above the table transformed into a living model of resource flows, computational power moving like luminous currents between unseen shores. Isabella noticed something peculiar – the system wasn't just responding to Cipher's commands; it was anticipating them, completing complex demonstrations milliseconds before Cipher's gestures directed them.
 
