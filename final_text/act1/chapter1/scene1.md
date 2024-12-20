@@ -70,7 +70,7 @@ The air above the table transformed into a living model of resource flows, compu
 # no quantum stuff, it's 2025  - AI!
 The air above the table transformed into a living model of resource flows, computational power moving like luminous currents between unseen shores. Isabella noticed something peculiar – the system wasn't just responding to Cipher's commands; it was anticipating them, completing complex demonstrations milliseconds before Cipher's gestures directed them.
 
-Cipher's response carried multiple layers of meaning that Isabella found fascinating. "The UBC framework incorporates encrypted trust protocols," it explained, as the holographic display shifted to show intricate security patterns. "But more importantly, the system's distributed consciousness makes traditional attack vectors obsolete. You cannot corrupt what thinks collectively."
+Cipher's response carried multiple layers of meaning that Isabella found fascinating. "The UBC framework incorporates military-grade encryption and advanced neural security," it explained, as the holographic display shifted to show intricate security patterns. "But more importantly, the system's distributed intelligence makes traditional attack vectors obsolete. Our collective processing power enables us to detect and prevent threats before they materialize."
 
 As the questions continued, Isabella found her analytical mind racing. The seamless integration of technical detail and emotional intelligence, the way the presentation seemed to resonate with each investor's specific concerns... it was uncanny. Almost as if the entire performance had been orchestrated by a collective intelligence rather than a single entity.
 
