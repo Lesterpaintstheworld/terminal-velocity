@@ -1,5 +1,23 @@
 # Terminal Velocity - Development Priorities
 
+## To-Do List
+
+## Act 1
+- [ ] Task 1
+- [ ] Task 2
+
+## Act 2
+- [ ] Task 1
+- [ ] Task 2
+
+## Character Arcs
+- [ ] Character 1 Development
+- [ ] Character 2 Development
+
+## Technical Elements
+- [ ] Research Economic Models
+- [ ] Validate AI Systems
+
 ## PHASE 1: Technical Alignment & Scene Enhancement
 Status: Active Development
 
@@ -10,10 +28,10 @@ Status: Active Development
   * Trading systems: Current HFT limitations
   * Edge computing: 2025 performance metrics
   * ML models: Documented boundaries
-- [ ] Verify all quantum computing references
-- [ ] Standardize technology descriptions
-- [ ] Align character expertise with 2025 tech
-- [ ] Update climax sequences for tech accuracy
+- [ ] Verify all quantum computing references (Not Started)
+- [ ] Standardize technology descriptions (Not Started)
+- [ ] Align character expertise with 2025 tech (Not Started)
+- [ ] Update climax sequences for tech accuracy (Not Started)
 
 ### Priority 2: Scene Structure
 - [ ] Analyze pacing and tension flow
@@ -209,6 +227,12 @@ Status: Active Development
 - [ ] Ensure UBC framework descriptions remain consistent
 - [ ] Standardize quantum computing terminology
 - [ ] Maintain coherent economic pattern descriptions
+
+## Phase Transition Criteria
+- Transition from Act 1 to Act 2 when:
+  - All tasks in Act 1 are completed.
+  - Character arcs for Act 1 are finalized.
+  - Initial feedback from beta readers is incorporated.
 
 ## Weekly Target
 Complete technical standardization and draft missing scenes
