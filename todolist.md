@@ -1,9 +1,23 @@
 # Terminal Velocity - Writing Priorities
 
-## IMMEDIATE FOCUS: Act 2 Development
-Current Status: Ready to Begin
+## IMMEDIATE FOCUS: Scene Expansion and Content Development
+Current Status: Expanding Act 1 Scenes
 
-### Priority 1: Act 1 Completion [IN PROGRESS]
+### Priority 1: Scene Length Enhancement
+- [ ] Expand all scenes to target length (~3,333 words each)
+- [ ] Add more sensory details and atmosphere
+- [ ] Deepen character interactions and internal monologues
+- [ ] Enhance technical descriptions while maintaining readability
+- [ ] Ensure proper pacing and dramatic tension
+
+### Priority 2: Content Development
+- [ ] Add more technical depth to AI consciousness descriptions
+- [ ] Expand economic and market system details
+- [ ] Develop richer character backstories and motivations
+- [ ] Enhance world-building elements
+- [ ] Strengthen thematic elements around AI ethics
+
+### Priority 3: Act 1 Completion [IN PROGRESS]
 - [x] Replace quantum computing references with realistic 2025 technology in Chapter 1
   * Advanced neural networks and distributed systems
   * Military-grade encryption and security
