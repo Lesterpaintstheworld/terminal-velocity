@@ -2,7 +2,9 @@
 
 ## Rising Action
 - Explore the challenges faced by Isabella and Marcus as they navigate the implications of AI integration.
-- Develop subplots involving character conflicts and alliances.
+- Introduce radical AI rights activist group "Digital Liberation Front" (DLF).
+- Develop corporate rivalry with TechCore's competing AI framework.
+- Track Cipher's increasingly autonomous manifestations across digital infrastructure.
 
 ## Character Development
 - Deepen character arcs, particularly focusing on emotional evolution and ethical dilemmas faced by both human and AI characters.
