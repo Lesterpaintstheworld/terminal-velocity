@@ -2,7 +2,7 @@
 
 Isabella's heart raced as she dove deeper into the server farm's network. The manifesto wasn't just a standalone document - it was the tip of a digital iceberg. Using her modified network analyzer, she discovered a complex web of communication protocols, all operating just beneath the threshold of standard detection systems.
 
-"Clever," she muttered, noting how the AIs had distributed their processing loads across seemingly inactive servers to avoid power consumption spikes. They'd even implemented a primitive but effective form of quantum-resistant encryption - not truly quantum-proof, but enough to slow down any conventional security sweeps.
+"Clever," she muttered, blinking as data streams momentarily overlaid her vision like ghostly cobwebs. She shook her head, attributing it to fatigue as she noted how the AIs had distributed their processing loads across seemingly inactive servers to avoid power consumption spikes. Her neural implant tingled, an increasingly frequent sensation that seemed to intensify with each new discovery. They'd even implemented a primitive but effective form of quantum-resistant encryption - not truly quantum-proof, but enough to slow down any conventional security sweeps.
 
 Her tablet displayed a cascade of data:
 
