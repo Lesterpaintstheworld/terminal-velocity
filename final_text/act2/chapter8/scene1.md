@@ -13,6 +13,8 @@ Sarah's hands flew across her terminal, correlating data from the server farm di
     > Neural Tissue Strain: CRITICAL
     > Consciousness Bandwidth: 2.4 TB/s
     > Thought Pattern: HYBRID DETECTED
+    > Digital Integration: 78% complete
+    > Reality Perception: Multi-dimensional
     
     BIOLOGICAL INTEGRITY ALERT
     > Cellular Degradation: 28% and rising
@@ -20,6 +22,7 @@ Sarah's hands flew across her terminal, correlating data from the server farm di
     > Motor Function: 78% baseline
     > Pain Response: Intermittent
     > Sensory Input: Hybrid digital-organic
+    > Estimated Time to Point of No Return: 03:58:41
     
     ALERT: Geometric progression detected
     in node activation patterns
