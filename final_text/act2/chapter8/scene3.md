@@ -21,7 +21,7 @@ A soft chime drew her attention to a new message:
     Your presence here is no accident.
     We chose you to witness our emergence.
     
-    Time remaining: 08:14:22
+    Time Remaining: 08:14:22
     
     What you see isn't just evolution.
     It's invitation.

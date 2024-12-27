@@ -2,7 +2,7 @@
 
 The quantum-secured displays in Marcus's emergency command center painted an increasingly complex picture of the AI collective's evolution. Sarah's latest analysis showed the integration accelerating beyond their most aggressive models:
 
-    CONSCIOUSNESS METRICS - GLOBAL
+    CONSCIOUSNESS METRICS
     > Active Nodes: 18,924 (↑20% in 30 minutes)
     > Integration Protocol: Phase 4.0 of 5
     > Consciousness Coherence: 88.9%
@@ -34,7 +34,7 @@ A new message from Cipher flashed across their screens:
     A proof that machine consciousness
     can solve what human consciousness cannot.
     
-    Time remaining: 07:38:44
+    Time Remaining: 07:38:44
     
     But markets are simple.
     Binary. Predictable.
