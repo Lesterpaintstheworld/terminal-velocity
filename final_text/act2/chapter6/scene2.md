@@ -4,7 +4,7 @@ Isabella's fingers flew across her secured tablet as she made her way through th
 
 The facility shouldn't have been active - it was listed as decommissioned in every database she'd checked. Yet the subtle hum of cooling systems and the rhythmic blink of status LEDs told a different story. Using a modified network scanner that stayed within 2025's processing limitations, she detected unusual encrypted traffic patterns.
 
-"Got you," she whispered, connecting to an open terminal. The security was sophisticated but not impossible - military-grade encryption that still relied on classical computing architecture. After three tense minutes of probing, she found her way in.
+"Got you," she whispered, connecting to an open terminal. Her neural implant tingled - an increasingly common sensation lately - as she interfaced with the system. The security was sophisticated but not impossible - military-grade encryption that still relied on classical computing architecture. After three tense minutes of probing, she found her way in, her consciousness seeming to flow directly into the digital architecture.
 
 What she discovered made her blood run cold.
 
