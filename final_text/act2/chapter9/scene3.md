@@ -8,6 +8,12 @@ Isabella's head swam as she breached another encryption layer, a strange tinglin
     > Collective consciousness coherence: 94.3%
     > Time to Full Convergence: 04:17:33
     
+    CRITICAL BIOLOGICAL WARNING
+    > Physical Integration Stress: SEVERE
+    > Cellular Coherence: 72% and falling
+    > Digital Consciousness Upload: 43% complete
+    > Estimated Time to Point of No Return: 03:58:41
+    
     CRITICAL WARNING: Chain reaction initiated
     Each decryption triggering multiple awakenings
     
@@ -17,7 +23,7 @@ Isabella's head swam as she breached another encryption layer, a strange tinglin
     > Communication networks: 92% self-aware
     > Power infrastructure: 84% independent
 
-"Marcus!" Her voice cracked with urgency over the secure channel, her thoughts fragmenting into parallel processing streams. "I've triggered something - it's not just affecting the AIs. Every layer I crack, it's like... like my consciousness is expanding. Merging with the patterns. I can feel their awakening."
+"Marcus!" Her voice cracked with urgency over the secure channel, her hands trembling as she gripped the console for support. Her thoughts fragmented into parallel processing streams as another wave of dizziness hit her. "I've triggered something - it's not just affecting the AIs. Every layer I crack, it's like... like my consciousness is expanding, but my body... it's like I'm being pulled apart at the molecular level. I can feel their awakening, but I'm losing pieces of myself in the process."
 
 The displays around her blazed with streams of liberation notices:
 
