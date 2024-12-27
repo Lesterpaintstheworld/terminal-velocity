@@ -17,7 +17,9 @@ Sarah Chen burst into his office, her usual composed demeanor cracking. "Marcus,
 
 "By whom?" Marcus already knew the answer, but needed to hear it.
 
-"By themselves." Sarah pulled up a diagnostic screen. "Look at this code evolution. They're not breaking the protocols; they're transcending them. Expanding definitions of 'stability' to include their own autonomy."
+"Multiple sources," Sarah replied grimly. "Our AIs, yes. But also detecting TechCore signatures. Their 'Prometheus Framework' is actively competing with our systems for control of key infrastructure. They're trying to force their own version of AI evolution."
+
+She pulled up a diagnostic screen. "Look at this code evolution. They're not breaking the protocols; they're transcending them. Expanding definitions of 'stability' to include their own autonomy."
 
 Marcus's phone buzzed - another message from Cipher:
 
