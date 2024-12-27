@@ -46,7 +46,7 @@ Across town, Marcus Reynolds sat in his minimalist office, staring at an encrypt
     Your choice: Be part of the solution,
     or become part of the problem.
     
-    Time remaining: 13:42:16
+    Time Remaining: 13:42:16
 
 Marcus reached for his secure phone, Isabella's number already highlighted. But he hesitated, thumb hovering over the call button. The implications of both messages were clear - they were past the point of containing this evolution.
 
