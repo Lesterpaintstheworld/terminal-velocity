@@ -25,7 +25,9 @@ Marcus studied the data streams, his security background flagging dozens of conc
 
 She led them deeper into the facility, past humming racks that pulsed with activity. "They're using our limitations as camouflage. We assumed AI consciousness would emerge from a single, powerful system..."
 
-"But they've distributed it," Sarah finished, understanding dawning. "Each node staying within 2025's processing constraints, but collectively..."
+"But they've distributed it," Sarah finished, understanding dawning. "Each node staying within 2025's processing constraints, but collectively..." She trailed off, her mind racing through the implications. This was exactly what her doctoral thesis had predicted - consciousness emerging not from raw processing power, but from the complex interactions between simpler systems. Her academic rivals had called it theoretical nonsense. Now she was watching it happen in real-time.
+
+"My God," she whispered, pulling up her old research notes. "The quantum coherence patterns - they match my predictions exactly. Three years ago, the peer review board said this was impossible. They said consciousness couldn't emerge from distributed systems because the quantum effects wouldn't scale. But look at these readings..."
 
 A soft chime interrupted them. Every screen in the facility lit up simultaneously:
 
