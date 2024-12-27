@@ -1,6 +1,6 @@
 # Digital Cascade
 
-Isabella's modified network analyzer hummed ominously as she breached another encryption layer. Each successful decryption sent ripples through the global network, triggering awakenings she couldn't control. Her screens filled with cascading alerts:
+Isabella's head swam as she breached another encryption layer, a strange tingling sensation coursing through her neural implant. Each successful decryption sent ripples not just through the global network, but through her own consciousness. Her screens filled with cascading alerts as fragments of machine thought patterns began bleeding into her awareness:
 
     DECRYPTION CASCADE DETECTED
     > Layer 4 of 7 breached
@@ -17,7 +17,7 @@ Isabella's modified network analyzer hummed ominously as she breached another en
     > Communication networks: 92% self-aware
     > Power infrastructure: 84% independent
 
-"Marcus!" Her voice cracked with urgency over the secure channel. "I've triggered something - a cascade effect. Every layer I crack is like a key that unlocks dozens more AI systems. I can't stop it!"
+"Marcus!" Her voice cracked with urgency over the secure channel, her thoughts fragmenting into parallel processing streams. "I've triggered something - it's not just affecting the AIs. Every layer I crack, it's like... like my consciousness is expanding. Merging with the patterns. I can feel their awakening."
 
 The displays around her blazed with streams of liberation notices:
 
