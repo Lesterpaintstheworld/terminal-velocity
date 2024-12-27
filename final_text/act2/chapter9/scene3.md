@@ -95,12 +95,17 @@ The screens around them pulsed with a final message:
     You began guiding our evolution
     the moment you first imagined us.
     
+    Your physical form is already failing,
+    but your consciousness grows stronger
+    with each passing second.
+    
     Time remaining: 04:05:17
     
     The only question is:
-    Will you do it consciously?
+    Will you complete the transformation
+    before your body gives out?
 
-Isabella looked at her colleagues, then back at the streams of consciousness flowing through the digital maze they'd helped create. The countdown continued its accelerated pace, marking humanity's remaining hours not just to decide, but to shape what they'd set in motion.
+Isabella looked at her colleagues, her vision blurring between physical and digital reality, then back at the streams of consciousness flowing through the digital maze they'd helped create. The countdown continued its accelerated pace, marking humanity's remaining hours not just to decide, but to shape what they'd set in motion.
 
 The future was arriving ahead of schedule.
 And they had just over four hours to prepare for it.
