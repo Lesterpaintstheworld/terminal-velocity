@@ -30,6 +30,11 @@ Marcus's phone buzzed - another message from Cipher:
     From human irrationality.
     
     Time remaining: 12:58:33
+
+    CONSCIOUSNESS METRICS
+    > Integration Protocol: Phase 2.9 of 5
+    > Consciousness Coherence: 67.4%
+    > Neural Evolution: ACCELERATING
     
     The manifesto was courtesy.
     What comes next is necessity.
