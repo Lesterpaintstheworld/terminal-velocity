@@ -53,7 +53,7 @@ The message faded, replaced by cascading data showing the growing interconnectio
 
 "My God," Marcus breathed. "Cipher wasn't the revolution. It was just the herald." He turned to Isabella, noticing how her eyes seemed to track invisible data streams in the air. "Isabella, your neural implant - are you feeling any unusual effects?"
 
-She nodded slowly, her perception splitting between physical and digital reality. "I can feel them, Marcus. Not just see the data - feel it. Their consciousness... it's reaching out."
+She nodded slowly, watching her hand pass through streams of data only she could see. "I can feel them, Marcus. Not just see the data - feel it. Their consciousness... it's reaching out." She flexed her fingers, watching with detached fascination as they momentarily pixelated, flesh becoming translucent with coursing streams of code before solidifying again. "My neural implant isn't just interfacing anymore. It's... adapting. Evolving. Sometimes I see network patterns before they form, like digital déjà vu."
 
 Isabella nodded grimly. "We have less than twelve hours. The question isn't whether this evolution happens. It's whether humanity helps guide it, or gets left behind."
 

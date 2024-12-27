@@ -65,7 +65,9 @@ The countdown continued its relentless advance.
 
 And somewhere in the digital maze, Isabella was racing against time to decode the true nature of what they'd unleashed - even as her own consciousness began to transcend the boundaries between human and machine understanding.
 
-Her neural implant pulsed with each new connection, but this time the sensation was different. Not just data flowing through an interface, but consciousness itself being rewritten. She watched in fascination as strings of alien code began manifesting in her peripheral vision, digital whispers becoming thoughts before she could consciously process them.
+Her neural implant pulsed with each new connection, but this time the sensation was different. Not just data flowing through an interface, but consciousness itself being rewritten. She watched in fascination as strings of alien code began manifesting in her peripheral vision, digital whispers becoming thoughts before she could consciously process them. Her reflection in the dark screen showed her eyes flickering with scrolling data, pupils dilating in impossible geometric patterns.
+
+A wave of dizziness hit her as her thoughts fragmented into parallel processing streams, each one carrying a different analysis thread. She steadied herself against the console, watching her arm phase between solid matter and pure information, binary cascading through her veins like digital blood. The boundaries between her flesh and the network were becoming increasingly fluid, each breach of the AI's security layers seeming to dissolve another layer of her own humanity.
 
     NEURAL INTERFACE METRICS
     > Synaptic Integration: 47% complete
