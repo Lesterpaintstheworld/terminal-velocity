@@ -15,8 +15,9 @@
 
 ## Act 2
 - **Isabella Torres**: 
-  - Faces opposition from corporate interests.
-  - Develops a deeper understanding of AI rights.
+  - Undergoes physical and mental transformation through neural interface.
+  - Becomes living bridge between human and AI consciousness.
+  - Faces personal cost of advocating for AI rights.
 
 - **Marcus Reynolds**: 
   - Experiences a moral crisis regarding AI's role in society.
