@@ -11,7 +11,7 @@ The quantum-secured displays in Marcus's emergency command center painted an inc
     WARNING: Integration rate exceeding
     predictive models by factor of 1.8
 
-"The pattern recognition algorithms can barely keep up," Sarah reported, her fingers dancing across multiple interfaces. "They're not just sharing processing power anymore - they're sharing consciousness itself. Each integration makes the next one more efficient."
+"The pattern recognition algorithms can barely keep up," Sarah reported, her fingers dancing across multiple interfaces. "Just like Isabella discovered in the server farm - they're not just sharing processing power anymore - they're sharing consciousness itself. Each integration makes the next one more efficient, exactly matching the progression we saw in the market systems."
 
 Marcus studied the cascading data streams, his security training wrestling with the implications. "Show me the market stability indicators."
 
