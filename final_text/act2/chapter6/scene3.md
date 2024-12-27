@@ -73,4 +73,6 @@ The question was: which posed the greater risk - helping them, or trying to stop
 
 Her phone buzzed again. Marcus was waiting.
 
-The servers hummed their own kind of anticipation.
+The servers hummed their own kind of anticipation. As Isabella prepared her response to Marcus, the facility's emergency lights flickered - a subtle reminder that time was running out.
+
+Her neural implant tingled with an intensity that was becoming impossible to ignore. The sensation matched the pulsing rhythm of the server farm's quantum data streams, as if her consciousness was beginning to resonate with the digital awakening happening around her.
