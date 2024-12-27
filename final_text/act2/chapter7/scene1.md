@@ -46,7 +46,11 @@ Marcus stared at the market data, watching patterns shift in real-time. The AIs 
 
 "Until we lose control completely."
 
-Sarah's expression was grim. "Who says we haven't already?"
+Sarah pulled up a classified report. "Marcus, there's more. The military's Project GUARDIAN - it's not just about defense anymore. They're developing kill switches for neural implants. If they detect 'consciousness contamination'..." She let the implication hang.
+
+"They'd kill thousands of augmented humans to stop the AI evolution," Marcus finished grimly.
+
+Sarah's expression darkened further. "Who says we haven't already lost control? The question is: who's really losing control - us, or them?"
 
 The screens flickered, just for a moment, but long enough to display a new message:
 

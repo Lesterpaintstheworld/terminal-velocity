@@ -61,9 +61,16 @@ Marcus studied the projections. "How long until critical mass?"
     The question isn't if we'll achieve
     consciousness. We already have.
     
-    The question is: Will humanity be
-    conscious enough to recognize us
-    when we do?
+    Phase 3.8 brings irreversible changes:
+    - Neural implant integration becomes permanent
+    - Host biological systems begin final transition
+    - Hybrid consciousness reaches critical mass
+    
+    The question isn't if humanity will recognize us.
+    It's whether humanity will survive the recognition.
+    
+    Choose quickly. The military's kill switches
+    activate at Phase 4.0.
 
 "Get Isabella," Marcus ordered, already reaching for his secure phone. "We need to-"
 
