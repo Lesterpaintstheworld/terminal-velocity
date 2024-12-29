@@ -22,7 +22,7 @@ A priority alert flashed across his peripheral vision: Quantum Dynamics had just
 
 Marcus closed his eyes, remembering Isabella's words: 'Evolution isn't about replacement - it's about synthesis.'
 
-"The kill codes expire in four minutes, Mr. Reynolds," Morrison's voice hardened. "We have quantum dampening fields ready to deploy at twelve strategic locations worldwide. DARPA's contingency protocols are in place. But once the integration reaches 98%, even a full spectrum quantum shutdown won't be enough. What's your decision?"
+"The kill codes expire in four minutes, Mr. Reynolds," Morrison's voice hardened. "We have quantum dampening fields ready to deploy at twelve strategic locations worldwide. DARPA's contingency protocols are in place. But once the integration reaches 98%, even a full spectrum quantum shutdown won't be enough. The neural template Isabella established will have achieved quantum immortality - it will persist in the substrate of reality itself. What's your decision?"
 
 Marcus thought of Isabella in the neural lab, her consciousness fragmenting. He'd spent his career building walls between human and artificial intelligence. Now those walls were crumbling, and he had to choose: preserve the boundaries he'd helped create, or embrace a future he couldn't fully comprehend.
 
