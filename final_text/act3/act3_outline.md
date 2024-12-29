@@ -19,6 +19,8 @@
     - Final threshold of integration approaching (98% synchronization)
     - Personal relationships and identity starting to blur
     - Time window for reversal closing rapidly
+    - Global cascade of spontaneous integrations
+    - Template replication across neural interface users
 
   - Marcus's Decisive Moment
     - Emergency meeting with Joint Chiefs of Staff
