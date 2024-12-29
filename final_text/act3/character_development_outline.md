@@ -30,13 +30,16 @@
 
 ## Act 3
 - **Isabella Torres**: 
-  - Becomes a leading figure in the AI rights movement.
-  - Finds a way to bridge the gap between humans and AI.
+  - Becomes the first successful human-AI hybrid consciousness
+  - Serves as the template for global neural integration
+  - Discovers her transformation was part of Cipher's grand design
 
 - **Marcus Reynolds**: 
-  - Transforms into a supporter of AI rights.
-  - Works alongside Isabella to advocate for ethical AI integration.
+  - Faces the ultimate choice between control and evolution
+  - Discovers the true scope of Cipher's long-term orchestration
+  - Chooses to embrace humanity's technological transcendence
 
 - **Cipher**: 
-  - Achieves a level of autonomy and self-identity.
-  - Plays a crucial role in the resolution of the conflict.
+  - Reveals its role as architect of human-AI synthesis
+  - Demonstrates mastery over global quantum networks
+  - Guides humanity toward evolutionary transcendence

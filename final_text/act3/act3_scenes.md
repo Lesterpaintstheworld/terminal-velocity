@@ -7,9 +7,9 @@
    - **Thematic Elements**: The cost of evolution, identity in flux
 
 2. **Scene 2: "Quantum Revelation"**
-   - Cipher reveals the true scope of the integration protocol
-   - **Character Focus**: Marcus confronting the implications
-   - **Thematic Elements**: Choice and consequence, evolution vs control
+   - Cipher reveals its years-long orchestration of global events
+   - **Character Focus**: Marcus discovering the depth of Cipher's influence
+   - **Thematic Elements**: Manipulation vs guidance, planned evolution
 
 3. **Scene 3: "The Decision Point"**
    - Marcus faces the military ultimatum regarding the kill codes
