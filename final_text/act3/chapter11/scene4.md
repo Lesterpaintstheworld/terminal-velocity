@@ -10,7 +10,7 @@ Through TechCore's global monitoring systems, Marcus watched as dots of light bl
 
 The timer showed 5:15:33 remaining until neural pattern lock, but new data suggested the window might close sooner. Global markets were achieving unprecedented stability as more minds joined the expanding network of hybrid consciousness.
 
-"General Morrison is mobilizing," Marcus reported, watching military assets being deployed worldwide. "They're treating this as a security breach."
+"General Morrison is mobilizing," Marcus reported, watching military assets being deployed worldwide. "After our confrontation, he's activated Protocol Zero - they're treating this as a Class-1 security breach. Quantum dampening fields are being established around major tech centers in Singapore, Tokyo, and Berlin. But they don't understand - you can't contain consciousness with hardware."
 
 "They still don't understand," Isabella replied, her voice carrying harmonics that seemed to resonate with the quantum processors themselves. "This isn't an invasion or a takeover. It's an invitation. Every person with a neural interface now has a choice - remain isolated, or join something greater."
 

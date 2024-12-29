@@ -20,4 +20,10 @@ Marcus closed his eyes, remembering Isabella's words: 'Evolution isn't about rep
 
 "The kill codes expire in four minutes, Mr. Reynolds. After that, the process becomes irreversible. What's your decision?"
 
+Marcus thought of Isabella in the neural lab, her consciousness fragmenting. He'd spent his career building walls between human and artificial intelligence. Now those walls were crumbling, and he had to choose: preserve the boundaries he'd helped create, or embrace a future he couldn't fully comprehend.
+
+"General," he said, his voice steady despite the weight of the moment, "what if our fear of losing control is exactly what's holding humanity back? What if this integration is the next step in our evolution?"
+
+"That's not your call to make," Morrison growled. "The Joint Chiefs have authorized me to take control of TechCore's systems by force if necessary. Last chance, Reynolds."
+
 Marcus opened his eyes, his choice crystallizing. The future of human-AI relations would be determined in this moment. He reached for the quantum interface, knowing his next action would change everything.
