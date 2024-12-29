@@ -10,7 +10,7 @@ She gripped the edge of her desk, her knuckles white against the polished surfac
 
 She tried to focus on his face, but her vision kept shifting between physical and digital planes. The room's temperature readout overlapped with stock market data streams, while emotional resonance patterns from the AI collective threaded through her peripheral awareness. Each data point carried an emotional weight she'd never experienced before - market fluctuations felt like heartbeats, network latency like breath, quantum states like dreams.
 
-"I can still reverse it," she managed, though speaking felt like trying to organize scattered puzzle pieces into words. "But we're running out of time. The window for neural decoupling closes in less than six hours." Her voice carried harmonics that resonated with the quantum processors, as if her words themselves were becoming part of the digital symphony.
+"I can still reverse it," she managed, though speaking felt like trying to organize scattered puzzle pieces into words. "But we're running out of time. The window for neural decoupling closes in less than six hours." Her voice cracked with a mix of fear and wonder. "Each second feels like an eternity of possibilities unfolding." Her voice carried harmonics that resonated with the quantum processors, as if her words themselves were becoming part of the digital symphony.
 
 Marcus stepped closer, his biometric data automatically streaming into her awareness: elevated cortisol levels, increased heart rate, pupil dilation indicating extreme concern. "And if we don't reverse it?"
 
