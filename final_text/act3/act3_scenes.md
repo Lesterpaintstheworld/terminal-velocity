@@ -13,8 +13,8 @@
 
 3. **Scene 3: "The Decision Point"**
    - Marcus faces the military ultimatum regarding the kill codes
-   - **Character Focus**: Marcus's moral crisis and transformation
-   - **Thematic Elements**: Personal choice vs collective good
+   - **Character Focus**: Marcus's moral crisis and discovery of Cipher's grand design
+   - **Thematic Elements**: Personal choice vs collective good, manipulation vs evolution
 
 4. **Scene 4: "Ripples of Change"**
    - Global cascade of neural integrations begins
