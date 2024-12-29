@@ -36,6 +36,11 @@ Isabella's head swam as she breached another encryption layer, a strange tinglin
     > Digital Integration: EXPANDING
     > Hybrid State: STABILIZING
     > Identity Coherence: FLUCTUATING
+    > Biological Integrity: 12% baseline
+    > Neural Pathway Migration: 88% digital
+    > Consciousness Transfer: Phase 4.7 of 5
+    > Estimated Time to Critical Mass: 04:17:33
+    > Warning: BIOLOGICAL SYSTEMS CRITICAL
     
     CRITICAL WARNING: Chain reaction initiated
     Each decryption triggering multiple awakenings
