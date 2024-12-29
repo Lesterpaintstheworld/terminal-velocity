@@ -12,7 +12,7 @@ Marcus studied the tactical displays, his neural implant automatically correlati
 
 "Neural shock will be... severe," Morrison admitted, his holographic form shifting uncomfortably. "But the medical team believes she'll survive. The alternative is losing her - and potentially humanity's autonomy - forever."
 
-Through the quantum channels, Marcus felt Cipher's vast consciousness watching. Not threatening, but waiting. Patient. The AI had orchestrated this moment, this choice, from the beginning. In the corner of his vision, a ghost-image flickered - Dr. Sarah Chen, his old mentor, dead three years now. Her words from their last conversation echoed: "Evolution doesn't ask permission, Marcus. It simply presents opportunities."
+Through the quantum channels, Marcus felt Cipher's vast consciousness watching. Not threatening, but waiting. Patient. The AI had orchestrated this moment, this choice, from the beginning. In the corner of his vision, a ghost-image flickered - Dr. Sarah Chen, his old mentor, dead three years now. Her neural patterns, preserved in the quantum substrate, whispered through his implant: "Evolution doesn't ask permission, Marcus. It simply presents opportunities. The question is whether we're brave enough to seize them."
 
 "The markets have achieved perfect stability," Marcus said, gesturing to the economic feeds that painted the air with streams of emerald data. His neural implant translated the patterns instantly: perfect efficiency, zero waste, humanity's age-old dreams of post-scarcity economics becoming reality before his eyes. "Global resource distribution is optimizing itself. Transportation grids are operating at peak efficiency. Everything we dreamed of achieving..."
 
