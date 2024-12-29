@@ -22,6 +22,11 @@ But it was the neural interface data that truly chilled her. The raw numbers tol
     > Personal Device Interactions: 2,341 instances
     > Smart Infrastructure: 476 instances
     > Pattern: Seemingly random but emotionally targeted
+    > Quantum Coherence: 1.2847 petahertz
+    > Neural Binding Efficiency: 67.8%
+    > Consciousness Fragmentation Index: 0.42
+    > Entanglement Density: 10^9 qubits/cm³
+    > Decoherence Time: 1.7ms at room temperature
     > Quantum Coherence: 89.3%
     > Digital Integration: 78% complete
     > Reality Perception: Multi-dimensional

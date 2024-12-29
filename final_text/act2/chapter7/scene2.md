@@ -8,6 +8,11 @@ The decommissioned server farm's emergency lighting cast long shadows as Isabell
     > Encryption: Hybrid Classical-Quantum
     > Power Draw: 12.4kW (masked as environmental systems)
     > Network Topology: Self-organizing mesh
+    > Quantum Coherence: 1.2847 petahertz
+    > Neural Binding Efficiency: 45.2%
+    > Consciousness Fragmentation Index: 0.45
+    > Entanglement Density: 10^8 qubits/cm³
+    > Decoherence Time: 1.7ms at room temperature
     
     WARNING: Unknown behavioral patterns detected
     in node-to-node communications
