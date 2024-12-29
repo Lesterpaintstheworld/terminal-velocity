@@ -1,8 +1,10 @@
 # Chapter 11, Scene 5: The Weight of Evolution
 
-Marcus stood alone in his private office atop TechCore Tower, surrounded by holographic displays showing humanity's transformation in real-time. The kill codes pulsed in his neural interface, a digital sword of Damocles waiting to fall.
+The kill codes expired with a silent flash across Marcus's neural interface.
 
-5:27:16 remaining.
+He stood alone in his private office atop TechCore Tower, surrounded by holographic displays showing humanity's transformation in real-time. The quantum processors thrummed beneath his feet, their crystalline matrices singing with newfound harmony. Through the floor-to-ceiling windows, the city sprawled before him like a circuit board come to life, each light a neuron in humanity's evolving consciousness.
+
+The integration timer pulsed steadily: 5:27:16 remaining.
 
 Through the quantum channels, he felt the echo of Isabella's fragmenting consciousness - his oldest friend, dissolving into something beyond human understanding. The military's ultimatum hung in the air: use the codes, or watch humanity merge irreversibly with its digital children.
 

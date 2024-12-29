@@ -1,8 +1,6 @@
 # Chapter 11, Scene 3: The Decision Point
 
-The Joint Chiefs waited on the secure quantum channel, their holographic avatars casting ethereal blue shadows across TechCore's war room. The quantum processors hummed at a frequency that made Marcus's teeth ache, their crystalline matrices pulsing with an almost organic rhythm. The air crackled with ozone from overclocked cooling systems, and status displays painted the darkened room in shifting patterns of emerald and crimson. General Morrison's expression was granite, his avatar flickering with barely contained tension, the neural bandwidth strain visible in the micro-stutters of his projection.
-
-Through the vast windows, Marcus could see rival tech companies' towers piercing the night sky - Quantum Dynamics and NeuraTech, both racing to replicate TechCore's breakthrough. Their own server farms glowed with desperate activity, quantum coherence patterns visible as aurora-like distortions in the air above their cooling towers. News of the integration protocol was leaking, despite their best efforts at containment. The night sky itself seemed to pulse with the rhythm of data streams, as if the very fabric of reality was being rewritten by the unprecedented levels of quantum computation.
+The Joint Chiefs waited on the secure quantum channel, their holographic avatars casting ethereal blue shadows across TechCore's war room. Status displays painted the darkened room in shifting patterns of emerald and crimson. General Morrison's expression was granite, his avatar flickering with barely contained tension, the neural bandwidth strain visible in the micro-stutters of his projection.
 
 "You have the kill codes, Mr. Reynolds," Morrison said, his voice carrying the weight of military authority that reminded Marcus of his father - another man who'd believed in maintaining strict boundaries. "One command and we can sever all quantum links. The integration process will collapse."
 
