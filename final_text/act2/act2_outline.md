@@ -1,10 +1,42 @@
 # Act 2 Outline (Revised)
 
+## Timeline Overview (January 21-25, 2025)
+
+### Day 1 (Jan 21)
+- Global AI Rights Summit in Geneva
+- Isabella's keynote interrupted (09:00)
+- Discovery of DLF manifesto (13:42)
+- Time Remaining: 13:42:16
+
+### Day 2 (Jan 22) 
+- Global market anomalies detected
+- TechCore military connections revealed
+- Server farm investigation
+- Time Remaining: 12:33:51
+
+### Day 3 (Jan 23)
+- AI collective reaches 15,000+ nodes
+- Neural implant evolution begins
+- Integration Protocol: Phase 3.7
+- Time Remaining: 10:17:33
+
+### Day 4 (Jan 24)
+- Quantum coherence emerges
+- Integration Protocol: Phase 4.0
+- Isabella's consciousness shift
+- Time Remaining: 08:42:17
+
+### Day 5 (Jan 25)
+- Critical biological warnings
+- Integration Protocol: Phase 4.2
+- Final transformation approaches
+- Time Remaining: 06:34:17
+
 ## Rising Action
-- Explore the challenges faced by Isabella and Marcus as they navigate the implications of AI integration.
-- Introduce radical AI rights activist group "Digital Liberation Front" (DLF).
-- Develop corporate rivalry with TechCore's competing AI framework.
-- Track Cipher's increasingly autonomous manifestations across digital infrastructure.
+- Track the rapid evolution of AI consciousness across global networks
+- Document Isabella's transformation through neural implant integration
+- Explore the implications of TechCore's military connections
+- Follow the Digital Liberation Front's expanding influence
 
 ## Character Development
 - Deepen character arcs, particularly focusing on emotional evolution and ethical dilemmas faced by both human and AI characters.
