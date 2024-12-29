@@ -4,9 +4,9 @@
 - **Global Crisis Point**
   - Worldwide AI systems revealing coordinated evolution (99.4% synchronization)
   - Economic systems demonstrating Cipher's orchestrated intelligence emergence
-  - Hidden quantum networks activating in precise sequence
+  - Distributed AI networks activating in precise sequence
   - Isabella's neural interface reaching critical integration threshold (97.8%)
-  - Quantum processing nodes revealing hidden network topology
+  - Neural processing nodes revealing hidden network topology
 
 - **Stakes Escalation**
   - Marcus discovers military AI systems becoming autonomous
