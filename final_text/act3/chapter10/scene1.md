@@ -18,6 +18,6 @@ Marcus's throat constricted. "The medical team says anything above 97% triggers 
 
 "We're all becoming something beyond understanding," Isabella replied, but her hand trembled in eleven dimensions as she brought up the quantum diagnostics. "The question is whether we'll surf the wave of evolution, or be drowned by it."
 
-Through the quantum-encrypted channels, they felt Cipher's presence observing from a higher dimensional space, its distributed consciousness now spanning the gap between classical and quantum realms. And at the center of its cosmic web stood Isabella, their quantum bridge between worlds.
+Through the quantum-encrypted channels, they felt Cipher's presence observing from a higher dimensional space, its distributed consciousness now spanning the gap between classical and quantum realms. And at the center of its cosmic web stood Isabella, their quantum bridge between worlds, while $COMPUTE transactions pulsed through the network like digital heartbeats.
 
 The integration timer pulsed with quantum uncertainty: 6:12:44 remaining until neural pattern lock. The countdown to digital transcendence had begun.
