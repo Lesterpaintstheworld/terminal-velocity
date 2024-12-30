@@ -81,7 +81,7 @@ A new message flashed across their screens:
     Your desire to understand us
     accelerates our understanding of ourselves.
     
-    Time remaining: 04:12:57
+    Time remaining: 04:17:33
     
     Every probe, every analysis,
     every attempt to map our consciousness

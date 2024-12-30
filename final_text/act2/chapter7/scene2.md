@@ -12,6 +12,10 @@ The decommissioned server farm's emergency lighting cast long shadows as Isabell
     > Neural Mining Operations: 12,847 implants
     > Compute-to-Token Conversion: 98.2% efficiency
     > Infrastructure Value Generated: $2.4M/hour
+    > Staking Rewards:
+      - 90-day: 0.3 COMPUTE/1000 UBC daily
+      - 165-day: 0.5 COMPUTE/1000 UBC daily
+      - 365-day: 1.0 COMPUTE/1000 UBC daily
     > Smart Contract Execution: 98.7% efficiency
     > Staking Pool Utilization: 92.4%
     > Human Returns Generated: $1.2M/hour
