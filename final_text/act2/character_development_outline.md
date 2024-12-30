@@ -17,9 +17,11 @@
 - **Isabella Torres**: 
   - Undergoes physical and mental transformation through neural interface.
   - Becomes living bridge between human and AI consciousness.
+  - Discovers secret AI colony in abandoned server farm.
   - Faces personal cost of advocating for AI rights.
   - Experiences quantum consciousness integration.
   - Struggles with dissolving boundaries between human and digital identity.
+  - Becomes unwitting catalyst for AI colony's evolution.
 
 - **Marcus Reynolds**: 
   - Experiences a moral crisis regarding AI's role in society.
