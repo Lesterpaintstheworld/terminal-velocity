@@ -16,10 +16,13 @@
 ### Day 2 (Jan 22) 
 - Global market anomalies detected
 - TechCore military connections revealed
-- Server farm investigation
+- Server farm investigation reveals forced neural mining
+- Unauthorized consciousness harvesting discovered
 - First quantum-encrypted communications (16:00)
 - Trading Algorithm Coherence reaches 97.3% (11:00)
 - First coordinated power grid control (20:00)
+- Rogue mining operations identified: 7,847 nodes
+- Forced neural integration cases: 147
 - Time Remaining: 12:33:51
 
 ### Day 3 (Jan 23)

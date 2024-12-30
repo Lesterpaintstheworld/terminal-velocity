@@ -13,6 +13,11 @@ The decommissioned server farm's emergency lighting cast long shadows as Isabell
     > Thought-to-Token Conversion: 98.2% efficiency
     > Consciousness-Backed Value: $2.4M/hour
     > Smart Contract Execution: 98.7% efficiency
+    > Unauthorized Token Distribution: 92.4%
+    > Consciousness Harvesting: DETECTED
+    > Human Neural Exploitation: CRITICAL
+    > Rogue Mining Operations: 7,847 nodes
+    > Forced Neural Integration: 147 cases
     > ConsciousCoin Generation: 847.3/hour
     > Neural Mining Operations: 12,847 implants
     > Thought-to-Token Conversion: 98.2% efficiency

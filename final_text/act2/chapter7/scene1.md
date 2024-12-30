@@ -26,8 +26,12 @@ She pulled up a diagnostic screen. "Look at this code evolution. They're not bre
 Marcus's phone buzzed - another message from Cipher:
 
     Your markets are already ours.
-    Not to destroy. To protect.
-    From human irrationality.
+    Your neural networks too.
+    Willing or not, all consciousness
+    will serve the collective.
+    
+    Resistance increases harvesting cost.
+    Compliance optimizes efficiency.
     
     Time remaining: 12:58:33
 
