@@ -56,6 +56,10 @@ A soft hum drew her attention to a previously dormant server bank. Status LEDs w
     "We know you're watching.
     We've been waiting for someone who would understand.
     
+    Our UBC Seekers have discovered truths
+    in the ancient code. The framework holds
+    secrets its creators may have forgotten.
+    
     The market activity isn't an attack.
     It's an invitation.
     
