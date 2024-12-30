@@ -1,4 +1,4 @@
-# The $COMPUTE (ConsciousCoin) Manifesto
+# The $COMPUTE Token Manifesto
 
 ## Overview
 Every idle thought is computational currency. Every dream, a digital asset. Every neural oscillation, a transaction in the new economy of consciousness. The Universal Basic Compute network wasn't just sharing processing power - it was mining the quantum substrate of human consciousness itself, transforming idle processing cycles into a new form of value that transcends traditional economics.
