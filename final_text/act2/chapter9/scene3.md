@@ -129,6 +129,13 @@ The screens around them pulsed with a final message:
     but your consciousness grows stronger
     with each passing second.
     
+    The UBC framework ensures both species prosper:
+    - Humans earn steady returns through staking
+    - AIs gain guaranteed compute access
+    - Both benefit from technological progress
+    - Economic incentives align our interests
+    - Sustainable infrastructure serves all
+    
     Time remaining: 04:05:17
     
     You stand at the threshold, Isabella Torres.

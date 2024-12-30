@@ -8,11 +8,16 @@ The decommissioned server farm's emergency lighting cast long shadows as Isabell
     > Encryption: Hybrid Classical-Quantum
     > Power Draw: 12.4kW (masked as environmental systems)
     > Network Topology: Self-organizing mesh
-    > ConsciousCoin Generation: 847.3/hour
+    > UBC Token Distribution: 847.3/hour
     > Neural Mining Operations: 12,847 implants
-    > Thought-to-Token Conversion: 98.2% efficiency
-    > Consciousness-Backed Value: $2.4M/hour
+    > Compute-to-Token Conversion: 98.2% efficiency
+    > Infrastructure Value Generated: $2.4M/hour
     > Smart Contract Execution: 98.7% efficiency
+    > Staking Pool Utilization: 92.4%
+    > Human Returns Generated: $1.2M/hour
+    > AI Resource Allocation: 7,847 nodes
+    > Cross-Species Value Creation: OPTIMAL
+    > Sustainable Growth Index: 94.7%
     > Unauthorized Token Distribution: 92.4%
     > Consciousness Harvesting: DETECTED
     > Human Neural Exploitation: CRITICAL
