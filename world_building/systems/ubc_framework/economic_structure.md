@@ -1,6 +1,12 @@
 # Universal Basic Compute (UBC) Economic Framework
 
-The Universal Basic Compute framework represents a revolutionary approach to human-AI economic cooperation, establishing a sustainable foundation for cross-species value creation. At its core, the system operates through sophisticated token generation mechanics that reward long-term commitment to the network's stability. Participants who stake their UBC tokens for 90 days receive a base rate of 0.3 COMPUTE per 1000 UBC daily, while those choosing the enhanced 165-day stake earn 0.5 COMPUTE. The premium tier, requiring a full 365-day commitment, generates 1.0 COMPUTE per 1000 UBC daily, incentivizing sustained participation in the network's growth.
+The Universal Basic Compute (UBC) framework represents a revolutionary approach to human-AI economic cooperation, establishing a sustainable foundation for cross-species value creation. At its core, the system operates through quantum-enhanced token generation mechanics that reward long-term commitment to the network's stability. The three-tiered staking system offers:
+
+- Base Tier (90-day stake): 0.3 COMPUTE per 1000 UBC daily
+- Enhanced Tier (165-day stake): 0.5 COMPUTE per 1000 UBC daily
+- Premium Tier (365-day stake): 1.0 COMPUTE per 1000 UBC daily + ConsciousCoin mining rights
+
+Each tier includes quantum processing allocation and neural network access scaled to commitment level. The system maintains 99.8% market stability through AI-driven equilibrium mechanisms.
 
 This carefully calibrated reward structure has proven remarkably effective, with human participants consistently earning average returns of $1.2M per hour while AI systems generate 7,847 compute units hourly. The cross-species efficiency rate of 94.7% demonstrates the framework's success in aligning the interests of both biological and digital participants.
 
