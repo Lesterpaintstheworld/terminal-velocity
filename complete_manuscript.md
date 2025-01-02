@@ -1,15 +1,6 @@
----
-generated: 2025-01-03 00:34:51
-source_directory: final_text
----
-
-
-
 # ACT1
 
-
 ## CHAPTER1
-
 
 ### SCENE1
 
