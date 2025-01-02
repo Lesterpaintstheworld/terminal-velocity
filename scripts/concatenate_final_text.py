@@ -21,7 +21,13 @@ def get_chapter_number(chapter_name):
 
 def get_scene_number(scene_name):
     """Extract numeric value from scene name (e.g., 'scene1.md' -> 1)"""
-    return int(scene_name.replace('scene', '').replace('.md', ''))
+    try:
+        # Only process files that start with 'scene'
+        if not scene_name.startswith('scene'):
+            return float('inf')  # Put non-scene files at the end
+        return int(scene_name.replace('scene', '').replace('.md', ''))
+    except ValueError:
+        return float('inf')  # Handle invalid formats
 
 def validate_directory_structure(root_dir: Path) -> bool:
     """Validate that the directory structure matches expected format"""
@@ -88,9 +94,9 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
         for chapter_dir in tqdm(chapters, desc=f"Processing chapters in {act_dir.name}", leave=False):
             full_content.append(f"\n## {chapter_dir.name.upper()}\n\n")
             
-            # Get and sort scenes
+            # Get and sort scenes (only process scene*.md files)
             scenes = sorted(
-                [f for f in chapter_dir.iterdir() if f.suffix == '.md'],
+                [f for f in chapter_dir.iterdir() if f.suffix == '.md' and f.stem.startswith('scene')],
                 key=lambda x: get_scene_number(x.name)
             )
             
