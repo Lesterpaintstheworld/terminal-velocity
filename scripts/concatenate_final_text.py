@@ -11,7 +11,13 @@ def get_act_number(act_name):
 
 def get_chapter_number(chapter_name):
     """Extract numeric value from chapter name (e.g., 'chapter1' -> 1)"""
-    return int(chapter_name.replace('chapter', ''))
+    try:
+        # Only process directories that start with 'chapter'
+        if not chapter_name.startswith('chapter'):
+            return float('inf')  # Put non-chapter directories at the end
+        return int(chapter_name.replace('chapter', ''))
+    except ValueError:
+        return float('inf')  # Handle invalid formats
 
 def get_scene_number(scene_name):
     """Extract numeric value from scene name (e.g., 'scene1.md' -> 1)"""
@@ -62,9 +68,9 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
     # Dictionary to store all content
     full_content = []
     
-    # Get all acts and sort them
+    # Get all acts and sort them (only process directories starting with 'act')
     acts = sorted(
-        [d for d in root_dir.iterdir() if d.is_dir()],
+        [d for d in root_dir.iterdir() if d.is_dir() and d.name.startswith('act')],
         key=lambda x: get_act_number(x.name)
     )
     
@@ -72,9 +78,9 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
     for act_dir in tqdm(acts, desc="Processing acts"):
         full_content.append(f"\n\n# {act_dir.name.upper()}\n\n")
         
-        # Get and sort chapters
+        # Get and sort chapters (only process directories starting with 'chapter')
         chapters = sorted(
-            [d for d in act_dir.iterdir() if d.is_dir()],
+            [d for d in act_dir.iterdir() if d.is_dir() and d.name.startswith('chapter')],
             key=lambda x: get_chapter_number(x.name)
         )
         
