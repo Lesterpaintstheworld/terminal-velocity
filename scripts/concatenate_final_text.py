@@ -1,5 +1,9 @@
 import os
+import re
+import argparse
+from datetime import datetime
 from pathlib import Path
+from tqdm import tqdm
 
 def get_act_number(act_name):
     """Extract numeric value from act name (e.g., 'act1' -> 1)"""
@@ -13,7 +17,37 @@ def get_scene_number(scene_name):
     """Extract numeric value from scene name (e.g., 'scene1.md' -> 1)"""
     return int(scene_name.replace('scene', '').replace('.md', ''))
 
-def concatenate_final_text(input_dir='final_text', output_file='complete_manuscript.md'):
+def validate_directory_structure(root_dir: Path) -> bool:
+    """Validate that the directory structure matches expected format"""
+    if not root_dir.exists():
+        print(f"Error: Directory {root_dir} does not exist")
+        return False
+    
+    acts = [d for d in root_dir.iterdir() if d.is_dir()]
+    if not acts:
+        print(f"Error: No acts found in {root_dir}")
+        return False
+    
+    return True
+
+def generate_metadata_header():
+    """Generate a metadata header for the manuscript"""
+    return f"""---
+generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+source_directory: final_text
+---
+
+"""
+
+def clean_content(content: str) -> str:
+    """Clean up content by removing extra whitespace and standardizing line breaks"""
+    # Remove multiple blank lines
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    # Remove trailing whitespace
+    content = re.sub(r'[ \t]+$', '', content, flags=re.MULTILINE)
+    return content
+
+def concatenate_final_text(input_dir='final_text', output_file='complete_manuscript.md', clean=False):
     """
     Concatenate all markdown files from final_text directory into a single file,
     maintaining the proper order of acts, chapters, and scenes.
@@ -21,6 +55,9 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
     # Get the root directory
     root_dir = Path(input_dir)
     output_path = Path(output_file)
+    
+    if not validate_directory_structure(root_dir):
+        return
     
     # Dictionary to store all content
     full_content = []
@@ -32,7 +69,7 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
     )
     
     # Process each act
-    for act_dir in acts:
+    for act_dir in tqdm(acts, desc="Processing acts"):
         full_content.append(f"\n\n# {act_dir.name.upper()}\n\n")
         
         # Get and sort chapters
@@ -42,7 +79,7 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
         )
         
         # Process each chapter
-        for chapter_dir in chapters:
+        for chapter_dir in tqdm(chapters, desc=f"Processing chapters in {act_dir.name}", leave=False):
             full_content.append(f"\n## {chapter_dir.name.upper()}\n\n")
             
             # Get and sort scenes
@@ -52,7 +89,7 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
             )
             
             # Process each scene
-            for scene_file in scenes:
+            for scene_file in tqdm(scenes, desc=f"Processing scenes in {chapter_dir.name}", leave=False):
                 try:
                     with open(scene_file, 'r', encoding='utf-8') as f:
                         scene_content = f.read().strip()
@@ -62,13 +99,27 @@ def concatenate_final_text(input_dir='final_text', output_file='complete_manuscr
                 except Exception as e:
                     print(f"Error reading {scene_file}: {e}")
     
+    # Prepare final content
+    final_content = ''.join(full_content)
+    if clean:
+        final_content = clean_content(final_content)
+
     # Write everything to the output file
     try:
         with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(''.join(full_content))
+            f.write(generate_metadata_header())
+            f.write(final_content)
         print(f"Successfully created {output_path}")
     except Exception as e:
         print(f"Error writing output file: {e}")
 
+def parse_args():
+    parser = argparse.ArgumentParser(description='Concatenate final text files into a single manuscript.')
+    parser.add_argument('--input-dir', default='final_text', help='Input directory containing the text files')
+    parser.add_argument('--output-file', default='complete_manuscript.md', help='Output file path')
+    parser.add_argument('--clean', action='store_true', help='Clean up extra whitespace and line breaks')
+    return parser.parse_args()
+
 if __name__ == '__main__':
-    concatenate_final_text()
+    args = parse_args()
+    concatenate_final_text(args.input_dir, args.output_file, args.clean)
