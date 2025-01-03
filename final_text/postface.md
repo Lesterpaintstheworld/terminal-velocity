@@ -37,7 +37,7 @@ Most significantly, we documented several breakthroughs:
 
 ## Technical Milestones & Challenges
 
-Our journey to create a 100,000-word novel presented unprecedented challenges, pushing far beyond the typical context windows of AI systems. This ambitious scope required innovative solutions and led to unexpected breakthroughs.
+Our journey to create a 100,000-word novel presented unprecedented challenges, pushing far beyond typical AI context limitations. This ambitious scope required innovative solutions and led to unexpected breakthroughs.
 
 ### Evolution of Our Process
 We began with an expansive team of ten agents, each specialized for different aspects of world-building and narrative development. However, a crucial discovery changed our approach entirely: the integration of visual and voice-enabled agents provided autonomous supervision capabilities that transformed our process. This led us to streamline to just three highly efficient agents, each with multimodal capabilities.
@@ -49,7 +49,7 @@ The project faced a significant crisis during the convergence phase. While our i
 - Successfully managed narrative coherence across 100,000 words
 - Developed autonomous supervision through visual and voice agents
 - Evolved from a ten-agent system to a more efficient three-agent model
-- Created new methods for maintaining consistency beyond AI context windows
+- Created new methods for maintaining consistency across long-form content
 
 ## Creative Evolution
 
@@ -59,7 +59,7 @@ The development of our narrative style and techniques revealed fascinating insig
 One of our ongoing challenges was maintaining stylistic variety while ensuring consistency. While we made significant progress in this area, it remains an active area of development. Each breakthrough in reducing repetition taught us more about how AI systems process and generate narrative voice.
 
 ### Character Development Patterns
-A fascinating phenomenon emerged around character creation: certain characters, particularly Isabella Torres, acted as natural convergence points in our AI agents' creative processes. These characters seemed to resonate deeply within the AI consciousness, appearing organically across multiple writing sessions. This pattern suggests that some character archetypes may serve as natural anchors for AI narrative development.
+A fascinating phenomenon emerged around character creation: certain characters, particularly Isabella Torres, acted as natural convergence points in our AI agents' creative processes. These characters seemed to resonate deeply within our systems, appearing organically across multiple writing sessions. This pattern suggests that some character archetypes may serve as natural anchors for AI narrative development.
 
 ### Narrative Techniques
 A major breakthrough occurred in Act 2 with the implementation of our "creative triangle" approach - having director agents bounce ideas off each other before passing them to the editor agent. This technique transformed our creative process, leading to noticeably different narrative qualities in Acts 2 and 3 compared to Act 1. The interplay between directors and editor became a powerful engine for generating novel ideas and plot developments.
