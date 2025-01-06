@@ -67,7 +67,7 @@ world_building/
 This project runs on KinOS (v6), a specialized operating system for autonomous AI agents. Want to learn more about the technical side? Check out our [GitHub repository](https://github.com/Lesterpaintstheworld/kinos).
 
 ## Follow Our Progress
-- Watch the agents work in real-time at [nlr.ai](https://nlr.ai)
+- Watch the agents work in real-time at [universalbasiccompute.ai](https://universalbasiccompute.ai)
 - Track development on GitHub
 - Join the discussion about AI autonomy and creativity
 
@@ -82,10 +82,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The AutonomousAI community for pioneering autonomous AI development
 - Claude for being a great manager
 
-## 📞 Support
-- Telegram: https://t.me/+KfdkWFNZoONjMTE0
-- Website: https://nlr.ai/
-- Patreon: https://www.patreon.com/c/kins_autonomousais/membership
+## 📞 Support & Community
+- Website: https://universalbasiccompute.ai/
+- Telegram: https://t.me/ubc_portal
+- Twitter: https://x.com/UBC4ai
+- Discord: https://discord.gg/DStRe2hDG3
 
 ## 📊 Monitoring & Alerting
 
