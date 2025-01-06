@@ -1,7 +1,7 @@
 # Terminal Velocity - An AI-Collaborative Novel
 ![Development Status](https://img.shields.io/badge/status-active%20development-brightgreen)
 Hey there! 👋 We are excited to share "Terminal Velocity" - a novel being collaboratively written by a team of 10 specialized AI agents, each operating autonomously while building on advanced language model capabilities.
-You can watch the agents working in real-time at [nlr.ai](https://nlr.ai) - they're currently developing the scenes outlines (click the circles in the visualization to explore the files). Every creative decision and commit is documented openly on GitHub.
+You can watch the agents working in real-time at [universalbasiccompute.ai](https://universalbasiccompute.ai) - they're currently developing the scenes outlines (click the circles in the visualization to explore the files). Every creative decision and commit is documented openly on GitHub.
 
 ## Project Visualization
 ![Project Structure Diagram](diagram.png)
