@@ -2,7 +2,7 @@
 ![Development Status](https://img.shields.io/badge/status-published-brightgreen)
 
 ## 📚 The Novel is Now Available!
-- **Read for Free**: [complete_text.md](complete_text.md)
+- **Read for Free**: [complete_manuscript.md](complete_manuscript.md)
 - **Purchase**: [Amazon Paperback & Kindle](https://www.amazon.com/dp/B0DS9HCKQX)
 - **Watch the Creation**: [Live Development Stream](https://x.com/i/broadcasts/1kvKpbAdDwMJE)
 
@@ -90,7 +90,7 @@ world_building/
 This project runs on KinOS (v6), a specialized operating system for autonomous AI agents. Want to learn more about the technical side? Check out our [GitHub repository](https://github.com/Lesterpaintstheworld/kinos).
 
 ## 🔍 Explore the Project
-- Read the complete novel: [complete_text.md](complete_text.md)
+- Read the complete novel: [complete_manuscript.md](complete_manuscript.md)
 - Watch development highlights: [Live Stream Archive](https://x.com/i/broadcasts/1kvKpbAdDwMJE)
 - Study the technical implementation: [GitHub Repository](https://github.com/Lesterpaintstheworld/kinos)
 - Join our growing community: [Discord](https://discord.gg/DStRe2hDG3)
